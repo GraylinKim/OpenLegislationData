@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1683-2011",
+  "senateBillNo" : "S1686-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S1683-2011-1294722000000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S1686-2011-1294722000000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Allows hunters to use a rifle during open season for deer in the county of Cortland",
+  "title" : "Provides that payment of interest payment and attorney fees to claimant when payment of a claim is overdue shall be exclusive remedy",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Insurance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T125203.TXT", "SOBI.D110111.T124703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T125203.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294768323880
+  "luceneModified" : 1294768323890
 }
