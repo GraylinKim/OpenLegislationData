@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1129-2011",
+  "senateBillNo" : "S1132-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S1129-2011-1294203600000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1132-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Includes post traumatic stress disorder in the definition of biologically based mental illness for purposes of Timothy's law",
+  "title" : "Requires hospitals to provide language assistance services",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERALTA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T114623.TXT", "SOBI.D110105.T114123.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T114623.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294245983544
+  "luceneModified" : 1294245983551
 }
