@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S155-2011",
+  "senateBillNo" : "S195-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S155-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "billEventId" : "S195-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the certification of crane operators",
-  "summary" : "Relates to the certification of crane operators. ",
+  "title" : "Requires a principal creditor to send a notice of delinquency to the debtor and co-signer of an account",
+  "summary" : null,
   "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : [ "S5064-2009" ],
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law, in relation to crane operators ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T152204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015536310
+  "luceneModified" : 1292015536322
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S144-2011",
+  "senateBillNo" : "S194-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S144-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "billEventId" : "S194-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Limits the amount held in mortgage escrow accounts to a one month reserve",
-  "summary" : "Limits the amount held in mortgage escrow accounts to a one month reserve. ",
+  "title" : "Relates to the assessed valuation of certain real property used for residential real property in the county of Orleans",
+  "summary" : null,
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
-  "previousVersions" : [ "S7489-2009" ],
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the real property tax law and the banking law, in relation to the amounts held in mortgage escrow accounts ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T151203.TXT", "SOBI.D101210.T160212.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015536305
+  "luceneModified" : 1292015536295
 }

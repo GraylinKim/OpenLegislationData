@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits state officers and employees from using the thruway system without paying tolls during non-working hours",
-  "summary" : null,
+  "summary" : "Prohibits a department, authority, division or agency of the state from offering and permitting state officers and employees to use the thruway system without paying tolls except when the use occurs in the normal course of the employment or duties of such officers and employees. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Public Authorities Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3209-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to prohibiting officers and employees of the state to use the state thruway system without paying tolls during non-working hours ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T155205.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T155205.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292014325919
+  "luceneModified" : 1292015536370
 }

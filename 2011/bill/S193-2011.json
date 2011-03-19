@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S142-2011",
+  "senateBillNo" : "S193-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S142-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S193-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases penalties for certain alcohol related driving convictions",
-  "summary" : "Increases penalties for repeat driving while ability impaired conviction committed within the preceding ten years or for a fourth conviction for a similar offense. ",
-  "currentCommittee" : "TRANSPORTATION",
+  "title" : "Provides for lifetime sportsman license for honorably discharged, disabled veterans",
+  "summary" : null,
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "S1048-2009" ],
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "ALESI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BONACIC",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,7 +48,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FLANAGAN",
+    "fullname" : "GRIFFO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,14 +69,35 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "NOZZOLIO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SALAND",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to increasing penalties for certain alcohol related driving convictions ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T155205.TXT", "SOBI.D101210.T151203.TXT", "SOBI.D101210.T150703.TXT", "SOBI.D101210.T150229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015536291
+  "luceneModified" : 1292015536267
 }

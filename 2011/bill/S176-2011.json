@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that health insurance coverage may not deny reimbursements because the registered laboratory providing laboratory services has not been approved",
-  "summary" : null,
+  "summary" : "Provides that health insurance coverage may not deny reimbursements because the registered laboratory providing laboratory services has not been approved by the insurer or other entity; provides that in such case the insured pays excess costs therefor above the covered benefit. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1053-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to health insurance coverage and eligibility for employee benefits provided by employee welfare funds for laboratory services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T155205.TXT", "SOBI.D101210.T155705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T155205.TXT", "SOBI.D101210.T155705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292014625977
+  "luceneModified" : 1292015536374
 }

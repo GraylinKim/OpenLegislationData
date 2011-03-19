@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S153-2011",
+  "senateBillNo" : "S192-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S153-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "billEventId" : "S192-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits the New York state department of tax and finance from charging a fee for applications for a certificate of registration pursuant to a re-registration program",
-  "summary" : "Prohibits the New York state department of tax and finance from charging a fee for applications for a certificate of registration pursuant to a re-registration program. ",
+  "title" : "Establishes an elder care tax credit",
+  "summary" : null,
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : [ "S7062-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -34,7 +34,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LANZA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend section 1 of part LL-1 of chapter 57 of the laws of 2008, relating to directing the commissioner of taxation and finance to institute a re-registration program, in relation to prohibiting the New York state department of taxation and finance from charging a vendor re-registration fee; to authorize the refund of all re-registration fees collected by the New York state department of taxation and finance; and to amend the tax law, in relation to prohibiting the New York state department of taxation and finance from charging vendors any fees to collect NYS sales tax ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T152204.TXT", "SOBI.D101210.T151703.TXT", "SOBI.D101210.T160705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015536366
+  "luceneModified" : 1292015536254
 }

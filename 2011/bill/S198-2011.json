@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S191-2011",
+  "senateBillNo" : "S198-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S191-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S198-2011-1294203600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a process for the siting of electric generating facilities and repowering projects",
+  "title" : "Provides for filling of vacancies in the office of governor and lt. governor",
   "summary" : null,
-  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Public Service Law",
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T160705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015536247
+  "luceneModified" : 1292015536385
 }

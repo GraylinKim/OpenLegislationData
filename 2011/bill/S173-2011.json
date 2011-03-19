@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits the transfer of unexpended moneys from funds receiving moneys from a dedicated fee into any other fund",
-  "summary" : null,
+  "summary" : "Prohibits the transfer of unexpended moneys from funds receiving moneys from a dedicated fee into any other fund. ",
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "State Finance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3207-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the state finance law, in relation to prohibiting the transfer of unexpended moneys from funds receiving moneys from a dedicated fee into any other fund ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T154705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T154705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292014025863
+  "luceneModified" : 1292015536315
 }

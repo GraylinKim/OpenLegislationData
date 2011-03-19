@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S174-2011",
+  "senateBillNo" : "S196-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S174-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "REFERRED TO MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
+    "billEventId" : "S196-2011-1294203600000-REFERRED+TO+MENTAL+HEALTH+AND+DEVELOPMENTAL+DISABILITIES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that before a person may receive public assistance benefits, he or she must submit to a drug test",
-  "summary" : "Provides that before a person may receive public assistance benefits, he or she must submit to and pass a drug test. ",
-  "currentCommittee" : "SOCIAL SERVICES",
+  "title" : "Makes provisions regarding safety of certain employees of the office of mental health, including certain staffing ratios and filling of staff vacancies",
+  "summary" : null,
+  "currentCommittee" : "MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
-  "previousVersions" : [ "S7436-2009" ],
+  "lawSection" : "Mental Hygiene Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "GRIFFO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -45,22 +52,15 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SEWARD",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the social services law, in relation to people receiving public assistance ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T155205.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015536362
+  "luceneModified" : 1292015536343
 }

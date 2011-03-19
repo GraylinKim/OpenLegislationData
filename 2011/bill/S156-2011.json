@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes the crimes of vehicular assault and vehicular manslaughter in an active work zone and intrusion into an active work zone",
-  "summary" : null,
+  "summary" : "Establishes the crimes of vehicular assault and vehicular manslaughter in an active work zone and intrusion into an active work zone. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6098-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -71,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the penal law and the vehicle and traffic law, in relation to safety in active work zones ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T152204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T152204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292012524581
+  "luceneModified" : 1292015536277
 }
