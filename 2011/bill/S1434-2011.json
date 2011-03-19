@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1434-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294376400000,
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S1434-2011-1294376400000-REFERRED+TO+INSURANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SALAND",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits incentive arrangements for inducing a health care provider to change prescriptions",
+  "summary" : null,
+  "currentCommittee" : "INSURANCE",
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T105351.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294415631354
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1428-2011",
+  "senateBillNo" : "S1429-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
-    "billEventId" : "S1428-2011-1294376400000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S1429-2011-1294376400000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides clarification to determine the expiration date of an order of protection issued in relation to a family offense",
+  "title" : "Requires the commissioner of correctional services to enter into agreements to house local inmates to alleviate overcrowding in local correctional facilities",
   "summary" : null,
-  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T104850.TXT", "SOBI.D110107.T105351.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T105351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294415631335
+  "luceneModified" : 1294415631338
 }
