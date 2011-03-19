@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1095-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1095-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates a new subdivision of manslaughter in the first degree; modifies the existing depraved indifference part of murder in the 2nd degree",
+  "summary" : "Establishes a person is guilty of murder in the second degree when he or she recklessly causes the death of another person by means of a deadly weapon or deadly instrument; establishes a person is guilty of murder in the second degree when he or she under circumstances evincing a depraved indifference to the life of another person, intentionally engages in conduct which creates a grave risk of death to another person, and thereby causes the death of another person; establishes two of the situations where a person is guilty of murder in the second degree are not mutually exclusive. ",
+  "currentCommittee" : null,
+  "sameAs" : "S488",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A2945-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Burling",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McKevitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Molinaro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to the crimes of manslaughter in the first degree and murder in the second degree ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T133220.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294338740247
+}

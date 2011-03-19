@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1087-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to mental health",
+    "billEventId" : "A1087-2011-1294203600000-referred+to+mental+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides additional discharge planning for persons being released from civil confinement",
+  "summary" : "Provides additional discharge planning for persons being released from civil confinement including supervision, electronic monitoring, appropriate clothing,  transportation, medication and a services plan. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1199",
+  "lawSection" : "Mental Hygiene Law",
+  "previousVersions" : [ "A1115-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the mental hygiene law, in relation to providing additional discharge planning for persons being released from civil confinement ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T133220.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294338740224
+}
