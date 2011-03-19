@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3899-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A3899-2011-1296190800000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to modifying the composition of membership of the Buffalo municipal housing authority",
+  "summary" : "Relates to modifying the composition of membership of the Buffalo municipal housing authority. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Housing Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public housing law, in relation to modifying the composition of the membership of the Buffalo municipal housing authority ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110128.T133303.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296239583387
+}

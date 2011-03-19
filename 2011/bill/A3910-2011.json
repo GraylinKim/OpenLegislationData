@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3910-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A3910-2011-1296190800000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishing a defendant's right to hearing to present exculpatory evidence regarding involvement in criminal activity",
+  "summary" : "Establishes a defendant's right to a hearing to present exculpatory evidence regarding involvement in criminal activity. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the criminal procedure law, in relation to the defendant's right to a hearing to present exculpatory evidence regarding involvement in criminal activity ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110128.T133303.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296239583407
+}

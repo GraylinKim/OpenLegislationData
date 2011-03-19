@@ -1,0 +1,87 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3904-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A3904-2011-1296190800000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows certain members of public retirement systems to retire without a reduction of benefits due to early retirement upon age 55 and at least 25 years of service",
+  "summary" : "Allows Tier 2, 3, 4 and 5 members of the NYS&LERS and certain other public retirement systems to retire without a benefit reduction due to early retirement upon attainment of age 55 and the completion of 25 years of service. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Retirement and Social Security Law",
+  "previousVersions" : [ "AB7075-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ramos",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the retirement and social security law, in relation to benefits of members subject to article 11 and article 15 who retire prior to the normal retirement age with twenty-five years of service ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110128.T133303.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296239583396
+}
