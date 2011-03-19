@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3301-2011",
+  "senateBillNo" : "A3315-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to corporations, authorities and commissions",
-    "billEventId" : "A3301-2011-1295845200000-referred+to+corporations%2C+authorities+and+commissions",
+    "eventText" : "referred to banks",
+    "billEventId" : "A3315-2011-1295845200000-referred+to+banks",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to sewer and water rates for those granted senior citizen real property or persons with disabilities and limited incomes tax exemptions in the city of NY",
-  "summary" : "Relates to sewer and water rates for those granted senior citizen real property or persons with disabilities and limited income tax exemptions in the city of New York. ",
+  "title" : "Increases number of withdrawal transactions from basic banking accounts for account holders over sixty years of age to twelve from eight",
+  "summary" : "Increases the minimum number of authorized withdrawal transactions at no charge from basic banking accounts for account holders sixty-five years of age or older from eight to twelve. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "AA6802-2009" ],
+  "lawSection" : "Banking Law",
+  "previousVersions" : [ "A3072-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Abbate",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Glick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Weprin",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T163641.TXT", "SOBI.D110124.T163141.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T163641.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295905001277
+  "luceneModified" : 1295905001289
 }

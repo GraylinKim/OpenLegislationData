@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3306-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3306-2011-1295845200000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that a state agency may deny, suspend or revoke a license on the basis of violations of federal immigration law",
+  "summary" : "Provides that a state agency may deny, suspend or revoke a license, for a period of not greater than five years, on the basis of two violations, occurring in a five year period, of certain provisions of the federal immigration reform and control act of 1986 relating to the hiring of aliens not authorized to work in the United States. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "State Administrative Procedure Act",
+  "previousVersions" : [ "A4123-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T163641.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295905001286
+}

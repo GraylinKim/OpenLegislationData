@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3301-2011",
+  "senateBillNo" : "A3305-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to corporations, authorities and commissions",
-    "billEventId" : "A3301-2011-1295845200000-referred+to+corporations%2C+authorities+and+commissions",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3305-2011-1295845200000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to sewer and water rates for those granted senior citizen real property or persons with disabilities and limited incomes tax exemptions in the city of NY",
-  "summary" : "Relates to sewer and water rates for those granted senior citizen real property or persons with disabilities and limited income tax exemptions in the city of New York. ",
+  "title" : "Requires applicants for a driver's license or non-driver identification card to submit satisfactory proof that the applicant's presence in the U.S. is authorized",
+  "summary" : "Requires applicants for a driver's license or non-driver identification card to submit satisfactory proof to the department of motor vehicles that the applicant's presence in the United States is authorized under federal law. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "AA6802-2009" ],
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A4752-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Abbate",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Weprin",
+    "fullname" : "Miller J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T163641.TXT", "SOBI.D110124.T163141.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T163641.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295905001277
+  "luceneModified" : 1295905001282
 }
