@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S303-2011",
+  "senateBillNo" : "S304-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S303-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S304-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the bureau of the senior tenants' advocate in the state office for the aging",
+  "title" : "Prohibits the use of social security numbers by an organization or governmental agency for the identification of an individual",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Elder Law",
+  "lawSection" : "Civil Rights Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T142319.TXT", "SOBI.D101213.T142820.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T142820.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292268500852
+  "luceneModified" : 1292268500858
 }
