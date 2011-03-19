@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S729-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S729-2011-1294203600000-REFERRED+TO+CODES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERALTA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the actual innocence justice act 2011",
+  "summary" : null,
+  "currentCommittee" : "CODES",
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101229.T163749.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293658669527
+}

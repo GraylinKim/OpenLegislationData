@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S730-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S730-2011-1294203600000-REFERRED+TO+LABOR",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERALTA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes contractors ineligible to bid for a public work contract if prevailing rate wages and supplements due from all prior public work contracts remain unpaid",
+  "summary" : null,
+  "currentCommittee" : "LABOR",
+  "sameAs" : null,
+  "lawSection" : "Labor Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101229.T163749.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293658669531
+}
