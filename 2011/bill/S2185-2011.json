@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the elder law and the insurance law, in relation to establishing the New York state compact for long term care ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T113625.TXT", "SOBI.D110118.T121130.TXT", "SOBI.D110118.T123631.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T113625.TXT", "SOBI.D110118.T121130.TXT", "SOBI.D110118.T123631.TXT", "SOBI.D110118.T152651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295372191325
+  "luceneModified" : 1295382411804
 }

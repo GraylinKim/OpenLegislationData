@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the elder law, in relation to establishing an Alzheimer's disease outreach and education program ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T113625.TXT", "SOBI.D110118.T124632.TXT", "SOBI.D110118.T121130.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T113625.TXT", "SOBI.D110118.T124632.TXT", "SOBI.D110118.T121130.TXT", "SOBI.D110118.T152651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295372792615
+  "luceneModified" : 1295382411820
 }

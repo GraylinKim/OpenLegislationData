@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
@@ -81,7 +88,7 @@
   "actClause" : "AN ACT to amend the executive law, in relation to the appearance of certain law enforcement officers at parole hearings ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T113625.TXT", "SOBI.D110118.T120629.TXT", "SOBI.D110118.T123631.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T120629.TXT", "SOBI.D110118.T113625.TXT", "SOBI.D110118.T123631.TXT", "SOBI.D110118.T152651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295372191331
+  "luceneModified" : 1295382411794
 }
