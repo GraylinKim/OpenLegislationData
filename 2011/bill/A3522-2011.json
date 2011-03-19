@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3522-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3522-2011-1295931600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the addition, amendment or repeal of rules and regulations allowing vehicles with insignias or signs painted or displayed directly on the surface of the vehicle",
+  "summary" : "Authorizes the addition, amendment or repeal of rules and regulations allowing vehicles with insignias or signs painted or displayed directly on the surface of the vehicle to operate on special parkways. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A7799-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to authorizing the department of motor vehicles to add, amend or repeal rules and regulations allowing vehicles with insignias or signs painted or displayed directly on the surface of the vehicle to operate on special parkways ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T151425.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295986465910
+}

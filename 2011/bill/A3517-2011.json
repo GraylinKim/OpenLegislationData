@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3517-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A3517-2011-1295931600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes a court to direct filing of non-family offense order of protection with the computerized registry for such orders and warrants",
+  "summary" : "Authorizes a court issuing a non-family offense temporary order of protection or an order of protection to direct that such order be filed with the computerized registry for orders of protection and warrants, if it is necessary to fulfill the purposes of such order; directs the superintendent of state police to include such orders on computerized registry. ",
+  "currentCommittee" : null,
+  "sameAs" : "S976",
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : [ "A2602-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the criminal procedure law and the executive law, in relation to authorizing a court to file non-family offense temporary orders of protection and orders of protection with the computerized registry established for such information ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T151425.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295986465896
+}
