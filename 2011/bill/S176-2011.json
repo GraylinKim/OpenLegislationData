@@ -24,7 +24,21 @@
   "sameAs" : null,
   "lawSection" : "Insurance Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "FLANAGAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GOLDEN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T155205.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T155205.TXT", "SOBI.D101210.T155705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292014325927
+  "luceneModified" : 1292014625977
 }

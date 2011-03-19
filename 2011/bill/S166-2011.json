@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that health insurance coverage may not deny reimbursements because the registered pharmacy providing pharmaceutical products has not been approved",
-  "summary" : null,
+  "summary" : "Provides that health insurers may not deny reimbursements to insureds because the registered pharmacy providing pharmaceutical products has not been approved by the insurer or other entity. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1449-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T154205.TXT", "SOBI.D101210.T154705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T154205.TXT", "SOBI.D101210.T155705.TXT", "SOBI.D101210.T154705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292014025832
+  "luceneModified" : 1292014625005
 }

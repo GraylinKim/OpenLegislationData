@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Expands application of additional penalties for repeat driving while intoxicated offenses to vehicular drug related offenses",
-  "summary" : null,
+  "summary" : "Expands the requirement of mandatory imprisonment or community service for repeat convictions of driving while intoxicated, driving while impaired by drugs and commercial vehicle alcohol offenses; increases the period of revocation of an operator's license and registration to 2 years for the first repeat conviction within 10 years, and 4 years for the second and subsequent convictions within such period of time. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1050-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T154205.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T154205.TXT", "SOBI.D101210.T155705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292013725786
+  "luceneModified" : 1292014625984
 }
