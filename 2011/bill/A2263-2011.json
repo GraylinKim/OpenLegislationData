@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes community access networks",
-  "summary" : null,
+  "summary" : "Establishes community access networks. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "State Technology Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A5712-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -95,7 +95,7 @@
   "actClause" : "AN ACT to amend the state technology law, in relation to establishing community access networks ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT", "SOBI.D110114.T152500.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT", "SOBI.D110114.T152500.TXT", "SOBI.D110114.T153501.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036700646
+  "luceneModified" : 1295037301923
 }

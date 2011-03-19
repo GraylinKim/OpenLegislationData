@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to financial disclosure of certain political contributions for certain elected officials",
-  "summary" : null,
+  "summary" : "Requires financial disclosure of certain political contributions by statewide elected officials, members of the legislature, New York city citywide elected officials, members of the New York city council and borough president for public inspection; requires listing of all contributions of $100 or more to funds they control other than political committees as defined by election law. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Officers Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A5713-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the public officers law, in relation to financial disclosure of certain political contributions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T152500.TXT", "SOBI.D110114.T151459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T152500.TXT", "SOBI.D110114.T151459.TXT", "SOBI.D110114.T153501.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036700636
+  "luceneModified" : 1295037301949
 }

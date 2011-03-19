@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for the regulation of contractors",
-  "summary" : null,
+  "summary" : "Provides for the regulation of contractors. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "General City Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA4771-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -165,7 +165,7 @@
   "actClause" : "AN ACT to amend the general city law, in relation to the regulation of contractors ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT", "SOBI.D110114.T151459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT", "SOBI.D110114.T151459.TXT", "SOBI.D110114.T153501.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036399464
+  "luceneModified" : 1295037301929
 }
