@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A2363-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1295326800000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A2363-2011-1295326800000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Heastie",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that payment of interest payment and attorney fees to claimant when payment of a claim is overdue shall be exclusive remedy",
+  "summary" : "Provides that payment of interest payment and attorney fees to claimant when payment of a claim is overdue shall be exclusive remedy when insurer fails to make timely payment; such failure of insurer to make timely payment or issue denial within 30 days after proof of claim has been submitted to insurer shall not preclude such insurer from issuing a denial or asserting a defense after the 30 day period has elapsed. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "sameAs" : "S1686",
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A4348-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         2363\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 18, 2011\n                                      ___________\n\n       Introduced  by M. of A. HEASTIE -- read once and referred to the Commit-\n         tee on Insurance\n\n       AN ACT to amend the insurance law, in relation to  payment  of  interest\n         penalty  and  attorney  fees to a claimant when a claim is overdue and\n         the ability of an insurer to assert a defense or deny a claim if time-\n         ly payment is not made within thirty days after  proof  of  claim  has\n         been submitted\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Subsection (a) of section 5106  of  the  insurance  law  is\n    2  amended to read as follows:\n    3    (a)  Payments of first party benefits and additional first party bene-\n    4  fits shall be made as the loss is incurred. Such benefits are overdue if\n    5  not paid within thirty days after the claimant  supplies  proof  of  the\n    6  fact  and  amount  of loss sustained. If proof is not supplied as to the\n    7  entire claim, the amount which is supported by proof is overdue  if  not\n    8  paid  within  thirty  days  after  such  proof  is supplied. All overdue\n    9  payments shall bear interest at the rate of two percent per month. If  a\n   10  valid  claim or portion was overdue, the claimant shall also be entitled\n   11  to recover his  attorney's  reasonable  fee,  for  services  necessarily\n   12  performed  in  connection  with  securing  payment of the overdue claim,\n   13  subject to limitations promulgated by the superintendent in regulations.\n   14  PAYMENT OF THE INTEREST PENALTY AND REASONABLE ATTORNEY FEES TO A CLAIM-\n   15  ANT WHEN PAYMENT OF A CLAIM IS OVERDUE SHALL  BE  THE  EXCLUSIVE  REMEDY\n   16  WHEN  AN INSURER FAILS TO MAKE TIMELY PAYMENT. THE FAILURE OF AN INSURER\n   17  TO MAKE TIMELY PAYMENT OR ISSUE A DENIAL WITHIN THIRTY DAYS AFTER  PROOF\n   18  OF CLAIM HAS BEEN SUBMITTED TO AN INSURER SHALL NOT PRECLUDE SUCH INSUR-\n   19  ER  FROM  ISSUING  A  DENIAL OR ASSERTING A DEFENSE AFTER THE THIRTY DAY\n   20  PERIOD HAS ELAPSED.\n   21    S 2. This act shall take effect on the sixtieth  day  after  it  shall\n   22  have become a law.\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD05836-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to payment of interest penalty and attorney fees to a claimant when a claim is overdue and the ability of an insurer to assert a defense or deny a claim if timely payment is not made within thirty days after proof of claim has been submitted ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T101237.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T101237.TXT", "SOBI.D110119.T111740.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295449957636
+  "luceneModified" : 1295453860671
 }
