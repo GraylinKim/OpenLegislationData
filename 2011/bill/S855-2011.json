@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S854-2011",
+  "senateBillNo" : "S855-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S854-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S855-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Designates the bridge on interstate route 86 over North Main Street in the town of Ellicott as the \"Lucille Ball - Desi Arnaz Memorial Bridge\"",
+  "title" : "Designates a bridge on interstate route 86 over Strunk Road in the town of Ellicott as the \"Robert H. Jackson Memorial Bridge\"",
   "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T151744.TXT", "SOBI.D101230.T152244.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T152244.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293740564893
+  "luceneModified" : 1293740564906
 }

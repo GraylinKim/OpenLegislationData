@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S854-2011",
+  "senateBillNo" : "S859-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S854-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S859-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Designates the bridge on interstate route 86 over North Main Street in the town of Ellicott as the \"Lucille Ball - Desi Arnaz Memorial Bridge\"",
+  "title" : "Provides a $500,000 supplemental valuation impact grant to the West Valley central school district",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Highway Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T151744.TXT", "SOBI.D101230.T152244.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T152244.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293740564893
+  "luceneModified" : 1293740564922
 }
