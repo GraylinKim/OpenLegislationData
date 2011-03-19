@@ -3,8 +3,8 @@
   "senateBillNo" : "S369-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S369-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S369-2011-1294203600000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,41 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to filing and investigation of reports alleging educational neglect",
+  "title" : "Authorizes academic performance awards for incarcerated persons; repealer",
   "summary" : "Relates to filing and investigation of reports alleging educational neglect; requires a hearing prior to filing a report with the local social services department and requires that the report be expunged where the report is determined to be unfounded. ",
-  "currentCommittee" : "SOCIAL SERVICES",
+  "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : "S362",
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Education Law",
   "previousVersions" : [ "S5974-2009" ],
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DUANE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HUNTLEY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +60,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to reports of educational neglect by school districts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T151434.TXT", "SOBI.D101216.T154437.TXT", "SOBI.D101216.T152435.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T151434.TXT", "SOBI.D101216.T152435.TXT", "SOBI.D101216.T154437.TXT", "SOBI.D101216.T154937.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292532277826
+  "luceneModified" : 1292532577927
 }
