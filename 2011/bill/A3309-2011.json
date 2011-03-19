@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3337-2011",
+  "senateBillNo" : "A3309-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A3337-2011-1295845200000-referred+to+codes",
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A3309-2011-1295845200000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Brennan",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires that the person be at least fourteen years of age, with no maximum age, for the possession and use of a pistol or revolver at a pistol range",
-  "summary" : "Requires that the person be at least fourteen years of age, with no maximum age, for the possession and use of a pistol or revolver at a pistol range. ",
+  "title" : "Provides for additional reporting guidelines for the metropolitan transportation authority's annual financial statements and when proposing fare and toll increases",
+  "summary" : "Provides for additional reporting guidelines for the metropolitan transportation authority's annual financial statements and when proposing fare and toll increases. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : [ "A828-2009" ],
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A4677-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T163641.TXT", "SOBI.D110124.T164141.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T164141.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295905301439
+  "luceneModified" : 1295905301449
 }
