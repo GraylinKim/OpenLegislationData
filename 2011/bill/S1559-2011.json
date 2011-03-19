@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1558-2011",
+  "senateBillNo" : "S1559-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
     "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1558-2011-1294635600000-REFERRED+TO+ELECTIONS",
+    "billEventId" : "S1559-2011-1294635600000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides additional opportunity for new registrant by mail to indicate choice of party enrollment where original choice omitted",
+  "title" : "Relates to political contribution activities by an intermediary",
   "summary" : null,
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SERRANO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T124602.TXT", "SOBI.D110110.T124102.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T124602.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294681562944
+  "luceneModified" : 1294681562948
 }
