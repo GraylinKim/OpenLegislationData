@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to enacting the agreement among the states to elect the president by national popular vote",
-  "summary" : null,
+  "summary" : "Enacts the agreement among the states to elect the president by national popular vote; creates a compact between the states and the District of Columbia; defines terms. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA1580-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -319,7 +319,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to enacting the agreement among the states to elect the president by national popular vote ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T145854.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T145854.TXT", "SOBI.D101228.T151835.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293566334494
+  "luceneModified" : 1293567515850
 }

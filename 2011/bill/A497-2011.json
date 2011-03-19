@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to mandatory health insurance coverage for providing prosthetic devices",
-  "summary" : null,
+  "summary" : "Relates to mandatory health insurance coverage for providing prosthetic devices equal to or above Medicare's standard of coverage; includes the repair or replacement of a prosthetic device required to be worn or used by a policy holder; coverage includes expenses for assessment, evaluation, treatment, management, and follow-up care. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A770-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -130,7 +130,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to mandatory health insurance coverage for providing prosthetic devices ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T150334.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T151835.TXT", "SOBI.D101228.T150334.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293566614579
+  "luceneModified" : 1293567515829
 }
