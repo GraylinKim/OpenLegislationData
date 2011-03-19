@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S437-2011",
+  "senateBillNo" : "S439-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S437-2011-1294203600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "billEventId" : "S439-2011-1294203600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Eliminates certain publication requirements for limited liability companies and limited liability partnerships; repealer",
+  "title" : "Establishes a kitchen incubator/shared-use kitchen facility program within the urban development corporation",
   "summary" : null,
   "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
   "sameAs" : null,
-  "lawSection" : "Limited Liability Company Law",
+  "lawSection" : "New York State Urban Development Corporation Act",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T114324.TXT", "SOBI.D101220.T114824.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T114824.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292863704320
+  "luceneModified" : 1292863704337
 }
