@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1076-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A1076-2011-1294203600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the applicability of provisions governing referral of certain municipal planning and zoning actions to counties operating under a county charter",
+  "summary" : "Provides for the applicability of provisions governing referral of certain municipal planning and zoning actions to county planning agencies or regional planning councils to all counties, including counties operating under a county charter, except counties wholly contained within a city. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A1024-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Molinaro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, in relation to the referral of certain proposed city, town, and village planning and zoning actions to the county planning agency or regional planning council ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T132720.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294338440106
+}

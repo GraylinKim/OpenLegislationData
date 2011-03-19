@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1082-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A1082-2011-1294203600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits school districts from entering into telecommunications contracts as delineated herein",
+  "summary" : "Prohibits school districts from entering into telecommunications contracts as delineated herein which grant exclusive rights or deals with exclusive advertising rights. ",
+  "currentCommittee" : null,
+  "sameAs" : "S251",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A3948-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to prohibiting certain telecommunications contracts ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T132720.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294338440126
+}

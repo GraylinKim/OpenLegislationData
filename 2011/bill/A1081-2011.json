@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1081-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A1081-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castelli",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the short-term military service guardian",
+  "summary" : "Creates the short term military service guardian; parent w/o joint custody may appoint service guardian; maximum 180 days. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Domestic Relations Law",
+  "previousVersions" : [ "A10347-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the domestic relations law and the military law, in relation to the creation of the short-term military service guardian ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T132720.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294338440125
+}
