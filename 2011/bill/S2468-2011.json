@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2466-2011",
+  "senateBillNo" : "S2468-2011",
   "billEvents" : [ {
     "eventDate" : 1295586000000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S2466-2011-1295586000000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2468-2011-1295586000000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes and directs the commissioner of transportation and the thruway authority to establish a mileage-based exit numbering system",
+  "title" : "Enacts the \"buy from the backyard act\"",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Highway Law",
+  "lawSection" : "State Finance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T141530.TXT", "SOBI.D110121.T141029.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T141530.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295637330132
+  "luceneModified" : 1295637330143
 }
