@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1320-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294290000000,
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1320-2011-1294290000000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires a person to be a resident of the local subdivision for which such person seeks office at the time of filing designating or nominating petitions",
+  "summary" : null,
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "sameAs" : null,
+  "lawSection" : "Public Officers Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T152729.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294345649858
+}

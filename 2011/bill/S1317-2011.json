@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1317-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294290000000,
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S1317-2011-1294290000000-REFERRED+TO+ELECTIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Repeals certain provisions of the election law and adds new section permitting a voter to vote by special ballot at the board of elections upon written statement and",
+  "summary" : null,
+  "currentCommittee" : "ELECTIONS",
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T152729.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294345649830
+}

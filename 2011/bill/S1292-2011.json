@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires a certain class (J-2) of residential buildings in New York city to have emergency lighting",
-  "summary" : null,
+  "summary" : "Requires a certain class (J-2) of residential buildings in New York city to have emergency lighting in like manner as a certain other class (J-1) of residential buildings. ",
   "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
   "lawSection" : "New York City Administrative Code",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3342-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T151241.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T151241.TXT", "SOBI.D110106.T152729.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294344761229
+  "luceneModified" : 1294345649820
 }

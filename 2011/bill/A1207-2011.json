@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1207-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A1207-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the exemption of honorably discharged U.S. veterans from payment of New York Thruway tolls",
+  "summary" : "Provides for the exemption of honorably discharged veterans of the armed forces of the United States from New York State Thruway tolls; provides reimbursement for any loss in net revenue up to one hundred thousand dollars. ",
+  "currentCommittee" : null,
+  "sameAs" : "S460",
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A2776-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Burling",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castelli",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law and the vehicle and traffic law, in relation to the exemption of certain veterans from tolls collected by the New York state thruway authority ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T152729.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294345649846
+}

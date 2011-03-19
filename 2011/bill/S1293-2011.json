@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Determines workers' compensation rates based upon number of hours worked for an employer",
-  "summary" : null,
+  "summary" : "Determines workers' compensation rates based upon number of hours worked for an employer; requires maintenance of accurate records and provides a penalty for failure to maintain such records. ",
   "currentCommittee" : "LABOR",
   "sameAs" : null,
   "lawSection" : "Workers' Compensation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3339-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T151241.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T151241.TXT", "SOBI.D110106.T152729.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294344761237
+  "luceneModified" : 1294345649826
 }

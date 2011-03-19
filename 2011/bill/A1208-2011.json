@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1201-2011",
+  "senateBillNo" : "A1208-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to correction",
-    "billEventId" : "A1201-2011-1294203600000-referred+to+correction",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1208-2011-1294203600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Hawley",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the employment address of certain sex offenders to be reported to the division of criminal justice services",
-  "summary" : "Requires the employment address of certain sex offenders to be reported to the division of criminal justice services. ",
+  "title" : "Reduces the rate at which a taxpayer's entire net income base shall be computed",
+  "summary" : "Reduces the rate at which a taxpayer's entire net income base shall be computed for the purposes of the franchise tax on business corporations. ",
   "currentCommittee" : null,
-  "sameAs" : "S512",
-  "lawSection" : "Correction Law",
-  "previousVersions" : [ "A985-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A2773-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -34,28 +34,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Oaks",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "McKevitt",
+    "fullname" : "Reilich",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "McDonough",
+    "fullname" : "Corwin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Tobacco",
+    "fullname" : "Castelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the correction law, in relation to the employment address of sex offenders ",
+  "actClause" : "AN ACT to amend the tax law, in relation to net income base ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T152230.TXT", "SOBI.D110106.T152729.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T152729.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345649817
+  "luceneModified" : 1294345649864
 }
