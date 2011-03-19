@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S148-2011",
+  "senateBillNo" : "S151-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S148-2011-1294203600000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S151-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Changes the eligibility dates for a military service recognition scholarship to include certain conflicts",
+  "title" : "Implements the empire propane education and research act",
   "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Energy Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T151203.TXT", "SOBI.D101210.T151703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T151703.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292012223511
+  "luceneModified" : 1292012223521
 }
