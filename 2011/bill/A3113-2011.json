@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3113-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3113-2011-1295845200000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes town boards to pass a resolution requiring a deputy supervisor be an elective town board member",
+  "summary" : "Authorizes town boards to pass a resolution requiring that a deputy supervisor be an elective town board member. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Town Law",
+  "previousVersions" : [ "A1571-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the town law, in relation to authorizing towns to pass a resolution requiring the deputy supervisor be an elective town board member ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T122121.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889681115
+}

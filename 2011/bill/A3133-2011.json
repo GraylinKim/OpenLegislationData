@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3133-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A3133-2011-1295845200000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes health insurers to provide actuarially appropriate reductions in health insurance premiums for participation in a wellness program",
+  "summary" : "Authorizes health insurers, subject to the approval of the superintendent of insurance, to provide actuarially appropriate reductions in health insurance premiums for an enrollee's or insured's participation in a wellness program (defined); provides for the appointment of an advisory committee on wellness to be co-chaired by the commissioner of health and the superintendent of insurance and to report on the development and effectiveness of wellness programs. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A2867-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Sweeney",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to making actuarially appropriate reductions in health insurance premiums in return for an enrollee's or insured's participation in a bona fide wellness program; and to establish an advisory committee on wellness to report thereon ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T122121.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889681143
+}

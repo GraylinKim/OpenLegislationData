@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3114-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to education",
+    "billEventId" : "A3114-2011-1295845200000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires a cut in projected state aid to school districts which do not accurately report certain numbers and information",
+  "summary" : "Provides that any school district which fails to accurately report and provide information and certain numbers for school aid purposes for three prior years shall receive a fifty percent reduction in state aid; further provides that for the purposes of this section, such information shall include but not be limited to, enrollment numbers and expenses related to textbooks, computer software, hardware and technology, transportation, computer technology usage and construction. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A10338-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to requiring a cut in projected state aid to school districts which do not accurately report certain numbers and information ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T122121.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889681116
+}

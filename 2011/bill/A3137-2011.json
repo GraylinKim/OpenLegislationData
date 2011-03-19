@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3137-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A3137-2011-1295845200000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for continuing austerity contingency budget in the event of a budget stalemate",
+  "summary" : "Provides that where the legislature has not passed a budget by the start of the fiscal year the budget bills for the previous year shall remain in effect with a five percent reduction in all appropriations except entitlement programs required by law and appropriations for debt service; such budget shall remain in effect until a balanced budget is passed. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "previousVersions" : [ "A3757-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 7 of the constitution, in relation to providing for a continuing austerity contingency budget in the event that the budget submitted by the governor is not passed by the legislature before the start of the new fiscal year with or without permissible alterations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T122121.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889681150
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3128-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A3128-2011-1295845200000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the limitation of rent increases after vacancy of a rent regulated housing accommodation",
+  "summary" : "Provides for the limitation of rent increases after vacancy of a housing accommodation under the Rent Regulation Reform Act of 1997 by providing that the statutory allowance in such Act replaces and is in lieu of any other previously authorized vacancy allowance. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : [ "A2523-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the administrative code of the city of New York, the emergency tenant protection act of nineteen seventy-four, the emergency housing rent control law and the local emergency rent control act, in relation to limiting rent increase after vacancy of certain housing accommodations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T122121.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889681135
+}

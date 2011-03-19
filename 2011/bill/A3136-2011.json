@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3136-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A3136-2011-1295845200000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes commissioner of economic development to grant matching funds to eligible applicants to implement regional marketing programs as defined herein",
+  "summary" : "Authorizes commissioner of economic development to grant matching funds to eligible applicants to implement regional marketing programs, defined as the use of media advertising and promotional materials for purposes of marketing: (a) the natural resources, infrastructure, and other attractions of a region which are non-proprietary in nature and which serve to promote the location and development of new businesses within the region; (b) products manufactured by strategic alliances of businesses within a region; and (c) other products manufactured under a quality control program which may include use of a logo-type or similar advertising construct established by the legislature. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Economic Development Law",
+  "previousVersions" : [ "A2934-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ramos",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the economic development law, in relation to providing matching funds for eligible applicants in regional marketing programs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T122121.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889681148
+}

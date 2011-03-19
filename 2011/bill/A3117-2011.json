@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3105-2011",
+  "senateBillNo" : "A3117-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to local governments",
-    "billEventId" : "A3105-2011-1295845200000-referred+to+local+governments",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A3117-2011-1295845200000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to requiring a local referendum prior to legislative action taken to alienate parkland",
-  "summary" : "Relates to requiring a local referendum prior to legislative action taken to alienate parkland. ",
+  "title" : "Establishes a personal income tax credit for taxpayers who donate blood to a blood bank four or more times in a year",
+  "summary" : "Establishes a personal income tax credit for taxpayers who donate blood to a blood bank four or more times in a year; specifies such tax credit to be five hundred dollars. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : "General Municipal Law",
-  "previousVersions" : [ "A7946-2009" ],
+  "sameAs" : "S1169",
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "AA8218-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Aubry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Barron",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,7 +55,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general municipal law, the county law, the village law, the general city law, the town law, the municipal home rule law and the statute of local governments, in relation to requiring a local referendum prior to legislative action taken to alienate parkland ",
+  "actClause" : "AN ACT to amend the tax law, in relation to providing a tax credit for certain taxpayers who donate blood ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T122121.TXT", "SOBI.D110124.T121620.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T122121.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295889681155
+  "luceneModified" : 1295889681119
 }
