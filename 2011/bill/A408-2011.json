@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported",
+    "billEventId" : "A408-2011-1294722000000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Hoyt (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the real property law, in relation to lapse of oil and gas interests in Allegany state park ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101223.T160618.TXT", "SOBI.D101223.T160117.TXT", "SOBI.D101228.T094813.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101223.T160618.TXT", "SOBI.D110111.T161223.TXT", "SOBI.D101223.T160117.TXT", "SOBI.D101228.T094813.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293547693041
+  "luceneModified" : 1294780343719
 }

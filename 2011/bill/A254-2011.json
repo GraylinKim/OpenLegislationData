@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported",
+    "billEventId" : "A254-2011-1294722000000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Dinowitz (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the general obligations law, in relation to onerous or unreasonable conditions in the performance of disability related contracts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT", "SOBI.D101220.T165842.TXT", "SOBI.D101217.T155004.TXT", "SOBI.D101217.T153505.TXT", "SOBI.D101217.T155505.TXT", "SOBI.D101217.T161006.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T165842.TXT", "SOBI.D110105.T125652.TXT", "SOBI.D101217.T155004.TXT", "SOBI.D101217.T153505.TXT", "SOBI.D101217.T155505.TXT", "SOBI.D101217.T161006.TXT", "SOBI.D110111.T161223.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294250212247
+  "luceneModified" : 1294780343715
 }
