@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates a provision requiring court review of domestic violence bail applications",
-  "summary" : null,
+  "summary" : "Requires court review of domestic violence bail applications. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA8018-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to requiring court review of domestic violence bail applications ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T145743.TXT", "SOBI.D101230.T161749.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T092845.TXT", "SOBI.D101230.T145743.TXT", "SOBI.D101230.T161749.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293743869552
+  "luceneModified" : 1294064925061
 }
