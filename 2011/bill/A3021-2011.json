@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3021-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A3021-2011-1295586000000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that a child regardless of age who has lived with a tenant parent for two years or more in a rent-regulated apartment shall be deemed a tenant",
+  "summary" : "Provides that a child (regardless of age) who has lived with a tenant parent for two years or more in rent-regulated housing accommodations shall be deemed a tenant of such housing accommodations for the purposes of the rent-regulating laws. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1305",
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : [ "A1294-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the administrative code of the city of New York and the emergency tenant protection act of nineteen seventy-four, in relation to the definition of a tenant ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T161037.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295644237929
+}
