@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1308-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1308-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the commissioner of general services to sell and convey certain land in the county of Kings, borough of Brooklyn, city of New York",
+  "summary" : "Authorizes the commissioner of general services to sell and convey certain land in the county of Kings, borough of Brooklyn, city of New York to CNR Senior Housing Development Fund Corporation. ",
+  "currentCommittee" : null,
+  "sameAs" : "S365",
+  "lawSection" : "Kings County",
+  "previousVersions" : [ "A11572-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT authorizing the commissioner of general services to sell and convey certain land in the county of Kings, borough of Brooklyn, city of New York ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T133403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294425243937
+}

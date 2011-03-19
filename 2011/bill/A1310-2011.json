@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1310-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1310-2011-1294203600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for legal representation in certain mortgage foreclosure actions",
+  "summary" : "Provides for free legal representation in certain mortgage foreclosure actions where the homeowner is financially unable to obtain counsel; requires notice of such availability. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Actions and Proceedings Law",
+  "previousVersions" : [ "A464-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property actions and proceedings law and the county law, in relation to representation of certain persons in private residential foreclosure actions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T133403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294425243944
+}
