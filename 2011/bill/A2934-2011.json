@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2934-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A2934-2011-1295586000000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to providing notice to policyholders between the ages of eighteen and twenty-five",
+  "summary" : "Provides that no schedule or rating plan for non-commercial private passenger automobile insurance shall include a premium charge for comprehensive coverage, optional or otherwise, for coverage of a rental vehicle due to loss of an insured's vehicle if the insured policyholder is between the age of eighteen and twenty-five. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A1788-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to prohibiting charges for comprehensive coverage of a rental vehicle due to loss of an insured's vehicle if the insured policy holder is between the ages of eighteen and twenty-five ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T150056.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295640056882
+}
