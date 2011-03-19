@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A271-2011",
+  "senateBillNo" : "A279-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to governmental operations",
-    "billEventId" : "A271-2011-1294203600000-referred+to+governmental+operations",
+    "billEventId" : "A279-2011-1294203600000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Eliminates benefits for any public officer, public employee, or public school employee convicted of a felony related to abuse of office",
+  "title" : "Requires housing affordability impact notes be submitted with proposed rules",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "State Administrative Procedure Act",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "McKevitt",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Finch",
+    "fullname" : "Raia",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T154004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T154004.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618404100
+  "luceneModified" : 1292618404149
 }

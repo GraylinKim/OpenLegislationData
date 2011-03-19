@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A280-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A280-2011-1294203600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Montesano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants tax credit to business firms for contributions of real property made to not-for-profit housing companies",
+  "summary" : "Grants tax credit to business firms for contributions of real property made to not-for-profit housing companies; such credit shall be equal to one-half the amount of the fair market value of the real property and such credit shall not exceed $250,000. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Private Housing Finance Law",
+  "previousVersions" : [ "A10650-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Saladino",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T154004.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292618404151
+}

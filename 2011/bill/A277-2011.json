@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A271-2011",
+  "senateBillNo" : "A277-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A271-2011-1294203600000-referred+to+governmental+operations",
+    "eventText" : "referred to aging",
+    "billEventId" : "A277-2011-1294203600000-referred+to+aging",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Montesano",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Eliminates benefits for any public officer, public employee, or public school employee convicted of a felony related to abuse of office",
+  "title" : "Requires state campgrounds to provide a reduced fee for campsites to persons 65 or over",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Parks, Recreation and Historic Preservation Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "McKevitt",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Finch",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T154004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T154004.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618404100
+  "luceneModified" : 1292618404137
 }
