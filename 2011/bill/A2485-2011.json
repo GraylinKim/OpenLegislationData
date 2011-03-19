@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295499600000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A2485-2011-1295499600000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Destito (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to sections 5 and 6 of article 4 of the constitution, in relation to the succession of individuals to the office of lieutenant-governor ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T134259.TXT", "SOBI.D110119.T150810.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T134259.TXT", "SOBI.D110120.T114847.TXT", "SOBI.D110119.T150810.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295467690433
+  "luceneModified" : 1295542127785
 }
