@@ -21,7 +21,7 @@
   "title" : "Provides for the inclusion, at a voter's option, of an e-mail address in the voter registration application and record for notices to be sent thus and by U.S.P.S.",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : null,
+  "sameAs" : "S1567",
   "lawSection" : "Election Law",
   "previousVersions" : null,
   "coSponsors" : [ {
@@ -113,10 +113,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to including e-mail addresses in voter registration data ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T104744.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T110746.TXT", "SOBI.D110126.T104744.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296056864023
+  "luceneModified" : 1296058066678
 }
