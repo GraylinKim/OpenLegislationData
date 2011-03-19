@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1466-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1466-2011-1294635600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the remediation and prevention of indoor mold and requiring the disclosure of indoor mold history upon the sale of certain real property",
+  "summary" : "Relates to the remediation and prevention of indoor mold; requires the disclosure of indoor mold history upon the sale of certain real property; directs the commissioner of housing and community renewal and the commissioner of health to promulgate rules and standards for the remediation and prevention of indoor mold. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Housing Law",
+  "previousVersions" : [ "A4549-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera N",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kellner",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public housing law, the public health law, and the real property law, in relation to the remediation and prevention of indoor mold and requiring the disclosure of indoor mold history upon the sale of certain real property ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T134108.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294684868230
+}

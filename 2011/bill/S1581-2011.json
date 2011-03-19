@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1577-2011",
+  "senateBillNo" : "S1581-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S1577-2011-1294635600000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1581-2011-1294635600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to requiring instruction on organ donor awareness in all senior high schools as part of the health education curriculum",
+  "title" : "Includes public library systems within the definition of entities that are eligible to apply for local government efficiency grants",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "State Finance Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SERRANO",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T134108.TXT", "SOBI.D110110.T133607.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T134108.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294684868195
+  "luceneModified" : 1294684868217
 }

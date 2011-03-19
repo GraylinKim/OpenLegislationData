@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1462-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1462-2011-1294635600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Expands the exemption provided to professional journalists and newscasters from contempt to include employment or association with a web log",
+  "summary" : "Expands the exemption provided to professional journalists and newscasters from contempt to include employment or association with a web log; defines web log as a website or webpage that contains an online journal containing news, comments and offers hyperlinks provided by the writer. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1232",
+  "lawSection" : "Civil Rights Law",
+  "previousVersions" : [ "A6078-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil rights law, in relation to exemptions provided to professional journalists and newscasters from contempt ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T134108.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294684868213
+}

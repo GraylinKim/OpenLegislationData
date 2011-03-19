@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1465-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1465-2011-1294635600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a transfer fee of 75% of the fair market value in dissolution or sales of a rental project or mutual company",
+  "summary" : "Provides for a transfer fee of 75% of the fair market value in dissolution or sales of a rental project or mutual company. ",
+  "currentCommittee" : null,
+  "sameAs" : "S456",
+  "lawSection" : "Private Housing Finance Law",
+  "previousVersions" : [ "A11236-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the private housing finance law, in relation to windfall profits on the dissolution or first sale of rental companies and the dissolution and/or reconstitution of mutual companies ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T134108.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294684868226
+}

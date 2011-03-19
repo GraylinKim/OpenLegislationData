@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1467-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1467-2011-1294635600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Initiates a four year moratorium on privatization voting by Mitchell-Lama building shareholders",
+  "summary" : "Initiates a four year moratorium on privatization voting by Mitchell-Lama building shareholders between failed dissolution votes. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Private Housing Finance Law",
+  "previousVersions" : [ "A11156-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the private housing finance law, in relation to initiating a four-year moratorium on privatization voting by Mitchell-Lama building shareholders ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T134108.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294684868231
+}
