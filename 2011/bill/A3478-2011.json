@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the training of boards of directors or trustees of certain voluntary not-for-profit facilities or corporations",
-  "summary" : null,
+  "summary" : "Relates to the training of boards of directors or trustees of certain voluntary not-for-profit facilities or corporations. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Mental Hygiene Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA7647-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the mental hygiene law, in relation to the training of boards of directors or trustees of certain voluntary not-for-profit facilities or corporations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT", "SOBI.D110125.T133418.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979556231
+  "luceneModified" : 1295980458834
 }

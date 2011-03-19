@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes the Westchester county board of elections to merge any election district with 50 or fewer registered voters into an existing election district",
-  "summary" : null,
+  "summary" : "Authorizes the Westchester county board of elections to merge any election district with 50 or fewer registered voters into an existing election district. ",
   "currentCommittee" : null,
   "sameAs" : "S2428",
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A8758-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to the consolidation of certain election districts in the county of Westchester ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT", "SOBI.D110125.T133418.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979556254
+  "luceneModified" : 1295980458825
 }

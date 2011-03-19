@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes installation of speed bumps and traffic spikes on highway ramps",
-  "summary" : null,
+  "summary" : "Authorizes installation of speed bumps and traffic spikes on ramps of highways to prevent motorists from entering highways in the wrong direction. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Highway Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA2528-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the highway law, in relation to the installation of certain speed bumps ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T133418.TXT", "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979255032
+  "luceneModified" : 1295980458821
 }
