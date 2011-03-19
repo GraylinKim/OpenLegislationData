@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S699-2011",
+  "senateBillNo" : "S700-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S699-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S700-2011-1294203600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to providing an exemption for school districts from requirements for separate specifications for public works",
+  "title" : "Relates to requiring disclosure of results of water testing of private residences at the time of sale or transfer",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Real Property Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT", "SOBI.D101229.T154459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293655666036
+  "luceneModified" : 1293655666040
 }

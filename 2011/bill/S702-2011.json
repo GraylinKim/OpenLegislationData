@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S699-2011",
+  "senateBillNo" : "S702-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S699-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S702-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "ROBACH",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to providing an exemption for school districts from requirements for separate specifications for public works",
+  "title" : "Creates the crime of environmental damage of property",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT", "SOBI.D101229.T154459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293655666036
+  "luceneModified" : 1293655666050
 }
