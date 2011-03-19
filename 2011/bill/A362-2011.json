@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A361-2011",
+  "senateBillNo" : "A362-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to economic development",
-    "billEventId" : "A361-2011-1294203600000-referred+to+economic+development",
+    "billEventId" : "A362-2011-1294203600000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,37 +18,58 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the creation and imposition of restrictive commercial practices and stringent recordkeeping and reporting to prevent gun sales to criminals",
-  "summary" : "Requires the creation and imposition of restrictive commercial practices and stringent recordkeeping and reporting to prevent gun sales to criminals; provides that such measures shall be promulgated by the superintendent of state police; restricts premises of sales; requires employee training; prohibits straw purchases; imposes additional license conditions. ",
+  "title" : "Requires sale of certain firearms between unlicensed persons shall be conducted through a licensed firearms dealer",
+  "summary" : "Requires sale of rifles and shotguns between unlicensed persons shall be conducted through a federally licensed firearms dealer; makes exceptions; provides penalties. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : [ "AA1093-2009" ],
+  "previousVersions" : [ "A1536-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ramos",
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lifton",
+    "fullname" : "Bing",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kavanagh",
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,28 +83,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Schimel",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Pheffer",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law and the penal law, in relation to preventing the sale of firearms, rifles, and shotguns to criminals ",
+  "actClause" : "AN ACT to amend the general business law, in relation to the sale of a rifle or a shotgun between unlicensed persons and providing penalties ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T154349.TXT", "SOBI.D101222.T154850.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T154850.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293050930278
+  "luceneModified" : 1293050930281
 }
