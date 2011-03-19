@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to medicaid reimbursement of private duty nursing services and care ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T092430.TXT", "SOBI.D110103.T164434.TXT", "SOBI.D110106.T124217.TXT", "SOBI.D110131.T104653.TXT", "SOBI.D110104.T090429.TXT", "SOBI.D110120.T123859.TXT", "SOBI.D110120.T124359.TXT", "SOBI.D110110.T180137.TXT", "SOBI.D110103.T162933.TXT", "SOBI.D110131.T104201.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T133209.TXT", "SOBI.D110103.T164434.TXT", "SOBI.D110104.T092430.TXT", "SOBI.D110106.T124217.TXT", "SOBI.D110120.T123859.TXT", "SOBI.D110104.T090429.TXT", "SOBI.D110131.T104653.TXT", "SOBI.D110120.T124359.TXT", "SOBI.D110110.T180137.TXT", "SOBI.D110103.T162933.TXT", "SOBI.D110131.T104201.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296488813814
+  "luceneModified" : 1296498729576
 }

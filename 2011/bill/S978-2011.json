@@ -62,6 +62,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "PERKINS",
     "branch" : null,
     "contactInfo" : null,
@@ -88,7 +95,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to training regarding domestic violence ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T164434.TXT", "SOBI.D110104.T090429.TXT", "SOBI.D110110.T180137.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110103.T162933.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T133209.TXT", "SOBI.D110103.T164434.TXT", "SOBI.D110104.T090429.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110110.T180137.TXT", "SOBI.D110103.T162933.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294700497371
+  "luceneModified" : 1296498729572
 }
