@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S466-2011",
+  "senateBillNo" : "S467-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S466-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S467-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires tax levy and percentage increase to be sent to all voters",
+  "title" : "Directs the New York state office of real property services to create a computer program that is accessible to the public",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Real Property Taxation",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T124334.TXT", "SOBI.D101220.T123827.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T124334.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292867014917
+  "luceneModified" : 1292867014920
 }
