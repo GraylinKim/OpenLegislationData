@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2171-2011",
+  "senateBillNo" : "S2322-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
-    "billEventId" : "S2171-2011-1295326800000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S2322-2011-1295326800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "GRIFFO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Restricts hiring of child care providers with criminal convictions",
-  "summary" : "Restricts hiring of child care providers with criminal convictions. ",
-  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "title" : "Establishes the crime of aggravated harassment of a police officer or peace officer",
+  "summary" : null,
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
-  "previousVersions" : [ "S2009-2009" ],
+  "lawSection" : "Penal Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DEFRANCISCO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,7 +41,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the social services law, in relation to criminal history review of child care providers ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T120629.TXT", "SOBI.D110118.T112120.TXT", "SOBI.D110118.T123131.TXT", "SOBI.D110118.T152214.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T152214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382134622
+  "luceneModified" : 1295382134594
 }

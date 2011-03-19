@@ -31,6 +31,13 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to criminal use of public records ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T120629.TXT", "SOBI.D110118.T123131.TXT", "SOBI.D110118.T111620.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T120629.TXT", "SOBI.D110118.T123131.TXT", "SOBI.D110118.T111620.TXT", "SOBI.D110118.T152214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295371891186
+  "luceneModified" : 1295382134613
 }

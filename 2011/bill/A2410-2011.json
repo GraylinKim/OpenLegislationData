@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2356-2011",
+  "senateBillNo" : "A2410-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A2356-2011-1295326800000-referred+to+codes",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2410-2011-1295326800000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,32 +13,18 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the disposition of unclaimed cremated remains of a veteran",
-  "summary" : "Establishes the veterans' cremains act, allowing funeral directors to grant qualified veterans' organizations the right to receive the cremains of a veteran which has not been claimed by a relative or friend of the deceased within one year after cremation. ",
+  "title" : "Increases penalties for certain alcohol related driving convictions",
+  "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S1469",
-  "lawSection" : "Not-for-Profit Corporation Law",
-  "previousVersions" : [ "A10166-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Colton",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Benedetto",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "Gunther",
@@ -48,28 +34,42 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Weisenberg",
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brook-Krasny",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the not-for-profit corporation law, in relation to disposition of unclaimed cremated remains of a veteran ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T151652.TXT", "SOBI.D110118.T152214.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T152214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382134616
+  "luceneModified" : 1295382134570
 }

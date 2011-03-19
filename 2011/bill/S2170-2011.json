@@ -24,7 +24,14 @@
   "sameAs" : "A1589",
   "lawSection" : "Public Health Law",
   "previousVersions" : [ "S2324-2009" ],
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to the shipment of cigarettes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T120629.TXT", "SOBI.D110118.T112120.TXT", "SOBI.D110118.T123131.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T120629.TXT", "SOBI.D110118.T112120.TXT", "SOBI.D110118.T123131.TXT", "SOBI.D110118.T152214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295371891175
+  "luceneModified" : 1295382134617
 }

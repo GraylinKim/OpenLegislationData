@@ -38,6 +38,13 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to sales and purchases of human organs ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T114126.TXT", "SOBI.D110118.T110118.TXT", "SOBI.D110118.T121130.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T114126.TXT", "SOBI.D110118.T110118.TXT", "SOBI.D110118.T121130.TXT", "SOBI.D110118.T152214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295370690763
+  "luceneModified" : 1295382134599
 }

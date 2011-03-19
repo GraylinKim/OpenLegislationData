@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2169-2011",
+  "senateBillNo" : "A2368-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2169-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A2368-2011-1295326800000-referred+to+agriculture",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,77 +13,70 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides enhanced sentencing for the offenses of criminal possession of a weapon and criminal sale of a firearm",
-  "summary" : "Provides enhanced sentencing for the offenses of criminal possession of a weapon and criminal sale of a firearm where such offenses occur at the residence of a child under age of fourteen. ",
-  "currentCommittee" : "CODES",
+  "title" : "Limits the number of intact animals over the age of four months a person or business can own, possess, control or otherwise have charge or custody of",
+  "summary" : "Provides that no person or business who buys, sells or offers for sale dogs or cats to the public or at wholesale shall possess or own more than 50 dogs or cats with intact sexual organs over the age of four months. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : [ "S8418-2009" ],
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "AB7285-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HANNON",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "Hevesi",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to enhanced sentencing for criminal possession of a weapon or criminal sale of a firearm, when the crime is committed at the home of a child ",
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to a limit on the number of intact animals over the age of four months a person or business can own, possess, control or otherwise have charge or custody ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T120629.TXT", "SOBI.D110118.T112120.TXT", "SOBI.D110118.T123131.TXT", "SOBI.D110118.T111620.TXT", "SOBI.D110118.T152214.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T152214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382134606
+  "luceneModified" : 1295382134602
 }
