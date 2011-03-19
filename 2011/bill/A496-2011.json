@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A494-2011",
+  "senateBillNo" : "A496-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to labor",
-    "billEventId" : "A494-2011-1294203600000-referred+to+labor",
+    "eventText" : "referred to tourism, arts and sports development",
+    "billEventId" : "A496-2011-1294203600000-referred+to+tourism%2C+arts+and+sports+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Grants a waiver of the civil service examination fee to persons who have completed the displaced homemakers program or job training program",
+  "title" : "Provides senior citizens shall be entitled to use any park, recreational facility or historic site without the imposition of any fee or other charge",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Labor Law",
+  "lawSection" : "Parks, Recreation and Historic Preservation Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,28 +41,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Mayersohn",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Robinson",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Boyland",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Scarborough",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the labor law, in relation to granting a waiver of the civil service examination fee to displaced homemakers ",
+  "actClause" : "AN ACT to amend the parks, recreation and historic preservation law, in relation to waiver of certain fees ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T145854.TXT", "SOBI.D101228.T150334.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T150334.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293566614567
+  "luceneModified" : 1293566614576
 }

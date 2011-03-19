@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A499-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A499-2011-1294203600000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Sets a 7 year limit to the real property tax exemption for unimproved property of mandatory class nonprofit organizations",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to the duration of the exemption for property of mandatory class nonprofit organizations by reason of the absence of suitable buildings or improvements thereon if construction of such buildings or improvements is in progress or is in good faith contemplated ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101228.T150334.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293566614582
+}
