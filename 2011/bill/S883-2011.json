@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S880-2011",
+  "senateBillNo" : "S883-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S880-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S883-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes additional tax credits for certain costs incurred in film and television productions in N.Y. city",
+  "title" : "Enacts the religious freedom restoration act",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Civil Rights Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T104352.TXT", "SOBI.D110103.T104852.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T104852.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294069732348
+  "luceneModified" : 1294069732360
 }

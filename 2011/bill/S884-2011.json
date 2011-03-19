@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S880-2011",
+  "senateBillNo" : "S884-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S880-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "billEventId" : "S884-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes additional tax credits for certain costs incurred in film and television productions in N.Y. city",
+  "title" : "Establishes the \"Caregiver's Assistance Act\" giving income tax credits and deductions and a real property tax exemption to certain persons who help seniors",
   "summary" : null,
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T104352.TXT", "SOBI.D110103.T104852.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T104852.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294069732348
+  "luceneModified" : 1294069732364
 }
