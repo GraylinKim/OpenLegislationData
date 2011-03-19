@@ -1,0 +1,87 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S3797-2009",
+  "billEvents" : [ {
+    "eventDate" : 1238558400000,
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S3797-2009-1238558400000-REFERRED+TO+CONSUMER+PROTECTION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1240286400000,
+    "eventText" : "REPORTED AND COMMITTED TO CODES",
+    "billEventId" : "S3797-2009-1240286400000-REPORTED+AND+COMMITTED+TO+CODES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1242100800000,
+    "eventText" : "1ST REPORT CAL.307",
+    "billEventId" : "S3797-2009-1242100800000-1ST+REPORT+CAL.307",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1242187200000,
+    "eventText" : "2ND REPORT CAL.",
+    "billEventId" : "S3797-2009-1242187200000-2ND+REPORT+CAL.",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1242619200000,
+    "eventText" : "ADVANCED TO THIRD READING",
+    "billEventId" : "S3797-2009-1242619200000-ADVANCED+TO+THIRD+READING",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1247716800000,
+    "eventText" : "SUBSTITUTED BY A271A",
+    "billEventId" : "S3797-2009-1247716800000-SUBSTITUTED+BY+A271A",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1262754000000,
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S3797-2009-1262754000000-REFERRED+TO+CONSUMER+PROTECTION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1263272400000,
+    "eventText" : "REPORTED AND COMMITTED TO CODES",
+    "billEventId" : "S3797-2009-1263272400000-REPORTED+AND+COMMITTED+TO+CODES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MONSERRATE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires debt collectors to send consumers a written notice of their rights under state law along with their debt collection correspondence",
+  "summary" : null,
+  "currentCommittee" : "CODES",
+  "sameAs" : "A271A",
+  "lawSection" : "General Business Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "CONSUMER PROTECTION", "CODES" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101203.T143957.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291405197680
+}

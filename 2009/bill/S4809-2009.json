@@ -1,0 +1,66 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S4809-2009",
+  "billEvents" : [ {
+    "eventDate" : 1240804800000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S4809-2009-1240804800000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1243915200000,
+    "eventText" : "1ST REPORT CAL.556",
+    "billEventId" : "S4809-2009-1243915200000-1ST+REPORT+CAL.556",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1244001600000,
+    "eventText" : "2ND REPORT CAL.",
+    "billEventId" : "S4809-2009-1244001600000-2ND+REPORT+CAL.",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1244088000000,
+    "eventText" : "ADVANCED TO THIRD READING",
+    "billEventId" : "S4809-2009-1244088000000-ADVANCED+TO+THIRD+READING",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1247716800000,
+    "eventText" : "SUBSTITUTED BY A5049",
+    "billEventId" : "S4809-2009-1247716800000-SUBSTITUTED+BY+A5049",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BRESLIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to activities by certain former state officers",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "A5049",
+  "lawSection" : "Public Officers Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "FINANCE" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101203.T143957.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291405197686
+}
