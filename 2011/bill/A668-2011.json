@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to mercury-added consumer products; repealer",
-  "summary" : null,
+  "summary" : "Relates to mercury-added consumer products. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A11145-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to mercury-added consumer products ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T115902.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072140114
+  "luceneModified" : 1294073942763
 }

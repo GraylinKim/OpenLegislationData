@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires installation and use of ceiling lifts in hospitals and nursing homes",
-  "summary" : null,
+  "summary" : "Requires installation and use of ceiling lifts for patient transfer in hospitals and nursing homes; further requires appropriate staff training in the use of ceiling lifts. ",
   "currentCommittee" : null,
   "sameAs" : "S239",
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA1723-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to requiring the installation and use of ceiling lifts in hospitals and nursing homes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T115902.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072140099
+  "luceneModified" : 1294073942779
 }
