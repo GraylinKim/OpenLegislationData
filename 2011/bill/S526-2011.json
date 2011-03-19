@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S526-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S526-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "FUSCHILLO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to sanctions for driving while ability impaired while holding a conditional license",
+  "summary" : null,
+  "currentCommittee" : "TRANSPORTATION",
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101221.T161126.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292965886935
+}
