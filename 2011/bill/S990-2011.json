@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296572400000S990-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296572400000,
+    "ayes" : [ "Gallivan", "Ball", "Martins", "McDonald", "Huntley" ],
+    "nays" : [ "Krueger" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Social Services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -83,12 +96,12 @@
   } ],
   "pastCommittees" : [ "SOCIAL SERVICES" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          990\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sens.  KLEIN,  ADAMS, DIAZ, FUSCHILLO, HASSELL-THOMPSON,\n         HUNTLEY, SAMPSON, STAVISKY -- read twice and ordered printed, and when\n         printed to be committed to the Committee on Social Services\n\n       AN ACT to amend the social services  law,  in  relation  to  restricting\n         placement  of level two and level three sex offenders in any temporary\n         emergency housing or homeless shelters used  to  house  families  with\n         children\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. The social services law is amended by adding a new  section\n    2  131-y to read as follows:\n    3    S  131-Y.  PLACEMENT  OF  LEVEL  TWO  OR  LEVEL  THREE  SEX OFFENDERS.\n    4  NOTWITHSTANDING ANY INCONSISTENT PROVISION OF LAW, NEITHER THE OFFICE OF\n    5  CHILDREN AND FAMILY SERVICES, NOR A SOCIAL SERVICES OFFICIAL  ACTING  ON\n    6  HIS  OR  HER  OWN  OR  AS  AN  AGENT  PURSUANT  TO  SECTION  ONE HUNDRED\n    7  THIRTY-EIGHT-A OF THIS TITLE, SHALL PERMIT OR CAUSE THE PLACEMENT OF ANY\n    8  SEX OFFENDER WHO HAS BEEN ASSIGNED A LEVEL TWO  OR  LEVEL  THREE  DESIG-\n    9  NATION  PURSUANT TO ARTICLE SIX-C OF THE CORRECTION LAW, INTO ANY TEMPO-\n   10  RARY EMERGENCY HOUSING OR HOMELESS SHELTERS USED TO HOUSE FAMILIES  WITH\n   11  CHILDREN.\n   12    S 2. This act shall take effect immediately.\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD04413-01-1\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the social services law, in relation to restricting placement of level two and level three sex offenders in any temporary emergency housing or homeless shelters used to house families with children ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110104.T100936.TXT", "SOBI.D110201.T104341.TXT", "SOBI.D110104.T114001.TXT", "SOBI.D110104.T101458.TXT", "SOBI.D110104.T101948.TXT", "SOBI.D110201.T103841.TXT", "SOBI.D110104.T110955.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T100936.TXT", "SOBI.D110106.T153229.TXT", "SOBI.D110201.T120349.TXT-agenda-1.xml", "SOBI.D110201.T104341.TXT", "SOBI.D110104.T114001.TXT", "SOBI.D110104.T101458.TXT", "SOBI.D110104.T101948.TXT", "SOBI.D110201.T103841.TXT", "SOBI.D110104.T110955.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296575021345
+  "luceneModified" : 1296579829724
 }
