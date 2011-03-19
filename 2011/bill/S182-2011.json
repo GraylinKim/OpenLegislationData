@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires hospitals to notify patients of a non-participating physician or health care provider providing treatment at a participating hospital",
-  "summary" : null,
+  "summary" : "Requires hospitals to notify patients of a non-participating physician or health care provider providing treatment at a participating hospital. ",
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2539-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to patient notification of services provided by non-participating providers at a participating hospital ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T161708.TXT", "SOBI.D101210.T160705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161708.TXT", "SOBI.D101210.T162707.TXT", "SOBI.D101210.T160705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015828488
+  "luceneModified" : 1292016427638
 }
