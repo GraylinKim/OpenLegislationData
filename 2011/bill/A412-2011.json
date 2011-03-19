@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A412-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A412-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes program for familial dysautonomia and Tay-Sachs disease screening; authorizes department of health to provide grants",
+  "summary" : "Authorizes the department of health to establish a program for familial dysautonomia, Canavan's and Tay-Sachs disease screening and counseling and to provide grants and to enter into contracts with public and non-profit private entities to assist in such program; and provides that participation in such program shall be voluntary and all information shall be confidential. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A1135-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hevesi",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to the establishment of a program for familial dysautonomia, Canavan's disease and Tay-Sachs disease screening and counseling ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T160618.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293138378966
+}

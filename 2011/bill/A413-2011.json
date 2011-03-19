@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A413-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A413-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Develops comprehensive care centers for autism spectrum disorders",
+  "summary" : "Develops comprehensive assessment centers for autism spectrum disorders. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "AD8906-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to the development of comprehensive autism assessment centers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T160618.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293138378973
+}
