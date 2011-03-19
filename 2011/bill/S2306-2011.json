@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires certain campaign statements filed with boards of elections to be transmitted to the public campaign finance board having jurisdiction over the election",
-  "summary" : null,
+  "summary" : "Requires campaign statements filed with the state or local boards of elections to be transmitted to the public campaign finance board having jurisdiction over the election. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S985-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to requiring the board of elections with which certain campaign statements are filed to transmit copies thereof to the public campaign finance board having jurisdiction thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T145647.TXT", "SOBI.D110118.T155153.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T145647.TXT", "SOBI.D110118.T155153.TXT", "SOBI.D110118.T163657.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295383913677
+  "luceneModified" : 1295386617386
 }
