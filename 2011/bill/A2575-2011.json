@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2575-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A2575-2011-1295413200000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants tax credit for downpayment made on residential housing",
+  "summary" : "Grants credit against personal income tax to purchasers of residential housing in the amount of any down payment made on such housing; provides that the maximum credit shall not exceed 5 percent of the purchase price of the residential housing; requires taxpayers to meet eligibility requirements imposed by the state of New York mortgage agency. ",
+  "currentCommittee" : null,
+  "sameAs" : "S762",
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A5819-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McKevitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to granting to purchasers of residential housing a credit against personal income tax in the amount of any downpayment made on such housing ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T141812.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295464692843
+}

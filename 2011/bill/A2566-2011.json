@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2566-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A2566-2011-1295413200000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the transmission of unsolicited advertising text messages to cellular telephones or pagers",
+  "summary" : "Prohibits the transmission of unsolicited advertising text messages to cellular telephones or pagers; makes an exception for providers of such services and their affiliates who have permission; provides for enforcement by the attorney general and a private right of action. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Business Corporation Law",
+  "previousVersions" : [ "A5192-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the business corporation law and the general business law, in relation to prohibiting the transmission of certain text messages to cellular telephones or pagers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T141812.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295464692830
+}

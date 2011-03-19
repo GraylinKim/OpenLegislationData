@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2571-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2571-2011-1295413200000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates tax increment financing program",
+  "summary" : "Creates and provides for a tax increment financing program as a method of reducing the cost of affordable housing in NYS; authorizes issuance of general and special obligation bonds and temporary anticipation notes; authorizes division of housing and community renewal to provide technical services and assistance to municipalities with regard to site selection, financial packaging, and engineering and architectural services necessary for the preparation of project plans. ",
+  "currentCommittee" : null,
+  "sameAs" : "S802",
+  "lawSection" : "Private Housing Finance Law",
+  "previousVersions" : [ "A5863-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the private housing finance law, in relation to the creation of a tax increment financing program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T141812.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295464692838
+}
