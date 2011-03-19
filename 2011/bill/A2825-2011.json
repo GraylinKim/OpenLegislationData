@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2825-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A2825-2011-1295499600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes a court to order blood testing of persons charged with violent felony offenses",
+  "summary" : "Authorizes a court to order blood testing of defendants charged with violent felony offenses upon motion of the prosecutor with consent of the victim or upon motion of the victim where the victim has allegedly been exposed to blood or other bodily fluids of the defendant to be tested; requires the cost of such test to be borne, if convicted by the violent felony offender. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : [ "A2217-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the criminal procedure law and the penal law, in relation to authorizing court ordered blood testing of violent felons ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T155413.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295556853380
+}

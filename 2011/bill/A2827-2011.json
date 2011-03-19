@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2827-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A2827-2011-1295499600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows juvenile offenders be prosecuted as an adult for certain felony gun possession offenses",
+  "summary" : "Allows a juvenile offender accused of certain criminal possession of a weapon offenses, reckless manslaughter and attempts to commit certain felonies to be tried as an adult; changes the definition of \"juvenile offender\" to include criminal possession of a loaded firearm, machine gun or explosive, reckless manslaughter, and attempts to commit certain serious felonies. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A2535-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law and the criminal procedure law, in relation to the definition of juvenile offender ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T155413.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295556853387
+}

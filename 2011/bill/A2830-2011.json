@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2830-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2830-2011-1295499600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the use of social security numbers by an organization or governmental agency for the identification of an individual",
+  "summary" : "Prohibits the use of social security numbers by an organization or governmental agency for identification purposes of individuals, including: publicly posting or displaying an individual's social security number; printing the social security number on any card required to access products or services; requiring the social security number to access a website; and printing an individual's number on any printed materials mailed to such individual; defines terms. ",
+  "currentCommittee" : null,
+  "sameAs" : "S304",
+  "lawSection" : "Civil Rights Law",
+  "previousVersions" : [ "A10563-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil rights law, in relation to prohibiting the use of social security numbers from being used as identification for individuals ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T155413.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295556853393
+}
