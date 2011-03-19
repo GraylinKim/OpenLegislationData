@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4237-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A4237-2011-1296622800000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brennan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes a moratorium on the issuance of permits for the drilling of wells and prohibits drilling within two miles of the New York city water supply infrastructure",
+  "summary" : "Establishes a moratorium on the issuance of permits for the drilling of wells and prohibits drilling within ten miles of the New York city water supply infrastructure. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1230",
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "AC1322-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lifton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to environmental protection related to the drilling of oil and gas wells, and providing for the repeal of certain provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T145226.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296676346636
+}
