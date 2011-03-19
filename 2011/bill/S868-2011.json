@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S867-2011",
+  "senateBillNo" : "S868-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S867-2011-1294203600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S868-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the purchase of construction mortgages by the state of New York mortgage agency",
+  "title" : "Relates to payment for sanitation services provided to the New York city housing authority",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Public Housing Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T155247.TXT", "SOBI.D101230.T154748.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T155247.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293742367171
+  "luceneModified" : 1293742367177
 }
