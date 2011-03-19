@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires alcoholic beverages shipped from state that requires out of state shipments to be consigned to a licensee and stored, shall be so consigned and stored in this state",
-  "summary" : null,
+  "summary" : "Requires that alcoholic beverages shipped into this state from any state that requires out of state shipments of alcoholic beverages to be consigned to a licensee of that state and stored upon the premises of such licensee, shall be so consigned and stored in this state. ",
   "currentCommittee" : null,
   "sameAs" : "S2473",
   "lawSection" : "Alcoholic Beverage Control Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A5077-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to the shipment of alcoholic beverages into the state ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T155036.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T155537.TXT", "SOBI.D110121.T155036.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295643036333
+  "luceneModified" : 1295643337462
 }

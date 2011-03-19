@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2990-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to health",
+    "billEventId" : "A2990-2011-1295586000000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cymbrowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the commissioner of health to establish and implement a uniform letter grading system to classify health inspection results",
+  "summary" : "Directs the commissioner of health to establish and implement a uniform letter grading system to classify health inspection results for any place engaged in the preparation, sale or service of food for and to the general public in cities with a population of one million or more; directs the commissioner, upon establishment and implementation of such system, to require the display of any letter grade received pursuant to such system. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1035",
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "AC8008-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to the establishment of a letter grading system to classify inspection results for certain public food service establishments ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T155537.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643337485
+}

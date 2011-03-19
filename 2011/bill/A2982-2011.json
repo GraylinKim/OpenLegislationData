@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2982-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A2982-2011-1295586000000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to definitions for gambling offenses",
+  "summary" : "Relates to definitions for gambling offenses. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2476",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "AA7393-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to amending the definitions for gambling offenses ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T155537.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643337465
+}

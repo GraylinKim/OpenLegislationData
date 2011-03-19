@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2984-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2984-2011-1295586000000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides a wind speed limit of 109 miles per hour for light frame wood construction in the counties of Nassau and Suffolk",
+  "summary" : "Provides that in the counties of Nassau and Suffolk, light frame wood construction shall be designed and properly installed to withstand external pressure and wind born debris from a storm with sustained wind speed of at least one hundred nine miles per hour. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2475",
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A6695-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to wind speed limits for light frame wood construction in the counties of Nassau and Suffolk ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T155537.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643337472
+}

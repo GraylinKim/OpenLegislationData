@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2983-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to higher education",
+    "billEventId" : "A2983-2011-1295586000000-referred+to+higher+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes a procedure for schools to implement corrective action plans upon notification of a violation",
+  "summary" : "Establishes a procedure for schools to implement corrective action plans upon notification of a violation. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2472",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A5464-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to a corrective action plan ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T155537.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643337469
+}
