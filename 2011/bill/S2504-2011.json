@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a real property tax exemption for members of voluntary fire companies and ambulance services in certain counties and municipalities, upon election",
-  "summary" : null,
+  "summary" : "Provides a real property tax exemption for certain members of volunteer fire companies and ambulance services in any county, having a population of more than 150,000 and less than 155,000 as determined in accordance with the latest decennial census, and its municipalities to the extent of ten percent of assessed value of such property, upon the election of the county or municipality. ",
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S5755-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T142130.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T142130.TXT", "SOBI.D110124.T150133.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295896890468
+  "luceneModified" : 1295899293762
 }
