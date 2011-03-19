@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S133-2011",
+  "senateBillNo" : "S136-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S133-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S136-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires market-based assessments on real property owned or leased by a cooperative corporation or on a condominium basis",
+  "title" : "Establishes the New York state veterans' cemetery operation and maintenance fund",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101209.T151149.TXT", "SOBI.D101209.T150149.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101209.T151149.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291925509883
+  "luceneModified" : 1291925509896
 }
