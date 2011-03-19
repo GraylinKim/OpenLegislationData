@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3285-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3285-2011-1295845200000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for preference for certain N.Y. state domiciliaries in the awarding of contracts for public work",
+  "summary" : "Provides that for public works contracts involving an expenditure of $20,000 or more and purchase contracts for $10,000 or more a responsible bidder who is a New York state resident, firm or corporation and who is within two percent of the bid of the lowest responsible bidder may be awarded the contract; provides that where two or more qualify according to such provisions, the contract is to be awarded to the lowest responsible bidder. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1788",
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A1301-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law and the state finance law, in relation to granting preferences to New York state domiciliaries in the awarding of contracts for public work ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T154137.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295901697141
+}
