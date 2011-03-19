@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A4004-2011",
+  "senateBillNo" : "S2780-2011",
   "billEvents" : [ {
     "eventDate" : 1296536400000,
-    "eventText" : "referred to ways and means",
-    "billEventId" : "A4004-2011-1296536400000-referred+to+ways+and+means",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S2780-2011-1296536400000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "BUDGET BILL",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "CAPITAL PROJECTS BUDGET",
+  "title" : "Eliminates allowances for members serving as an officer of either house of the legislature; and repeals section 5-a of the legislative law relating thereto",
   "summary" : null,
-  "currentCommittee" : null,
-  "sameAs" : "S2804",
-  "lawSection" : "Budget Bills",
+  "currentCommittee" : "JUDICIARY",
+  "sameAs" : null,
+  "lawSection" : "Legislative Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T143402.TXT", "SOBI.D110201.T120849.TXT", "SOBI.D110201.T142902.TXT", "SOBI.D110201.T121850.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T143402.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296588842775
+  "luceneModified" : 1296588842786
 }
