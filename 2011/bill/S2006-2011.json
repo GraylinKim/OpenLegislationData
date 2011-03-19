@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2003-2011",
+  "senateBillNo" : "S2006-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2003-2011-1294981200000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S2006-2011-1294981200000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the collection of DNA samples from all persons convicted of a crime and establishes the office of wrongful evidence review; repealer",
+  "title" : "Establishes the class B misdemeanor of failure to report sexual assault of a child",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T123938.TXT", "SOBI.D110114.T123438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T123938.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295026778939
+  "luceneModified" : 1295026778952
 }

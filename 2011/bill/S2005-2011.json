@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2003-2011",
+  "senateBillNo" : "S2005-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2003-2011-1294981200000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S2005-2011-1294981200000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the collection of DNA samples from all persons convicted of a crime and establishes the office of wrongful evidence review; repealer",
+  "title" : "Expands the amount of information available about registered sex offenders on the division of criminal justice services website",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T123938.TXT", "SOBI.D110114.T123438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T123938.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295026778939
+  "luceneModified" : 1295026778948
 }
