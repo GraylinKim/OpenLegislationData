@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3786-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3786-2011-1296104400000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to structured settlements",
+  "summary" : "Provides that a claimant shall have a claimant's structured settlement broker to objectively review the terms of the agreement and ensure that they are in the best interests of the claimant. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Obligations Law",
+  "previousVersions" : [ "A11425-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general obligations law, in relation to structured settlements ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121848.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148728196
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3802-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to health",
+    "billEventId" : "A3802-2011-1296104400000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the reimbursement of out-of-network providers of clinical laboratory services",
+  "summary" : "Relates to the reimbursement of out-of-network providers of clinical laboratory services by organizations providing or offering comprehensive health services plans. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A11385-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law and the insurance law, in relation to the reimbursement of out-of-network providers of clinical laboratory services by organizations providing or offering comprehensive health services plans ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121848.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148728219
+}

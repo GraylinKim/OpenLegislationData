@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3775-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A3775-2011-1296104400000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes James Freitag, a retiree,  to apply for retroactive membership in the New York state teachers' retirement system",
+  "summary" : "Authorizes James Freitag, a retiree, to apply for retroactive membership in the New York state teachers' retirement system, and to have his retirement benefits adjusted accordingly. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2459",
+  "lawSection" : "Retirement",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to authorize James Freitag, a retiree receiving benefits from the New York state teachers' retirement system, to apply for retroactive membership in such retirement system ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121848.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148728170
+}

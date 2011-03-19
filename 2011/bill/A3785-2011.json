@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3785-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A3785-2011-1296104400000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to licensing and authorizing new lines of insurance; repealer",
+  "summary" : "Relates to licensing and authorizing new lines of insurance; requires independent adjusters to complete pre-licensing and continuing education courses. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "AA7129-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to modernizing the licensing process by creating three new lines of authority, requiring entities seeking to provide insurance agent and broker licensing courses to file for approval with the superintendent of insurance, requiring independent adjusters to complete pre-licensing and continuing education courses, granting the superintendent of insurance the authority to require an applicant for an article 21 license to submit his or her fingerprints, and permitting the licensing of non-resident adjusters on a reciprocal basis; and to repeal certain provisions of such law relating to licensing of adjusters ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121848.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148728194
+}
