@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2260-2011",
+  "senateBillNo" : "S2278-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2260-2011-1295326800000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S2278-2011-1295326800000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Designates certain court employees as sergeants",
+  "title" : "Authorizes commissioner of agriculture and markets to seek injunctive relief for violations concerning kosher foods",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Judiciary",
+  "lawSection" : "Agriculture and Markets Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT in relation to appointment of certain nonjudicial officers and employees of the unified court system ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T143143.TXT", "SOBI.D110118.T142643.TXT", "SOBI.D110118.T135641.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T143143.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295379103435
+  "luceneModified" : 1295379103472
 }
