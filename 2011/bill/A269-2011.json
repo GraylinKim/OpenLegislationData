@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A251-2011",
+  "senateBillNo" : "A269-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A251-2011-1294203600000-referred+to+codes",
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A269-2011-1294203600000-referred+to+agriculture",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,51 +18,44 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the court to consider certain factors when determining the issuance of an order for recognizance or bail",
-  "summary" : null,
+  "title" : "Increases the penalty for multiple convictions of torturing or failing to provide sustenance to a companion animal",
+  "summary" : "Increases the penalty for multiple convictions of torturing, killing or failing to provide sustenance to an animal to a class E felony, if convicted within five years from the date of a prior conviction. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "AB998-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Sweeney",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -70,6 +63,13 @@
     "id" : null,
     "position" : null,
     "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T153003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618105960
+  "luceneModified" : 1292618105019
 }

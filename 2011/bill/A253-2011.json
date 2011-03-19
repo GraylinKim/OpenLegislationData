@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A251-2011",
+  "senateBillNo" : "A253-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to codes",
-    "billEventId" : "A251-2011-1294203600000-referred+to+codes",
+    "billEventId" : "A253-2011-1294203600000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,58 +18,37 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the court to consider certain factors when determining the issuance of an order for recognizance or bail",
-  "summary" : null,
+  "title" : "Defenses against patronizing a prostitute",
+  "summary" : "Establishes an affirmative defense against patronizing a prostitute. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A11214-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Schimminger",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Clark",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Arroyo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T153003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618105960
+  "luceneModified" : 1292618105969
 }

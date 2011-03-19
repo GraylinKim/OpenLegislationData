@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A251-2011",
+  "senateBillNo" : "A259-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A251-2011-1294203600000-referred+to+codes",
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A259-2011-1294203600000-referred+to+agriculture",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,51 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the court to consider certain factors when determining the issuance of an order for recognizance or bail",
+  "title" : "Requires that individuals convicted of certain animal cruelty and animal fighting offenses reimburse the organizations caring for such animals",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Agriculture and Markets Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Glick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,14 +76,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,14 +97,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +116,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T153003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618105960
+  "luceneModified" : 1292618105983
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A251-2011",
+  "senateBillNo" : "A258-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A251-2011-1294203600000-referred+to+codes",
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A258-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,63 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Crouch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the court to consider certain factors when determining the issuance of an order for recognizance or bail",
+  "title" : "Provides that farmers shall receive an exemption from tolls when transporting product to N.Y. city for consumption in the city",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Burling",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Molinaro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Raia",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Clark",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "McDonough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T153003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618105960
+  "luceneModified" : 1292618105981
 }

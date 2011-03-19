@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A264-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A264-2011-1294203600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes reimbursement for testing for familial dysautonomia, Canavan's disease and Tay-Sachs",
+  "summary" : "Provides that every policy which provides coverage for hospital, surgical or medical care or provides reimbursement for laboratory tests or diagnostic X-rays shall provide coverage for testing of familial dysautonomia, Canavan's disease and Tay-Sachs; provides that in order to maintain the confidentiality of persons tested, receipt of acknowledgement from the testing facility shall be deemed sufficient evidence of testing. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A1134-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292618105998
+}
