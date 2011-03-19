@@ -1,21 +1,98 @@
 {
   "year" : 2009,
   "senateBillNo" : "A42012-2009",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1291006800000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A42012-2009-1291006800000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006801000,
+    "eventText" : "reported referred to rules",
+    "billEventId" : "A42012-2009-1291006801000-reported+referred+to+rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006802000,
+    "eventText" : "reported",
+    "billEventId" : "A42012-2009-1291006802000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006803000,
+    "eventText" : "rules report cal.7",
+    "billEventId" : "A42012-2009-1291006803000-rules+report+cal.7",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006804000,
+    "eventText" : "ordered to third reading rules cal.7",
+    "billEventId" : "A42012-2009-1291006804000-ordered+to+third+reading+rules+cal.7",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093200000,
+    "eventText" : "message of necessity - 3 day message",
+    "billEventId" : "A42012-2009-1291093200000-message+of+necessity+-+3+day+message",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093201000,
+    "eventText" : "passed assembly",
+    "billEventId" : "A42012-2009-1291093201000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093202000,
+    "eventText" : "delivered to senate",
+    "billEventId" : "A42012-2009-1291093202000-delivered+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093203000,
+    "eventText" : "REFERRED TO RULES",
+    "billEventId" : "A42012-2009-1291093203000-REFERRED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291698000000,
+    "eventText" : "SUBSTITUTED FOR S68012",
+    "billEventId" : "A42012-2009-1291698000000-SUBSTITUTED+FOR+S68012",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291698001000,
+    "eventText" : "3RD READING CAL.8",
+    "billEventId" : "A42012-2009-1291698001000-3RD+READING+CAL.8",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "RULES COM",
+    "fullname" : "Rules",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : null,
+  "title" : "Updates the state energy conservation construction code to address the requirements of the American Recovery and Reinvestment Act of 2009",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S8281,S68012,A7735A",
-  "lawSection" : null,
+  "sameAs" : "A7735A, S68012, S8281",
+  "lawSection" : "Energy Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -25,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101203.T170029.TXT", "SOBI.D101203.T165506.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101203.T165006.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101203.T170029.TXT", "SOBI.D101203.T165506.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101207.T151008.TXT", "SOBI.D101203.T165006.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291416309476
+  "luceneModified" : 1291752608569
 }

@@ -1,14 +1,98 @@
 {
   "year" : 2009,
   "senateBillNo" : "A42014-2009",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1291093200000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A42014-2009-1291093200000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093201000,
+    "eventText" : "reported referred to rules",
+    "billEventId" : "A42014-2009-1291093201000-reported+referred+to+rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093202000,
+    "eventText" : "reported",
+    "billEventId" : "A42014-2009-1291093202000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093203000,
+    "eventText" : "rules report cal.9",
+    "billEventId" : "A42014-2009-1291093203000-rules+report+cal.9",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093204000,
+    "eventText" : "ordered to third reading rules cal.9",
+    "billEventId" : "A42014-2009-1291093204000-ordered+to+third+reading+rules+cal.9",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093205000,
+    "eventText" : "message of necessity - 3 day message",
+    "billEventId" : "A42014-2009-1291093205000-message+of+necessity+-+3+day+message",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093206000,
+    "eventText" : "passed assembly",
+    "billEventId" : "A42014-2009-1291093206000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093207000,
+    "eventText" : "delivered to senate",
+    "billEventId" : "A42014-2009-1291093207000-delivered+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093208000,
+    "eventText" : "REFERRED TO RULES",
+    "billEventId" : "A42014-2009-1291093208000-REFERRED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291698000000,
+    "eventText" : "SUBSTITUTED FOR S68014",
+    "billEventId" : "A42014-2009-1291698000000-SUBSTITUTED+FOR+S68014",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291698001000,
+    "eventText" : "3RD READING CAL.10",
+    "billEventId" : "A42014-2009-1291698001000-3RD+READING+CAL.10",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rules",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the powers and duties of the dormitory authority of the state of New York relative to the establishment of subsidiaries for certain purposes",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : "S68014",
-  "lawSection" : null,
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -18,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101203.T174509.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101203.T174509.TXT", "SOBI.D101207.T151008.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291416309501
+  "luceneModified" : 1291752608552
 }
