@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S674-2011",
+  "senateBillNo" : "S676-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S674-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S676-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the suspension and revocation of firearms licenses upon the issuance of orders of protection",
+  "title" : "Requires employees of dealers in firearms and gunsmiths to submit to a criminal background check",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T094719.TXT", "SOBI.D101229.T094218.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T094719.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293634039883
+  "luceneModified" : 1293634039891
 }
