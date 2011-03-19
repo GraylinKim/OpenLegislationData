@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Enacts the New York State clean election campaign finance reform act; repealer",
-  "summary" : null,
+  "summary" : "Enacts the New York state clean election and campaign finance enforcement reform act. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA5814-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T161745.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T161745.TXT", "SOBI.D110131.T162221.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296508665922
+  "luceneModified" : 1296508941162
 }

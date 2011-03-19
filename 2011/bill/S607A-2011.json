@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S607A-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S607A-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "1ST REPORT CAL.36",
+    "billEventId" : "S607A-2011-1295931600000-1ST+REPORT+CAL.36",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1296450000000,
+    "eventText" : "AMENDED 607A",
+    "billEventId" : "S607A-2011-1296450000000-AMENDED+607A",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1296450001000,
+    "eventText" : "2ND REPORT CAL.",
+    "billEventId" : "S607A-2011-1296450001000-2ND+REPORT+CAL.",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the definition of alternate energy production facilities",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Service Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "ENERGY AND TELECOMMUNICATIONS" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110131.T162221.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296508941158
+}

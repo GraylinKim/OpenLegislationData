@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires cultural awareness and competence training for medical professionals",
-  "summary" : null,
+  "summary" : "Requires cultural awareness and competence training for medical professionals. ",
   "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SB1328-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T161745.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T161745.TXT", "SOBI.D110131.T162221.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296508665933
+  "luceneModified" : 1296508941166
 }
