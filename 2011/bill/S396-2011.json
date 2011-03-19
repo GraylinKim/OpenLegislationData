@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to payment for services performed in an office-based surgical facility",
-  "summary" : null,
+  "summary" : "Relates to payment for services performed in an office-based surgical facility. ",
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S8101-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to payment for services performed in an office-based surgical facility ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T114824.TXT", "SOBI.D101220.T105320.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T115324.TXT", "SOBI.D101220.T114824.TXT", "SOBI.D101220.T105320.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292863704339
+  "luceneModified" : 1292864004444
 }

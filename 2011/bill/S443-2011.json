@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S400-2011",
+  "senateBillNo" : "S443-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S400-2011-1294203600000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S443-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the appointment and reporting duties of the superintendent of the state police and to the appointment of employees of the state police",
-  "summary" : "Relates to the appointment and reporting duties of the superintendent of the state police and to the appointment of employees of the state police. ",
-  "currentCommittee" : "FINANCE",
+  "title" : "Removes provisions prohibiting N.Y. city from strengthening rent regulation laws to provide more comprehensive coverage than state laws",
+  "summary" : null,
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
-  "previousVersions" : [ "SC7104-2009" ],
+  "lawSection" : "Local Emergency Housing Rent Control Act",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADAMS",
+    "fullname" : "ADDABBO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "DUANE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,14 +48,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "PERALTA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERKINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -76,21 +76,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SQUADRON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "STAVISKY",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -99,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to the appointment and reporting duties of the superintendent of the state police and the appointment of employees of the state police ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T110321.TXT", "SOBI.D101220.T115324.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T115324.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292864004402
+  "luceneModified" : 1292864004430
 }

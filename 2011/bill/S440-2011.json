@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S415-2011",
+  "senateBillNo" : "S440-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S415-2011-1294203600000-REFERRED+TO+CODES",
+    "billEventId" : "S440-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides an exception to the publication requirement after a legal name change",
+  "title" : "Prohibits the dissemination of depictions of animal cruelty",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Civil Rights Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the civil rights law, in relation to the publication requirement after a legal name change ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T111322.TXT", "SOBI.D101220.T115324.TXT", "SOBI.D101220.T111823.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T115324.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292864004448
+  "luceneModified" : 1292864004393
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S409-2011",
+  "senateBillNo" : "S444-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S409-2011-1294203600000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S444-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the New York city department of buildings community accountability act",
+  "title" : "Provides that upon sale of a limited-profit housing company project, reserve and surplus funds must be held in escrow and dedicated to major capital improvements",
   "summary" : null,
-  "currentCommittee" : "CITIES",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "New York City Administrative Code",
+  "lawSection" : "Private Housing Finance Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "DUANE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "HUNTLEY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to enacting the New York city department of buildings community accountability act ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT", "SOBI.D101220.T111322.TXT", "SOBI.D101220.T115324.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T115324.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292864004432
+  "luceneModified" : 1292864004453
 }
