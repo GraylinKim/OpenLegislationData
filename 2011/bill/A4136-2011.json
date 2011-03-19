@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4136-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to health",
+    "billEventId" : "A4136-2011-1296536400000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for cost of living and marriage penalty adjustments to eligibility standards for the program for elderly pharmaceutical insurance coverage",
+  "summary" : "Provides for cost-of-living and marriage penalty adjustments to eligibility standards for the program for elderly pharmaceutical insurance coverage. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2172",
+  "lawSection" : "Elder Law",
+  "previousVersions" : [ "AA3697-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the elder law, in relation to cost of living and marriage penalty adjustments to eligibility standards for the program for elderly pharmaceutical insurance coverage ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T162910.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296595750581
+}

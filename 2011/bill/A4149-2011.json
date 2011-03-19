@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4149-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A4149-2011-1296536400000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants a state personal income tax deduction for retirement plan distributions used to purchase long-term care insurance",
+  "summary" : "Grants a state personal income tax deduction for retirement plan distributions used to purchase long-term care insurance; exempts distributions from individual retirement accounts and individual retirement annuities from state personal taxation when such distributions are used to purchase long-term health care insurance. ",
+  "currentCommittee" : null,
+  "sameAs" : "S228",
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A2155-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to exempting distributions from individual retirement accounts and individual retirement annuities from state personal income taxation when such distributions are used to purchase long-term health care insurance ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T162910.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296595750615
+}
