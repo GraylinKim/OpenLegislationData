@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1404-2011",
+  "senateBillNo" : "S1414-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1404-2011-1294376400000-REFERRED+TO+CODES",
+    "billEventId" : "S1414-2011-1294376400000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "HANNON",
+    "fullname" : "SALAND",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the imposition of an additional determinate sentence of imprisonment for the commission of a felony as part of a street gang",
+  "title" : "Relates to the consideration of certain factors when determining the issuance of an order of recognizance or bail",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Criminal Procedure Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law and the criminal procedure law, in relation to street gang crimes ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T101848.TXT", "SOBI.D110107.T100348.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T101848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294413528566
+  "luceneModified" : 1294413528557
 }
