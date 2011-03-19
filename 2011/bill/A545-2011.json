@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A545-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A545-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires persistent alcohol offenders to use distinctive registration plates for such offenders issued by the commissioner of motor vehicles",
+  "summary" : "Requires persons who have been convicted of an alcohol offense under the vehicle and traffic law on 3 or more occasions in a 5 year period of time, or on 5 or more occasions in a 10 year period of time, to surrender their regular registration and number plates and, in turn, the commissioner of motor vehicles shall issue such person distinctive license plate for persistent alcohol offenders; requires such persons to use such plate for 2 years following their most recent alcohol conviction; provides the fee for such plates shall be an additional $100; directs arresting officers to take possession and return to the commissioner of motor vehicles, the license plates of any person charged with an alcohol offense when the person refuses a chemical test, gets a .20% blood/alcohol on the chemical test, is a persistent alcohol offender or has a person under 16 in the motor vehicle; provides for mandatory motor vehicle registration suspensions upon conviction of aggravated unlicensed operation of a motor vehicle; increases penalties for violating the conditions of a conditional license from a traffic infraction to a class A misdemeanor and requires a 90 day motor vehicle registration suspension. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A1043-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring persistent alcohol offenders to surrender their registration and number plates and be issued distinctive registrations and number plates for such offenders, imposing mandatory motor vehicle registration suspensions for aggravated unlicensed operation of a motor vehicle, enhancing the penalties for violating the conditions of a conditional license, and directing the seizure of the registration and number plates of certain persons arrested for an alcohol offense ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T094848.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294066128308
+}
