@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "ADAMS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "PERKINS",
     "branch" : null,
     "contactInfo" : null,
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T114123.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T115123.TXT", "SOBI.D110105.T114123.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294245683480
+  "luceneModified" : 1294246283620
 }
