@@ -6,12 +6,12 @@
     "id" : "1291006800000S68002-2009--1--1",
     "voteType" : 2,
     "voteDate" : 1291006800000,
-    "ayes" : [ "Kruger", "Krueger", "Stachowski", "Oppenheimer", "Montgomery", "Duane", "Parker", "Stavisky", "Dilan", "Stewart-Cousins", "Thompson", "Breslin", "Diaz", "Klein", "Perkins", "Valesky", "Peralta" ],
-    "nays" : [ "DeFrancisco", "Johnson", "LaValle", "Seward", "Saland", "Farley", "Hannon", "Larkin", "Nozzolio", "Maziarz", "Marcellino", "Robach" ],
+    "ayes" : [ "Smith", "Stachowski", "Montgomery", "Duane", "Hassell-Thompson", "Krueger", "Parker", "Serrano", "Stewart-Cousins", "Dilan", "Klein", "Valesky" ],
+    "nays" : [ "Skelos", "Johnson", "Volker", "Farley", "LaValle", "Seward", "Hannon", "Larkin", "Saland" ],
     "abstains" : null,
     "excused" : null,
-    "ayeswr" : [ "Volker", "Padavan", "Leibell" ],
-    "description" : "Finance",
+    "ayeswr" : [ "Padavan" ],
+    "description" : "Rules",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -38,7 +38,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101209.T120638.TXT-agenda-1.xml", "SOBI.D101206.T174927.TXT", "SOBI.D101207.T185024.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101209.T120638.TXT-agenda-1.xml", "SOBI.D101206.T174927.TXT", "SOBI.D101209.T120638.TXT-agenda-2.xml", "SOBI.D101207.T185024.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291914398569
+  "luceneModified" : 1291914398698
 }
