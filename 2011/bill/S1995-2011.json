@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2180-2011",
+  "senateBillNo" : "S1995-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A2180-2011-1294981200000-referred+to+codes",
+    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+    "billEventId" : "S1995-2011-1294981200000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilich",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits level two or three sex offenders from voting at a school or facility for children",
+  "title" : "Extends real property partial tax exemptions for qualified veterans to include taxes for school purposes",
   "summary" : null,
-  "currentCommittee" : null,
-  "sameAs" : "S224",
-  "lawSection" : "Penal Law",
+  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Calhoun",
+    "fullname" : "DEFRANCISCO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kolb",
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Tobacco",
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ZELDIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, the election law, the education law and the correction law, in relation to voting by level two or level three sex offenders ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T122938.TXT", "SOBI.D110114.T121438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T122938.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295026178611
+  "luceneModified" : 1295026178634
 }
