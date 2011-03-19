@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2618-2011",
+  "senateBillNo" : "S2624-2011",
   "billEvents" : [ {
     "eventDate" : 1296104400000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S2618-2011-1296104400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2624-2011-1296104400000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,9 +18,9 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to fees for services to men and women",
+  "title" : "Designates the first Tuesday in June as \"Senior Citizens' Day\"",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "Executive Law",
   "previousVersions" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T091829.TXT", "SOBI.D110127.T092329.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T092329.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296138209491
+  "luceneModified" : 1296138209519
 }

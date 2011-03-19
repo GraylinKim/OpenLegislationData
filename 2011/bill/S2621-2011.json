@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2618-2011",
+  "senateBillNo" : "S2621-2011",
   "billEvents" : [ {
     "eventDate" : 1296104400000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S2618-2011-1296104400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S2621-2011-1296104400000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to fees for services to men and women",
+  "title" : "Enables most creditors of an assignor to participate in the distribution of the assignor's estate",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Debtor and Creditor Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T091829.TXT", "SOBI.D110127.T092329.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T092329.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296138209491
+  "luceneModified" : 1296138209515
 }
