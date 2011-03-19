@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S737-2011",
+  "senateBillNo" : "S739-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S737-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO BANKS",
+    "billEventId" : "S739-2011-1294203600000-REFERRED+TO+BANKS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides a cogent and logical framework for the myriad identity theft laws that have been passed in response to the rapidly changing nature of identity theft crimes",
+  "title" : "Requires notice to renters of safe deposit boxes regarding fees and charges",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "BANKS",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Banking Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T094220.TXT", "SOBI.D101230.T093720.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T094220.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293720140863
+  "luceneModified" : 1293720140871
 }
