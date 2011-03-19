@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires foster care records of inmate to be sent to a correctional facility",
-  "summary" : null,
+  "summary" : "Requires foster care records of inmate to be sent to correctional facility. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Correction Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3623-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the correction law, in relation to persons received into the custody of the department of correctional services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T112342.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T112342.TXT", "SOBI.D110120.T113853.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295540622903
+  "luceneModified" : 1295541533441
 }
