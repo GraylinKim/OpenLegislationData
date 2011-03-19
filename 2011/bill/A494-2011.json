@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A455-2011",
+  "senateBillNo" : "A494-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to health",
-    "billEventId" : "A455-2011-1294203600000-referred+to+health",
+    "eventText" : "referred to labor",
+    "billEventId" : "A494-2011-1294203600000-referred+to+labor",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,44 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes training and registration requirements for kidney dialysis patient care technicians",
-  "summary" : "Establishes training and registration requirements for kidney dialysis patient care technicians. ",
+  "title" : "Grants a waiver of the civil service examination fee to persons who have completed the displaced homemakers program or job training program",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Labor Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Weisenberg",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Barron",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Millman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Arroyo",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -66,15 +45,43 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Boyland",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Scarborough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to establishing training and registration requirements for kidney dialysis patient care technicians ",
+  "actClause" : "AN ACT to amend the labor law, in relation to granting a waiver of the civil service examination fee to displaced homemakers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T145854.TXT", "SOBI.D101228.T144333.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T145854.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293566334480
+  "luceneModified" : 1293566334506
 }

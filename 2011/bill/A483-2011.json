@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A483-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A483-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that a person is guilty of vehicular homicide when such person causes the death of another person by operation of a motor vehicle",
+  "summary" : "Provides that a person is guilty of vehicular homicide when such person causes the death of another person by operation of a motor vehicle when such death was caused committing a major traffic violation and such person was previously convicted of two or more major traffic violations or such person's license was revoked. CSI ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A3894-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to determining when a person is guilty of vehicular homicide ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101228.T145854.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293566334475
+}
