@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to tenant security deposit accounts and administrative expenses to which a person may be entitled",
-  "summary" : null,
+  "summary" : "Provides that a landlord depositing security deposits in an interest bearing account shall be entitled to receive as administration expenses a sum equivalent to 20 percent of the interest earned by such security money per annum, but not to exceed one percent per annum of the money so deposited. ",
   "currentCommittee" : null,
   "sameAs" : "S387",
   "lawSection" : "General Obligations Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA6824-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the general obligations law, in relation to tenant security deposit accounts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T113400.TXT", "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240810
+  "luceneModified" : 1294072440220
 }

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A675-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A675-2011-1294203600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Revises procedures for issuance of retail and special retail liquor licenses for on-premises consumption for premises within 500 feet of 3 or more existing premises",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Alcoholic Beverage Control Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez V",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to procedures associated with issuing retail and special retail licenses to sell liquor for on-premises consumption regarding premises located within five hundred feet of three or more existing premises in cities, towns and villages having a population of twenty thousand or more ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T113400.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294072440214
+}

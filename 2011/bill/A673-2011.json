@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A673-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A673-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"adversarial medical examination procedure act\"",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Practice Law and Rules",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil practice law and rules, the insurance law, the workers' compensation law, the general municipal law and the court of claims act, in relation to enacting the \"adversarial medical examination procedure act\" ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T113400.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294072440202
+}

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires certification notice to tenant when rent is paid by human resources administration",
-  "summary" : null,
+  "summary" : "Provides that whenever rent is paid by NYC human resources administration on behalf of a tenant on public assistance, the department of housing preservation shall send a certification of payment to such tenant. ",
   "currentCommittee" : null,
   "sameAs" : "S24",
   "lawSection" : "New York City Administrative Code",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA1439-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to certification of payment of rent by the human resources administration to the tenant ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T113400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541947
+  "luceneModified" : 1294072440185
 }

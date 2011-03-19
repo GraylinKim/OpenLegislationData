@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a tax deduction of $100 per 10 acres of taxpayer land made available for recreation as part of a local, national, state or regional trail system",
-  "summary" : null,
+  "summary" : "Provides a specified tax deduction for taxpayer land made available annually for recreation as part of a local, national, state or regional trail system; limits liability of such landowners to willful or malicious creation or perpetuation of a dangerous condition, use or structure. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1102-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the tax law and the general obligations law, in relation to the use of lands for recreational activities and an income tax deduction for certain landowners ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T113400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541939
+  "luceneModified" : 1294072440196
 }

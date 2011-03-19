@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires vaccinations against meningococcal disease for seventh graders and students entering college",
-  "summary" : null,
+  "summary" : "Requires vaccinations against meningococcal disease for seventh graders and students entering college. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA10313-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to requiring vaccinations against meningococcal disease for seventh graders and students entering college ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T113400.TXT", "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240806
+  "luceneModified" : 1294072440199
 }

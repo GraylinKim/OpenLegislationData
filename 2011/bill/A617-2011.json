@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits the inclusion of any advertisements in any mailing sent by the department of motor vehicles",
-  "summary" : null,
+  "summary" : "Prohibits the inclusion of any advertisement or other information in any mailing sent by the department of motor vehicles. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1100-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to prohibiting the inclusion of any advertisements in any mailing sent by the department of motor vehicles ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T113400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541936
+  "luceneModified" : 1294072440205
 }
