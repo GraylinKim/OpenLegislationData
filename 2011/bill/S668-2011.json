@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S668-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S668-2011-1294203600000-REFERRED+TO+ELECTIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERALTA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the board of elections to provide a registered voter with a sample ballot via mail",
+  "summary" : null,
+  "currentCommittee" : "ELECTIONS",
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101229.T093718.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293633438768
+}

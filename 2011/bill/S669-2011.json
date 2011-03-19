@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S669-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S669-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERALTA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a gun violence prevention program in the public schools",
+  "summary" : null,
+  "currentCommittee" : "EDUCATION",
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101229.T093718.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293633438771
+}
