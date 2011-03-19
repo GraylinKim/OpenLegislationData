@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2676-2011",
+  "senateBillNo" : "S2412-2011",
   "billEvents" : [ {
     "eventDate" : 1295499600000,
-    "eventText" : "referred to transportation",
-    "billEventId" : "A2676-2011-1295499600000-referred+to+transportation",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2412-2011-1295499600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "PERKINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes counties to establish a handicapped parking enforcement grant program",
+  "title" : "Creates the governor's advisory council on bias-related violence",
   "summary" : null,
-  "currentCommittee" : null,
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "DUANE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to authorizing counties to establish a handicapped parking enforcement grant program ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T111344.TXT", "SOBI.D110120.T111858.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T111858.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295540338660
+  "luceneModified" : 1295540338693
 }

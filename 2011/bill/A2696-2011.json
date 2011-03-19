@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A2696-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A2696-2011-1295499600000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez V",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Exempts new multiple dwellings from local taxation",
+  "summary" : "Exempts new multiple dwellings from local taxation; extends period until June 15, 2011. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         2696\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 20, 2011\n                                      ___________\n\n       Introduced by M. of A. V. LOPEZ -- read once and referred to the Commit-\n         tee on Real Property Taxation\n\n       AN  ACT to amend the real property tax law, in relation to exemptions of\n         new multiple dwellings from local taxation\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  The opening paragraph of item (A) of subparagraph (iv) of\n    2  paragraph (a) of subdivision 2 of section 421-a of the real property tax\n    3  law, as amended by chapter 618 of the laws of 2007, is amended  to  read\n    4  as follows:\n    5    Unless excluded by local law, in the city of New York, the benefits of\n    6  this subparagraph shall be available in the borough of Manhattan for new\n    7  multiple  dwellings  on tax lots now existing or hereafter created south\n    8  of or adjacent to either side of one hundred tenth street which commence\n    9  construction after July first, nineteen hundred  ninety-two  and  before\n   10  [December  twenty-eighth] JUNE FIFTEENTH, two thousand [ten] ELEVEN only\n   11  if:\n   12    S 2. Subparagraph (ii) of paragraph (c) of subdivision  2  of  section\n   13  421-a  of  the  real  property tax law, as amended by chapter 618 of the\n   14  laws of 2007, is amended to read as follows:\n   15    (ii) construction is commenced after January first,  nineteen  hundred\n   16  seventy-five  and  before  [December  twenty-eighth] JUNE FIFTEENTH, two\n   17  thousand [ten] ELEVEN provided, however, that such  commencement  period\n   18  shall  not  apply  to  multiple  dwellings  eligible  for benefits under\n   19  subparagraph (iv) of paragraph (a) of this subdivision;\n   20    S 3. This act shall take effect immediately and  shall  be  deemed  to\n   21  have been in full force and effect on and after December 28, 2010.\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD07027-02-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to exemptions of new multiple dwellings from local taxation ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T093806.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T111858.TXT", "SOBI.D110120.T093806.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295534286369
+  "luceneModified" : 1295540338702
 }
