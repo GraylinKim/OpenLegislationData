@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1237-2011",
+  "senateBillNo" : "S1241-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S1237-2011-1294290000000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S1241-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes mental health parity in public health insurance plans",
+  "title" : "Requires the city of New York or county within the district to make maintenance of escalators, elevators and other facilities in passenger stations a priority",
   "summary" : null,
-  "currentCommittee" : "SOCIAL SERVICES",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T113706.TXT", "SOBI.D110106.T113206.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T113706.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294331826407
+  "luceneModified" : 1294331826425
 }
