@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3896-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A3896-2011-1296190800000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the wetlands homeowner's relief act",
+  "summary" : "Enacts the wetlands homeowner's relief act; adds new section to the environmental conservation law, relating to homeowners in a wetlands designated area; provides that a homeowner who currently lives within a wetlands designated area shall not have to apply for a building permit for use of land within a fifty foot periphery of the house and garage; provides that new maps may not be issued without prior approval from the legislature; prohibits DEC from delineating wetlands beyond the boundaries shown on official wetlands maps. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A7240-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Butler",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McDonough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to enacting the wetlands homeowner's relief act ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110128.T132800.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296239280234
+}

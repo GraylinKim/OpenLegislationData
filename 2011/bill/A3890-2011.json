@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3890-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3890-2011-1296190800000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the city of Auburn to prefer local businesses in awarding public contracts",
+  "summary" : "Authorizes the city of Auburn to grant a preference to local businesses located in Cayuga county in awarding city contracts for public works and purchases, when such contracts do not exceed $100,000. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A7212-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Katz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, in relation to authorizing the city of Auburn to prefer businesses located in the county of Cayuga in awarding public contracts ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110128.T132800.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296239280224
+}

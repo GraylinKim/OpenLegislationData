@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3893-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3893-2011-1296190800000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for an additional judge of the county court for the county of Cayuga who shall discharge duties of county court judge, family court judge and surrogate",
+  "summary" : "Provides for an additional judge of the county court for the county of Cayuga who shall discharge duties of county court judge, family court judge and surrogate. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Judiciary Law",
+  "previousVersions" : [ "A7213-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Katz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the judiciary law, in relation to establishing a second county court judgeship in the county of Cayuga ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110128.T132800.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296239280230
+}
