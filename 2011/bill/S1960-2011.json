@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1955-2011",
+  "senateBillNo" : "S1960-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1955-2011-1294981200000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S1960-2011-1294981200000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the use of pre-sentence investigation reports",
+  "title" : "Eliminates receivership as a defense in proceedings to deposit rents of multiple dwellings",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Real Property Actions and Proceedings Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T114424.TXT", "SOBI.D110114.T114925.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T114925.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295023765944
+  "luceneModified" : 1295023765976
 }

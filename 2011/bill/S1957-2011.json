@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1955-2011",
+  "senateBillNo" : "S1957-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1955-2011-1294981200000-REFERRED+TO+CODES",
+    "billEventId" : "S1957-2011-1294981200000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the use of pre-sentence investigation reports",
+  "title" : "Increases penalties for second homicide offenders",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T114424.TXT", "SOBI.D110114.T114925.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T114925.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295023765944
+  "luceneModified" : 1295023765951
 }
