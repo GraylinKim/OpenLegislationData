@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires entities advertising for political purposes to disclose in such advertisements the source thereof",
-  "summary" : null,
+  "summary" : "Requires entities advertising for or against political candidates, ballot proposals, amendments, or such proceedings to disclose in such advertisements the source thereof; trade associations must disclose top 3 contributors; defines trade association. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : "A195",
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA7479-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to the disclosure of sources for political advertisements ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T131605.TXT", "SOBI.D110110.T125602.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T131605.TXT", "SOBI.D110110.T125602.TXT", "SOBI.D110110.T140611.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294683365557
+  "luceneModified" : 1294686371834
 }

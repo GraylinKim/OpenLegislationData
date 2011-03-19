@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits candidates from authorizing more than one political committee for any one election",
-  "summary" : null,
+  "summary" : "Prohibits candidates from authorizing more than one political committee for any one election. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA5546-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to prohibiting candidates from authorizing more than one political committee for any one election ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T131605.TXT", "SOBI.D110110.T130109.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T130109.TXT", "SOBI.D110110.T131605.TXT", "SOBI.D110110.T140611.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294683365559
+  "luceneModified" : 1294686371827
 }

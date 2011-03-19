@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits political contributions by businesses that have been awarded state contracts",
-  "summary" : null,
+  "summary" : "Prohibits political contributions by businesses that have been awarded state contracts. ",
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "State Finance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7478-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the state finance law, in relation to prohibiting political contributions by businesses that have been awarded state contracts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T131605.TXT", "SOBI.D110110.T125602.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T131605.TXT", "SOBI.D110110.T125602.TXT", "SOBI.D110110.T140611.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294683365554
+  "luceneModified" : 1294686371836
 }

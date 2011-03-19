@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the content of statements of campaign receipts, contributions, transfers and expenditures to and by political committees",
-  "summary" : null,
+  "summary" : "Relates to the content of statements of campaign receipts, contributions, transfers and expenditures to and by political committees; requires such statements to include the occupation of the contributor, and in certain cases such person's employer and business address. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S5545-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to the content of statements of campaign receipts, contributions, transfers and expenditures to and by political committees ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T131605.TXT", "SOBI.D110110.T125602.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T131605.TXT", "SOBI.D110110.T125602.TXT", "SOBI.D110110.T140611.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294683365552
+  "luceneModified" : 1294686371838
 }
