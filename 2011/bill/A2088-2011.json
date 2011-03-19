@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295326800000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A2088-2011-1295326800000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Thiele",
+    "fullname" : "Thiele (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 6 of article 5 of the constitution, in relation to veterans' credits for civil service appointments and promotions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T114925.TXT", "SOBI.D110113.T164426.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T122630.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110113.T164426.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295023765003
+  "luceneModified" : 1295371590025
 }

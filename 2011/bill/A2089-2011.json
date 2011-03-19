@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295326800000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A2089-2011-1295326800000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Thiele",
+    "fullname" : "Thiele (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 1 of the constitution, in relation to establishing a procedure for a people's veto of laws enacted by the legislature ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T143448.TXT", "SOBI.D110113.T164426.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T122630.TXT", "SOBI.D110114.T143448.TXT", "SOBI.D110113.T164426.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295033688375
+  "luceneModified" : 1295371590028
 }
