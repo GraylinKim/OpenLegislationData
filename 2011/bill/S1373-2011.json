@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides tax credit for employers of workers who were receiving public assistance immediately preceding such employment",
-  "summary" : null,
+  "summary" : "Provides a tax credit of $1,000 against special additional mortgage tax and article 9-A (franchise tax on business corporations) for each employee employed in excess of one year at minimum wage for thirty hours per week who was a public assistance recipient for at least two years immediately preceding the commencement of such employment. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-  "sameAs" : null,
+  "sameAs" : "A637",
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1131-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -64,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to providing a tax credit for employers who employ workers who were receiving public assistance ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T091844.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T102849.TXT", "SOBI.D110107.T091844.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294409924506
+  "luceneModified" : 1294414129844
 }
