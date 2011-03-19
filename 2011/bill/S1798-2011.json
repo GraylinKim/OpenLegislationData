@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for an accelerated death benefit rider on life insurance policies when the insured may require long term care",
+  "title" : "Provides for accelerated payment of a death benefit rider on life insurance policies",
   "summary" : null,
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
@@ -88,7 +88,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T140009.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T140509.TXT", "SOBI.D110112.T140009.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294858809097
+  "luceneModified" : 1294859109186
 }
