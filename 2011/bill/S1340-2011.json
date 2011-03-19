@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the certifications of disability for severely disabled persons to obtain certain motor vehicle registrations, plates and permits",
-  "summary" : null,
+  "summary" : "Relates to the certifications of disability for severely disabled persons to obtain certain motor vehicle registrations, plates and permits. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7486-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T155732.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T155732.TXT", "SOBI.D110106.T160233.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294347452727
+  "luceneModified" : 1294347753856
 }

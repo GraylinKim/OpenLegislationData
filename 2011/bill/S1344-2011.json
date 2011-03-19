@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1342-2011",
+  "senateBillNo" : "S1344-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S1342-2011-1294290000000-REFERRED+TO+INSURANCE",
+    "billEventId" : "S1344-2011-1294290000000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Adds to the definition of serious injury and relates to determining the sufficiency of the evidence related to the serious injury",
-  "summary" : "Adds to the definition of serious injury and relates to determining the sufficiency of the evidence related to the serious injury; question of fact determined by the trier. ",
+  "title" : "Relates to prohibiting rate variations of over ten percent between counties within the city of New York for nonbusiness private passenger automobiles",
+  "summary" : null,
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : [ "S7824-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T155732.TXT", "SOBI.D110106.T160233.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T160233.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294347753848
+  "luceneModified" : 1294347753861
 }

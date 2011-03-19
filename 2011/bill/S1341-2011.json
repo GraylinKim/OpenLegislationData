@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes the lease of lands adjacent to state, public authority and local highways for operation of wind or solar electric generating systems",
-  "summary" : null,
+  "summary" : "Authorizes the lease of lands adjacent to state, county and town highways for operation of wind or solar electric generating systems; authorizes the metropolitan transportation authority to enter into such leases. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Highway Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7734-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T155732.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T155732.TXT", "SOBI.D110106.T160233.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294347452732
+  "luceneModified" : 1294347753851
 }
