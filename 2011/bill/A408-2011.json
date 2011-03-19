@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A408-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A408-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the lapse of oil and gas interests located within Allegany state park if unused for 20 years prior to effective date of act",
+  "summary" : "Provides for the lapse of oil and gas and interests located within Allegany state park if unused for 20 years prior to effective date of act unless a statement of claim is filed by the owner prior to the end of the 20 year period or within 2 years of the effective date of the act, whichever is later; provides upon such lapse ownership shall revert to New York state; procedures and definitions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Law",
+  "previousVersions" : [ "AB9070-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property law, in relation to lapse of oil and gas interests in Allegany state park ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T160117.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293138077875
+}
