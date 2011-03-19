@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2061-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A2061-2011-1294894800000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that an affirmation of a health care practitioner may be served or filed in an action in lieu of and with same force and effect as an affidavit",
+  "summary" : "Provides that an affirmation of a health care practitioner may be served or filed in an action in lieu of and with same force and effect as an affidavit (changes the current reference in existing provisions from \"physician, osteopath or dentist\" to \"health care practitioner\"). ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Practice Law and Rules",
+  "previousVersions" : [ "A1725-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to changing reference from physician, osteopath or dentist to health care practitioner ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T144915.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294948155385
+}

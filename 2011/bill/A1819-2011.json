@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294894800000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A1819-2011-1294894800000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Jeffries",
+    "fullname" : "Jeffries (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 14 of article 3 of the constitution, in relation to eliminating the use of messages of necessity for appropriations bills ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T153520.TXT", "SOBI.D110112.T114459.TXT", "SOBI.D110112.T124520.TXT", "SOBI.D110112.T124029.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T144915.TXT", "SOBI.D110112.T153520.TXT", "SOBI.D110112.T114459.TXT", "SOBI.D110112.T124520.TXT", "SOBI.D110112.T124029.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294864520153
+  "luceneModified" : 1294948155399
 }

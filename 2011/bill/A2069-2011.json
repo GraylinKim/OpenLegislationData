@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2069-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2069-2011-1294894800000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Miller M",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the idling of certain railroads in the state",
+  "summary" : "Prohibits the idling of certain railroads in the state; defines railroad; prohibits a railroad engine to idle for longer than ten minutes while parking, standing or stopping within five hundred feet of a residential property; authorizes the department of transportation to impose a fine for a violation and post signs; directs the department of environmental conservation to regulate train emissions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Transportation Law",
+  "previousVersions" : [ "A9851-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Murray",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the transportation law, in relation to authorizing the department of transportation to prohibit idling railroads in the city of New York; and to amend the environmental conservation law, in relation to railroad emissions regulations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T144915.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294948155403
+}

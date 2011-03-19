@@ -13,26 +13,33 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick (MS)",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Increases number of supreme court justices in the thirteenth judicial district to ten and in the second judicial district to fifty-two",
-  "summary" : null,
+  "summary" : "Increases the number of supreme court justices in the thirteenth judicial district to ten and in the second judicial district to fifty-two. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Judiciary Law",
-  "previousVersions" : null,
-  "coSponsors" : null,
+  "previousVersions" : [ "A4049-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the judiciary law, in relation to the number of justices of the supreme court in the second and thirteenth judicial districts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T144414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T144915.TXT", "SOBI.D110113.T144414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294947854261
+  "luceneModified" : 1294948155366
 }

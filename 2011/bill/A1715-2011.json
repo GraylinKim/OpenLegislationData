@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294894800000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A1715-2011-1294894800000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Lentol",
+    "fullname" : "Lentol (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 9 of article 1 of the constitution, in relation to authorizing certain social card games ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T144715.TXT", "SOBI.D110111.T143714.TXT", "SOBI.D110112.T100454.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T144915.TXT", "SOBI.D110111.T144715.TXT", "SOBI.D110111.T143714.TXT", "SOBI.D110112.T100454.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294844694342
+  "luceneModified" : 1294948155394
 }
