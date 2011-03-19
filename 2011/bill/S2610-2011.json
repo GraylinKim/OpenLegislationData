@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2608-2011",
+  "senateBillNo" : "S2610-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S2608-2011-1296018000000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S2610-2011-1296018000000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Mandates labeling of foods containing sodium and sodium compounds",
+  "title" : "Requires the inclusion of certain information in fiscal notes in retirement bills and on bills affecting political subdivisions",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Agriculture and Markets Law",
+  "lawSection" : "Legislative Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T162312.TXT", "SOBI.D110126.T161811.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T162312.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296076992789
+  "luceneModified" : 1296076992804
 }

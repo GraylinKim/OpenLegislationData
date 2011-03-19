@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2604-2011",
+  "senateBillNo" : "S2616-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
     "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S2604-2011-1296018000000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "billEventId" : "S2616-2011-1296018000000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Restricts the striking of enacting clause of bill without consent of sponsor",
-  "summary" : "Prohibits the legislative bill drafting commission from striking the enacting clause of a bill or resolution without express authorization of the primary sponsor. ",
+  "title" : "Applies the provisions of the human rights law to all employers regardless of the number of persons in their employ excluding certain family operated businesses",
+  "summary" : null,
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Legislative Law",
-  "previousVersions" : [ "S822-2009" ],
+  "lawSection" : "Executive Law",
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T162312.TXT", "SOBI.D110126.T161811.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T162312.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296076992816
+  "luceneModified" : 1296076992826
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2599-2011",
+  "senateBillNo" : "S2613-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2599-2011-1296018000000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S2613-2011-1296018000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to establishment of a presumption of custodial interference",
-  "summary" : "Relates to establishment of a presumption of custodial interference. ",
-  "currentCommittee" : "CODES",
+  "title" : "Provides for distribution of health care proxy information in mailings related to license and vehicle registration mailings to residents",
+  "summary" : null,
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T162312.TXT", "SOBI.D110126.T161311.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T162312.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296076992793
+  "luceneModified" : 1296076992819
 }

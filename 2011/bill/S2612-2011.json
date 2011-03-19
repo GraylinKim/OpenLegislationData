@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2599-2011",
+  "senateBillNo" : "S2612-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2599-2011-1296018000000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S2612-2011-1296018000000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to establishment of a presumption of custodial interference",
-  "summary" : "Relates to establishment of a presumption of custodial interference. ",
-  "currentCommittee" : "CODES",
+  "title" : "Establishes rules for receipts from services provided by asset management corporations",
+  "summary" : null,
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T162312.TXT", "SOBI.D110126.T161311.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T162312.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296076992793
+  "luceneModified" : 1296076992815
 }
