@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires persons convicted of driving while intoxicated who are injured as a result and medically transported to a hospital to pay for same before license reissuance",
-  "summary" : null,
+  "summary" : "Requires persons convicted of driving while intoxicated who are injured as a result of such offense and are medically transported to a hospital to pay for such medical transport and other pre-hospital medical bills before they apply to have their licenses to drive reissued to them. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S541-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T104424.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T104424.TXT", "SOBI.D110114.T110922.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295019864309
+  "luceneModified" : 1295021362938
 }
