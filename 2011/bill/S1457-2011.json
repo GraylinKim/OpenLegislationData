@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1452-2011",
+  "senateBillNo" : "S1457-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1452-2011-1294376400000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1457-2011-1294376400000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes a no fare program for transportation on the Long Island Rail Road for police officers employed by the towns of Suffolk",
+  "title" : "Relates to personal watercraft and certain safety provisions that require their use",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T135905.TXT", "SOBI.D110107.T140405.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T140405.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294427045297
+  "luceneModified" : 1294427045319
 }
