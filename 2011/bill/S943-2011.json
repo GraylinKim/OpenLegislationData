@@ -8,6 +8,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "1ST REPORT CAL.24",
+    "billEventId" : "S943-2011-1295931600000-1ST+REPORT+CAL.24",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -20,7 +27,7 @@
   },
   "title" : "Increases the penalty for crime of criminally negligent homicide",
   "summary" : "Increases the penalty for the crime of criminally negligent homicide by changing such offense to a class D felony from a class E felony. ",
-  "currentCommittee" : "CODES",
+  "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Penal Law",
   "previousVersions" : [ "S567-2009" ],
@@ -39,14 +46,14 @@
     "contactInfo" : null,
     "guid" : null
   } ],
-  "pastCommittees" : null,
+  "pastCommittees" : [ "CODES" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          943\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sens.  MARCELLINO, LARKIN, RANZENHOFER -- read twice and\n         ordered printed, and when printed to be committed to the Committee  on\n         Codes\n\n       AN ACT to amend the penal law, in relation to criminally negligent homi-\n         cide\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Section 125.10 of the penal  law  is  amended  to  read  as\n    2  follows:\n    3  S 125.10  Criminally negligent homicide.\n    4    A  person is guilty of criminally negligent homicide when, with crimi-\n    5  nal negligence, he causes the death of another person.\n    6    Criminally negligent homicide is a class [E] D felony.\n    7    S 2. This act shall take effect on the first of January next  succeed-\n    8  ing the date on which it shall have become a law.\n\n\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD04376-01-1\n",
   "memo" : null,
   "law" : null,
   "actClause" : "AN ACT to amend the penal law, in relation to criminally negligent homicide ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT", "SOBI.D110103.T150921.TXT", "SOBI.D110103.T142412.TXT", "SOBI.D110103.T155925.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT", "SOBI.D110103.T150921.TXT", "SOBI.D110103.T142412.TXT", "SOBI.D110103.T155925.TXT", "SOBI.D110125.T135419.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294332734808
+  "luceneModified" : 1295981659565
 }
