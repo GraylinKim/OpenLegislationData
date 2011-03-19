@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A803-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A803-2011-1294203600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides designation of housing opportunity zones for housing incentives",
+  "summary" : "Enacts the NYS housing opportunity zones act; provides for the creation of housing opportunity zones within which certain incentives are available for new construction or substantial rehabilitation of residential units. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A4001-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, the public service law, the tax law and the real property tax law, in relation to authorizing the creation of housing opportunity zones in certain cities, towns and villages within the state ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T131503.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294164903238
+}

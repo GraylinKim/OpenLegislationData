@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1004-2011",
+  "senateBillNo" : "A806-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S1004-2011-1294203600000-REFERRED+TO+FINANCE",
+    "eventText" : "referred to health",
+    "billEventId" : "A806-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,63 +13,63 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SQUADRON",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to financial disclosure by public officers; repealer",
-  "summary" : "Relates to financial disclosure by public officers; repeals certain provision of the legislative law relating thereto. ",
-  "currentCommittee" : "FINANCE",
+  "title" : "Relates to requirements for the safe handling of prescription drug samples by certain health care professionals",
+  "summary" : "Enacts requirements relating to the safe handling of prescription drug samples by certain health care professionals; requires maintenance of certain records and information regarding samples received and distributed including expiration dates. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
-  "previousVersions" : [ "S5773-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A7066-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADDABBO",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Brennan",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "VALESKY",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, the public officers law, the civil service law, the legislative law and the election law, in relation to financial disclosure by public officers; and to repeal certain provisions of the public officers law relating thereto ",
+  "actClause" : "AN ACT to amend the public health law, in relation to reducing health risks involved with receipt, handling and distribution of samples of prescription drug products ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T131503.TXT", "SOBI.D110104.T123501.TXT", "SOBI.D110104.T131003.TXT", "SOBI.D110104.T124001.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T131503.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294164903229
+  "luceneModified" : 1294164903243
 }
