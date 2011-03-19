@@ -55,6 +55,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "NOZZOLIO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "O'MARA",
     "branch" : null,
     "contactInfo" : null,
@@ -74,7 +81,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to the constitution, in relation to the right to hunt, trap and fish ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T152324.TXT", "SOBI.D110119.T170327.TXT", "SOBI.D110119.T144808.TXT", "SOBI.D110119.T153314.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T152324.TXT", "SOBI.D110124.T113115.TXT", "SOBI.D110119.T170327.TXT", "SOBI.D110119.T144808.TXT", "SOBI.D110119.T153314.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295474607093
+  "luceneModified" : 1295886675491
 }
