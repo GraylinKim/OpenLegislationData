@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires coverage of medical nutrition therapy by health and accident insurance policies",
-  "summary" : null,
+  "summary" : "Requires all accident and health insurance policies to provide coverage of medical nutrition therapy; defines medical nutrition therapy to mean the nutritional diagnostic, therapy, and counseling services for the purpose of disease management which are furnished by a dietician or nutrition professional. ",
   "currentCommittee" : null,
   "sameAs" : "S93",
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA6398-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to making coverage for medical nutrition therapy applicable to insurance policies and contracts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T125423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T133927.TXT", "SOBI.D101216.T125423.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292522063501
+  "luceneModified" : 1292524767783
 }
