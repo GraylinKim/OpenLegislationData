@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296450000000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A428-2011-1296450000000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Gunther (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to authorizing fire districts to impose special ad valorem levies and special assessments against otherwise tax exempt real property ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101223.T162118.TXT", "SOBI.D101228.T113321.TXT", "SOBI.D101228.T112820.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T141711.TXT", "SOBI.D101223.T162118.TXT", "SOBI.D101228.T113321.TXT", "SOBI.D101228.T112820.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293554001886
+  "luceneModified" : 1296501431326
 }

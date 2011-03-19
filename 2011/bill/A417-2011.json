@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296450000000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A417-2011-1296450000000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Gunther (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to the exemption from taxation for non-profit organizations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T120909.TXT", "SOBI.D101223.T161118.TXT", "SOBI.D101228.T102816.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T141711.TXT", "SOBI.D110125.T120909.TXT", "SOBI.D101223.T161118.TXT", "SOBI.D101228.T102816.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295975349875
+  "luceneModified" : 1296501431325
 }
