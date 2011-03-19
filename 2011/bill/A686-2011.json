@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires one number license plate on the rear of each motor vehicle",
-  "summary" : null,
+  "summary" : "Requires one number license plate on the rear of each motor vehicle. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9426-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring one number plate on the rear of each motor vehicle ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T113902.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T113902.TXT", "SOBI.D110103.T115401.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072742312
+  "luceneModified" : 1294073641649
 }

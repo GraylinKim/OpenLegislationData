@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the definition of a clinical peer reviewer",
-  "summary" : null,
+  "summary" : "Relates to the definition of a clinical peer reviewer by clarifying that such term shall be applicable for the entire utilization review and external appeal article and means either a physician or a health care professional with certain qualifications. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A723-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the public health law and the insurance law, in relation to the definition of clinical peer reviewer ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T115401.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072140092
+  "luceneModified" : 1294073641659
 }
