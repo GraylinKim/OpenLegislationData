@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2267-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295326800000,
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S2267-2011-1295326800000-REFERRED+TO+CONSUMER+PROTECTION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows health club joiners to terminate within 14 days and members to cancel automatic renewal within 60 days of the date thereof",
+  "summary" : null,
+  "currentCommittee" : "CONSUMER PROTECTION",
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110118.T140653.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295377613647
+}
