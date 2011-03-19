@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2088-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to veterans' affairs",
+    "billEventId" : "A2088-2011-1294894800000-referred+to+veterans%27+affairs",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to veterans with disabilities",
+  "summary" : "Authorizes veterans with disabilities who were classified as veterans and used such classification in his or her original appointment or promotion and were later classified as a veteran with disabilities, such member shall be entitled to ten points additional credit less the number of points of additional credit allowed for the prior appointment. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1311",
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "previousVersions" : [ "AA3157-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McDonough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 6 of article 5 of the constitution, in relation to veterans' credits for civil service appointments and promotions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T164426.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294955066403
+}

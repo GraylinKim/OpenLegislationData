@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2093-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A2093-2011-1294894800000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Increases funding available for the Brooklyn healthworks pilot program and upstate healthworks",
+  "summary" : "Increases funding available for the Brooklyn healthworks pilot program and upstate healthworks pilot program. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1855",
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "AA9138-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to funding of the Brooklyn healthworks pilot program and upstate healthworks pilot program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T164426.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294955066411
+}

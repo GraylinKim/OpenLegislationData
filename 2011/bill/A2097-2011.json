@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2097-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A2097-2011-1294894800000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to food service waste reduction",
+  "summary" : "Relates to food service waste reduction; prohibits the use of polystyrene foam by contractors and lessees who deal with the state through state and municipal contracts. ",
+  "currentCommittee" : null,
+  "sameAs" : "S431",
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "AA428-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to food service waste reduction ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T164426.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294955066423
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2094-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2094-2011-1294894800000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DenDekker",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the \"vehicle lienholder accountability act\"",
+  "summary" : "Establishes the \"vehicle lienholder accountability act\"; requires lienholders to provide notice to the owner of the vehicle when such lienholder assigns his or her security interest and requires such lienholder to execute a release of his or her security interest, within ten days of such assignment. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "AA10863-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to establishing the \"vehicle lienholder accountability act\"; to require lienholders to provide notice to the owner of the vehicle when such lienholder assigns his or her security interest ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T164426.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294955066412
+}

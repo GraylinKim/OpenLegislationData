@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2086-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to correction",
+    "billEventId" : "A2086-2011-1294894800000-referred+to+correction",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits certain persons convicted under article six-C of the correction law from serving as a trustee, principal, officer, or member of a board of education of any",
+  "summary" : "Prohibits certain persons convicted of article six-C of the correction law as serving as a trustee, principal, officer, or member of a board of education of any public school in any BOCES, city, union free, common or central school district or any charter school. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1857",
+  "lawSection" : "Correction Law",
+  "previousVersions" : [ "A6003-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the correction law, in relation to prohibiting certain persons convicted under article six-C of the correction law from serving as a trustee, principal, officer, or member of a board of education of any public school in any BOCES, city, union free, common or central school district or any charter school ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T164426.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294955066393
+}

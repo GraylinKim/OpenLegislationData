@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2087-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to correction",
+    "billEventId" : "A2087-2011-1294894800000-referred+to+correction",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Restricts the residency of certain sex offenders",
+  "summary" : "Restricts the residency of certain sex offenders; provides guidelines for the location of sex offenders; allows municipalities to reject the placement of additional sex offenders in such municipality if certain factors and requirements are met. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1856",
+  "lawSection" : "Correction Law",
+  "previousVersions" : [ "A5236-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the correction law, in relation to restricting the residency of certain sex offenders ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T164426.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294955066398
+}

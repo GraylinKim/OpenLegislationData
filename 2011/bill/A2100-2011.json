@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2100-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A2100-2011-1294894800000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lavine",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to certain orders during divorce proceedings",
+  "summary" : "Relates to certain orders during divorce proceedings; provides for court order prohibiting both parties to the litigation from interfering with the other party's parental relationship. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Domestic Relations Law",
+  "previousVersions" : [ "A10301-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the domestic relations law, in relation to certain orders during divorce proceedings ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T164426.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294955066443
+}
