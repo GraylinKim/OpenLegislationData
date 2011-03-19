@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported",
+    "billEventId" : "A969-2011-1295931600000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
+    "fullname" : "Kellner (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -95,7 +102,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to requiring hospitals, nursing homes and community health clinics to provide patient documents in large print format, language assistance services and audio recordings of pertinent medical information ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T130902.TXT", "SOBI.D110105.T133158.TXT", "SOBI.D110105.T131653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T130902.TXT", "SOBI.D110105.T133158.TXT", "SOBI.D110105.T131653.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294423742207
+  "luceneModified" : 1295985864444
 }

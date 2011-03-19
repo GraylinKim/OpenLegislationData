@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A1854-2011-1295931600000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Wright (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to repeal subdivision 3 of section 117 of the social services law, relating to payment of public assistance benefits to or for new residents ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T100309.TXT", "SOBI.D110112.T131005.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T100309.TXT", "SOBI.D110112.T131005.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294930989307
+  "luceneModified" : 1295985864468
 }

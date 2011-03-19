@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A1221-2011-1295931600000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Bing",
+    "fullname" : "Bing (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -137,7 +144,7 @@
   "actClause" : "AN ACT to amend the emergency tenant protection act of nineteen seventy-four, the emergency housing rent control law, the administrative code of the city of New York and the tax law, in relation to deregulation thresholds ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT", "SOBI.D110107.T105851.TXT", "SOBI.D110107.T165421.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT", "SOBI.D110107.T105851.TXT", "SOBI.D110107.T165421.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294437261571
+  "luceneModified" : 1295985864457
 }

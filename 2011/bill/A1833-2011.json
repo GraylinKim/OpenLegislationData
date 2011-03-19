@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A1833-2011-1295931600000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Rosenthal (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to research relating to the health effects of artificial night light ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T153520.TXT", "SOBI.D110112.T132005.TXT", "SOBI.D110112.T115000.TXT", "SOBI.D110112.T124520.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T153520.TXT", "SOBI.D110112.T132005.TXT", "SOBI.D110112.T115000.TXT", "SOBI.D110112.T124520.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294864520165
+  "luceneModified" : 1295985864448
 }

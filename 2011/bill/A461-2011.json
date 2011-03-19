@@ -8,6 +8,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported",
+    "billEventId" : "A461-2011-1295931600000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to providing notice to applicants of potential liability for public assistance benefits ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T101220.TXT", "SOBI.D101228.T144833.TXT", "SOBI.D101228.T144333.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T101220.TXT", "SOBI.D101228.T144833.TXT", "SOBI.D101228.T144333.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293635540077
+  "luceneModified" : 1295985864466
 }

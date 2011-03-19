@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported",
+    "billEventId" : "A570-2011-1295931600000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Wright (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -74,7 +81,7 @@
   "actClause" : "AN ACT to amend the public housing law, in relation to the use of areas in housing authority projects for tenant meetings ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T141508.TXT", "SOBI.D110103.T095848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T141508.TXT", "SOBI.D110103.T095848.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294168508130
+  "luceneModified" : 1295985864456
 }

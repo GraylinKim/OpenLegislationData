@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported referred to codes",
+    "billEventId" : "A805-2011-1295931600000-reported+referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Gottfried (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -221,7 +228,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to creating the prescription drug discount program and to repeal certain provisions of the public health law relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T101148.TXT", "SOBI.D110111.T100648.TXT", "SOBI.D110110.T102050.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T101148.TXT", "SOBI.D110111.T100648.TXT", "SOBI.D110110.T102050.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294758708291
+  "luceneModified" : 1295985864425
 }

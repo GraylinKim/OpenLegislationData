@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A656-2011-1295931600000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Gottfried (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to authorizing the commissioner of health to develop and administer training programs for coroners, coroners' physicians and medical examiners ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T114401.TXT", "SOBI.D110103.T112900.TXT", "SOBI.D110105.T153729.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T114401.TXT", "SOBI.D110103.T112900.TXT", "SOBI.D110105.T153729.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294259849215
+  "luceneModified" : 1295985864441
 }

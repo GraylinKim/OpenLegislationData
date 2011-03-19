@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A812-2011-1295931600000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Paulin (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -172,7 +179,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to funding early intervention services; to amend chapter 639 of the laws of 1996, constituting the Health Care Reform Act of 1996 and chapter 1 of the laws of 1999, constituting the New York Health Care Reform Act of 2000, in relation to extending provisions of such chapters relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T165749.TXT", "SOBI.D110104.T132003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T165749.TXT", "SOBI.D110104.T132003.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294351069273
+  "luceneModified" : 1295985864442
 }

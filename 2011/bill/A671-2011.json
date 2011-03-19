@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported referred to codes",
+    "billEventId" : "A671-2011-1295931600000-reported+referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Jaffee (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -109,7 +116,7 @@
   "actClause" : "AN ACT to amend the public health law and the real property law, in relation to enacting the \"well water education act\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T113400.TXT", "SOBI.D110105.T165710.TXT", "SOBI.D110103.T115401.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T113400.TXT", "SOBI.D110105.T165710.TXT", "SOBI.D110103.T115401.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294264630043
+  "luceneModified" : 1295985864419
 }
