@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1864-2011",
+  "senateBillNo" : "S1883-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S1864-2011-1294894800000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S1883-2011-1294894800000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "ESPAILLAT",
+    "fullname" : "FLANAGAN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the seed-NY investment fund",
+  "title" : "Requires health insurance policies to cover comprehensive ultrasound screening and magnetic resonance imaging for breast cancer in certain cases",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "New York State Urban Development Corporation Act",
+  "lawSection" : "Insurance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T162423.TXT", "SOBI.D110113.T161922.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T162423.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294953863638
+  "luceneModified" : 1294953863648
 }

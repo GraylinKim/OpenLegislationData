@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires orders of protection issued in family court or in cases of family offenses in criminal court to be translated into the native language of the parties",
-  "summary" : null,
+  "summary" : "Requires orders of protection and temporary orders of protection issued in family court or in cases of family offenses in criminal court to be translated by an interpreter into the native language of the parties. ",
   "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
   "lawSection" : "Family Court Act",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA4594-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T161441.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T162423.TXT", "SOBI.D110113.T161441.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294953281380
+  "luceneModified" : 1294953863650
 }
