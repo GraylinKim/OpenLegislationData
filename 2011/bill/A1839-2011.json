@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1839-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1839-2011-1294808400000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits fuel pass-along rental adjustment to tenant of New York city rent controlled housing accommodations",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to eliminating fuel pass-along charges for occupants of rent controlled housing accommodations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294855204553
+}
