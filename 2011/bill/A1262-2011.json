@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1259-2011",
+  "senateBillNo" : "A1262-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to energy",
-    "billEventId" : "A1259-2011-1294203600000-referred+to+energy",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A1262-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,69 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits the disbursement of any funds under the \"green jobs-green New York act of 2011\" to the Association of Community Organizations for Reform Now (ACORN)",
-  "summary" : "Prohibits the disbursement of any funds under the \"green jobs-green New York act of 2011\" to the Association of Community Organizations for Reform Now (ACORN) or any organization which has connections to ACORN. ",
+  "title" : "Provides for the submission to the people of a proposition or question to convene a constitutional convention",
+  "summary" : "Provides for the submission to the people of a proposition or question to convene a constitutional convention. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "A9170-2009" ],
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "A9157-2009" ],
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Fitzpatrick",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Barclay",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Boyle",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Burling",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Calhoun",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Corwin",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Crouch",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Duprey",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "Finch",
@@ -90,35 +34,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hayes",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jordan",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lopez",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "P",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "McDonough",
+    "fullname" : "Tobacco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -132,14 +55,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Oaks",
+    "fullname" : "Conte",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Raia",
+    "fullname" : "Amedore",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Corwin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -153,14 +83,84 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Saladino",
+    "fullname" : "Burling",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Tobacco",
+    "fullname" : "Oaks",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Sayward",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Molinaro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Duprey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castelli",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Murray",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -169,10 +169,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend chapter 487 of the laws of 2009, amending the public authorities law relating to establishing the \"green jobs-green New York act of 2009\", in relation to prohibiting the disbursement of funds to certain entities ",
+  "actClause" : "AN ACT to amend the election law and the public officers law, in relation to providing for the submission to the people of a proposition or question to convene a constitutional convention ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T120855.TXT", "SOBI.D110107.T121355.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T121355.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294420435036
+  "luceneModified" : 1294420435047
 }
