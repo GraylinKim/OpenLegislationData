@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1048-2011",
+  "senateBillNo" : "S1050-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S1048-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1050-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a plan to promote increased residential use of energy efficient modalities",
+  "title" : "Allows taxpayers to contribute to the tuition assistance program on personal income tax forms",
   "summary" : null,
-  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Energy Conservation",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "SAMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T162518.TXT", "SOBI.D110104.T162017.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T162518.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294176318108
+  "luceneModified" : 1294176318119
 }
