@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S614A-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+    "billEventId" : "S614A-2011-1294203600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1296536400000,
+    "eventText" : "AMEND AND RECOMMIT TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+    "billEventId" : "S614A-2011-1296536400000-AMEND+AND+RECOMMIT+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1296536401000,
+    "eventText" : "PRINT NUMBER 614A",
+    "billEventId" : "S614A-2011-1296536401000-PRINT+NUMBER+614A",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KLEIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Finances the transportation and distribution of New York state farm grown products to food service markets especially in underserved communities",
+  "summary" : null,
+  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "sameAs" : null,
+  "lawSection" : "New York State Urban Development Corporation Act",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "CORPORATIONS, AUTHORITIES AND COMMISSIONS" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T110843.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296576523254
+}
