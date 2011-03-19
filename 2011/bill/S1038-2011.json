@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to damage to a motor vehicle as criminal mischief",
-  "summary" : null,
+  "summary" : "Provides that damaging certain mechanisms such as locks, security devices, anti-theft and recovery devices consisting of an electronic homing device and dashboard items on a motor vehicle shall be criminal mischief in the third degree regardless of value. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1898-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T152512.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T161015.TXT", "SOBI.D110104.T152512.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294172712070
+  "luceneModified" : 1294175415840
 }

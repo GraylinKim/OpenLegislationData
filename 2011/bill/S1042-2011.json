@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the crime of unauthorized use of a motor vehicle",
-  "summary" : null,
+  "summary" : "Relates to the crime of unauthorized use of a motor vehicle; adds other motor vehicle related crimes as predicate crimes which may increase punishment for unauthorized use of a motor vehicle in the second degree when one is convicted of such crimes within the preceding ten years. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA1899-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T153013.TXT", "SOBI.D110104.T153513.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T161015.TXT", "SOBI.D110104.T153013.TXT", "SOBI.D110104.T153513.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294173313291
+  "luceneModified" : 1294175415844
 }
