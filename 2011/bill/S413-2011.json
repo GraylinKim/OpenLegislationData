@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S409-2011",
+  "senateBillNo" : "S413-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S409-2011-1294203600000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S413-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the New York city department of buildings community accountability act",
+  "title" : "Establishes the empire state performance commission for the purpose of designing and advising the governor and the legislature on the implementation of a performance",
   "summary" : null,
-  "currentCommittee" : "CITIES",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "New York City Administrative Code",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "SERRANO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T111322.TXT", "SOBI.D101220.T110822.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T111322.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292861602915
+  "luceneModified" : 1292861602929
 }

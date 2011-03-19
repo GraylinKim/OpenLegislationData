@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S409-2011",
+  "senateBillNo" : "S411-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S409-2011-1294203600000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO SOCIAL SERVICES",
+    "billEventId" : "S411-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the New York city department of buildings community accountability act",
+  "title" : "Relates to application to the department of agriculture for waivers for federal food stamp program",
   "summary" : null,
-  "currentCommittee" : "CITIES",
+  "currentCommittee" : "SOCIAL SERVICES",
   "sameAs" : null,
-  "lawSection" : "New York City Administrative Code",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "PERKINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T111322.TXT", "SOBI.D101220.T110822.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T111322.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292861602915
+  "luceneModified" : 1292861602922
 }

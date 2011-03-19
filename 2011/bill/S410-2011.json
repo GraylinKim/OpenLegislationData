@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S410-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO SOCIAL SERVICES",
+    "billEventId" : "S410-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a uniform allowable resource exemption and disregard for an applicant or recipient with an automobile",
+  "summary" : null,
+  "currentCommittee" : "SOCIAL SERVICES",
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T111322.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292861602918
+}
