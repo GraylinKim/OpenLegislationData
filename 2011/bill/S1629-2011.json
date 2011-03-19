@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1625-2011",
+  "senateBillNo" : "S1629-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
-    "billEventId" : "S1625-2011-1294635600000-REFERRED+TO+MENTAL+HEALTH+AND+DEVELOPMENTAL+DISABILITIES",
+    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+    "billEventId" : "S1629-2011-1294635600000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Regulates the establishment and location of methadone treatment centers",
+  "title" : "Authorizes a real property tax exemption for active duty reservists",
   "summary" : null,
-  "currentCommittee" : "MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
+  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
   "sameAs" : null,
-  "lawSection" : "Mental Hygiene Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T160128.TXT", "SOBI.D110110.T160630.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T160630.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294693590298
+  "luceneModified" : 1294693590311
 }

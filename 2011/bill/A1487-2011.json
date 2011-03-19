@@ -45,13 +45,6 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Thiele",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -60,7 +53,7 @@
   "actClause" : "AN ACT to amend the legislative law, in relation to requiring an equal apportionment of resources and staff for members of the legislature ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T142112.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T142112.TXT", "SOBI.D110110.T160630.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294687272237
+  "luceneModified" : 1294693590320
 }

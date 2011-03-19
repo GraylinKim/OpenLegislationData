@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1625-2011",
+  "senateBillNo" : "S1631-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
-    "billEventId" : "S1625-2011-1294635600000-REFERRED+TO+MENTAL+HEALTH+AND+DEVELOPMENTAL+DISABILITIES",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S1631-2011-1294635600000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "STEWART-COUSINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Regulates the establishment and location of methadone treatment centers",
+  "title" : "Provides for the trustees of the state university of New York to establish a college of engineering and applied sciences in the city of Yonkers",
   "summary" : null,
-  "currentCommittee" : "MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
+  "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Mental Hygiene Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T160128.TXT", "SOBI.D110110.T160630.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T160630.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294693590298
+  "luceneModified" : 1294693590317
 }
