@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295888400000S136-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295888400000,
+    "ayes" : [ "Marcellino", "Gallivan", "Golden", "Nozzolio", "Zeldin", "Squadron", "Diaz" ],
+    "nays" : [ "Peralta" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Investigations and Government Operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -34,12 +47,12 @@
   "coSponsors" : null,
   "pastCommittees" : [ "INVESTIGATIONS AND GOVERNMENT OPERATIONS" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          136\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sen.  LITTLE -- read twice and ordered printed, and when\n         printed to be committed to the Committee on Investigations and Govern-\n         ment Operations\n\n       AN ACT to amend the tax law, in relation  to  establishing  a  gift  for\n         veterans'  cemetery  operation  and  maintenance  which may be made on\n         personal income tax return; and to amend the  state  finance  law,  in\n         relation  to establishing the New York state veterans' cemetery opera-\n         tion and maintenance fund\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  The  tax  law is amended by adding a new section 627-a to\n    2  read as follows:\n    3    S 627-A.   GIFT FOR  VETERANS'  CEMETERY  OPERATION  AND  MAINTENANCE.\n    4  EFFECTIVE  FOR  ANY  TAX  YEAR COMMENCING ON OR AFTER JANUARY FIRST, TWO\n    5  THOUSAND TWELVE, AN INDIVIDUAL IN ANY TAXABLE YEAR MAY ELECT TO CONTRIB-\n    6  UTE TO THE NEW YORK STATE VETERANS' CEMETERY OPERATION  AND  MAINTENANCE\n    7  FUND.    THE CONTRIBUTIONS SHALL BE IN ANY WHOLE DOLLAR AMOUNT AND SHALL\n    8  NOT REDUCE THE AMOUNT OF STATE TAX OWED BY SUCH INDIVIDUAL. THE  COMMIS-\n    9  SIONER SHALL INCLUDE SPACE ON THE PERSONAL INCOME TAX RETURN TO ENABLE A\n   10  TAXPAYER  TO MAKE SUCH CONTRIBUTION. NOTWITHSTANDING ANY OTHER PROVISION\n   11  OF LAW, ALL REVENUE COLLECTED PURSUANT TO THIS SECTION SHALL BE CREDITED\n   12  TO THE NEW YORK STATE VETERANS' CEMETERY OPERATION AND MAINTENANCE FUND,\n   13  ESTABLISHED PURSUANT TO SECTION EIGHTY-NINE-H OF THE STATE FINANCE LAW.\n   14    S 2. The state finance law is amended by adding a new section 89-h  to\n   15  read as follows:\n   16    S  89-H.  NEW  YORK STATE VETERANS' CEMETERY OPERATION AND MAINTENANCE\n   17  FUND. 1. THERE IS HEREBY ESTABLISHED IN THE JOINT CUSTODY OF THE COMMIS-\n   18  SIONER OF TAXATION AND FINANCE AND THE STATE COMPTROLLER, A SPECIAL FUND\n   19  TO BE KNOWN AS THE \"NEW YORK  STATE  VETERANS'  CEMETERY  OPERATION  AND\n   20  MAINTENANCE FUND\".\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD00137-01-1\n\n       S. 136                              2\n\n    1    2.  SUCH  FUND SHALL CONSIST OF ALL REVENUE RECEIVED BY THE DEPARTMENT\n    2  OF TAXATION AND FINANCE, PURSUANT  TO  THE  PROVISIONS  OF  SECTION  SIX\n    3  HUNDRED TWENTY-SEVEN-A OF THE TAX LAW AND ALL OTHER MONEYS APPROPRIATED,\n    4  CREDITED  OR  TRANSFERRED THERETO FROM ANY OTHER FUND OR SOURCE PURSUANT\n    5  TO LAW.\n    6    3. MONEYS IN THE NEW YORK STATE VETERANS' CEMETERY OPERATION AND MAIN-\n    7  TENANCE FUND SHALL BE KEPT SEPARATE AND SHALL NOT BE COMMINGLED WITH ANY\n    8  OTHER  MONEYS IN THE CUSTODY OF THE COMMISSIONER OF TAXATION AND FINANCE\n    9  AND THE STATE COMPTROLLER.\n   10    4. THE MONEYS IN SUCH FUND SHALL BE  EXPENDED  PURSUANT  TO  APPROPRI-\n   11  ATIONS FOR THE PURPOSES OF THE OPERATION AND MAINTENANCE OF STATE VETER-\n   12  ANS' CEMETERIES.\n   13    S 3. This act shall take effect immediately.\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the tax law, in relation to establishing a gift for veterans' cemetery operation and maintenance which may be made on personal income tax return; and to amend the state finance law, in relation to establishing the New York state veterans' cemetery operation and maintenance fund ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T123622.TXT", "SOBI.D101209.T153651.TXT", "SOBI.D101209.T151149.TXT", "SOBI.D101209.T152650.TXT", "SOBI.D101209.T163654.TXT", "SOBI.D101217.T141947.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T123622.TXT", "SOBI.D101209.T153651.TXT", "SOBI.D101209.T151149.TXT", "SOBI.D101209.T152650.TXT", "SOBI.D110125.T095410.TXT-agenda-2.xml", "SOBI.D101209.T163654.TXT", "SOBI.D101217.T141947.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295890582611
+  "luceneModified" : 1295967250203
 }
