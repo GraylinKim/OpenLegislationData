@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires notification to victims upon the conditional release of an inmate convicted of a crime against a member of the same family or household",
-  "summary" : null,
+  "summary" : "Requires the state board of parole to provide notification to victims upon the conditional release of an inmate convicted of a crime against a member of the same family or household. ",
   "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
   "lawSection" : "Executive Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S600-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the executive law, in relation to notification of certain persons upon the conditional release of an inmate convicted of a crime against a member of the same family or household ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T122438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T130440.TXT", "SOBI.D110114.T115945.TXT", "SOBI.D110114.T122438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025878385
+  "luceneModified" : 1295028280381
 }

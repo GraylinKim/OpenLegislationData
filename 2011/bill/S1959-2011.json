@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Substitutes use immunity for transactional immunity",
-  "summary" : null,
+  "summary" : "Redefines an immunity recipient as a person who has been a witness in a legal proceeding and who has given evidence therein, and whose evidence (or any information directly or indirectly derived therefrom) may not be used against him in any criminal case; provides that a prosecutor may use evidence from a source independent of the defendant's immunized testimony against such immunity recipient; provides that, upon a motion by such immunity recipient to suppress such independent evidence, it shall be the burden of the prosecution to prove, beyond a reasonable doubt, that such evidence was derived from an independent source. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S835-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to substituting use immunity for transactional immunity ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T114925.TXT", "SOBI.D110114.T122438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T130440.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110114.T122438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025878404
+  "luceneModified" : 1295028280408
 }
