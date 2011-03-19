@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1596-2011",
+  "senateBillNo" : "S1597-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
     "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S1596-2011-1294635600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "billEventId" : "S1597-2011-1294635600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"Atlantic Yards Governance Act\"",
+  "title" : "Authorizes the Urban Development Corporation to create a subsidiary corporation for the oversight of the Atlantic Yards project",
   "summary" : null,
   "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T143147.TXT", "SOBI.D110110.T142613.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T143147.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294687907588
+  "luceneModified" : 1294687907595
 }
