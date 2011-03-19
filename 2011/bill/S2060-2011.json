@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2059-2011",
+  "senateBillNo" : "S2060-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S2059-2011-1295326800000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S2060-2011-1295326800000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits the denial of employment of an MRI technologist solely based on their lack of licensure and/or certification in x-ray or radiography",
+  "title" : "Relates to period of imprisonment for leaving the scene of an incident",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T094107.TXT", "SOBI.D110118.T094607.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T094607.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295361967267
+  "luceneModified" : 1295361967271
 }

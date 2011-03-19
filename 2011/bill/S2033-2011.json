@@ -3,8 +3,8 @@
   "senateBillNo" : "S2033-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
-    "billEventId" : "S2033-2011-1295326800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S2033-2011-1295326800000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -20,7 +20,7 @@
   },
   "title" : "Protects non-purchasing senior citizens threatened by eviction pursuant to a cooperative/condominium conversion plan",
   "summary" : null,
-  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
   "lawSection" : "Housing",
   "previousVersions" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT", "SOBI.D110118.T094607.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295360766738
+  "luceneModified" : 1295361967280
 }

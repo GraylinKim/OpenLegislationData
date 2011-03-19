@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2059-2011",
+  "senateBillNo" : "S2062-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S2059-2011-1295326800000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2062-2011-1295326800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits the denial of employment of an MRI technologist solely based on their lack of licensure and/or certification in x-ray or radiography",
+  "title" : "Creates the welfare inter-state fraud detection program; appropriation",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Appropriations",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T094107.TXT", "SOBI.D110118.T094607.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T094607.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295361967267
+  "luceneModified" : 1295361967275
 }
