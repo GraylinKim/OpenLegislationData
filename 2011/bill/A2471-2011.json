@@ -1,24 +1,66 @@
 {
   "year" : 2011,
   "senateBillNo" : "A2471-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1295326800000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A2471-2011-1295326800000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows for baccalaureate and advanced degree programs and certain educational and training activity to count towards the work participation rate",
+  "summary" : "Allows for baccalaureate and advanced degree programs to count towards the work participation rate and further provides for certain educational and training activity (homework expected or required by the educational institution) to count towards the satisfaction of the participant's work activity requirement. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
-  "coSponsors" : null,
+  "sameAs" : "S2323",
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "AA1827-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Towns",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         2471\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 18, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  WRIGHT,  PERRY,  ROSENTHAL, CASTRO, TOWNS --\n         Multi-Sponsored by -- M. of A. GOTTFRIED -- read once and referred  to\n         the Committee on Social Services\n\n       AN  ACT  to amend the social services law, in relation to clarifying the\n         definitions of vocational educational training and educational  activ-\n         ities\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1.  Paragraph (a) of subdivision 2 of  section  335-a  of  the\n    2  social  services law, as amended by section 148 of part B of chapter 436\n    3  of the laws of 1997, is amended to read as follows:\n    4    (a) Based on the  assessment  required  by  subdivision  one  of  this\n    5  section,  the social services official, in consultation with the partic-\n    6  ipant, shall develop an employability plan in writing  which  shall  set\n    7  forth the services that will be provided by the social services official\n    8  and  the  activities  in which the participant will take part, including\n    9  supportive services and shall set  forth  an  employment  goal  for  the\n   10  participant.  [A local social services district may assign recipients in\n   11  households without dependent children to any activity.]  TO  THE  EXTENT\n   12  POSSIBLE,  THE  EMPLOYABILITY  PLAN SHALL REFLECT THE PREFERENCES OF THE\n   13  PARTICIPANT IN A MANNER THAT IS  CONSISTENT  WITH  THE  RESULTS  OF  THE\n   14  PARTICIPANT'S ASSESSMENT AND THE NEED OF THE SOCIAL SERVICES DISTRICT TO\n   15  MEET FEDERAL AND STATE WORK ACTIVITY PARTICIPATION REQUIREMENTS, AND, IF\n   16  SUCH  PREFERENCES CANNOT BE ACCOMMODATED, THE REASONS SHALL BE SPECIFIED\n   17  IN THE EMPLOYABILITY PLAN. The employability plan also shall  take  into\n   18  account  the  participant's supportive services needs, available program\n   19  resources, local employment opportunities, and where the social services\n   20  official is considering an  educational  activity  assignment  for  such\n   21  participant,  the  participant's liability for student loans, grants and\n   22  scholarship awards.  The employability plan shall be  explained  to  the\n   23  participant. Any change to the participant's employability plan required\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD05081-01-1\n\n       A. 2471                             2\n\n    1  by  the social services official shall be discussed with the participant\n    2  and shall be documented in writing.\n    3    S  2.  Paragraph  (h)  of  subdivision  1 of section 336 of the social\n    4  services law, as amended by chapter 214 of the laws of 1998, is  amended\n    5  to read as follows:\n    6    (h)  vocational  educational  training as time limited by federal law.\n    7  For the purposes of this title, \"vocational educational training\"  shall\n    8  include  but not be limited to organized educational programs offering a\n    9  sequence of courses which are directly related  to  the  preparation  of\n   10  individuals  for current or emerging occupations [requiring other than a\n   11  baccalaureate or advanced degree] INCLUDING PROGRAMS THAT REQUIRE UP  TO\n   12  FOUR  YEARS  OF  POST-SECONDARY  EDUCATION.  Such programs shall include\n   13  competency-based applied learning which contributes to  an  individual's\n   14  academic  knowledge, higher-order reasoning, and problem-solving skills,\n   15  work attitudes, general employability skills, and the  occupational-spe-\n   16  cific  skills  necessary  for  economic  independence.  Such  term  also\n   17  includes applied technology education;\n   18    S 3. Paragraph (i) of subdivision 1  of  section  336  of  the  social\n   19  services  law,  as  added by section 148 of part B of chapter 436 of the\n   20  laws of 1997, is amended to read as follows:\n   21    (i) job skills training directly related to employment.    JOB  SKILLS\n   22  TRAINING DIRECTLY RELATED TO EMPLOYMENT SHALL INCLUDE BUT NOT BE LIMITED\n   23  TO  PARTICIPATION IN UP TO FOUR YEARS OF POST-SECONDARY EDUCATION TO THE\n   24  EXTENT CONSISTENT WITH FEDERAL AND STATE REQUIREMENTS;\n   25    S 4. Subdivision 1 of section 336-a of the  social  services  law,  as\n   26  amended  by section 148 of part B of chapter 436 of the laws of 1997, is\n   27  amended to read as follows:\n   28    1. Social services districts shall make  available  vocational  educa-\n   29  tional  training  and  educational  activities  INCLUDING  PROGRAMS THAT\n   30  REQUIRE UP TO FOUR YEARS OF POST-SECONDARY EDUCATION.   Such  activities\n   31  may  include but need not be limited to, high school education or educa-\n   32  tion designed to prepare a participant for  a  high  school  equivalency\n   33  certificate,  basic  and  remedial  education,  AND education in English\n   34  proficiency and SHALL INCLUDE no more than a total of [two]  FOUR  years\n   35  of  post-secondary  education  (or the part-time equivalent if full-time\n   36  study would constitute an undue hardship) [in].  EDUCATIONAL  ACTIVITIES\n   37  PURSUANT  TO  THIS  SECTION  MAY  BE  OFFERED  WITH any of the following\n   38  providers which meet the performance or assessment standards established\n   39  in regulations by the commissioner for  such  providers:    a  community\n   40  college,  licensed  trade  school, registered business school, or a two-\n   41  year OR FOUR-YEAR college; provided, however, that  such  post-secondary\n   42  education must be necessary to the attainment of the participant's indi-\n   43  vidual  employment  goal as set forth in the employability plan and such\n   44  goal must relate directly to obtaining useful employment in a recognized\n   45  occupation.   WHEN MAKING ANY ASSIGNMENT  TO  ANY  EDUCATIONAL  ACTIVITY\n   46  PURSUANT TO THIS SUBDIVISION, SUCH ASSIGNMENT SHALL BE PERMITTED ONLY TO\n   47  THE  EXTENT  THAT  SUCH  ASSIGNMENT  IS CONSISTENT WITH THE INDIVIDUAL'S\n   48  ASSESSMENT AND EMPLOYMENT PLAN GOALS IN ACCORDANCE WITH  SECTIONS  THREE\n   49  HUNDRED  THIRTY-FIVE  AND  THREE HUNDRED THIRTY-FIVE-A OF THIS TITLE AND\n   50  SHALL  REQUIRE  THAT  THE  INDIVIDUAL  MAINTAINS  SATISFACTORY  ACADEMIC\n   51  PROGRESS.   FOR   PURPOSES  OF  THIS  PROVISION  \"SATISFACTORY  ACADEMIC\n   52  PROGRESS\" SHALL MEAN SATISFACTORY PROGRESS AS DEFINED IN 20 USC 1091(C).\n   53    S 5. Paragraph (c) of subdivision 1 of section  131-n  of  the  social\n   54  services  law, as amended by chapter 373 of the laws of 2003, is amended\n   55  to read as follows:\n\n       A. 2471                             3\n\n    1    (c) an amount up to one thousand four hundred dollars  in  a  separate\n    2  bank  account established by an individual while currently in receipt of\n    3  assistance for the purpose of paying tuition at a two-year OR  FOUR-YEAR\n    4  accredited  post-secondary educational institution, so long as the funds\n    5  are not used for any other purpose,\n    6    S  6.  This act shall take effect immediately; provided, however, that\n    7  the amendments to paragraph (c) of subdivision 1 of section 131-n of the\n    8  social services law made by section five of this act  shall  not  affect\n    9  the expiration of such section and shall be deemed to expire therewith.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to clarifying the definitions of vocational educational training and educational activities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T161155.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T170224.TXT", "SOBI.D110118.T161155.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295385115406
+  "luceneModified" : 1295388144677
 }
