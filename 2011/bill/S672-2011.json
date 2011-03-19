@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S671-2011",
+  "senateBillNo" : "S672-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO LABOR",
-    "billEventId" : "S671-2011-1294203600000-REFERRED+TO+LABOR",
+    "billEventId" : "S672-2011-1294203600000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires farm workers and domestic workers to be given at least 24 hours of consecutive rest",
+  "title" : "Requires employers of motor carriers to provide overtime pay to their employees",
   "summary" : null,
   "currentCommittee" : "LABOR",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T093718.TXT", "SOBI.D101229.T094218.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T094218.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293633738828
+  "luceneModified" : 1293633738831
 }
