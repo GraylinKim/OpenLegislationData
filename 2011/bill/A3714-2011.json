@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3714-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3714-2011-1296018000000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ramos",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the time to file a claim in a toxic tort case",
+  "summary" : "Provides that in toxic tort cases where the specific toxic etiological cause of injury is not known for up to ten years (instead of five years) after the injury itself is discovered a plaintiff shall have three years to file a claim from the time such specific cause is discovered. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Practice Law and Rules",
+  "previousVersions" : [ "A4187-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to time limitations for filing claims for certain injuries ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T155310.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296075190150
+}

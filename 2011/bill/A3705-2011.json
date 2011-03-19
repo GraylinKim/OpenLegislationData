@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3705-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to racing and wagering",
+    "billEventId" : "A3705-2011-1296018000000-referred+to+racing+and+wagering",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes antitrust exemptions for certain horse racing agreements",
+  "summary" : "Provides that antitrust laws shall not apply to any joint agreement entered into, in consultation with and approved by the state racing and wagering board, by or among non-profit associations, thoroughbred racing associations or corporations, harness racing associations or corporations, quarter horse racing associations or corporations and regional off-track betting corporations to coordinate the dates and times under which they will conduct programs of racing and offer pari-mutuel wagering; also provides that such laws shall not apply to agreements entered into to sell, transfer, assign or purchase the rights to broadcast, simulcast, electronically transmit or offer pari-mutuel wagering on horse races. ",
+  "currentCommittee" : null,
+  "sameAs" : "S623",
+  "lawSection" : "Racing, Pari-Mutuel Wagering and Breeding Law",
+  "previousVersions" : [ "A2750-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to antitrust exemptions for horse racing agreements ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T155310.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296075190137
+}

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3706-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to racing and wagering",
+    "billEventId" : "A3706-2011-1296018000000-referred+to+racing+and+wagering",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the members of the franchise oversight board and the duties and responsibilities of such board",
+  "summary" : "Relates to the members of the franchise oversight board and the duties and responsibilities of such board with regard to the New York city off-track betting corporation. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Racing, Pari-Mutuel Wagering and Breeding Law",
+  "previousVersions" : [ "A10476-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to the franchise oversight board ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T155310.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296075190138
+}

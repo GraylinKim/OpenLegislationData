@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3701-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A3701-2011-1296018000000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Molinaro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to applying the freedom of information law to corporations with public access and national, state and/or local landmark designation",
+  "summary" : "Relates to applying the freedom of information law to corporations with public access and national, state and/or local landmark designation. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Not-for-Profit Corporation Law",
+  "previousVersions" : [ "A11264-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Montesano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the not-for-profit corporation law, in relation to historical societies ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T155310.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296075190131
+}

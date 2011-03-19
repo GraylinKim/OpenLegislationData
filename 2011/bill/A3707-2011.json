@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3707-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to racing and wagering",
+    "billEventId" : "A3707-2011-1296018000000-referred+to+racing+and+wagering",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for account wagering on simulcast horse races within and without the state",
+  "summary" : "Provides for account wagering on simulcast horse races within and without the state; authorizes the operation of multi-jurisdictional account wagering providers in this state, subject to the rules and regulations of the state wagering and racing board; provides that any wagering account upon which no wager is made for 3 or more years shall be deemed to be abandoned property. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Racing, Pari-Mutuel Wagering and Breeding Law",
+  "previousVersions" : [ "A2749-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to account wagering on simulcast horse races ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T155310.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296075190139
+}
