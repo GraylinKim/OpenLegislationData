@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3073-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3073-2011-1295586000000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for court-ordered rent abatement where the landlord fails to make repairs",
+  "summary" : "Permits court to order rent abatement in proceedings or actions to recover rent where the court finds conditions exist to constructively evict the tenant; rent may be abated for each day such condition exists; if court finds a condition which reduces habitability it may reduce rent owed by an amount between 10 and 50 percent of any amount owed. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1278",
+  "lawSection" : "Real Property Actions and Proceedings Law",
+  "previousVersions" : [ "A1363-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to the abatement of rent where the landlord fails to make repairs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T163039.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295645439556
+}
