@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S298-2011",
+  "senateBillNo" : "S300-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S298-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S300-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires telephone companies to provide essential equipment, including voice dialing equipment, to persons with disabilities",
+  "title" : "Establishes criminal offenses relating to criminal street gang enterprises and the abatement of premises used for such enterprises",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T141318.TXT", "SOBI.D101213.T142319.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T142319.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292268199791
+  "luceneModified" : 1292268199802
 }
