@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the date of manufacture to be imprinted on tires",
-  "summary" : null,
+  "summary" : "Requires the date of manufacture to be imprinted on tires; provides exceptions for certain tires. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7002-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring dates of manufacture on tires ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T123717.TXT", "SOBI.D110106.T114713.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T125718.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110106.T114713.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294335437914
+  "luceneModified" : 1294336638437
 }
