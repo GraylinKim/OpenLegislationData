@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2126-2011",
+  "senateBillNo" : "S2155-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2126-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S2155-2011-1295326800000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "MCDONALD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases criminal penalties for assault by gangs",
+  "title" : "Authorizing the town of Malta to adopt a local law providing for a partial abatement of town taxes assessed for the funding of town emergency services",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Towns",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to assaults by gangs ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T111119.TXT", "SOBI.D110118.T104117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T111119.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295367079968
+  "luceneModified" : 1295367079901
 }

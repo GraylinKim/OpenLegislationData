@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2109-2011",
+  "senateBillNo" : "S2158-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S2109-2011-1295326800000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "billEventId" : "S2158-2011-1295326800000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "MCDONALD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for refund of or credit against petroleum business taxes, for sales on accounts included in gross receipts and ascertained to be uncollectible",
+  "title" : "Provides a tax credit in the amount of certain fees charged in connection with loans under the federal home loan guarantee program to national guard and reserve vets",
   "summary" : null,
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the tax law, in relation to providing for refund of or credit against petroleum business taxes, for sales on accounts included in gross receipts and ascertained to be uncollectible ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T103117.TXT", "SOBI.D110118.T111119.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T111119.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295367079956
+  "luceneModified" : 1295367079935
 }
