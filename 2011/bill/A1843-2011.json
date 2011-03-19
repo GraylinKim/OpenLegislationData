@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Includes wildlife animals as those subject to the animal cruelty provisions",
-  "summary" : null,
+  "summary" : "Includes wildlife animals as those subject to the animal cruelty provisions of the agriculture and markets law. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Agriculture and Markets Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA6077-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -95,7 +95,7 @@
   "actClause" : "AN ACT to amend the agriculture and markets law, in relation to aggravated cruelty to animals ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT", "SOBI.D110112.T130504.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294855204559
+  "luceneModified" : 1294855504648
 }
