@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the governor to appoint the 5 members of the Adirondack park agency who reside in the park, from a list established by the county legislatures",
-  "summary" : null,
+  "summary" : "Requires the governor to appoint the five members of the Adirondack park agency who reside in the park, from a list established by the legislative bodies of the counties in the Adirondack park and the Adirondack Association of Towns and Villages. ",
   "currentCommittee" : null,
   "sameAs" : "S822",
   "lawSection" : "Executive Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10110-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the executive law, in relation to the appointment of the members of the Adirondack park agency ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT", "SOBI.D110103.T095848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294066428416
+  "luceneModified" : 1294066728518
 }

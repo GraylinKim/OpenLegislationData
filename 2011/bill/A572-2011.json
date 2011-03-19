@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A572-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A572-2011-1294203600000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"public employee whistleblower protection act\"",
+  "summary" : "Enacts the \"public employee whistleblower protection act\"; repeals certain provisions of the civil service law related to early disclosure for certain alleged violations of certain public employees. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : [ "A8014-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to repeal paragraph (b) of subdivision 2 of section 75-b of the civil service law, in relation to enacting the \"public employee whistleblower protection act\" ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T095848.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294066728501
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S815-2011",
+  "senateBillNo" : "A516-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
-    "billEventId" : "S815-2011-1294203600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "eventText" : "referred to social services",
+    "billEventId" : "A516-2011-1294203600000-referred+to+social+services",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,18 +13,25 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Provides for daycare reimbursement by the state within thirty days of an invoice being issued",
   "summary" : "Provides for daycare reimbursement by the state within thirty days of an invoice being issued. ",
-  "currentCommittee" : "CHILDREN AND FAMILIES",
-  "sameAs" : "A516",
+  "currentCommittee" : null,
+  "sameAs" : "S815",
   "lawSection" : "Social Services Law",
-  "previousVersions" : [ "S799-2009" ],
-  "coSponsors" : null,
+  "previousVersions" : [ "A2389-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lifton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to state reimbursement to certain day care centers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T143740.TXT", "SOBI.D110103.T095848.TXT", "SOBI.D101230.T162249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T095848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294066728529
+  "luceneModified" : 1294066728542
 }

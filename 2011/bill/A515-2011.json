@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S816-2011",
+  "senateBillNo" : "A515-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S816-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "referred to social services",
+    "billEventId" : "A515-2011-1294203600000-referred+to+social+services",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Directs that a certain annual service fee between the custodial and noncustodial parent be evenly distributed",
   "summary" : "Directs that a certain annual service fee of twenty-five dollars between the custodial and noncustodial parent be evenly distributed. ",
-  "currentCommittee" : "SOCIAL SERVICES",
-  "sameAs" : "A515",
+  "currentCommittee" : null,
+  "sameAs" : "S816",
   "lawSection" : "Social Services Law",
-  "previousVersions" : [ "S1389-2009" ],
+  "previousVersions" : [ "A3959-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to evenly distributing a certain annual service fee between the custodial and noncustodial parent ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T143740.TXT", "SOBI.D110103.T095848.TXT", "SOBI.D101230.T162249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T095848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294066728536
+  "luceneModified" : 1294066728539
 }

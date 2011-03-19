@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S823-2011",
+  "senateBillNo" : "A512-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S823-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "referred to codes",
+    "billEventId" : "A512-2011-1294203600000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "Sayward",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Establishes a 10 year statute of limitations to enforce violations of rules and regulations of Adirondack park agency committed within the Adirondack park",
   "summary" : "Establishes a ten year statute of limitations to enforce violations of rules and regulations of Adirondack park agency committed within the Adirondack park. ",
-  "currentCommittee" : "CODES",
-  "sameAs" : "A512",
+  "currentCommittee" : null,
+  "sameAs" : "S823",
   "lawSection" : "Civil Practice Law and Rules",
-  "previousVersions" : [ "S323-2009" ],
+  "previousVersions" : [ "A444-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the civil practice law and rules and the executive law, in relation to the statute of limitations for certain actions commenced by the Adirondack park agency within the Adirondack Park ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T144249.TXT", "SOBI.D110103.T095848.TXT", "SOBI.D101230.T161749.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T095848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294066728499
+  "luceneModified" : 1294066728526
 }
