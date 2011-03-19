@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1625-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "REFERRED TO MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
+    "billEventId" : "S1625-2011-1294635600000-REFERRED+TO+MENTAL+HEALTH+AND+DEVELOPMENTAL+DISABILITIES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Regulates the establishment and location of methadone treatment centers",
+  "summary" : null,
+  "currentCommittee" : "MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
+  "sameAs" : null,
+  "lawSection" : "Mental Hygiene Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T160128.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294693288208
+}
