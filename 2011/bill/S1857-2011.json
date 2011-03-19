@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1856-2011",
+  "senateBillNo" : "S1857-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
     "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
-    "billEventId" : "S1856-2011-1294894800000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
+    "billEventId" : "S1857-2011-1294894800000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Restricts the residency of certain sex offenders",
+  "title" : "Prohibits certain persons convicted under article six-C of the correction law from serving as a trustee, principal, officer, or member of a board of education of any",
   "summary" : null,
   "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
@@ -27,7 +27,14 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
+    "fullname" : "JOHNSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T152919.TXT", "SOBI.D110113.T153419.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T153419.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294950859461
+  "luceneModified" : 1294950859470
 }
