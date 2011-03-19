@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S500-2011",
+  "senateBillNo" : "S503-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S500-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S503-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Includes in definition of income all sources after deduction of all medical and prescription drugs not reimbursed or paid by insurance",
+  "title" : "Prohibits secondary schools and colleges from withholding student transcripts for failure to pay tuition",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T093604.TXT", "SOBI.D101221.T093103.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T093604.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292942164411
+  "luceneModified" : 1292942164417
 }
