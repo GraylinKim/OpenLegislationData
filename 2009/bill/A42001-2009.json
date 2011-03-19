@@ -78,6 +78,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1291698002000,
+    "eventText" : "LOST",
+    "billEventId" : "A42001-2009-1291698002000-LOST",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -102,7 +109,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101203.T174509.TXT", "SOBI.D101207.T150508.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101203.T174509.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101207.T161011.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291752308473
+  "luceneModified" : 1291756211905
 }
