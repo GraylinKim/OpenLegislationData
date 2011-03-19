@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported",
+    "billEventId" : "A654-2011-1295413200000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Gottfried (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to who may certify that an immunization may be detrimental to a child's health ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T111901.TXT", "SOBI.D110103.T114901.TXT", "SOBI.D110105.T144702.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T111901.TXT", "SOBI.D110103.T114901.TXT", "SOBI.D110105.T144702.TXT", "SOBI.D110119.T120752.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294256822409
+  "luceneModified" : 1295456872572
 }

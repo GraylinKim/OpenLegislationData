@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A413-2011-1295413200000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Gunther (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to the development of comprehensive autism assessment centers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101223.T160618.TXT", "SOBI.D101228.T102316.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101223.T160618.TXT", "SOBI.D101228.T102316.TXT", "SOBI.D110119.T120752.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293549796169
+  "luceneModified" : 1295456872567
 }

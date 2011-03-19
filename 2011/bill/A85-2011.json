@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A85-2011-1295413200000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Paulin (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -95,7 +102,7 @@
   "actClause" : "AN ACT to amend the education law, the insurance law and the public health law, in relation to providing for dispensing emergency contraception under certain conditions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T121420.TXT", "SOBI.D110103.T114901.TXT", "SOBI.D101216.T105913.TXT", "SOBI.D101216.T120919.TXT", "SOBI.D101217.T121938.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T121420.TXT", "SOBI.D101216.T105913.TXT", "SOBI.D110103.T114901.TXT", "SOBI.D101216.T120919.TXT", "SOBI.D101217.T121938.TXT", "SOBI.D101216.T110414.TXT", "SOBI.D110119.T120752.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294073341546
+  "luceneModified" : 1295456872566
 }

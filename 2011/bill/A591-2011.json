@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported",
+    "billEventId" : "A591-2011-1295413200000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Gottfried (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to disposition of human remains ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D110104.T165520.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D110104.T165520.TXT", "SOBI.D110119.T120752.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294178120580
+  "luceneModified" : 1295456872570
 }

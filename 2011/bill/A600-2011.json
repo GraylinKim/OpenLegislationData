@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported referred to codes",
+    "billEventId" : "A600-2011-1295413200000-reported+referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Magnarelli",
+    "fullname" : "Magnarelli (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -102,7 +109,7 @@
   "actClause" : "AN ACT to amend the social services law and the education law, in relation to the mandatory reporting of abuse in assisted living facilities and adult care facilities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T150203.TXT", "SOBI.D110103.T110922.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D110105.T150203.TXT", "SOBI.D110119.T120752.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294257723691
+  "luceneModified" : 1295456872571
 }

@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A551-2011-1295413200000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Gottfried (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -74,7 +81,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to establishing the nursing home diversion program ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT", "SOBI.D110104.T113456.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT", "SOBI.D110104.T113456.TXT", "SOBI.D110119.T120752.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294158896858
+  "luceneModified" : 1295456872568
 }
