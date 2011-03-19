@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2363-2011",
+  "senateBillNo" : "S2394-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
     "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S2363-2011-1295413200000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "billEventId" : "S2394-2011-1295413200000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to membership on regional fish and wildlife boards",
-  "summary" : "Eliminate term limits for members on regional fish and wildlife boards. ",
+  "title" : "Authorizes the attorney general to enforce the provisions of the environmental conservation law and its rules and regulations in the name of the people of the state",
+  "summary" : null,
   "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : [ "S3723-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "KLEIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAVINO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T142840.TXT", "SOBI.D110119.T151326.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T151326.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295468006617
+  "luceneModified" : 1295468006611
 }
