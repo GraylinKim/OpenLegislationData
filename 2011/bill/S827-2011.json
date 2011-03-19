@@ -25,14 +25,14 @@
   "lawSection" : "Insurance Law",
   "previousVersions" : null,
   "coSponsors" : null,
-  "pastCommittees" : null,
+  "pastCommittees" : [ "INSURANCE" ],
   "fulltext" : null,
   "memo" : null,
   "law" : null,
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T145243.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T145243.TXT", "SOBI.D101230.T152745.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293738763430
+  "luceneModified" : 1293740865999
 }
