@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3041-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to health",
+    "billEventId" : "A3041-2011-1295586000000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides electronic monitoring system for functionally impaired elderly or disabled persons; appropriation",
+  "summary" : "Makes provision for personal emergency response services as part of home care services by means of electronic communication equipment; allows various health-care facilities to apply for and offer system; provides for reimbursement and non-renewable grants to not-for-profit organizations not to exceed $15,000 per year; payment by certain government funds; appropriates $100,000 therefor. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Appropriations",
+  "previousVersions" : [ "A2078-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to providing personal emergency response services as part of home care services, and making an appropriation therefor ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T161538.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295644538106
+}
