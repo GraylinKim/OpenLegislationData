@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1415-2011",
+  "senateBillNo" : "S1440-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1415-2011-1294376400000-REFERRED+TO+CODES",
+    "billEventId" : "S1440-2011-1294376400000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "SQUADRON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to prostitution offenses; repealer",
+  "title" : "Provides for banning the possession, sale or manufacture of assault weapons, subject to an exception; expands duties of superintendent of state police; repealer",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to prostitution offenses and to repeal section 230.07 of the penal law relating thereto ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T101848.TXT", "SOBI.D110107.T105851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T105851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294415931472
+  "luceneModified" : 1294415931453
 }

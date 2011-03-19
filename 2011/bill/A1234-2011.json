@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1410-2011",
+  "senateBillNo" : "A1234-2011",
   "billEvents" : [ {
-    "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S1410-2011-1294376400000-REFERRED+TO+AGING",
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A1234-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "Bing",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to prohibiting a diminution of certain employee benefits",
+  "title" : "Prevents a judge from prohibiting a parent from undergoing a gender reassignment when making a determination in a child custody case",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Elder Law",
+  "lawSection" : "Domestic Relations Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the elder law, in relation to prohibiting a diminution of certain employee benefits ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T101348.TXT", "SOBI.D110107.T105851.TXT", "SOBI.D110107.T100848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T105851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294415931464
+  "luceneModified" : 1294415931455
 }

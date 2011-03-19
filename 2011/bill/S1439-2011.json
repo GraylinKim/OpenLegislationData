@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1435-2011",
+  "senateBillNo" : "S1439-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
-    "billEventId" : "S1435-2011-1294376400000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S1439-2011-1294376400000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "SQUADRON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs preparation of report concerning child care subsidies and requirement to show good cause for failure to seek child support",
+  "title" : "Requires debt collection agencies to be licensed by the state",
   "summary" : null,
-  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T105351.TXT", "SOBI.D110107.T105851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T105851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294415931433
+  "luceneModified" : 1294415931447
 }

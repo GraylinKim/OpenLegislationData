@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1410-2011",
+  "senateBillNo" : "S1436-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S1410-2011-1294376400000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1436-2011-1294376400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to prohibiting a diminution of certain employee benefits",
+  "title" : "Establishes a credit against personal income taxes for certain tuition expenses and modifies income; repealer",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Elder Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the elder law, in relation to prohibiting a diminution of certain employee benefits ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T101348.TXT", "SOBI.D110107.T105851.TXT", "SOBI.D110107.T100848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T105851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294415931464
+  "luceneModified" : 1294415931439
 }
