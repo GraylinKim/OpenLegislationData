@@ -34,6 +34,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "OPPENHEIMER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the legislative law, in relation to hiring of certain non-partisan legislative employees ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T181922.TXT", "SOBI.D110125.T115409.TXT", "SOBI.D110125.T120909.TXT", "SOBI.D110125.T170945.TXT", "SOBI.D110125.T123413.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T181922.TXT", "SOBI.D110125.T120909.TXT", "SOBI.D110125.T115409.TXT", "SOBI.D110125.T170945.TXT", "SOBI.D110201.T153907.TXT", "SOBI.D110125.T123413.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296170362851
+  "luceneModified" : 1296592747763
 }
