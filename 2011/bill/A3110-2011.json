@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3110-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3110-2011-1295845200000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires that before a municipality commences any undertaking within the bounds of another municipality, that such municipality obtains permission to do so",
+  "summary" : "Provides that no municipality shall acquire, construct, reconstruct, improve, better or extend any undertaking within the bounds of another municipality without the express permission of the governing body of the so affected municipality. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A1573-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, in relation to municipalities obtaining express permission from another municipality before extending any undertaking within the bounds of such affected municipality ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T121620.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889380968
+}

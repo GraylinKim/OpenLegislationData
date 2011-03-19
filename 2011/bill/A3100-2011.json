@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3100-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A3100-2011-1295845200000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Designates local employees excercising executive functions of the chief executive officer, as unclassified service employees",
+  "summary" : "Designates local employees exercising executive functions on behalf of the chief executive officer of the locality, as unclassified service employees. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2011",
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : [ "A9474-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil service law, in relation to unclassified service of civil divisions of the state ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T121620.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889380949
+}

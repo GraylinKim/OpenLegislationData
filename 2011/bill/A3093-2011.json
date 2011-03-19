@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3093-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A3093-2011-1295845200000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Eliminates the requirement for the use of electronic voting machines during village, special district, library district and fire district elections",
+  "summary" : "Elminates the requirement for the use of electronic voting machines during village, special district, improvement district, library district and fire district elections and authorizes the use of mechanical lever voting machines or paper ballots during such elections; establishes certain requirements for paper ballots. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2339",
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "S2339-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to authorizing village, special district, improvement district and library district elections to be conducted on mechanical lever voting machines or paper ballots; and to amend the town law, in relation to authorizing the use of mechanical lever voting machines or paper ballots at fire district elections ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T121620.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889380938
+}

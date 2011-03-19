@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3092-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to mental health",
+    "billEventId" : "A3092-2011-1295845200000-referred+to+mental+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the rights of former outpatients of mental health facilities to have files sealed after ten years",
+  "summary" : "Authorizes former outpatients of mental health facilities to request a court of competent jurisdiction to render an order to have their files sealed when more than ten years have elapsed since the last treatment in such facility, they are not currently being treated for mental illness and it would be in the best interests of the petitioner and society to seal such record without the requirement of a special proceeding. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Mental Hygiene Law",
+  "previousVersions" : [ "A2519-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the mental hygiene law, in relation to directing courts of law, upon request, to seal the files of certain former outpatients of mental health facilities after ten years ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T121620.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889380936
+}
