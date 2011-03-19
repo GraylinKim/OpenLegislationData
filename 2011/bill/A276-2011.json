@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates the internet grade book act",
-  "summary" : null,
+  "summary" : "Creates the internet grade book act; this program allows parents of middle school and high school students to access their child's academic progress via the internet. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10645-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T154004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T154504.TXT", "SOBI.D101217.T154004.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618404135
+  "luceneModified" : 1292618704230
 }

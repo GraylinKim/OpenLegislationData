@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to offenses involving the sexual performance of a child",
-  "summary" : null,
+  "summary" : "Relates to offenses involving the sexual performance of a child; increases penalties for offenses involving promoting and possessing the sexual performance of a child. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA803-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -130,7 +130,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T154004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T154504.TXT", "SOBI.D101217.T154004.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618404153
+  "luceneModified" : 1292618704232
 }
