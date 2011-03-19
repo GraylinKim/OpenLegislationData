@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A506-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A506-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires tenants in housing court to be given certain information in bold print at the end of any petition for eviction",
+  "summary" : "Requires tenants in housing court proceedings be given information pertaining to their rights including that only a judge may issue a warrant to evict them; they should assert any defense or counterclaim in their answer and that they have a right to have the premises inspected to confirm any claim of dangerous or unhealthy conditions and that they may have a right to withhold rent for failure to make repairs and that OCA sells information to residential tenant screening companies ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City Civil Court Act",
+  "previousVersions" : [ "A1443-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the New York city civil court act, in relation to requiring the housing court to provide certain information to tenants ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101228.T150834.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293566914654
+}
