@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1781-2011",
+  "senateBillNo" : "S1787-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1781-2011-1294808400000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S1787-2011-1294808400000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires victims be notified of right to make a victim impact statement and allows them to personally appear at parole hearing and make such a statement",
+  "title" : "Regulates use of pesticides on public and private school grounds and daycare facilities",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T121001.TXT", "SOBI.D110112.T121501.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T121501.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294852501405
+  "luceneModified" : 1294852501427
 }

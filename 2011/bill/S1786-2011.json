@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1781-2011",
+  "senateBillNo" : "S1786-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1781-2011-1294808400000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S1786-2011-1294808400000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires victims be notified of right to make a victim impact statement and allows them to personally appear at parole hearing and make such a statement",
+  "title" : "Reduces from one-third to one-fourth of income the applicability of the senior citizens' rent increase exemption",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T121001.TXT", "SOBI.D110112.T121501.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T121501.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294852501405
+  "luceneModified" : 1294852501423
 }
