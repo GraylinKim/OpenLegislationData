@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294808400000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A1511-2011-1294808400000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Tedisco",
+    "fullname" : "Tedisco (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 1 of article 5 of the constitution, in relation to providing for the governor to fill a vacancy of the office of the comptroller and attorney-general ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T132207.TXT", "SOBI.D110110.T143614.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T133006.TXT", "SOBI.D110110.T143614.TXT", "SOBI.D110111.T132207.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294770127507
+  "luceneModified" : 1294857006268
 }
