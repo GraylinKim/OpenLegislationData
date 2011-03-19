@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2132-2011",
+  "senateBillNo" : "A2140-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to higher education",
-    "billEventId" : "A2132-2011-1294981200000-referred+to+higher+education",
+    "eventText" : "referred to education",
+    "billEventId" : "A2140-2011-1294981200000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Morelle",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides increased penalties and education for hazing, underage drinking and drug use within athletic teams, fraternities and sororities at college campuses",
+  "title" : "Relates to establishing a head injury awareness act",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T111922.TXT", "SOBI.D110114.T112423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T112423.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295022263154
+  "luceneModified" : 1295022263177
 }
