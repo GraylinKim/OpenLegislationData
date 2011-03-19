@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A522-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A522-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the definition of a public body pursuant to the open meetings law",
+  "summary" : "Relates to the definition of a public body pursuant to the open meetings law; includes any advisory committee to a public body, whether created by such public body or created pursuant to federal, state or local law. ",
+  "currentCommittee" : null,
+  "sameAs" : "S811",
+  "lawSection" : "Public Officers Law",
+  "previousVersions" : [ "A4634-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public officers law, in relation to the definition of a public body pursuant to the open meetings law ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T100349.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067029654
+}

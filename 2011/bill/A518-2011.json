@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S824-2011",
+  "senateBillNo" : "A518-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S824-2011-1294203600000-REFERRED+TO+FINANCE",
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A518-2011-1294203600000-referred+to+environmental+conservation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,25 +13,18 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "Sayward",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Relates to development of a permit system to provide disabled veterans access to certain restricted bodies of water through the use of float planes",
   "summary" : "Directs the development of a permit system to provide disabled veterans access to certain restricted bodies of water in the Adirondack park through the use of float planes. ",
-  "currentCommittee" : "FINANCE",
-  "sameAs" : "A518",
+  "currentCommittee" : null,
+  "sameAs" : "S824",
   "lawSection" : "Executive Law",
-  "previousVersions" : [ "S424-2009" ],
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "LARKIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "previousVersions" : [ "A1187-2009" ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -39,7 +32,7 @@
   "actClause" : "AN ACT to amend the executive law and the environmental conservation law, in relation to development of a permit system to provide disabled veterans access to certain restricted bodies of water through the use of float planes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T144741.TXT", "SOBI.D101230.T161749.TXT", "SOBI.D110103.T100349.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T100349.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294067029625
+  "luceneModified" : 1294067029629
 }

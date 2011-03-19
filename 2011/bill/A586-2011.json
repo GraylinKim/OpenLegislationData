@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A586-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to cities",
+    "billEventId" : "A586-2011-1294203600000-referred+to+cities",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the city to reconvey certain properties to Debora Unger and Anthony Marcus",
+  "summary" : "Authorizes NYC to reconvey certain properties acquired by in re rem tax foreclosure in the borough of Manhattan to Debora Unger and Anthony Marcus. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City",
+  "previousVersions" : [ "A1467-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT authorizing the city of New York to reconvey its interest in certain real property acquired by in rem tax foreclosure in the borough of Manhattan to Debora Unger and Anthony Marcus, notwithstanding expiration of the two year period within which application may be made to the city to release its interest in property thus acquired; Block No. 2074, Lot No. 15 and Block No. 1949, Lot No. 5 on the tax map for the borough of Manhattan ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T100349.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067029660
+}

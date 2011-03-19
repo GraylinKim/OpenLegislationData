@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A585-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A585-2011-1294203600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for reduction in private passenger automobile insurance premiums for participation in an official police department or other anti-theft program",
+  "summary" : "Requires that any schedule of rates or rating plan for non-commercial private passenger automobile insurance coverage submitted to the superintendent of insurance shall provide for an appropriate reduction in premium charges for any insured participating in an official police department program or other program designed to prevent or reduce motor vehicle theft. ",
+  "currentCommittee" : null,
+  "sameAs" : "S827",
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A1434-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to motor vehicle insurance rate reductions for participation in certain anti-theft programs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T100349.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067029658
+}

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A584-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A584-2011-1294203600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Revises procedures for issuance of retail and special retail liquor licenses for on-premises consumption for premises within 500 feet of 3 or more existing premises",
+  "summary" : "Revises procedures regarding the issuance of both retail and special retail liquor licenses for on-premises consumption for premises located within 500 feet of 3 or more existing premises in cities, towns and villages of twenty thousand or more; provides that the hearing which the authority is required to hold before issuing such a license may be rescheduled, adjourned or continued and that the authority must give notice to the applicant and the municipality or community board of such rescheduled, adjourned or continued hearing; and provides that the authority or commissioners thereof may also hold a public meeting in connection with issuance of such a license which may also be rescheduled, adjourned or continued, and that the authority must give notice to the applicant and the municipality or community board of the meeting, including any rescheduled, adjourned or continued meeting. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Alcoholic Beverage Control Law",
+  "previousVersions" : [ "AA3827-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez V",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to procedures associated with issuing retail and special retail licenses to sell liquor for on-premises consumption regarding premises located within five hundred feet of three or more existing premises in cities, towns and villages having a population of twenty thousand or more ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T100349.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067029656
+}

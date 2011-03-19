@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A587-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to libraries and education technology",
+    "billEventId" : "A587-2011-1294203600000-referred+to+libraries+and+education+technology",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the Orangetown public library district; repealer",
+  "summary" : "Creates the Orangetown public library district; modifies the boundaries; authorizes individual libraries to apply for appropriations on an individual basis. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Rockland County",
+  "previousVersions" : [ "AA6435-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to create the Orangetown public library district and to repeal chapter 349 of the laws of 1973, relating to creating a library district in the town of Orangetown in the county of Rockland ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T100349.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067029665
+}

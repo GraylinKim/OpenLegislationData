@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A521-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A521-2011-1294203600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires school districts to develop a policy limiting the use of school-owned cell phones to school related purposes",
+  "summary" : "Requires school districts to develop a policy regulating the use of school-owned cell phones to include, but not be limited to, requiring that they be used only for school related purposes. ",
+  "currentCommittee" : null,
+  "sameAs" : "S812",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A3254-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to requiring public school districts to develop policies limiting the use of district-owned cellular phones ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T100349.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067029652
+}
