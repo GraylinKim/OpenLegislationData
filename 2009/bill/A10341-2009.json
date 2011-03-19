@@ -1,0 +1,73 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "A10341-2009",
+  "billEvents" : [ {
+    "eventDate" : 1268884800000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A10341-2009-1268884800000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1271736000000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A10341-2009-1271736000000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1276574400000,
+    "eventText" : "reported referred to rules",
+    "billEventId" : "A10341-2009-1276574400000-reported+referred+to+rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277784000000,
+    "eventText" : "reported",
+    "billEventId" : "A10341-2009-1277784000000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277784001000,
+    "eventText" : "rules report cal.449",
+    "billEventId" : "A10341-2009-1277784001000-rules+report+cal.449",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277784002000,
+    "eventText" : "substituted by s6848",
+    "billEventId" : "A10341-2009-1277784002000-substituted+by+s6848",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to Buffalo fiscal stability authority financial crisis determination",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "s6848",
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101214.T092125.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292336485549
+}

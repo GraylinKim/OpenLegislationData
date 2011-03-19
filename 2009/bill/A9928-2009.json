@@ -1,0 +1,80 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "A9928-2009",
+  "billEvents" : [ {
+    "eventDate" : 1265950800000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A9928-2009-1265950800000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1275969600000,
+    "eventText" : "reported referred to codes",
+    "billEventId" : "A9928-2009-1275969600000-reported+referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277092800000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A9928-2009-1277092800000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277870400000,
+    "eventText" : "reported referred to rules",
+    "billEventId" : "A9928-2009-1277870400000-reported+referred+to+rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277870401000,
+    "eventText" : "reported",
+    "billEventId" : "A9928-2009-1277870401000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277870402000,
+    "eventText" : "rules report cal.484",
+    "billEventId" : "A9928-2009-1277870402000-rules+report+cal.484",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277870403000,
+    "eventText" : "substituted by s6846",
+    "billEventId" : "A9928-2009-1277870403000-substituted+by+s6846",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt (MS)",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to record keeping procedures and policies relating to records of the governor, the executive chamber, the legislature and civil departments; repealer",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "s6846",
+  "lawSection" : "Executive Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101214.T092125.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292336485544
+}

@@ -1,0 +1,122 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S6846-2009",
+  "billEvents" : [ {
+    "eventDate" : 1265950800000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S6846-2009-1265950800000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1273550400000,
+    "eventText" : "1ST REPORT CAL.524",
+    "billEventId" : "S6846-2009-1273550400000-1ST+REPORT+CAL.524",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1273636800000,
+    "eventText" : "2ND REPORT CAL.",
+    "billEventId" : "S6846-2009-1273636800000-2ND+REPORT+CAL.",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1274068800000,
+    "eventText" : "ADVANCED TO THIRD READING",
+    "billEventId" : "S6846-2009-1274068800000-ADVANCED+TO+THIRD+READING",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1275364800000,
+    "eventText" : "PASSED SENATE",
+    "billEventId" : "S6846-2009-1275364800000-PASSED+SENATE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1275364801000,
+    "eventText" : "DELIVERED TO ASSEMBLY",
+    "billEventId" : "S6846-2009-1275364801000-DELIVERED+TO+ASSEMBLY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1275451200000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "S6846-2009-1275451200000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277870400000,
+    "eventText" : "substituted for a9928",
+    "billEventId" : "S6846-2009-1277870400000-substituted+for+a9928",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277870401000,
+    "eventText" : "ordered to third reading rules cal.484",
+    "billEventId" : "S6846-2009-1277870401000-ordered+to+third+reading+rules+cal.484",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277870402000,
+    "eventText" : "passed assembly",
+    "billEventId" : "S6846-2009-1277870402000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277870403000,
+    "eventText" : "returned to senate",
+    "billEventId" : "S6846-2009-1277870403000-returned+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291179600000,
+    "eventText" : "DELIVERED TO GOVERNOR",
+    "billEventId" : "S6846-2009-1291179600000-DELIVERED+TO+GOVERNOR",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1292216400000,
+    "eventText" : "VETOED MEMO.6835",
+    "billEventId" : "S6846-2009-1292216400000-VETOED+MEMO.6835",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BRESLIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to record keeping procedures and policies relating to records of the governor, the executive chamber, the legislature and civil departments; repealer",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "a9928",
+  "lawSection" : "Executive Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "FINANCE" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101214.T092125.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292336485542
+}
