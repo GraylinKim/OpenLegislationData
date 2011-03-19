@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S612-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CITIES",
+    "billEventId" : "S612-2011-1294203600000-REFERRED+TO+CITIES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KLEIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizing cities and villages to collect delinquent real property taxes",
+  "summary" : null,
+  "currentCommittee" : "CITIES",
+  "sameAs" : null,
+  "lawSection" : "General City Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ADDABBO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T142111.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293132071600
+}
