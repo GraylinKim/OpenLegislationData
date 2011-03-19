@@ -34,6 +34,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "AVELLA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to sanctions for driving while ability impaired while holding a conditional license ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T164629.TXT", "SOBI.D101222.T164854.TXT", "SOBI.D110103.T110354.TXT", "SOBI.D101221.T161627.TXT", "SOBI.D101221.T161126.TXT", "SOBI.D110104.T134505.TXT", "SOBI.D101221.T162627.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T144115.TXT", "SOBI.D101221.T164629.TXT", "SOBI.D101222.T164854.TXT", "SOBI.D110103.T110354.TXT", "SOBI.D101221.T161627.TXT", "SOBI.D101221.T161126.TXT", "SOBI.D101221.T162627.TXT", "SOBI.D110104.T134505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294166705698
+  "luceneModified" : 1294688475909
 }

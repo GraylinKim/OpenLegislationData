@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1599-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S1599-2011-1294635600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LAVALLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the imposition of certain fees at the expiration of a term on a motor vehicle lease which constitutes administrative, clerical or handling charges",
+  "summary" : null,
+  "currentCommittee" : "CONSUMER PROTECTION",
+  "sameAs" : null,
+  "lawSection" : "Personal Property Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T144115.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294688475917
+}
