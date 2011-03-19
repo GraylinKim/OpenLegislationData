@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2670-2011",
+  "senateBillNo" : "S2672-2011",
   "billEvents" : [ {
     "eventDate" : 1296190800000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S2670-2011-1296190800000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S2672-2011-1296190800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires adequate training in the Heimlich maneuver and cardiopulmonary resuscitation for new certification as a school teacher",
+  "title" : "Excludes veteran's disability benefits in computing income in selection of tenants",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Private Housing Finance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T092738.TXT", "SOBI.D110128.T092239.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T092738.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296224858173
+  "luceneModified" : 1296224858181
 }

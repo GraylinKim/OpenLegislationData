@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2670-2011",
+  "senateBillNo" : "S2671-2011",
   "billEvents" : [ {
     "eventDate" : 1296190800000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S2670-2011-1296190800000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S2671-2011-1296190800000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires adequate training in the Heimlich maneuver and cardiopulmonary resuscitation for new certification as a school teacher",
+  "title" : "Requires preliminary investigation by commissioner of health in cases of multiple malpractice claims against a physician",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T092738.TXT", "SOBI.D110128.T092239.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T092738.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296224858173
+  "luceneModified" : 1296224858177
 }
