@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for increasing the parameters of driving while ability impaired to include driving while ability is affected to any extent by the utilization of a drug",
-  "summary" : null,
+  "summary" : "Expands the definition of driving while ability impaired to include driving while ability is affected to any extent by the voluntary consumption or utilization of a drug. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S605-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to increasing the parameters of driving while ability impaired to include driving while ability affected by drugs ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T150921.TXT", "SOBI.D110103.T142912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T150921.TXT", "SOBI.D110103.T155425.TXT", "SOBI.D110103.T142912.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294085361535
+  "luceneModified" : 1294088065786
 }
