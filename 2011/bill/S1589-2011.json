@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Defines tuition for the 2012-2013 school year",
-  "summary" : null,
+  "summary" : "Defines tuition for the 2012-2013 school year; restricts tuition rates to not more than four percent of a school year's costs. ",
   "currentCommittee" : "EDUCATION",
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6775-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to defining \"tuition\" for the 2012-2013 school year ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T141611.TXT", "SOBI.D110110.T145116.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T150117.TXT", "SOBI.D110110.T141611.TXT", "SOBI.D110110.T145116.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294689076221
+  "luceneModified" : 1294689677468
 }
