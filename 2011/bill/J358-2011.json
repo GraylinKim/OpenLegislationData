@@ -2,9 +2,9 @@
   "year" : 2011,
   "senateBillNo" : "J358-2011",
   "billEvents" : [ {
-    "eventDate" : 1296190800000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "J358-2011-1296190800000-REFERRED+TO+FINANCE",
+    "eventDate" : 1296450000000,
+    "eventText" : "ADOPTED",
+    "billEventId" : "J358-2011-1296450000000-ADOPTED",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -20,7 +20,7 @@
   },
   "title" : "Honoring Howard Dodson upon the occasion of his designation for special recognition by the New York Public Library's Schomburg Center for Research in Black Culture",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Resolutions, Legislative",
   "previousVersions" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T094739.TXT", "SOBI.D110128.T094239.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T094739.TXT", "SOBI.D110131.T154217.TXT", "SOBI.D110128.T094239.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296226059469
+  "luceneModified" : 1296506537616
 }
