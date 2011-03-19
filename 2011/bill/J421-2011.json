@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "STEWART-COUSINS",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T143903.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T122212.TXT", "SOBI.D110201.T143903.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296589143957
+  "luceneModified" : 1296667332051
 }
