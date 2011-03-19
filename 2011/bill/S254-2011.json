@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to income eligibility under the EPIC program",
-  "summary" : null,
+  "summary" : "Provides that an individual shall not become ineligible under the EPIC program due to an increase in social security benefits or a public or private pension where such increase does not exceed the CPI. ",
   "currentCommittee" : "AGING",
   "sameAs" : null,
   "lawSection" : "Elder Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1454-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the elder law, in relation to eligibility under the program for elderly pharmaceutical insurance coverage ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T111805.TXT", "SOBI.D101213.T115807.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T111805.TXT", "SOBI.D101213.T120808.TXT", "SOBI.D101213.T115807.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292259487931
+  "luceneModified" : 1292260088063
 }
