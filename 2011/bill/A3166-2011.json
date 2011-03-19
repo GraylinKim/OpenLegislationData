@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3146-2011",
+  "senateBillNo" : "A3166-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to local governments",
-    "billEventId" : "A3146-2011-1295845200000-referred+to+local+governments",
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A3166-2011-1295845200000-referred+to+real+property+taxation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Calhoun",
+    "fullname" : "Morelle",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires signatures for payments in lieu of taxes for project in the town of Chester",
+  "title" : "Extends the enhanced STAR exemption to permanent total disabled volunteer firefighters",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Municipal Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT", "SOBI.D110124.T125122.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295891783907
+  "luceneModified" : 1295891783947
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3146-2011",
+  "senateBillNo" : "A3148-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to local governments",
-    "billEventId" : "A3146-2011-1295845200000-referred+to+local+governments",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3148-2011-1295845200000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires signatures for payments in lieu of taxes for project in the town of Chester",
+  "title" : "Requires that any newly enacted or adopted building code in N.Y. city shall contain notice provisions similar to those required for buildings with truss type construction",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Municipal Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT", "SOBI.D110124.T125122.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295891783907
+  "luceneModified" : 1295891783916
 }
