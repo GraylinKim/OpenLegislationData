@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S256-2011",
+  "senateBillNo" : "S257-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S256-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S257-2011-1294203600000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Defines the crime of surreptitious surveillance; rebuttable presumption that such surveillance under certain conditions is for no legitimate purpose",
+  "title" : "Imposes certain limits, requirements and prohibitions regarding the seeking of refunds by certain insurers, organizations or corporations from health care providers",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Insurance Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,7 +34,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FLANAGAN",
+    "fullname" : "FUSCHILLO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -42,6 +49,13 @@
     "id" : null,
     "position" : null,
     "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SALAND",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T111805.TXT", "SOBI.D101213.T112305.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T112305.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292257385304
+  "luceneModified" : 1292257385320
 }
