@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S532-2011",
+  "senateBillNo" : "S538-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S532-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S538-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Bans the retail sale of aerosol spray paint to persons under the age of 18",
+  "title" : "Increases state aid payments to cities with video lottery gaming facilities",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "State Finance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT", "SOBI.D101221.T162127.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T162127.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292966487049
+  "luceneModified" : 1292966487074
 }
