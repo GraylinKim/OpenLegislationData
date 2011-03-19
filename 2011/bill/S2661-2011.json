@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows certain retired federal employees to apply for tax refund",
-  "summary" : null,
+  "summary" : "Allows certain retired federal employees who paid state income taxes on their federal pension to apply for a tax refund for tax years 1985-1988 if they do so by December 31, 2011. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Taxation",
-  "previousVersions" : null,
+  "previousVersions" : [ "S986-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T161413.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T161914.TXT", "SOBI.D110127.T161413.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296162853835
+  "luceneModified" : 1296163154978
 }
