@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2854-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A2854-2011-1295499600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to compensation for information concerning fraudulent insurance transaction",
+  "summary" : "Provides that any person who provides information to the attorney general, a district attorney or the insurance frauds bureau concerning a fraudulent insurance transaction or with information about a fraudulent insurance transaction that is about to take place may be entitled to an award of forty percent of the action or claim relating to such fraudulent action. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A2753-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to compensation for reports of insurance fraud to law enforcement authorities ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T161915.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295558355096
+}

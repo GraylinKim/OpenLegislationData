@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2850-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to banks",
+    "billEventId" : "A2850-2011-1295499600000-referred+to+banks",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits banking organizations from issuing checks for unsolicited loans",
+  "summary" : "Prohibits banking organizations from issuing checks or drafts to any person or other legal entity when the endorsement or deposit of such check or draft by such person or other legal entity would constitute such person's or other legal entity's acceptance of an unsolicited loan from such banking organization. ",
+  "currentCommittee" : null,
+  "sameAs" : "S651",
+  "lawSection" : "Banking Law",
+  "previousVersions" : [ "A2604-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the banking law, in relation to prohibiting banks from issuing checks whose endorsement constitutes acceptance of an unsolicited loan ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T161915.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295558355087
+}
