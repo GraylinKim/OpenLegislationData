@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2657-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S2657-2011-1296104400000-REFERRED+TO+CODES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires persons who commit crimes while on release to serve maximum sentence",
+  "summary" : "Requires a person on parole, conditional release, or temporary release who has been convicted of a felony committed while on such release, to be recommitted to serve the maximum term imposed by the court for the initial felony in addition to the minimum term imposed on the subsequent felony before consideration for parole or other term of release. ",
+  "currentCommittee" : "CODES",
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "S216-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T161413.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296162853825
+}
