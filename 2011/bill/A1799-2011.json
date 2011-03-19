@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the definition of a sex offense",
-  "summary" : null,
+  "summary" : "Relates to the definition of a sex offense; provides that if luring a child or the attempt thereto requires an actor to register as a sex offender, then the act is determined to be a sex offense. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Correction Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10707-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT", "SOBI.D110112.T124029.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294850098408
+  "luceneModified" : 1294854029909
 }

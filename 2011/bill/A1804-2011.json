@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to payments to health care providers for emergency service rendered for injuries incurred as a result of the operation of a motor vehicle while intoxicated",
-  "summary" : null,
+  "summary" : "Reimburses payments to health care providers for emergency service rendered for injuries incurred as a result of the operation of a motor vehicle while in an intoxicated condition. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A6143-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT", "SOBI.D110112.T124029.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294850098424
+  "luceneModified" : 1294854029899
 }

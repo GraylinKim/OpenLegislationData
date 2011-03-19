@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits landlords convicted of housing violations from claiming exemptions, credits or itemized deductions for such property on state tax returns",
-  "summary" : null,
+  "summary" : "Prohibits landlords convicted of housing violations from claiming exemptions, credits or itemized deductions for such property on state tax returns. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Real Property Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10501-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT", "SOBI.D110112.T124029.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294850399595
+  "luceneModified" : 1294854029912
 }

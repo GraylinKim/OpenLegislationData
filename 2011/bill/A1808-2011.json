@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for a right of health maintenance organization enrollees to continue to receive services from a provider who disaffiliates",
-  "summary" : null,
+  "summary" : "Extends period during which health maintenance organization enrollees may continue to receive services from a health care provider who disaffiliates from 60 or 90 days to 1 year, or in case of terminal illness, until the time of such insured's death; bars incentives which induce a provider to provide health care to an enrollee in a manner inconsistent with law. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A633-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT", "SOBI.D110112.T124029.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294850399558
+  "luceneModified" : 1294854029928
 }

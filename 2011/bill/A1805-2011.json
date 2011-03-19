@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Voids agreements exempting parties, their agents, servants or employees, from liability for damages caused by their negligence, as against public policy",
-  "summary" : null,
+  "summary" : "Voids agreements exempting parties, their agents, servants or employees, from liability for damages caused by their negligence, as against public policy unless state statute, federal or international law specifically provides otherwise. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "General Obligations Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA608-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT", "SOBI.D110112.T124029.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294850098430
+  "luceneModified" : 1294854029902
 }
