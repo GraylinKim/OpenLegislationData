@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows certain disabled persons to fish without a license",
-  "summary" : null,
+  "summary" : "Allows persons having a medically determinable impairment of sufficient severity and duration to qualify for benefits under the federal social security act to take fish as if he or she held a fishing license. ",
   "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6199-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to allowing certain disabled persons to take fish without a license ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101223.T145114.TXT", "SOBI.D101223.T142111.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101223.T145114.TXT", "SOBI.D101223.T142111.TXT", "SOBI.D101223.T150114.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293133874954
+  "luceneModified" : 1293134474027
 }
