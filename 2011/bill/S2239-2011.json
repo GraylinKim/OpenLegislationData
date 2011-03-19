@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2233-2011",
+  "senateBillNo" : "S2239-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2233-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S2239-2011-1295326800000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates crime of unlawful lending and provides for impoundment of car if charged with driving while intoxicated",
+  "title" : "Relates to chronic pain disorder as a compensable occupational disease",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "LABOR",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Workers' Compensation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T133637.TXT", "SOBI.D110118.T133136.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T133637.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295375797653
+  "luceneModified" : 1295375797671
 }

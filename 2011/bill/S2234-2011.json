@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2233-2011",
+  "senateBillNo" : "S2234-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2233-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S2234-2011-1295326800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates crime of unlawful lending and provides for impoundment of car if charged with driving while intoxicated",
+  "title" : "Excludes certain tuition and related expenses from annual income for purposes of limited-profit housing eligibility",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Private Housing Finance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T133637.TXT", "SOBI.D110118.T133136.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T133637.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295375797653
+  "luceneModified" : 1295375797657
 }

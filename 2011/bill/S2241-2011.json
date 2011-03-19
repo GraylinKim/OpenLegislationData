@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2233-2011",
+  "senateBillNo" : "S2241-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2233-2011-1295326800000-REFERRED+TO+CODES",
+    "billEventId" : "S2241-2011-1295326800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates crime of unlawful lending and provides for impoundment of car if charged with driving while intoxicated",
+  "title" : "Prohibits restrictions on right of free speech in shopping malls",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Civil Rights Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T133637.TXT", "SOBI.D110118.T133136.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T133637.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295375797653
+  "luceneModified" : 1295375797676
 }

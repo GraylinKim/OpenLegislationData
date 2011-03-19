@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2233-2011",
+  "senateBillNo" : "S2245-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2233-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+    "billEventId" : "S2245-2011-1295326800000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates crime of unlawful lending and provides for impoundment of car if charged with driving while intoxicated",
+  "title" : "Creates a veterans long term health care authority and prescribes its powers and duties",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T133637.TXT", "SOBI.D110118.T133136.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T133637.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295375797653
+  "luceneModified" : 1295375797683
 }
