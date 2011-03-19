@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1756-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A1756-2011-1294722000000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the uniform mediation act",
+  "summary" : "Establishes the uniform mediation act; establishes that a mediation communication is privileged and is not subject to discovery or admissible in evidence unless waived or precluded; prohibits certain reports to be made by mediators; establishes that mediation communications are confidential; requires mediators to disclose conflicts of interests. ",
+  "currentCommittee" : null,
+  "sameAs" : "S683",
+  "lawSection" : "Civil Practice Law and Rules",
+  "previousVersions" : [ "A8497-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to establishing the uniform mediation act ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T165725.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294783045981
+}
