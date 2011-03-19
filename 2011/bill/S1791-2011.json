@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1788-2011",
+  "senateBillNo" : "S1791-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1788-2011-1294808400000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1791-2011-1294808400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for preference for certain N.Y. state domiciliaries in the awarding of contracts for public work",
+  "title" : "Expands definition of place of public accommodation",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "General Municipal Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T122001.TXT", "SOBI.D110112.T121501.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T122001.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294852801545
+  "luceneModified" : 1294852801565
 }
