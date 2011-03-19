@@ -171,6 +171,13 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -179,7 +186,7 @@
   "actClause" : "AN ACT to amend the legislative law, in relation to apportionment of congressional, senate and assembly districts; and to repeal section 83-m of such law relating to the legislative task force on demographic research and reapportionment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T123913.TXT", "SOBI.D110128.T085733.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T123913.TXT", "SOBI.D110131.T160219.TXT", "SOBI.D110128.T085733.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296223053263
+  "luceneModified" : 1296507739256
 }
