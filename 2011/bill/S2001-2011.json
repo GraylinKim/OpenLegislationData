@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2001-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S2001-2011-1294981200000-REFERRED+TO+CODES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SKELOS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Extends statute of limitation for commencing criminal case when DNA evidence is recovered at a crime scene but the evidence does not match anyone in the DNA index",
+  "summary" : null,
+  "currentCommittee" : "CODES",
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T123438.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295026478817
+}

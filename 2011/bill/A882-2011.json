@@ -8,6 +8,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294981200000,
+    "eventText" : "reference changed to insurance",
+    "billEventId" : "A882-2011-1294981200000-reference+changed+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend chapter 266 of the laws of 1986 amending the civil practice law and rules and other laws relating to malpractice and professional medical conduct; and to amend the state finance law, in relation to creating the health care access protection fund; and to amend the insurance law, in relation to the payment of medical malpractice insurance premiums ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T110612.TXT", "SOBI.D110106.T163748.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T110612.TXT", "SOBI.D110106.T163748.TXT", "SOBI.D110114.T123438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294349868714
+  "luceneModified" : 1295026478803
 }
