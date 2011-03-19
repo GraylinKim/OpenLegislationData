@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides additional opportunity for new registrant by mail to indicate choice of party enrollment where original choice omitted",
-  "summary" : null,
+  "summary" : "Provides additional opportunity for new registrant by mail to indicate choice of party enrollment where original choice was omitted or void, by requiring board of elections to notify registrant of ineffective enrollment and ineligibility to vote in a party primary and providing a place for the registrant to enroll or decline to enroll in a party by mail. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA3995-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to failure of new registrants to enroll ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T124602.TXT", "SOBI.D110110.T131104.TXT", "SOBI.D110110.T124102.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T131605.TXT", "SOBI.D110110.T124602.TXT", "SOBI.D110110.T131104.TXT", "SOBI.D110110.T124102.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294683064427
+  "luceneModified" : 1294683365565
 }
