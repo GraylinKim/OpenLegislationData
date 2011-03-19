@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S153-2011",
+  "senateBillNo" : "S156-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S153-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S156-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,44 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits the New York state department of tax and finance from charging a fee for applications for a certificate of registration pursuant to a re-registration program",
+  "title" : "Establishes the crimes of vehicular assault and vehicular manslaughter in an active work zone and intrusion into an active work zone",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "ADAMS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "ALESI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HUNTLEY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LIBOUS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "NOZZOLIO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -42,20 +63,6 @@
     "id" : null,
     "position" : null,
     "fullname" : "RANZENHOFER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SALAND",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "YOUNG",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T152204.TXT", "SOBI.D101210.T151703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T152204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292012524566
+  "luceneModified" : 1292012524581
 }

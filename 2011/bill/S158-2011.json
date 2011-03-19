@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S158-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S158-2011-1294203600000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Defers eligible lists for persons called to active duty in military service",
+  "summary" : null,
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
+  "sameAs" : null,
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101210.T152204.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292012524587
+}
