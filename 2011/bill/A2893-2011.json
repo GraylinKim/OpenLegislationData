@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2459-2011",
+  "senateBillNo" : "A2893-2011",
   "billEvents" : [ {
     "eventDate" : 1295586000000,
-    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
-    "billEventId" : "S2459-2011-1295586000000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
+    "eventText" : "referred to education",
+    "billEventId" : "A2893-2011-1295586000000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "Calhoun",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes James Freitag, a retiree,  to apply for retroactive membership in the New York state teachers' retirement system",
+  "title" : "Alters requirements with respect to transportation of children to nonpublic schools in school districts, applying to all school districts",
   "summary" : null,
-  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Retirement",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T123523.TXT", "SOBI.D110121.T124023.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T124023.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295631623592
+  "luceneModified" : 1295631623603
 }
