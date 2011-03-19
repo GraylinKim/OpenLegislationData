@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S512-2011",
+  "senateBillNo" : "S515-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
-    "billEventId" : "S512-2011-1294203600000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S515-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the employment address of certain sex offenders to be reported to the division of criminal justice services",
+  "title" : "Creates stricter fines and criminal penalties for passing a stopped school bus",
   "summary" : null,
-  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Correction Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HANNON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "JOHNSON",
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T110608.TXT", "SOBI.D101221.T110108.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T110608.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292947568081
+  "luceneModified" : 1292947568089
 }

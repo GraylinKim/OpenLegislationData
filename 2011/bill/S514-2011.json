@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S514-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S514-2011-1294203600000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorize the issuance of honorary retirement identification cards to certain retired Park Police officers",
+  "summary" : null,
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
+  "sameAs" : null,
+  "lawSection" : "Retirement",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101221.T110608.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292947568087
+}
