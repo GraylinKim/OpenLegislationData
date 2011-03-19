@@ -99,6 +99,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1292994000000,
+    "eventText" : "SIGNED CHAP.568",
+    "billEventId" : "S7034A-2009-1292994000000-SIGNED+CHAP.568",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1292994001000,
+    "eventText" : "APPROVAL MEMO.38",
+    "billEventId" : "S7034A-2009-1292994001000-APPROVAL+MEMO.38",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -123,7 +137,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101215.T120402.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101215.T120402.TXT", "SOBI.D101227.T155106.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292432642487
+  "luceneModified" : 1293483066643
 }

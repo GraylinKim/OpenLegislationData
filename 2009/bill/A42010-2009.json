@@ -1,0 +1,66 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "A42010-2009",
+  "billEvents" : [ {
+    "eventDate" : 1291006800000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A42010-2009-1291006800000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006801000,
+    "eventText" : "reported referred to rules",
+    "billEventId" : "A42010-2009-1291006801000-reported+referred+to+rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006802000,
+    "eventText" : "reported",
+    "billEventId" : "A42010-2009-1291006802000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006803000,
+    "eventText" : "rules report cal.6",
+    "billEventId" : "A42010-2009-1291006803000-rules+report+cal.6",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006804000,
+    "eventText" : "substituted by s68010",
+    "billEventId" : "A42010-2009-1291006804000-substituted+by+s68010",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rules",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes a special commission on judicial compensation, and provides for their powers and duties and provides periodic salary increases to state officers",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "s68010",
+  "lawSection" : "Judiciary",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101227.T155106.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293483066641
+}
