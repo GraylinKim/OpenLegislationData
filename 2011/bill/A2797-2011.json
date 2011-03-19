@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Credits student progress in licensed trade or registered business schools",
-  "summary" : null,
+  "summary" : "Grants credit in licensed trade or registered business schools based on a student's progress for the purposes of federal aid. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A454-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to crediting of student progress in licensed trade or registered business schools ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT", "SOBI.D110120.T130401.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295546367401
+  "luceneModified" : 1295546641589
 }

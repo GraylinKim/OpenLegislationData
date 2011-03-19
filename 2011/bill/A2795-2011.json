@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires financial institutions to notify a customer prior to charging a fee based on account inactivity",
-  "summary" : null,
+  "summary" : "Requires financial institutions to notify a customer thirty days prior to charging a fee based on account inactivity; such notice shall include a telephone number and the full contact information of a representative of the financial institution responsible for resolving any matter relating to the fee. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Banking Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9352-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : "AN ACT to amend the banking law, in relation to requiring financial institutions to notify a customer prior to charging a fee based on account inactivity ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT", "SOBI.D110120.T130401.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295546367390
+  "luceneModified" : 1295546641595
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits revenue payment to officer or director of a public utility company contingent upon a change in control",
-  "summary" : null,
+  "summary" : "Prohibits public utility company revenues from being paid to any officer or director contingent upon a change in control (merger, acquisition, etc.) of such public utility; requires severance pay to be fully deductible as a business expense for federal tax purposes. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Service Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A373-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the public service law, in relation to the use of revenues by public utilities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT", "SOBI.D110120.T130401.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295546367408
+  "luceneModified" : 1295546641586
 }
