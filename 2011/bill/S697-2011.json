@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S692-2011",
+  "senateBillNo" : "S697-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S692-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S697-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the crime of display of sexual material in a vehicle",
+  "title" : "Provides that only the owner and holder of a mortgage and note, or its agent, shall have standing to commence a mortgage foreclosure action",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Real Property Actions and Proceedings Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T144745.TXT", "SOBI.D101229.T144240.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T144745.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293652065473
+  "luceneModified" : 1293652065490
 }

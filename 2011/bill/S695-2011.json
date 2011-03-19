@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S692-2011",
+  "senateBillNo" : "S695-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S692-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S695-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the crime of display of sexual material in a vehicle",
+  "title" : "Prohibits the sale of electronic cigarettes to minors and items not defined as a tobacco product or approved by the FDA as a tobacco use cessation or harm reduction",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "HUNTLEY",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -39,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T144745.TXT", "SOBI.D101229.T144240.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T144745.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293652065473
+  "luceneModified" : 1293652065486
 }
