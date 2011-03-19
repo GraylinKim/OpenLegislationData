@@ -22,6 +22,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296450000000,
+    "eventText" : "passed assembly",
+    "billEventId" : "A2059-2011-1296450000000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1296450001000,
+    "eventText" : "delivered to senate",
+    "billEventId" : "A2059-2011-1296450001000-delivered+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -46,7 +60,7 @@
   "actClause" : "AN ACT to amend the mental hygiene law, in relation to adding representatives of a dual diagnosis program to the advisory council on alcoholism and substance abuse services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T091829.TXT", "SOBI.D110113.T144915.TXT", "SOBI.D110114.T103413.TXT", "SOBI.D110125.T150424.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T155719.TXT", "SOBI.D110113.T144915.TXT", "SOBI.D110127.T091829.TXT", "SOBI.D110114.T103413.TXT", "SOBI.D110125.T150424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296137909325
+  "luceneModified" : 1296507439059
 }

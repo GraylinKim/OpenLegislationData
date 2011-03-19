@@ -22,6 +22,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296450000000,
+    "eventText" : "1ST REPORT CAL.45",
+    "billEventId" : "S2339A-2011-1296450000000-1ST+REPORT+CAL.45",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -34,7 +41,7 @@
   },
   "title" : "Eliminates the requirement for the use of electronic voting machines during village, special district, library district and fire district elections",
   "summary" : "Eliminates the requirement for the use of electronic voting machines during village, special district, improvement district, library district and fire district elections and authorizes the use of mechanical lever voting machines or paper ballots during such elections through December 31, 2012; establishes certain requirements for paper ballots. ",
-  "currentCommittee" : "ELECTIONS",
+  "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
   "previousVersions" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to authorizing village, special district, improvement district and library district elections to be conducted on mechanical lever voting machines or paper ballots; and to amend the town law, in relation to authorizing the use of mechanical lever voting machines or paper ballots at fire district elections; and providing for the repeal of such provisions upon expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T164944.TXT", "SOBI.D110125.T161942.TXT", "SOBI.D110126.T142803.TXT", "SOBI.D110131.T113700.TXT", "SOBI.D110125.T170450.TXT", "SOBI.D110125.T170010.TXT", "SOBI.D110126.T181321.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T155719.TXT", "SOBI.D110125.T164944.TXT", "SOBI.D110125.T161942.TXT", "SOBI.D110126.T142803.TXT", "SOBI.D110125.T170450.TXT", "SOBI.D110131.T113700.TXT", "SOBI.D110125.T170010.TXT", "SOBI.D110126.T181321.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296491820662
+  "luceneModified" : 1296507439046
 }
