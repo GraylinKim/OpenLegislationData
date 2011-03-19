@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S361-2011",
+  "senateBillNo" : "S362-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S361-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "eventText" : "REFERRED TO SOCIAL SERVICES",
+    "billEventId" : "S362-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "ROBACH",
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the New York state foundation for science, technology and innovation to establish a high-tech employment and training program",
+  "title" : "Relates to filing and investigation of reports alleging educational neglect",
   "summary" : null,
-  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
+  "currentCommittee" : "SOCIAL SERVICES",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T143935.TXT", "SOBI.D101216.T144432.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T144432.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292528672139
+  "luceneModified" : 1292528672142
 }
