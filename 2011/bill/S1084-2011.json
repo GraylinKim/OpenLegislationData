@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1069-2011",
+  "senateBillNo" : "S1084-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S1069-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "billEventId" : "S1084-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the New York state energy research and development authority to submit an annual report detailing energy efficiency savings achieved in grant recipients' properties",
+  "title" : "Provides residential electric customers with an option for greater control of the cost of such service by installing real time smart meters",
   "summary" : null,
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public authorities law, in relation to requiring the New York state energy research and development authority to submit an annual report detailing energy efficiency savings achieved in grant recipients' properties ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T104608.TXT", "SOBI.D110105.T092056.TXT", "SOBI.D110105.T093057.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T104608.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294242368439
+  "luceneModified" : 1294242368432
 }

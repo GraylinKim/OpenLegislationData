@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1067-2011",
+  "senateBillNo" : "S1086-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S1067-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "billEventId" : "S1086-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires alternative fuels to be available along the thruway",
+  "title" : "Directs a study of the siting processes for wind energy production facilities",
   "summary" : null,
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Energy Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "DUANE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
@@ -48,14 +55,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "KRUGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "MONTGOMERY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the energy law and the public authorities law, in relation to the availability of alternative fuels along the New York state thruway ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T091556.TXT", "SOBI.D110105.T104608.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T104608.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294242368434
+  "luceneModified" : 1294242368445
 }
