@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "AVELLA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to the definitions of the terms \"impaired\" and \"intoxication\" for the purposes of such law ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101227.T150103.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D110104.T134505.TXT", "SOBI.D101222.T160851.TXT", "SOBI.D101222.T153349.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101227.T150103.TXT", "SOBI.D110110.T155131.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D110104.T134505.TXT", "SOBI.D101222.T153349.TXT", "SOBI.D101222.T160851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294166705689
+  "luceneModified" : 1294692691942
 }
