@@ -99,6 +99,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1292389200000,
+    "eventText" : "APPROVAL MEMO.34",
+    "billEventId" : "S7196A-2009-1292389200000-APPROVAL+MEMO.34",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -123,7 +130,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101215.T142912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101215.T142912.TXT", "SOBI.D101217.T112935.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292441352182
+  "luceneModified" : 1292603375969
 }
