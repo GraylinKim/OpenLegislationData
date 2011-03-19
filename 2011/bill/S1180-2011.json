@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1130-2011",
+  "senateBillNo" : "S1180-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S1130-2011-1294203600000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S1180-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the commercial display of human remains",
+  "title" : "Relates to the siting of major electric generating facilities",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to the commercial display of human remains ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T123155.TXT", "SOBI.D110105.T114623.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T123155.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294248715576
+  "luceneModified" : 1294248715523
 }

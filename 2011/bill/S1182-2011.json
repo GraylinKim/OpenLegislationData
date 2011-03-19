@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1131-2011",
+  "senateBillNo" : "S1182-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S1131-2011-1294203600000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+    "billEventId" : "S1182-2011-1294203600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires certain food establishments to provide nutritional information to its customers",
+  "title" : "Prohibits the New York city water board from enacting any rules and regulations less favorable to the consumer",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
   "sameAs" : null,
-  "lawSection" : "Health",
+  "lawSection" : "Public Authorities",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "DILAN",
@@ -41,13 +48,6 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "SAMPSON",
     "branch" : null,
     "contactInfo" : null,
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT in relation to creating the menu nutritional disclosure act of 2011 ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T123155.TXT", "SOBI.D110105.T114623.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T123155.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294248715578
+  "luceneModified" : 1294248715536
 }

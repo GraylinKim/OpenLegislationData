@@ -24,7 +24,21 @@
   "sameAs" : null,
   "lawSection" : "Education Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERKINS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SERRANO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T121648.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T123155.TXT", "SOBI.D110105.T121648.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294247808260
+  "luceneModified" : 1294248715566
 }
