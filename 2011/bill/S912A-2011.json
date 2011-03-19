@@ -10,8 +10,8 @@
     "luceneModified" : 0
   }, {
     "eventDate" : 1296536400000,
-    "eventText" : "REPORTED AND COMMITTED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S912A-2011-1296536400000-REPORTED+AND+COMMITTED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S912A-2011-1296536400000-AMEND+AND+RECOMMIT+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T142402.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T142402.TXT", "SOBI.D110201.T143903.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296588242119
+  "luceneModified" : 1296589143952
 }
