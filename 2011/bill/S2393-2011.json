@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the office of parks, recreation and historic preservation to preserve and maintain state historic sites that are closed for more than a month",
-  "summary" : null,
+  "summary" : "Requires the office of parks, recreation and historic preservation to preserve and maintain state historic sites that are closed for more than a month. ",
   "currentCommittee" : "CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
   "sameAs" : null,
   "lawSection" : "Parks, Recreation and Historic Preservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7151-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T151326.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T151326.TXT", "SOBI.D110119.T153314.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295468006610
+  "luceneModified" : 1295469194701
 }
