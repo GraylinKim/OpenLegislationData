@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1603-2011",
+  "senateBillNo" : "S1606-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
-    "billEventId" : "S1603-2011-1294635600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1606-2011-1294635600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the child support obligation of indigent parents",
+  "title" : "Makes provisions regarding medical assistance presumptive eligibility program",
   "summary" : null,
-  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Domestic Relations Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T150617.TXT", "SOBI.D110110.T150117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T150617.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294689977570
+  "luceneModified" : 1294689977574
 }

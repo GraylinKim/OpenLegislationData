@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1603-2011",
+  "senateBillNo" : "S1604-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
-    "billEventId" : "S1603-2011-1294635600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S1604-2011-1294635600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the child support obligation of indigent parents",
+  "title" : "Amends the general obligations law in relation to the implementation of child support enforcement",
   "summary" : null,
-  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Domestic Relations Law",
+  "lawSection" : "General Obligations Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T150617.TXT", "SOBI.D110110.T150117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T150617.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294689977570
+  "luceneModified" : 1294689977572
 }
