@@ -1,0 +1,66 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S1001-2009",
+  "billEvents" : [ {
+    "eventDate" : 1232600400000,
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S1001-2009-1232600400000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1235451600000,
+    "eventText" : "REPORTED AND COMMITTED TO FINANCE",
+    "billEventId" : "S1001-2009-1235451600000-REPORTED+AND+COMMITTED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1247630400000,
+    "eventText" : "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+    "billEventId" : "S1001-2009-1247630400000-COMMITTEE+DISCHARGED+AND+COMMITTED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1247630401000,
+    "eventText" : "ORDERED TO THIRD READING CAL.731",
+    "billEventId" : "S1001-2009-1247630401000-ORDERED+TO+THIRD+READING+CAL.731",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1247716800000,
+    "eventText" : "SUBSTITUTED BY A2234",
+    "billEventId" : "S1001-2009-1247716800000-SUBSTITUTED+BY+A2234",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MORAHAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the past service costs associated with the membership of certain Haverstraw police officers in an optional twenty year retirement plan",
+  "summary" : null,
+  "currentCommittee" : "RULES",
+  "sameAs" : "A2234",
+  "lawSection" : "Retirement",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "CIVIL SERVICE AND PENSIONS", "FINANCE" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101203.T140955.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291403395629
+}
