@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A480-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A480-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires comprehensive accident prevention planning for the prevention of petroleum spills and leaks, and auditing thereof, in certain cities",
+  "summary" : "Requires owners and operators of petroleum bulk storage facilities located in cities of one million or more to undertake comprehensive accident prevention plans for the prevention of spills and leaks of petroleum; further requires such owners or operators to hire an independent company to quarterly audit the implementation of such plan. ",
+  "currentCommittee" : null,
+  "sameAs" : "S84",
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A3892-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to comprehensive accident prevention planning by and auditing of petroleum bulk storage facilities in cities with a population of one million or more ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101228.T145334.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293566014409
+}

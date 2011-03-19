@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A482-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A482-2011-1294203600000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Restricts geographic placement of shelters for adults; must be at least 3 miles from other such facilities; limits population of such facilities to 100",
+  "summary" : "Requires homeless shelters housing adults to restrict the number of clients housed to 100 and to be located no nearer than a three mile radius from another such facility; phases in requirements over one year; requires report by the department of family assistance regarding implementation of such standards; shelters must meet the requirements of these provisions by December 31, 2012. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A3893-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to special standards for shelters for adults ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101228.T145334.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293566014412
+}
