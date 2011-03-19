@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to additional penalties for certain drunk driving convictions",
-  "summary" : null,
+  "summary" : "Relates to additional penalties for certain drunk driving convictions which involve DWAI and DWI where a person with developmental disabilities was a passenger in the vehicle. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9179-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to additional penalties for certain drunk driving convictions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T124859.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T124859.TXT", "SOBI.D110120.T130901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295545739996
+  "luceneModified" : 1295546941769
 }
