@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296104400000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A3382-2011-1296104400000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Calhoun",
+    "fullname" : "Calhoun (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 9 of the constitution, in relation to acts of the legislature having fiscal impact on local governments ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT", "SOBI.D110125.T163443.TXT", "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT", "SOBI.D110125.T163443.TXT", "SOBI.D110127.T155911.TXT", "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295991283184
+  "luceneModified" : 1296161951346
 }

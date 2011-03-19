@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296104400000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A3371-2011-1296104400000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
+    "fullname" : "Schimminger (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -32,7 +39,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 4 of the constitution, relating to the lieutenant-governor acting as governor ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T152940.TXT", "SOBI.D110125.T105904.TXT", "SOBI.D110125.T110905.TXT", "SOBI.D110125.T110408.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T152940.TXT", "SOBI.D110127.T155911.TXT", "SOBI.D110125.T105904.TXT", "SOBI.D110125.T110905.TXT", "SOBI.D110125.T110408.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987380601
+  "luceneModified" : 1296161951338
 }
