@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that students who have an IEP shall not be required to take more than one regents examination in any given day",
-  "summary" : null,
+  "summary" : "Provides that students who have an IEP shall not be required to take more than one regents examination in any given day. ",
   "currentCommittee" : null,
   "sameAs" : "S2503",
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA6736-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -137,7 +137,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to the administration of exams to students with disabilities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T154137.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T154137.TXT", "SOBI.D110124.T154637.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295901697163
+  "luceneModified" : 1295901997385
 }

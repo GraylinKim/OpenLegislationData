@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2511-2011",
+  "senateBillNo" : "S2517-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
     "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S2511-2011-1295845200000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "billEventId" : "S2517-2011-1295845200000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires charges for telephone calls based on duration, whether over lines or by cellular, to be charged and prorated by the second basis",
-  "summary" : "Requires charges for telephone calls based on duration, whether over lines or by cellular, to be charged and prorated by the second; applies to all service providers; authorizes the public service commission to promulgate rules and regulations. ",
+  "title" : "Requires that at least one commissioner of the public service commission have experience in utility consumer advocacy",
+  "summary" : null,
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
   "lawSection" : "Public Service Law",
-  "previousVersions" : [ "A5226-2009" ],
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T154137.TXT", "SOBI.D110124.T154637.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T154637.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295901997388
+  "luceneModified" : 1295901997379
 }
