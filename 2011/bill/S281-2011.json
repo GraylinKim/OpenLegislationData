@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S255-2011",
+  "senateBillNo" : "S281-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S255-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S281-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires parking spaces reserved for handicapped persons to be marked as tow-away zones",
+  "title" : "Authorizes a person to use physical force, including deadly physical force in defense of a person, in defense of a premises or in defense of a dwelling, residence or vehicle; repealer",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "GRIFFO",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to marking parking spaces reserved for handicapped persons as tow-away zones ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T111805.TXT", "SOBI.D101213.T115306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292259186825
+  "luceneModified" : 1292259186828
 }

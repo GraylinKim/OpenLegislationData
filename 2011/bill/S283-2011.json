@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S255-2011",
+  "senateBillNo" : "S283-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S255-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S283-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires parking spaces reserved for handicapped persons to be marked as tow-away zones",
+  "title" : "Enacts the \"Guy Kyler Act\" making provisions relating to suspension of vessel operation privileges and motor vehicle licenses for operating under the influence",
   "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
@@ -27,14 +27,35 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "GRIFFO",
+    "fullname" : "ALESI",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "BONACIC",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "FLANAGAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "FUSCHILLO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to marking parking spaces reserved for handicapped persons as tow-away zones ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T111805.TXT", "SOBI.D101213.T115306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292259186825
+  "luceneModified" : 1292259186841
 }

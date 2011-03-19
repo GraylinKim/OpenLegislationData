@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S257-2011",
+  "senateBillNo" : "S278-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S257-2011-1294203600000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+    "billEventId" : "S278-2011-1294203600000-REFERRED+TO+CULTURAL+AFFAIRS%2C+TOURISM%2C+PARKS+AND+RECREATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Imposes certain limits, requirements and prohibitions regarding the seeking of refunds by certain insurers, organizations or corporations from health care providers",
+  "title" : "Directs the commissioner of parks, recreation and historic preservation to establish a program of free parking for senior citizens",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Parks, Recreation and Historic Preservation Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ALESI",
+    "fullname" : "BONACIC",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
+    "fullname" : "GRIFFO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,7 +55,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "LIBOUS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to imposing certain limits, requirements and prohibitions regarding the seeking of refunds by certain insurers, organizations or corporations from health care providers ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT", "SOBI.D101213.T112305.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292259186819
+  "luceneModified" : 1292259186778
 }

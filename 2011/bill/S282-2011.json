@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S246-2011",
+  "senateBillNo" : "S282-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
-    "billEventId" : "S246-2011-1294203600000-REFERRED+TO+CULTURAL+AFFAIRS%2C+TOURISM%2C+PARKS+AND+RECREATION",
+    "billEventId" : "S282-2011-1294203600000-REFERRED+TO+CULTURAL+AFFAIRS%2C+TOURISM%2C+PARKS+AND+RECREATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires a report on the economic impact of ATV related tourism",
+  "title" : "Provides free use of state parks for veterans and the surviving spouses or domestic partners of those killed in combat",
   "summary" : null,
   "currentCommittee" : "CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
   "sameAs" : null,
-  "lawSection" : "Economic Development Law",
+  "lawSection" : "Parks, Recreation and Historic Preservation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the economic development law, in relation to preparing a report on the economic impact of ATV-related tourism in the state of New York ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT", "SOBI.D101213.T110815.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292259186847
+  "luceneModified" : 1292259186830
 }

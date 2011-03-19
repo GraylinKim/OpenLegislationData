@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S257-2011",
+  "senateBillNo" : "S279-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S257-2011-1294203600000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S279-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Imposes certain limits, requirements and prohibitions regarding the seeking of refunds by certain insurers, organizations or corporations from health care providers",
+  "title" : "Requires the packaging on prescribed drugs to include a label which lists the country of origin of the prescribed drug",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,7 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
+    "fullname" : "BONACIC",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "GRIFFO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
@@ -55,7 +62,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "NOZZOLIO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to imposing certain limits, requirements and prohibitions regarding the seeking of refunds by certain insurers, organizations or corporations from health care providers ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT", "SOBI.D101213.T112305.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292259186819
+  "luceneModified" : 1292259186794
 }
