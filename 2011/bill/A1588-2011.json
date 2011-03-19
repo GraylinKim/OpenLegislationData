@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1588-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1588-2011-1294722000000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the installation and maintenance of lockout devices on lottery vending machines by licensed lottery sales agents to prevent use by minors",
+  "summary" : "Requires the installation of lockout devices on lottery vending machines by licensed agents to prevent use by minors. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1671",
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A2487-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to requiring security devices on lottery machines to prevent use by minors ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T115714.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294765034559
+}
