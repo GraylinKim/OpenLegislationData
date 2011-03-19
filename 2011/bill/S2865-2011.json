@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2861-2011",
+  "senateBillNo" : "S2865-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2861-2011-1296622800000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S2865-2011-1296622800000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the senate shall be composed of 62 senators, each representing 1 county of the state",
+  "title" : "Authorizes and directs the conveyance of certain lands owned by the New York State Thruway Authority in the City of Lockport in the county of Niagara to Hydraulic Race Co., Inc.",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "lawSection" : "Public Authorities",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T115210.TXT", "SOBI.D110202.T115710.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T115710.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296665830257
+  "luceneModified" : 1296665830274
 }

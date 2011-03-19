@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2861-2011",
+  "senateBillNo" : "S2863-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2861-2011-1296622800000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S2863-2011-1296622800000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the senate shall be composed of 62 senators, each representing 1 county of the state",
+  "title" : "Increases the penalties for violations relating to the licensing of drivers",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T115210.TXT", "SOBI.D110202.T115710.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T115710.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296665830257
+  "luceneModified" : 1296665830266
 }

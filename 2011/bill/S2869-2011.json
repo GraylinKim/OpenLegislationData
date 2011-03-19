@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2861-2011",
+  "senateBillNo" : "S2869-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
     "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2861-2011-1296622800000-REFERRED+TO+JUDICIARY",
+    "billEventId" : "S2869-2011-1296622800000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,18 +13,25 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "GRIFFO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the senate shall be composed of 62 senators, each representing 1 county of the state",
+  "title" : "Removes constitutional provision that the lieutenant-governor shall act as governor when the governor is absent from the state",
   "summary" : null,
   "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
   "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GRISANTI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T115210.TXT", "SOBI.D110202.T115710.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T115710.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296665830257
+  "luceneModified" : 1296665830294
 }
