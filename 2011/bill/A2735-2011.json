@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2735-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2735-2011-1295499600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to community land mortgages and authorizes the state of New York mortgage agency to purchase community land mortgages from banks within the state",
+  "summary" : "Relates to the purchase of community land mortgages; defines a community land mortgage as a mortgage that is secured by a first lien on a leasehold estate in real property that is improved by a residential structure wherein title to the real property is retained by a not-for-profit housing company or housing development fund company; authorizes the state of New York mortgage agency to purchase community land mortgages from banks within the state; ensures not-for-profit housing remains as affordable housing. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A4522-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to the purchase of community land mortgages ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T125400.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295546040178
+}

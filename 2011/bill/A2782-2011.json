@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2732-2011",
+  "senateBillNo" : "A2782-2011",
   "billEvents" : [ {
     "eventDate" : 1295499600000,
     "eventText" : "referred to consumer affairs and protection",
-    "billEventId" : "A2732-2011-1295499600000-referred+to+consumer+affairs+and+protection",
+    "billEventId" : "A2782-2011-1295499600000-referred+to+consumer+affairs+and+protection",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes a pharmacist to substitute a brand name prescription drug for the generic equivalent of such drug if requested to do so by the patient",
-  "summary" : "Authorizes a pharmacist to substitute a brand name prescription drug for the generic equivalent of such drug if requested to do so by the patient; if done the pharmacist must record the request. ",
+  "title" : "Provides for the establishment of automotive glass replacement standards that are consistent with the federal motor vehicle safety standard requirements",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A4045-2009" ],
+  "lawSection" : "General Business Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -34,14 +34,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Calhoun",
+    "fullname" : "Burling",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hawley",
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to authorizing the substitution of brand name prescription drugs by a pharmacist ",
+  "actClause" : "AN ACT to amend the general business law, in relation to automotive glass replacement standards ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T125400.TXT", "SOBI.D110120.T124859.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T125400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295546040164
+  "luceneModified" : 1295546040199
 }

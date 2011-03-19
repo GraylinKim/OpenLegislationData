@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Extends the time period for which a defendant may be held in custody for drug related offenses",
-  "summary" : null,
+  "summary" : "Extends the time period from 5 to 10 days for which a defendant may be held in custody for drug sale or possession offenses while waiting lab results on testing of the substance for which they were arrested. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3413-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to extending the time period for which a person may be held in custody for drug related violations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T124859.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T125400.TXT", "SOBI.D110120.T124859.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295545739989
+  "luceneModified" : 1295546040189
 }

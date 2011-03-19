@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2741-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2741-2011-1295499600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows certain uniformed personnel serving in foreign countries on behalf of the United States the same protection as other public employees serving in the military",
+  "summary" : "Allows uniformed personnel who serve as interpreters assisting persons in police duty, serving in foreign countries on behalf of the United States government the same protection as other public employees serving in the military. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Military Law",
+  "previousVersions" : [ "A548-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the military law, in relation to affording uniformed personnel who assist police officers, serving in foreign countries on behalf of the United States government the same protection as other public employees serving in the military ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T125400.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295546040195
+}

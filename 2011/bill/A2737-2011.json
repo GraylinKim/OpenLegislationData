@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2737-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2737-2011-1295499600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the de-regulation of rent-stabilized housing accommodations",
+  "summary" : "Relates to the de-regulation of rent-stabilized housing accommodations; eliminates rent regulation for any regulated housing accommodation that becomes vacant on or after June 16, 2009; makes exceptions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Emergency Housing Rent Control Law",
+  "previousVersions" : [ "A4603-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the emergency housing rent control law, the local emergency housing rent control act, the emergency tenant protection act of nineteen seventy-four and the administrative code of the city of New York, in relation to the de-regulation of rent-stabilized housing accommodations upon vacancy ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T125400.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295546040183
+}
