@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2801-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2801-2011-1296536400000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BUDGET",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "legislature and judiciary",
+  "summary" : "Makes appropriations for the support of government - Legislature and Judiciary Budget. ",
+  "currentCommittee" : "FINANCE",
+  "sameAs" : "A4001",
+  "lawSection" : "Budget Bills",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT making appropriations for the support of government (LEGISLATURE AND JUDICIARY BUDGET) ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T121350.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296580430392
+}
