@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S528-2011",
+  "senateBillNo" : "S539-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S528-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S539-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
+    "fullname" : "KLEIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to verification of a name change",
-  "summary" : "Relates to verification of a name change. ",
-  "currentCommittee" : "CODES",
+  "title" : "Relates to authorizing forms of licenses to include blood types",
+  "summary" : null,
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Civil Rights Law",
-  "previousVersions" : [ "SA7667-2009" ],
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "BRESLIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "SAMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "NOZZOLIO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "SMITH",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -60,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT", "SOBI.D101221.T162627.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T162627.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292966787143
+  "luceneModified" : 1292966787141
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to removing the statute of limitations for sexual offenses",
-  "summary" : null,
+  "summary" : "Relates to removing the statute of limitations for sexual offenses committed against minors. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA1848-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT", "SOBI.D101221.T162627.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292966187004
+  "luceneModified" : 1292966787128
 }

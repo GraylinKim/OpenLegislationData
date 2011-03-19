@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to sanctions for driving while ability impaired while holding a conditional license",
-  "summary" : null,
+  "summary" : "Relates to sanctions for driving while ability impaired while holding a conditional license. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA5141-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT", "SOBI.D101221.T161126.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT", "SOBI.D101221.T161126.TXT", "SOBI.D101221.T162627.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292966187987
+  "luceneModified" : 1292966787124
 }
