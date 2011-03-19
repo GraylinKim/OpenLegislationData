@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S556-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO BANKS",
+    "billEventId" : "S556-2011-1294203600000-REFERRED+TO+BANKS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Regulates the provision of refund anticipation loans by persons and entities other than banking institutions",
+  "summary" : null,
+  "currentCommittee" : "BANKS",
+  "sameAs" : null,
+  "lawSection" : "Banking Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101222.T092823.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293028103805
+}
