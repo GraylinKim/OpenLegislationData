@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the maximum vehicle length for buses",
-  "summary" : null,
+  "summary" : "Relates to the maximum vehicle length for buses changing it to 50 feet from 45. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S8452-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to the maximum vehicle length ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T110955.TXT", "SOBI.D110104.T112455.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T113456.TXT", "SOBI.D110104.T110955.TXT", "SOBI.D110104.T112455.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294158295682
+  "luceneModified" : 1294158896853
 }
