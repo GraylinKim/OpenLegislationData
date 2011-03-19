@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Makes it unlawful for any commercial operator of a motor vehicle to transport loose substances in an open vehicle without proper restraints",
-  "summary" : null,
+  "summary" : "Makes it unlawful for any commercial operator of a motor vehicle to transport loose substances in an open vehicle without the use of a proper restraint mechanism, as approved by the commissioner of motor vehicles. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SB105-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T154619.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T154619.TXT", "SOBI.D110110.T162131.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294692379842
+  "luceneModified" : 1294694491817
 }
