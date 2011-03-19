@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S219-2011",
+  "senateBillNo" : "S222-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO BANKS",
-    "billEventId" : "S219-2011-1294203600000-REFERRED+TO+BANKS",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S222-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to preauthorized electronic fund transfers",
+  "title" : "Increases state reimbursement for care, treatment, maintenance and nursing services in nursing homes",
   "summary" : null,
-  "currentCommittee" : "BANKS",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Banking Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "ALESI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "BONACIC",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DEFRANCISCO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,21 +55,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "JOHNSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -74,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T100801.TXT", "SOBI.D101213.T101301.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T101301.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292253181442
+  "luceneModified" : 1292253181450
 }

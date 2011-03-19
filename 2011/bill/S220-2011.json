@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S219-2011",
+  "senateBillNo" : "S220-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO BANKS",
-    "billEventId" : "S219-2011-1294203600000-REFERRED+TO+BANKS",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S220-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to preauthorized electronic fund transfers",
+  "title" : "Exempts compensation for active military service from inclusion in a resident's adjusted gross income",
   "summary" : null,
-  "currentCommittee" : "BANKS",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Banking Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,7 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FLANAGAN",
+    "fullname" : "DEFRANCISCO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "GRIFFO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
@@ -55,7 +62,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -74,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T100801.TXT", "SOBI.D101213.T101301.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T101301.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292253181442
+  "luceneModified" : 1292253181445
 }
