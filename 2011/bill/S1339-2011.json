@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Extends right to vote to aliens lawfully admitted for permanent residence in the U.S.",
-  "summary" : null,
+  "summary" : "Extends the right to vote in all elections to aliens lawfully admitted for permanent residence in the United States. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1364-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T154732.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154732.TXT", "SOBI.D110106.T155232.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346852533
+  "luceneModified" : 1294347152631
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that no person sixteen years of age or over shall be a passenger in the back seat of a motor vehicle unless such person is restrained by a safety belt",
-  "summary" : null,
+  "summary" : "Provides that no person shall be a passenger in the back seat of a motor vehicle unless such person is restrained by a safety belt approved by the commissioner of motor vehicles. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA1169-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT", "SOBI.D110106.T155232.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346551386
+  "luceneModified" : 1294347152624
 }
