@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4050-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to health",
+    "billEventId" : "A4050-2011-1296536400000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes provisions for farm worker protections from pesticides",
+  "summary" : "Establishes standards for farm worker protection at any agricultural site where pesticides have been or will be applied; requires mandatory testing for pesticides; requires personal protective equipment to be provided to workers; provides education to workers and their families about the hazards of pesticides; requires additional on-site protective measures; requires the department of health to issue an annual report of all farm inspections on or before March first to the governor and legislature. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A1586-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to farm worker protection ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T141400.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296587640751
+}

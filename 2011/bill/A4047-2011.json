@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4047-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to higher education",
+    "billEventId" : "A4047-2011-1296536400000-referred+to+higher+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the board of trustees of the city university of New York to permit persons sixty years of age or over to take courses given without tuition",
+  "summary" : "Authorizes the board of trustees of the city university of New York to permit persons sixty years of age or over to take courses given without tuition, either for credit, or without examination, grading or credit therefor upon a space available basis, as determined by the president of each institution of the city university, provided that such attendance does not deny course attendance at the city university of New York by an individual who is otherwise qualified; eligible persons shall be limited to nine credit hours of courses for credit per semester without tuition. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2692",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A1737-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to authorizing the city university trustees to make courses available for certain persons sixty years of age or over ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T141400.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296587640721
+}
