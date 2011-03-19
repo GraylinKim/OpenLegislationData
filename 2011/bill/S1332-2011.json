@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Enables safe access to public roads for all users",
-  "summary" : null,
+  "summary" : "Enables safe access to public roads for all users by requiring that all transportation improvements shall improve safety, access, and mobility for all travelers regardless of age or ability. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Highway Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SB5711-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153730.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT", "SOBI.D110106.T153730.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346250176
+  "luceneModified" : 1294346551394
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires a person to be a resident of the local subdivision for which such person seeks office at the time of filing designating or nominating petitions",
-  "summary" : null,
+  "summary" : "Requires a person to be a resident of the local subdivision for which such person seeks office at the time of filing designating or nominating petitions. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Public Officers Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S5176-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T152729.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT", "SOBI.D110106.T152729.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345649858
+  "luceneModified" : 1294346551358
 }

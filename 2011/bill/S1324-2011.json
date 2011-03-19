@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes the assignment of social services recipients and applicants to accessible local offices",
-  "summary" : null,
+  "summary" : "Permits an applicant for public assistance or care to select the local social services office most accessible to such person's residence if such office is in the local social services district in which such person resides and such office has the capacity to accept such person; requires written notification of this provision be given to an applicant by the social services official. ",
   "currentCommittee" : "SOCIAL SERVICES",
   "sameAs" : null,
   "lawSection" : "Social Services Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA1650-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110106.T154231.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345949018
+  "luceneModified" : 1294346551381
 }

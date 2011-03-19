@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1328-2011",
+  "senateBillNo" : "S1336-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1328-2011-1294290000000-REFERRED+TO+ELECTIONS",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1336-2011-1294290000000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the recanvass of certain ballots upon request of a candidate prior to the canvass of absentee and special ballots",
-  "summary" : "Provides for the recanvass of certain ballots upon request of a candidate prior to the canvas of absentee and special ballots in the city of New York. ",
-  "currentCommittee" : "ELECTIONS",
+  "title" : "Requires restaurants with a seating capacity of 10 or more to provide public toilet facilities",
+  "summary" : null,
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Election Law",
-  "previousVersions" : [ "S1428-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110106.T154231.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346551361
+  "luceneModified" : 1294346551339
 }

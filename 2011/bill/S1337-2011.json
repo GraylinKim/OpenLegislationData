@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1321-2011",
+  "senateBillNo" : "S1337-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1321-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S1337-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that motor vehicles, with certain exceptions, shall not be operated with an accumulation of snow or ice on the surface thereof",
-  "summary" : "Provides that motor vehicles, with certain exceptions, shall not be operated with an accumulation of snow or ice on the surface thereof; establishes fines for violation of these provisions. ",
+  "title" : "Provides that no person sixteen years of age or over shall be a passenger in the back seat of a motor vehicle unless such person is restrained by a safety belt",
+  "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "SA5226-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT", "SOBI.D110106.T152729.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346551366
+  "luceneModified" : 1294346551386
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires counting affidavit ballots of eligible voters if a voter appears at a polling place in the correct county but in the incorrect election district",
-  "summary" : null,
+  "summary" : "Requires the counting of an affidavit ballot of an eligible voter if such voter appeared at a polling place in the correct county but in the incorrect election district. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA1701-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110106.T154231.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345949031
+  "luceneModified" : 1294346551390
 }

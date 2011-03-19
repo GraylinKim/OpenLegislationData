@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1328-2011",
+  "senateBillNo" : "S1338-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1328-2011-1294290000000-REFERRED+TO+ELECTIONS",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S1338-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the recanvass of certain ballots upon request of a candidate prior to the canvass of absentee and special ballots",
-  "summary" : "Provides for the recanvass of certain ballots upon request of a candidate prior to the canvas of absentee and special ballots in the city of New York. ",
-  "currentCommittee" : "ELECTIONS",
+  "title" : "Provides that ownership of unidentifiable part in identifiable motorcycle, other than stolen motorcycle shall be returned to owner after investigation",
+  "summary" : null,
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Election Law",
-  "previousVersions" : [ "S1428-2009" ],
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -38,13 +38,6 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "PARKER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -53,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110106.T154231.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346551361
+  "luceneModified" : 1294346551396
 }

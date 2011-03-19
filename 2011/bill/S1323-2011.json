@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes appearance by a tenant in the housing part without counsel",
-  "summary" : null,
+  "summary" : "Authorizes any tenant who is party to an action in housing part to be represented by a person who is not an attorney, provided consent for such representation is made on the record, such person is prohibited from consenting to an entry of a judgment on behalf of a tenant and such person may not receive a fee or other remuneration for such representation. ",
   "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
   "lawSection" : "New York City Civil Court Act",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1648-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110106.T154231.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345949011
+  "luceneModified" : 1294346551375
 }

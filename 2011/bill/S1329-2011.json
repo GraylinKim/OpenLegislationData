@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides residency of a person at the time of filing certain petitions shall be presumed to be the residence address of such person",
-  "summary" : null,
+  "summary" : "Provides residency of a person at the time of filing a designating or nominating petition or a certificate of designation, nomination or substitution shall be presumed to be the residence address of such person at the time of commencement of the term of his or her office or position. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1429-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153730.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT", "SOBI.D110106.T153730.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346250171
+  "luceneModified" : 1294346551368
 }

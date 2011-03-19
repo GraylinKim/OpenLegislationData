@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Enacts Clarente's Law, imposing a mandatory surcharge and crime victim assistance fee for a moving violation occurring within a school traffic safety and speed zone",
-  "summary" : null,
+  "summary" : "Enacts Clarente's Law, imposing a mandatory surcharge and crime victim assistance fee for a moving violation occurring within a school traffic safety and speed zone. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA5567-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110106.T154231.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345949040
+  "luceneModified" : 1294346551353
 }
