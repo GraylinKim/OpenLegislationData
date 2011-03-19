@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to excluding certain expenditures for medical care from the definition of \"income\" for the purpose of a tax abatement for rent-controlled and rent regulated property occupied by senior citizens ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T093604.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D110104.T103952.TXT", "SOBI.D110110.T133607.TXT", "SOBI.D101221.T093103.TXT", "SOBI.D101221.T103607.TXT", "SOBI.D101221.T095104.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T093604.TXT", "SOBI.D110121.T092511.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D110104.T103952.TXT", "SOBI.D101221.T103607.TXT", "SOBI.D101221.T093103.TXT", "SOBI.D110110.T133607.TXT", "SOBI.D101221.T095104.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294684567046
+  "luceneModified" : 1295619911065
 }
