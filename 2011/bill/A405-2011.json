@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A395-2011",
+  "senateBillNo" : "A405-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to aging",
-    "billEventId" : "A395-2011-1294203600000-referred+to+aging",
+    "eventText" : "referred to insurance",
+    "billEventId" : "A405-2011-1294203600000-referred+to+insurance",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,18 +13,25 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to matching funds for grants under the naturally occurring retirement community supportive service program",
-  "summary" : "Permits support from contiguous areas to provide required matching funds for grants under the naturally occurring retirement community supportive service program. ",
+  "title" : "Relates to coverage for prenatal vitamins",
+  "summary" : "Requires certain health and casualty insurers to provide coverage for prenatal vitamins. ",
   "currentCommittee" : null,
-  "sameAs" : "S331",
-  "lawSection" : "Elder Law",
-  "previousVersions" : [ "AA9839-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "AB9787-2009" ],
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "Jaffee",
@@ -34,63 +41,70 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Benedetto",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Perry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Barron",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cook",
+    "fullname" : "Burling",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Markey",
+    "fullname" : "Calhoun",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera N",
+    "fullname" : "Tobacco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Meng",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -99,10 +113,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the elder law, in relation to matching funds for grants under the naturally occurring retirement community supportive service program ",
+  "actClause" : "AN ACT to amend the insurance law, in relation to coverage for prenatal vitamins ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101223.T155117.TXT", "SOBI.D101223.T155617.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101223.T155617.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293137777780
+  "luceneModified" : 1293137777797
 }

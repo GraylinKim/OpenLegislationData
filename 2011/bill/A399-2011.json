@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A399-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to aging",
+    "billEventId" : "A399-2011-1294203600000-referred+to+aging",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the New York certified retirement community program within the office for the aging",
+  "summary" : "Establishes the New York certified retirement community program within the office for the aging; provides for certification by the director of the office for the aging that a community is advantageous for retirees to live and that such community encourages retirees to reside therein; provides that upon certification, the office for the aging shall provide assistance to the community. ",
+  "currentCommittee" : null,
+  "sameAs" : "S112",
+  "lawSection" : "Elder Law",
+  "previousVersions" : [ "AA7067-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lifton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the elder law, in relation to establishing a program to encourage retirees to make their homes in New York state ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T155617.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293137777788
+}

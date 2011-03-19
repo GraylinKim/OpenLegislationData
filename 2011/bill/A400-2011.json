@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A400-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A400-2011-1294203600000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Caps the amount of taxes a senior has to pay on his or her real property at the amount such individual paid in the year in which he or she turned 70",
+  "summary" : "Caps the amount of taxes a senior has to pay on his or her real property at the amount such individual paid in the year in which he or she turned 70; provides that the individual claiming the limitation must be the owner of the property and must reside in the property for at least seventy-five percent of the year. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A1149-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to the limitation of taxation on certain seniors ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T155617.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293137777789
+}

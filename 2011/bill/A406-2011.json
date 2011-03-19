@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A406-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A406-2011-1294203600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to coverage for prenatal vitamins",
+  "summary" : "Removes certain technical provisions related to air-borne emergency transit to the hospital. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to removing certain technical provisions related to air-borne emergency transit ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T155617.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293137777801
+}

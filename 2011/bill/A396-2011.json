@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A396-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to aging",
+    "billEventId" : "A396-2011-1294203600000-referred+to+aging",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the home delivered meal assistance program",
+  "summary" : "Establishes the home delivered meal assistance program. ",
+  "currentCommittee" : null,
+  "sameAs" : "S348",
+  "lawSection" : "Elder Law",
+  "previousVersions" : [ "AC7152-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the elder law, in relation to establishing the home delivered meal assistance program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T155617.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293137777782
+}

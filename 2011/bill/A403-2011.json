@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A403-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A403-2011-1294203600000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizing cities and villages to collect delinquent real property taxes",
+  "summary" : "Authorizes cities and villages to collect delinquent real property taxes. ",
+  "currentCommittee" : null,
+  "sameAs" : "S612",
+  "lawSection" : "General City Law",
+  "previousVersions" : [ "A9460-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general city law and chapter 602 of the laws of 1993 amending the real property tax law relating to the enforcement of the collection of delinquent real property taxes and to the collection of taxes by banks, in relation to the collection of delinquent real property taxes and providing for the repeal of such provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T155617.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293137777794
+}
