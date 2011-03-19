@@ -1,0 +1,80 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S2343A-2009",
+  "billEvents" : [ {
+    "eventDate" : 1234933200000,
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S2343A-2009-1234933200000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1235451600000,
+    "eventText" : "REPORTED AND COMMITTED TO FINANCE",
+    "billEventId" : "S2343A-2009-1235451600000-REPORTED+AND+COMMITTED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1241409600000,
+    "eventText" : "AMEND AND RECOMMIT TO FINANCE",
+    "billEventId" : "S2343A-2009-1241409600000-AMEND+AND+RECOMMIT+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1241409601000,
+    "eventText" : "PRINT NUMBER 2343A",
+    "billEventId" : "S2343A-2009-1241409601000-PRINT+NUMBER+2343A",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1247630400000,
+    "eventText" : "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+    "billEventId" : "S2343A-2009-1247630400000-COMMITTEE+DISCHARGED+AND+COMMITTED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1247630401000,
+    "eventText" : "ORDERED TO THIRD READING CAL.897",
+    "billEventId" : "S2343A-2009-1247630401000-ORDERED+TO+THIRD+READING+CAL.897",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1247716800000,
+    "eventText" : "SUBSTITUTED BY A4905A",
+    "billEventId" : "S2343A-2009-1247716800000-SUBSTITUTED+BY+A4905A",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAVINO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Increases certain special accidental death benefits for surviving spouses and children of certain police and fire personnel",
+  "summary" : null,
+  "currentCommittee" : "RULES",
+  "sameAs" : "A4905A",
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "CIVIL SERVICE AND PENSIONS", "FINANCE" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101202.T135547.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291316147957
+}
