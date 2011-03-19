@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1347-2011",
+  "senateBillNo" : "S1353-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1347-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S1353-2011-1294290000000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires actual consent to participation in franchise programs",
-  "summary" : "Requires actual consent to participate in franchise programs for motor vehicle dealers. ",
-  "currentCommittee" : "TRANSPORTATION",
+  "title" : "Authorizes political subdivisions to award public competitively bid contracts to businesses that participate in certain programs",
+  "summary" : null,
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "SA7885-2009" ],
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT", "SOBI.D110106.T161233.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T161233.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348353113
+  "luceneModified" : 1294348353092
 }

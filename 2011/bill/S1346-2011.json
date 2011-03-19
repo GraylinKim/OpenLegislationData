@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows cell phone users to add a new phone line without having to renew the service plan and to cancel an additional line without paying any fee, charge or cost",
-  "summary" : null,
+  "summary" : "Prohibits cell phone service providers from requiring a customer to renew his or her service plan when adding a new phone line to such plan; and prohibits such provider from lenghthening the time of services originally agreed to under contract. ",
   "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1079-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT", "SOBI.D110106.T161233.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348086990
+  "luceneModified" : 1294348353106
 }

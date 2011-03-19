@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1350-2011",
+  "senateBillNo" : "S1354-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1350-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S1354-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the driver of a vehicle involved in an accident involving no personal injury or death to move the vehicle to a safe location",
-  "summary" : "Requires the driver of a vehicle involved in an accident involving no personal injury or death to move the vehicle to a safe location in the vicinity of the incident. ",
+  "title" : "Relates to the ownership status of transit facilities",
+  "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "S6476-2009" ],
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT", "SOBI.D110106.T161233.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T161233.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348353115
+  "luceneModified" : 1294348353099
 }
