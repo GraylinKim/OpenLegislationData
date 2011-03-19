@@ -3,8 +3,8 @@
   "senateBillNo" : "S2088-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S2088-2011-1295326800000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S2151-2011-1295326800000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires school districts in N.Y. city to investigate and report on the status of PCBs in school buildings",
-  "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "title" : "Requires vehicles equipped with wheelchair lifts to have safety belts that are used to secure individuals in wheelchairs while being lifted from or into a vehicle",
+  "summary" : "Requires school districts in a city with one million or more to investigate and report on the status of PCB's in school buildings; provides for report to be submitted to the commissioner by January 1, next succeeding the close of the school year in which the inspection was conducted with all buildings being inspected by January 1, 2014; provides that 50% shall be inspected by July 1, 2013. ",
+  "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4442-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to requiring school districts in a city of one million or more to investigate and report on the status of polychlorinated biphenyls ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T100114.TXT", "SOBI.D110118.T095613.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T095613.TXT", "SOBI.D110118.T100114.TXT", "SOBI.D110118.T110619.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295362874767
+  "luceneModified" : 1295366779753
 }

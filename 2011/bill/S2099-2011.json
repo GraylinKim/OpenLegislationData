@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires entities which make political contributions of more than $2,000 per annum to file statement",
-  "summary" : null,
+  "summary" : "Requires any entity, other than a natural person, which in connection with any election makes contributions or expenditures to or on behalf of more than one candidate, political committee or constituted committee in excess of $2000 in the aggregate per annum, to file a campaign contribution statement with the board of elections. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1313-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to requiring certain contributors to file campaign contribution statements ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T110118.TXT", "SOBI.D110118.T101115.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T110118.TXT", "SOBI.D110118.T101115.TXT", "SOBI.D110118.T110619.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295366478626
+  "luceneModified" : 1295366779769
 }
