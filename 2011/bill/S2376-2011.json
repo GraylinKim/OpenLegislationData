@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2375-2011",
+  "senateBillNo" : "S2376-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S2375-2011-1295413200000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S2376-2011-1295413200000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to exempting certain health insurance policies from certain coverage requirements",
+  "title" : "Provides school tax exemption relief (STAR) to small business with 20 or fewer employees",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -41,7 +41,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "FUSCHILLO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GRISANTI",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -49,6 +56,13 @@
     "id" : null,
     "position" : null,
     "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -74,7 +88,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T144309.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T144309.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466189625
+  "luceneModified" : 1295466189632
 }

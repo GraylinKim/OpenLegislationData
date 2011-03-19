@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2375-2011",
+  "senateBillNo" : "S2378-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S2375-2011-1295413200000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S2378-2011-1295413200000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to exempting certain health insurance policies from certain coverage requirements",
+  "title" : "Provides for the issuance of a multiple event caterer's permit",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Alcoholic Beverage Control Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -66,6 +66,13 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SALAND",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -74,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T144309.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T144309.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466189625
+  "luceneModified" : 1295466189652
 }

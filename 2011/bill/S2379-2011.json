@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2375-2011",
+  "senateBillNo" : "S2379-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S2375-2011-1295413200000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S2379-2011-1295413200000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,34 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to exempting certain health insurance policies from certain coverage requirements",
+  "title" : "Eliminates the delivery of fossil fuel from those building services for which municipalities are required to pay prevailing wage",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "LABOR",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Labor Law",
   "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "BONACIC",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "DEFRANCISCO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "JOHNSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "LARKIN",
@@ -74,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T144309.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T144309.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466189625
+  "luceneModified" : 1295466189657
 }
