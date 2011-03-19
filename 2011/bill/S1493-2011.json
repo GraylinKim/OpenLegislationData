@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits employer withdrawal from direct deposit account without notice to and permission from account owner",
-  "summary" : null,
+  "summary" : "Prohibits employer withdrawal from direct deposit account without notice to and permission from account owner, who must be given 15 days notice of withdrawal and must give depository bank written permission therefor; provides that this section shall not be construed to supersede any such withdrawal otherwise authorized by law or court order. ",
   "currentCommittee" : "BANKS",
   "sameAs" : null,
   "lawSection" : "Banking Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2166-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the banking law, in relation to certain withdrawals from accounts to which direct deposits have been authorized ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T153916.TXT", "SOBI.D110107.T160417.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T162418.TXT", "SOBI.D110107.T153916.TXT", "SOBI.D110107.T160417.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294434257356
+  "luceneModified" : 1294435458878
 }
