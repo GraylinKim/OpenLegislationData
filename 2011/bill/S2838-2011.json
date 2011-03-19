@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2834-2011",
+  "senateBillNo" : "S2838-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2834-2011-1296622800000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2838-2011-1296622800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to judges elected to the eighth judicial district",
+  "title" : "Allows soil and water conservation districts to be eligible applicants for the local waterfront revitalization grant program",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Judiciary Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT", "SOBI.D110202.T101204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296659824108
+  "luceneModified" : 1296659824132
 }

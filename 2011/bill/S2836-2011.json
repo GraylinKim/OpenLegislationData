@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2834-2011",
+  "senateBillNo" : "S2836-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2834-2011-1296622800000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S2836-2011-1296622800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to judges elected to the eighth judicial district",
+  "title" : "Denies youthful offender treatment to persons convicted of a class B violent felony offense",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Judiciary Law",
+  "lawSection" : "Criminal Procedure Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT", "SOBI.D110202.T101204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296659824108
+  "luceneModified" : 1296659824114
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2834-2011",
+  "senateBillNo" : "S2837-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2834-2011-1296622800000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S2837-2011-1296622800000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to judges elected to the eighth judicial district",
+  "title" : "Authorizes employers to make deductions from an employee's wages if such deduction is authorized by the employee and is for the convenience of the employee",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "LABOR",
   "sameAs" : null,
-  "lawSection" : "Judiciary Law",
+  "lawSection" : "Labor Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT", "SOBI.D110202.T101204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296659824108
+  "luceneModified" : 1296659824116
 }
