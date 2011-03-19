@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A835-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A835-2011-1294203600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cusick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Exempts from the imposition of sales tax, the purchase of military service flags, prisoner of war flags and blue star banners",
+  "summary" : "Exempts from the imposition of sales tax the purchase of military service flags, prisoner of war flags and blue star banners. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1007",
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A2955-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to an exemption from the imposition of sales tax for the purchase of military service flags, prisoner of war flags and blue star banners ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T144010.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294170010411
+}

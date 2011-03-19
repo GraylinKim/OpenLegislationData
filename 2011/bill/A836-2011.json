@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A836-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A836-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the maintenance, improvement and repair of certain town highways",
+  "summary" : "Permits the designation of low volume roads and minimum maintenance roads by town boards and enacts provisions relating to the maintenance, improvement and repair of such roads. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Highway Law",
+  "previousVersions" : [ "AB10377-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lifton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Burling",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the highway law and the vehicle and traffic law, in relation to the maintenance, improvement and repair of certain town highways ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T144010.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294170010414
+}

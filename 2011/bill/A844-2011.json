@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A844-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A844-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires certain labeling information on child safety seats regarding compatibility with automobiles",
+  "summary" : "Provides for certain labeling requirements on child safety seats; requires that no seat intended for use by a child less than four years of age shall be sold if it fails to conspicuously disclose on its label a warning of compatibility of the child safety seat with automobiles; provides for enforcement by the attorney general and provides for private right of action for any person damaged by failure of another to follow these provisions; provides for a cap on civil penalties of twenty-five thousand dollars. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A1309-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to providing for notice of compatibility to purchasers of child safety seats ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T144010.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294170010430
+}

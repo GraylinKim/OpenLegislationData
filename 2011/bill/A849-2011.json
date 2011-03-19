@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A849-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A849-2011-1294203600000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows local tax collectors to send tax statements by electronic mail to an address provided by a homeowner and to opt out of receiving paper statements",
+  "summary" : "Allows local tax collectors to send tax statements by electronic mail to an address provided by a homeowner and to opt out of receiving paper statements of taxes. ",
+  "currentCommittee" : null,
+  "sameAs" : "S598",
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A6438-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to allowing statements of taxes via electronic mail ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T144010.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294170010442
+}
