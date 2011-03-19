@@ -3,8 +3,8 @@
   "senateBillNo" : "S780-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGRICULTURE",
-    "billEventId" : "S780-2011-1294203600000-REFERRED+TO+AGRICULTURE",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S780-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -20,7 +20,7 @@
   },
   "title" : "Establishes the AgJobs NY program to provide low interest loans to finance certain costs of agribusinesses; appropriates $50,000,000",
   "summary" : null,
-  "currentCommittee" : "AGRICULTURE",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "Appropriations",
   "previousVersions" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T124229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T124229.TXT", "SOBI.D101230.T140238.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293730949235
+  "luceneModified" : 1293735758833
 }
