@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for 90-day notice of eviction for disabled tenants",
-  "summary" : null,
+  "summary" : "Relates to a stay of issuance of a warrant for eviction for certain holdover tenants; permits 6 month stay in certain cases of extreme hardship. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Real Property Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AB3646-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to certain holdover tenants ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T111415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T111415.TXT", "SOBI.D101216.T113417.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292516055983
+  "luceneModified" : 1292517257299
 }

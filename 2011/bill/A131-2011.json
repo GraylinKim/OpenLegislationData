@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides alternative real property tax exemptions for active duty members of the armed forces",
-  "summary" : null,
+  "summary" : "Provides alternative real property tax exemptions for active duty members of the armed forces. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10465-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -116,7 +116,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to alternative exemptions for active duty members of the armed forces ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T113417.TXT", "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454644
+  "luceneModified" : 1292517257303
 }
