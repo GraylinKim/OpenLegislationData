@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A51-2011",
+  "senateBillNo" : "A80-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to agriculture",
-    "billEventId" : "A51-2011-1294203600000-referred+to+agriculture",
+    "eventText" : "referred to health",
+    "billEventId" : "A80-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,65 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a toll-free statewide number for use in the investigation and prevention of animal fighting",
-  "summary" : "Establishes a toll-free statewide number for use in the investigation and prevention of animal fighting; provides reports be transmitted to the state or local police department and/or to the SPCA. ",
+  "title" : "Relates to the living wage adjustment of personal care services workers",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Agriculture and Markets Law",
-  "previousVersions" : [ "A1376-2009" ],
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Scarborough",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rivera J",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Pheffer",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Magnarelli",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Millman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Kellner",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -90,14 +48,56 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Brook-Krasny",
+    "fullname" : "Jacobs",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Latimer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cusick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -111,7 +111,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Brook-Krasny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -120,10 +127,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to establishing a toll-free hotline to report animal fighting ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT", "SOBI.D101216.T103912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292514852345
+  "luceneModified" : 1292514852389
 }

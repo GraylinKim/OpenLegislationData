@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates the chemical dependence treatment bill of rights to be posted in a conspicuous place in all treatment facilities",
-  "summary" : null,
+  "summary" : "Creates the chemical dependence treatment bill of rights to be posted in a conspicuous place in all treatment facilities. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Mental Hygiene Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A8075-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the mental hygiene law, in relation to creating a chemical dependence treatment bill of rights ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T103912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT", "SOBI.D101216.T103912.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513952040
+  "luceneModified" : 1292514852357
 }

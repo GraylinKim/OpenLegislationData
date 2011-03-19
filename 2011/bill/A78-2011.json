@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A70-2011",
+  "senateBillNo" : "A78-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A70-2011-1294203600000-referred+to+governmental+operations",
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A78-2011-1294203600000-referred+to+agriculture",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Gives preference to service disabled veteran owned small businesses with respect to state contracts",
-  "summary" : "Gives preference to service disabled veteran owned small businesses with respect to state contracts. ",
+  "title" : "Amends the definitions of pet dealers",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
-  "previousVersions" : [ "A6402-2009" ],
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "McDonough",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Perry",
+    "fullname" : "Markey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -52,15 +38,43 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to state contract preference for service disabled veteran owned small businesses ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT", "SOBI.D101216.T102403.TXT", "SOBI.D101216.T103912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292514852381
+  "luceneModified" : 1292514852371
 }
