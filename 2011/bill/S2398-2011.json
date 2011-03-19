@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2398-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S2398-2011-1295413200000-REFERRED+TO+LABOR",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"jobs and trade act\"",
+  "summary" : null,
+  "currentCommittee" : "LABOR",
+  "sameAs" : null,
+  "lawSection" : "Labor Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T160824.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295471304937
+}
