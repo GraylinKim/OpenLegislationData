@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2545-2011",
+  "senateBillNo" : "S2552-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S2545-2011-1295931600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2552-2011-1295931600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the exemption from taxation for non-profit organizations",
+  "title" : "Provides that certain real property tax exemptions shall only be granted where such property is actually used for certain enumerated purposes;appropriation",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
-  "sameAs" : "A417",
-  "lawSection" : "Real Property Tax Law",
+  "currentCommittee" : "FINANCE",
+  "sameAs" : null,
+  "lawSection" : "Appropriations",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the real property tax law, in relation to the exemption from taxation for non-profit organizations ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T114910.TXT", "SOBI.D110125.T120909.TXT", "SOBI.D110125.T115409.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T120909.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295975349877
+  "luceneModified" : 1295975349864
 }
