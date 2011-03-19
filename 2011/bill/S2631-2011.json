@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2630-2011",
+  "senateBillNo" : "S2631-2011",
   "billEvents" : [ {
     "eventDate" : 1296104400000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S2630-2011-1296104400000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S2631-2011-1296104400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits a shellfish company to enter into a contract with the department of environmental conservation to reimburse such department for shellfish bed inspection cost",
+  "title" : "Requires the commissioner of taxation and finance to provide for the payment of refunds within 30 days of the receipt of a tax return",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T102344.TXT", "SOBI.D110127.T102837.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T102837.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296142117058
+  "luceneModified" : 1296142117066
 }
