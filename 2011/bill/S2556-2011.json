@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296496800000S2556-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296496800000,
+    "ayes" : [ "Hannon", "Farley", "Fuschillo", "Golden", "Larkin", "McDonald", "Seward", "Young", "Duane", "Adams", "Gianaris", "Montgomery", "Rivera", "Smith", "Stewart-Cousins" ],
+    "nays" : [ "Ball" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Kruger" ],
+    "description" : "Health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -39,7 +52,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to establishing mandatory minimum medicaid coverage for hospital confinement for childbirth ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T181922.TXT", "SOBI.D110125.T152940.TXT", "SOBI.D110126.T122754.TXT", "SOBI.D110131.T132208.TXT", "SOBI.D110125.T150924.TXT", "SOBI.D110131.T132709.TXT", "SOBI.D110125.T145423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T152940.TXT", "SOBI.D110127.T181922.TXT", "SOBI.D110201.T112844.TXT-agenda-3.xml", "SOBI.D110126.T122754.TXT", "SOBI.D110131.T132208.TXT", "SOBI.D110125.T150924.TXT", "SOBI.D110131.T132709.TXT", "SOBI.D110125.T145423.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296498429367
+  "luceneModified" : 1296577724859
 }

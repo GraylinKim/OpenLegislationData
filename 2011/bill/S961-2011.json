@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296496800000S961-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296496800000,
+    "ayes" : [ "Hannon", "Farley", "Fuschillo", "Golden", "Larkin", "McDonald", "Seward", "Young", "Adams" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Ball", "Duane", "Gianaris", "Kruger", "Montgomery", "Rivera", "Smith", "Stewart-Cousins" ],
+    "description" : "Health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -34,12 +47,12 @@
   "coSponsors" : null,
   "pastCommittees" : [ "HEALTH" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          961\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sen.  HANNON -- read twice and ordered printed, and when\n         printed to be committed to the Committee on Health\n\n       AN ACT to amend the public health law,  in  relation  to  directing  the\n         department  of health to post the Medicaid state plan, and any changes\n         thereto, on such department's internet website\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Paragraphs (u) and (v) of subdivision 1 of section 201 of\n    2  the public health law, paragraph (u) as added by chapter 939 of the laws\n    3  of 1976 and paragraph (v) as added by chapter 474 of the laws  of  1996,\n    4  are amended and a new paragraph (w) is added to read as follows:\n    5    (u) engage in research into the causes of rocky mountain spotted fever\n    6  and  the  prevention  thereof  and  develop  programs for the control of\n    7  ticks, insects and anthropods which act as vectors of disease  affecting\n    8  man, within funds made available for such purposes[.];\n    9    (v)  act as the single state agency for medical assistance pursuant to\n   10  section three hundred sixty-three-a of  the  social  services  law,  [as\n   11  amended  by this chapter,] with responsibility to supervise the plan for\n   12  medical assistance as required by title XIX of the federal Social  Secu-\n   13  rity act, or its successor, and to adopt regulations as may be necessary\n   14  to implement this plan[.]; AND\n   15    (W)  POST, FOR PUBLIC ACCESS, ON THE DEPARTMENT'S INTERNET WEBSITE THE\n   16  ENTIRETY OF THE STATE'S PLAN FOR MEDICAL ASSISTANCE AS REQUIRED BY TITLE\n   17  XIX OF THE FEDERAL SOCIAL SECURITY ACT, OR ITS SUCCESSOR,  AND  ANY  AND\n   18  ALL  AMENDMENTS  AND  CHANGES  TO  SUCH  PLAN. NOTWITHSTANDING ANY OTHER\n   19  PROVISION OF LAW TO THE CONTRARY, NO PROVISION OF THE STATE'S  PLAN  FOR\n   20  MEDICAL  ASSISTANCE  SHALL  TAKE  EFFECT UNLESS AND UNTIL THAT PROVISION\n   21  SHALL HAVE BEEN SO POSTED.\n   22    S 2. This act shall take effect on the sixtieth  day  after  it  shall\n   23  have become a law.\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD04957-01-1\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the public health law, in relation to directing the department of health to post the Medicaid state plan, and any changes thereto, on such department's internet website ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T144415.TXT", "SOBI.D110103.T143417.TXT", "SOBI.D110131.T133709.TXT", "SOBI.D110103.T150447.TXT", "SOBI.D110106.T112205.TXT", "SOBI.D110103.T155925.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T143417.TXT", "SOBI.D110103.T144415.TXT", "SOBI.D110201.T112844.TXT-agenda-3.xml", "SOBI.D110131.T133709.TXT", "SOBI.D110103.T150447.TXT", "SOBI.D110106.T112205.TXT", "SOBI.D110103.T155925.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296499029745
+  "luceneModified" : 1296577724856
 }
