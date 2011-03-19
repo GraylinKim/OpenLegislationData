@@ -34,6 +34,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "MONTGOMERY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to a notice of exemption for senior citizens ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T150016.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110112.T111958.TXT", "SOBI.D110120.T101311.TXT", "SOBI.D110112.T104456.TXT", "SOBI.D110112.T101955.TXT", "SOBI.D110119.T193335.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T150016.TXT", "SOBI.D110112.T111958.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110112.T104456.TXT", "SOBI.D110120.T101311.TXT", "SOBI.D110112.T101955.TXT", "SOBI.D110121.T105516.TXT", "SOBI.D110119.T193335.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295536391159
+  "luceneModified" : 1295625316094
 }
