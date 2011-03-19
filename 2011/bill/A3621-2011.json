@@ -8,6 +8,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296190800000,
+    "eventText" : "reference changed to health",
+    "billEventId" : "A3621-2011-1296190800000-reference+changed+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to the abatement of lead poisoning conditions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T153308.TXT", "SOBI.D110126.T134759.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T153308.TXT", "SOBI.D110126.T134759.TXT", "SOBI.D110128.T150809.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296073988449
+  "luceneModified" : 1296245289496
 }
