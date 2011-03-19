@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1229-2011",
+  "senateBillNo" : "S1235-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1229-2011-1294290000000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S1235-2011-1294290000000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Regulates the use of informants by the prosecuting attorney and law enforcement personnel",
+  "title" : "Provides certain coverage for diagnosis and treatment of chemical abuse and chemical dependence",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Insurance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T112707.TXT", "SOBI.D110106.T113206.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T113206.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294331526301
+  "luceneModified" : 1294331526316
 }
