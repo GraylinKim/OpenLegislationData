@@ -146,6 +146,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "Camara",
     "branch" : null,
     "contactInfo" : null,
@@ -207,7 +214,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101203.T101439.TXT", "SOBI.D101203.T095438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T102802.TXT", "SOBI.D101203.T101439.TXT", "SOBI.D101203.T095438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291389279218
+  "luceneModified" : 1292254082491
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S223-2011",
+  "senateBillNo" : "S224-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S223-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S224-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits rescinding certain real property tax exemptions on real property owned by siblings",
+  "title" : "Prohibits level two or three sex offenders from voting at a school or facility for children",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "ALESI",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T102802.TXT", "SOBI.D101213.T101301.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T102802.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292254082486
+  "luceneModified" : 1292254082496
 }
