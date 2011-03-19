@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3809-2011",
+  "senateBillNo" : "A3826-2011",
   "billEvents" : [ {
     "eventDate" : 1296104400000,
-    "eventText" : "referred to correction",
-    "billEventId" : "A3809-2011-1296104400000-referred+to+correction",
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3826-2011-1296104400000-referred+to+local+governments",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,70 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Aubry",
+    "fullname" : "Morelle",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Makes it an unlawful discriminatory practice for prospective employers to make certain inquiries relating to criminal convictions",
+  "title" : "Eliminates the twenty million dollar cap on civic facilities authorized to be financed by industrial development agencies and authorities",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Correction Law",
+  "lawSection" : "General Municipal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Canestrari",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Magee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Zebrowski",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magnarelli",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,42 +90,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kavanagh",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "O'Donnell",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Robinson",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jeffries",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -106,10 +113,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the correction law and the executive law, in relation to establishing that it is an unlawful discriminatory practice for prospective employers to make certain inquiries relating to criminal convictions ",
+  "actClause" : "AN ACT to amend the general municipal law and the public authorities law, in relation to authorizing financing assistance for civic facilities by industrial development agencies, and in relation to the tax exemption status of industrial development agencies; to amend chapter 66 of the laws of 1994, amending the public health law, the general municipal law and the insurance law relating to the financing of life care communities, in relation to the application deadline for eligibility for assistance from an industrial development agency; and providing for the repeal of certain provisions upon the expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T141402.TXT", "SOBI.D110127.T140855.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T141402.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296155642903
+  "luceneModified" : 1296155642927
 }

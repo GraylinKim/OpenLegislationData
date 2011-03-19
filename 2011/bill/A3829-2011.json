@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3812-2011",
+  "senateBillNo" : "A3829-2011",
   "billEvents" : [ {
     "eventDate" : 1296104400000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A3812-2011-1296104400000-referred+to+housing",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3829-2011-1296104400000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Morelle",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Makes it an unlawful discriminatory practice to discriminate in the terms, conditions or privileges of housing accommodations based upon source of income",
+  "title" : "Establishes principles governing the management of state-owned intellectual property",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : null,
+  "sameAs" : "S994",
   "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Magnarelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Destito",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to making it an unlawful discriminatory practice to discriminate in the ownership, use, leasing or occupancy of housing accommodations based upon source of income ",
+  "actClause" : "AN ACT to amend the executive law and the public officers law, in relation to establishing principles governing the management of state-owned intellectual property ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T141402.TXT", "SOBI.D110127.T140855.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T141402.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296155642917
+  "luceneModified" : 1296155642935
 }
