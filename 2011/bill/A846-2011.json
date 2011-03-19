@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported referred to codes",
+    "billEventId" : "A846-2011-1295413200000-reported+referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Pheffer (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -102,7 +109,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to the disclosure of social security numbers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T151729.TXT", "SOBI.D110104.T144010.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T123252.TXT", "SOBI.D110106.T151729.TXT", "SOBI.D110104.T144010.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345049406
+  "luceneModified" : 1295458372304
 }
