@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2588-2011",
+  "senateBillNo" : "S2589-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S2588-2011-1296018000000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S2589-2011-1296018000000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Imposes criminal sanctions for preventing the disclosure of information available to state agencies regarding the release of toxic substances",
+  "title" : "Regulates the sale of ammunition",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T114750.TXT", "SOBI.D110126.T114249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T114750.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296060470552
+  "luceneModified" : 1296060470557
 }
