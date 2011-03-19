@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a tax exemption for petroleum products that are purchased for heating purposes",
-  "summary" : null,
+  "summary" : "Provides a tax exemption for petroleum products that are purchased for heating purposes. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A962-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -71,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to eliminating the residential restriction for heating exemptions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T104412.TXT", "SOBI.D101216.T102903.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513343873
+  "luceneModified" : 1292514252189
 }
