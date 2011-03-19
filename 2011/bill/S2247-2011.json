@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2245-2011",
+  "senateBillNo" : "S2247-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
-    "billEventId" : "S2245-2011-1295326800000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S2247-2011-1295326800000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a veterans long term health care authority and prescribes its powers and duties",
+  "title" : "Relates to proceeds from prepaid telephone calling cards",
   "summary" : null,
-  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T134139.TXT", "SOBI.D110118.T133637.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T134139.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295376099795
+  "luceneModified" : 1295376099805
 }

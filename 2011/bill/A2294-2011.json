@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2294-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295326800000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2294-2011-1295326800000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Renames the New York City Transit Authority Track Safety Force to the \"Daniel Boggs - Marvin Franklin New York City Transit Track Safety Force\"",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Transportation Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110118.T134139.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295376099819
+}
