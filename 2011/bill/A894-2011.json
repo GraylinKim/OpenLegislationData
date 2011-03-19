@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A894-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A894-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the labeling of retail products or packages containing a radio frequency identification tag and provides for enforcement by the attorney general",
+  "summary" : "Requires the labeling of retail products or packages containing a radio frequency identification tag; sets standards for labels; provides for enforcement by the attorney general; provides injunctions and civil penalties. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A274-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to requiring the labeling of retail products or packages containing a radio frequency identification tag ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T111126.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294243886006
+}
