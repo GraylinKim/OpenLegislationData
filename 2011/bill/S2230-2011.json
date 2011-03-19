@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2225-2011",
+  "senateBillNo" : "S2230-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S2225-2011-1295326800000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2230-2011-1295326800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates privacy task force within the office for technology to conduct ongoing review of state and local laws, regulations and practices and make recommendations",
+  "title" : "Requires the use of chlorine-free paper by state agencies, the judiciary and the legislature",
   "summary" : null,
-  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "State Technology Law",
+  "lawSection" : "State Finance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T132636.TXT", "SOBI.D110118.T133136.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T133136.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295375496522
+  "luceneModified" : 1295375496538
 }

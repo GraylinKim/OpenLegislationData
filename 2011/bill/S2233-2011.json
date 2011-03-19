@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2225-2011",
+  "senateBillNo" : "S2233-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S2225-2011-1295326800000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S2233-2011-1295326800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates privacy task force within the office for technology to conduct ongoing review of state and local laws, regulations and practices and make recommendations",
+  "title" : "Creates crime of unlawful lending and provides for impoundment of car if charged with driving while intoxicated",
   "summary" : null,
-  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "State Technology Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T132636.TXT", "SOBI.D110118.T133136.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T133136.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295375496522
+  "luceneModified" : 1295375496544
 }
