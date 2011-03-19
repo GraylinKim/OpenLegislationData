@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S574-2011",
+  "senateBillNo" : "S575-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S574-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+    "billEventId" : "S575-2011-1294203600000-REFERRED+TO+COMMERCE%2C+ECONOMIC+DEVELOPMENT+AND+SMALL+BUSINESS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits the possession of guns in or upon the grounds of buildings that serve alcoholic beverages",
+  "title" : "Revises procedures for issuance of liquor licenses for on-premises consumption for premises within 500 feet of 3 or more existing premises",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Alcoholic Beverage Control Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T134840.TXT", "SOBI.D101222.T134339.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T134840.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293043720656
+  "luceneModified" : 1293043720666
 }
