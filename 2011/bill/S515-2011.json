@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "HANNON",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law and the penal law, in relation to increasing fines and penalties for passing a stopped school bus ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T110608.TXT", "SOBI.D101222.T162853.TXT", "SOBI.D101222.T163353.TXT", "SOBI.D101221.T115112.TXT", "SOBI.D101221.T114110.TXT", "SOBI.D101221.T111609.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T162853.TXT", "SOBI.D101221.T110608.TXT", "SOBI.D101223.T092547.TXT", "SOBI.D101221.T114110.TXT", "SOBI.D101221.T115112.TXT", "SOBI.D101222.T163353.TXT", "SOBI.D101221.T111609.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293053633840
+  "luceneModified" : 1293114347253
 }
