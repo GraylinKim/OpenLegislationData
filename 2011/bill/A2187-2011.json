@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates crime of tampering with a taximeter",
-  "summary" : null,
+  "summary" : "Creates a class E felony crime of tampering with a taximeter when a person, with intent to increase the fare displayed by a taximeter to an amount above the maximum amount permitted by local law, tampers with a taximeter. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1289-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to criminal tampering with a taximeter ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T122438.TXT", "SOBI.D110114.T121438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T133442.TXT", "SOBI.D110114.T122438.TXT", "SOBI.D110114.T121438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025878462
+  "luceneModified" : 1295030082244
 }

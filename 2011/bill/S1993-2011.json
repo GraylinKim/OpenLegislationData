@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires unanimous agreement by the parole board to release an inmate on parole",
-  "summary" : null,
+  "summary" : "Requires unanimous agreement by the parole board to release an inmate on parole. ",
   "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
   "lawSection" : "Executive Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S8259-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the executive law, in relation to requiring unanimous agreement by the parole board to release an inmate on parole ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T130440.TXT", "SOBI.D110114.T122938.TXT", "SOBI.D110114.T122438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T130440.TXT", "SOBI.D110114.T122938.TXT", "SOBI.D110114.T133442.TXT", "SOBI.D110114.T122438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295028280350
+  "luceneModified" : 1295030082263
 }
