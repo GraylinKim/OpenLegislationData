@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to allowing county clerks to retain fees collected for motor vehicle related services through a department of motor vehicles' website or processing center ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T115612.TXT", "SOBI.D101221.T112109.TXT", "SOBI.D101222.T163353.TXT", "SOBI.D101221.T114110.TXT", "SOBI.D101221.T112610.TXT", "SOBI.D101221.T111609.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T140706.TXT", "SOBI.D101221.T115612.TXT", "SOBI.D101221.T112109.TXT", "SOBI.D101221.T112610.TXT", "SOBI.D101221.T114110.TXT", "SOBI.D101222.T163353.TXT", "SOBI.D101221.T111609.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293053633845
+  "luceneModified" : 1294254426900
 }
