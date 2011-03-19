@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2847-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to correction",
+    "billEventId" : "A2847-2011-1295499600000-referred+to+correction",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires inmate sexual harassment complaints made against department employees to be investigated by the attorney general",
+  "summary" : "Requires inmate sexual harassment complaints made against department employees to be investigated by the attorney general and makes the findings and recommendations of the attorney general final and binding on the part of the department. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Correction Law",
+  "previousVersions" : [ "A2640-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weinstein",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the correction law, in relation to the investigation of sexual harassment complaints made by inmates ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T160414.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295557454663
+}

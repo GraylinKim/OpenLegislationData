@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2431-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S2431-2011-1295499600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "OPPENHEIMER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants local authorities power to enact pesticide local laws, ordinances, and regulations, subject to certain limits, but which may be more stringent than state law",
+  "summary" : null,
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T160414.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295557454671
+}
