@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2816-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S2816-2011-1296622800000-REFERRED+TO+INSURANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SEWARD",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts provisions relating to comprehensive motor vehicle reparations; including limited assignment of benefits; preclusion lift and mandatory arbitration",
+  "summary" : null,
+  "currentCommittee" : "INSURANCE",
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T095204.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296658324192
+}

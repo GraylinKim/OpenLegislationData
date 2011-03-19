@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2815-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S2815-2011-1296622800000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BONACIC",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the discretion of localities in granting exemptions for certain organizations; repealer",
+  "summary" : null,
+  "currentCommittee" : "LOCAL GOVERNMENT",
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T095204.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296658324191
+}
