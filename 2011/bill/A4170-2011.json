@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4170-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A4170-2011-1296622800000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the definition of the metropolitan commuter transportation district for the purposes of the metropolitan commuter transportation mobility tax",
+  "summary" : "Relates to the definition of the metropolitan commuter transportation district for the purposes of the metropolitan commuter transportation mobility tax; requires the metropolitan transportation authority to renegotiate the joint service operating agreement with the state of Connecticut. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2871",
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "AB8635-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Losquadro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Murray",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to the definition of the metropolitan commuter transportation district for the purposes of the metropolitan commuter transportation mobility tax; and to amend the public authorities law, in relation to requiring the metropolitan transportation authority to renegotiate the joint service operating agreement with the state of Connecticut ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T130714.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296670034602
+}

@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4171-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A4171-2011-1296622800000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prevents a person from being the distributee of certain property if he or she has ever been convicted of a sex offense where the victim was the decedent",
+  "summary" : "Provides that no distributive share in the estate of a decedent shall be allowed to a person convicted of committing or attempting to commit a sex offense where the victim was the decedent. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Estates, Powers and Trusts Law",
+  "previousVersions" : [ "A3009-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McKevitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the estates, powers and trusts law, in relation to the distribution of a decedent's estate ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T130714.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296670034604
+}
