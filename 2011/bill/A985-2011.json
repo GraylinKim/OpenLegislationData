@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Enacts \"The Locksmith Licensing Act of 2011\"",
-  "summary" : null,
+  "summary" : "Enacts \"The Locksmith Licensing Act of 2011\". ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10148-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to enacting the locksmith licensing act of 2011 ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T131653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T135656.TXT", "SOBI.D110105.T131653.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251413784
+  "luceneModified" : 1294253816719
 }
