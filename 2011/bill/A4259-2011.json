@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4259-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A4259-2011-1296622800000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Revives causes of action for denial of retroactive membership by public retirement systems for members who would have qualified for such relief under section 803",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Retirement",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to revive causes of action for the relief provided by section 803 of the retirement and social security law for members who previously took all steps necessary to obtain relief under such section but were denied such relief ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T144225.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296675745144
+}

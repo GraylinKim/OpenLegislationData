@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4260-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A4260-2011-1296622800000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the department of transportation and the division of state police to conduct a study of the synchronization of traffic lights",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Transportation",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to authorize the study of synchronization of traffic control signals on highways ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T144225.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296675745154
+}

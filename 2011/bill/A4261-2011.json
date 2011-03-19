@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4261-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A4261-2011-1296622800000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Latimer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs superintendent of insurance to amend rules and regulations with respect to homeowners' policies",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T144225.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296675745158
+}

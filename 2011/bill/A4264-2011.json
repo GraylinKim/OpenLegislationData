@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4264-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to aging",
+    "billEventId" : "A4264-2011-1296622800000-referred+to+aging",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Permits senior citizens whose spouses are deceased to substitute a more recent income for purposes of determining eligibility for the enhanced STAR exemption",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T144225.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296675745168
+}

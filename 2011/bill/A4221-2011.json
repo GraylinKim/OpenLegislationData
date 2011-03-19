@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4221-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A4221-2011-1296622800000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to assessments to defray operating expenses of the department",
+  "summary" : "Relates to assessments to defray operating expenses of the department; removes indirect costs from the assessments. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A10774-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T144225.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296675745162
+}
