@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2713-2011",
+  "senateBillNo" : "S2720-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S2713-2011-1296450000000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S2720-2011-1296450000000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to treatment of qualified financial contracts in an insurance insolvency proceeding affecting a domestic, foreign or alien insurer",
+  "title" : "Requires cities with populations over 45,000 to incrementally reduce emissions in diesel powered motor vehicles owned by city agencies",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T093147.TXT", "SOBI.D110131.T093647.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T093647.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296484607313
+  "luceneModified" : 1296484607335
 }

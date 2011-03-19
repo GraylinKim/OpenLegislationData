@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2713-2011",
+  "senateBillNo" : "S2722-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S2713-2011-1296450000000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S2722-2011-1296450000000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "STEWART-COUSINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to treatment of qualified financial contracts in an insurance insolvency proceeding affecting a domestic, foreign or alien insurer",
+  "title" : "Establishes a 25 year retirement plan for detention officers employed by the city of Yonkers",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Retirement and Social Security Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T093147.TXT", "SOBI.D110131.T093647.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T093647.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296484607313
+  "luceneModified" : 1296484607338
 }
