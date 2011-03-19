@@ -2,8 +2,28 @@
   "year" : 2009,
   "senateBillNo" : "S68008-2009",
   "billEvents" : null,
-  "votes" : null,
-  "sponsor" : null,
+  "votes" : [ {
+    "id" : "1291006800000S68008-2009--1--1",
+    "voteType" : 2,
+    "voteDate" : 1291006800000,
+    "ayes" : [ "Kruger", "Krueger", "Stachowski", "Oppenheimer", "Montgomery", "Duane", "Parker", "Stavisky", "Dilan", "Stewart-Cousins", "Thompson", "Breslin", "Diaz", "Klein", "Perkins", "Valesky", "Peralta" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "DeFrancisco", "Johnson", "Volker", "Padavan", "LaValle", "Seward", "Saland", "Farley", "Hannon", "Larkin", "Nozzolio", "Leibell", "Maziarz", "Marcellino", "Robach" ],
+    "description" : "Finance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "sponsor" : {
+    "id" : "RULES",
+    "position" : null,
+    "fullname" : "RULES",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
   "title" : null,
   "summary" : null,
   "currentCommittee" : null,
@@ -12,13 +32,13 @@
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
-  "fulltext" : null,
-  "memo" : null,
+  "fulltext" : "",
+  "memo" : "",
   "law" : null,
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101206.T142913.TXT", "SOBI.D101206.T123406.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101209.T120638.TXT-agenda-1.xml", "SOBI.D101206.T142913.TXT", "SOBI.D101206.T123406.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291663753871
+  "luceneModified" : 1291914398574
 }
