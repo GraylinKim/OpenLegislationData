@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1096-2011",
+  "senateBillNo" : "S1139-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1096-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S1139-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the crime of luring or enticing a child on the internet",
+  "title" : "Establishes the New York state celiac disease awareness and research fund",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "KLEIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "PERKINS",
@@ -43,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to creating the crime of criminal luring or enticing of a child on the internet ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T120126.TXT", "SOBI.D110105.T110612.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T120126.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294246886825
+  "luceneModified" : 1294246886827
 }
