@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A236-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A236-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the sanitary code to establish regulations for separation and segregation of recyclable materials and facilities for the disposal of solid waste",
+  "summary" : "Authorizes the sanitary code to establish regulations for separation and segregation of recyclable or reusable materials and facilities for the disposal of solid waste. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A579-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T153003.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292617803850
+}
