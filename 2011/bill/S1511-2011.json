@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires inspection and regulation of sub-meters by the public service commission",
+  "title" : "Requires inspection and regulation of all electric and gas meters that measure usage of any end use customer of electricity or gas services by the public service commission",
   "summary" : null,
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
   "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
-  "pastCommittees" : null,
+  "pastCommittees" : [ "ENERGY AND TELECOMMUNICATIONS" ],
   "fulltext" : null,
   "memo" : null,
   "law" : null,
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T095047.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T100547.TXT", "SOBI.D110110.T095047.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294671047824
+  "luceneModified" : 1294671947911
 }
