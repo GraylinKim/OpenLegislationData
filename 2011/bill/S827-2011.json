@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S827-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S827-2011-1294203600000-REFERRED+TO+INSURANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for reduction in private passenger automobile insurance premiums for participation in an official police department or other anti-theft program",
+  "summary" : null,
+  "currentCommittee" : "INSURANCE",
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101230.T145243.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293738763430
+}

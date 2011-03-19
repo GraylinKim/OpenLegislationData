@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S828-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S828-2011-1294203600000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enables employees to receive electronic confirmation of direct deposit in lieu of paper pay stubs",
+  "summary" : null,
+  "currentCommittee" : "FINANCE",
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101230.T145243.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293738763437
+}

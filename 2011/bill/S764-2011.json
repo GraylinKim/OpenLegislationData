@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Permits two or more contiguous towns to jointly purchase highway equipment",
-  "summary" : null,
+  "summary" : "Permits two or more contiguous towns to jointly purchase highway equipment. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Highway Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3417-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : "AN ACT to amend the highway law, in relation to permitting two or more towns to jointly purchase highway equipment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T131731.TXT", "SOBI.D101230.T123228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T131731.TXT", "SOBI.D101230.T145243.TXT", "SOBI.D101230.T123228.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293733051532
+  "luceneModified" : 1293738763435
 }
