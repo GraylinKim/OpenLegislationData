@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1036-2011",
+  "senateBillNo" : "S1040-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S1036-2011-1294203600000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S1040-2011-1294203600000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Raises the maximum age for a member of the New York state police to 35 years",
+  "title" : "Requires the office of children and family services to track and report elder abuse",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T152512.TXT", "SOBI.D110104.T152012.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T152512.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294172712065
+  "luceneModified" : 1294172712073
 }

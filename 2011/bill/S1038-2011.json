@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1036-2011",
+  "senateBillNo" : "S1038-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S1036-2011-1294203600000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1038-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Raises the maximum age for a member of the New York state police to 35 years",
+  "title" : "Relates to damage to a motor vehicle as criminal mischief",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADAMS",
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SMITH",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T152512.TXT", "SOBI.D110104.T152012.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T152512.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294172712065
+  "luceneModified" : 1294172712070
 }
