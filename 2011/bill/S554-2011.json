@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S554-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+    "billEventId" : "S554-2011-1294203600000-REFERRED+TO+CULTURAL+AFFAIRS%2C+TOURISM%2C+PARKS+AND+RECREATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes persons under the age of fourteen to participate in special events involving snowmobiles",
+  "summary" : null,
+  "currentCommittee" : "CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+  "sameAs" : null,
+  "lawSection" : "Parks, Recreation and Historic Preservation Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101222.T092323.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293027803753
+}

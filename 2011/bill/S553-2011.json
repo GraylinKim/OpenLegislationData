@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S553-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S553-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the forest ranger force to establish a training program for volunteer search and rescue personnel to assist the forest rangers",
+  "summary" : null,
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101222.T092323.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293027803749
+}
