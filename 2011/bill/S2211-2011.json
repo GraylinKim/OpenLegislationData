@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2208-2011",
+  "senateBillNo" : "S2211-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2208-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S2211-2011-1295326800000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the crimes of endangering the welfare of a child in the first and second degrees, a class E felony and a class A misdemeanor, respectively",
+  "title" : "Establishes small flexible fund accounts at the local level",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Elder Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "JOHNSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T114627.TXT", "SOBI.D110118.T115128.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T115128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295369488223
+  "luceneModified" : 1295369488229
 }
