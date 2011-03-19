@@ -3,8 +3,8 @@
   "senateBillNo" : "S249-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S249-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S249-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs social services districts to contract with non-residential programs for victims of domestic violence to provide outreach and education in high schools",
+  "title" : "Establishes the sexual assault forensic examiner grant program",
   "summary" : null,
-  "currentCommittee" : "SOCIAL SERVICES",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T110815.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T111304.TXT", "SOBI.D101213.T110815.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292256495011
+  "luceneModified" : 1292256784060
 }
