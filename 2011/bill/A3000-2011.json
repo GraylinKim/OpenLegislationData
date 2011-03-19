@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3000-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A3000-2011-1295586000000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to ensuring accurate fingerprint identifications and provides for a verification hearing upon arrest",
+  "summary" : "Relates to ensuring accurate fingerprint identifications and provides for a verification hearing immediately upon arrest where such arrest is based on fingerprint identification evidence. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : [ "A3405-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the criminal procedure law, in relation to ensuring accurate fingerprint identifications and providing for a verification hearing upon arrest ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T160037.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643637638
+}

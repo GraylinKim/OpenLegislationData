@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2479-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S2479-2011-1295586000000-REFERRED+TO+JUDICIARY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "FLANAGAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for accumulated child support arrears equivalent to or greater than ten thousand dollars to be punishable as a class E felony",
+  "summary" : null,
+  "currentCommittee" : "JUDICIARY",
+  "sameAs" : null,
+  "lawSection" : "Family Court Act",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T160037.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643637636
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2999-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to health",
+    "billEventId" : "A2999-2011-1295586000000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the regulation of mobile telephone use in certain public areas, specifically, in hospitals, medical centers, and other healthcare facilities",
+  "summary" : "Provides for the regulation of mobile telephone use in certain public areas, specifically, in hospitals, medical centers, and other healthcare facilities; creates the crime of disruptive mobile telephone use, a violation, with penalties involving fines. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A6401-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law and the penal law, in relation to prohibiting the use of cellular or mobile telephones in certain public areas of hospitals, medical centers, or any other treatment center ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T160037.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643637635
+}

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2998-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to children and families",
+    "billEventId" : "A2998-2011-1295586000000-referred+to+children+and+families",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that the return of certain children to the care and custody of the parent, parents or guardian shall be done pursuant to a transition plan",
+  "summary" : "Provides that the return of a child who has been in the care and custody of a social services official for a period of six months or more without visitation by the parent, parents or guardian shall be returned to the care and custody of the parent, parents or guardian pursuant to a transition plan. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A4720-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to the return of a child to the care and custody of his or her parent, parents or guardian ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T160037.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643637633
+}

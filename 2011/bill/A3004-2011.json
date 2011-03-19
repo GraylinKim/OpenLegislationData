@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3004-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to higher education",
+    "billEventId" : "A3004-2011-1295586000000-referred+to+higher+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a minimum 15 day grace period before a late fee may be charged a credit card holder unless there is local, on-line or telephone access available",
+  "summary" : "Provides a fifteen day grace period for the imposition of late fees for credit card bills. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Banking Law",
+  "previousVersions" : [ "A3461-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to providing a grace period for the imposition of late fees for credit card bills ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T160037.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643637648
+}
