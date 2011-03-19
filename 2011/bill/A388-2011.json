@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A388-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A388-2011-1294203600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires a study of the fiscal impacts of changing education funding from a real property tax-based mechanism to an income tax-based mechanism",
+  "summary" : "Requires a study of the fiscal impacts of changing education funding from a real property tax-based mechanism to an income tax-based mechanism. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education",
+  "previousVersions" : [ "A1086-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT directing the New York state department of education, the New York state department of taxation and finance, and the state board of real property services to study the fiscal impact of funding education with state income tax ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T155117.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293137477704
+}

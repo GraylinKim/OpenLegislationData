@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A393-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A393-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to oil and gas drilling in Allegany state park",
+  "summary" : "Relates to oil and gas drilling in Allegany State Park. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Parks, Recreation and Historic Preservation Law",
+  "previousVersions" : [ "AA11093-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the parks, recreation and historic preservation law, in relation to oil and gas drilling in Allegany state park ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T155117.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293137477721
+}

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A392-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A392-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to junior small and big game hunting license and the use of crossbows; repealer",
+  "summary" : "Relates to junior small and big game hunting license and the use of crossbows; provides that persons ages sixteen or seventeen may hunt big game; imposes a nine dollar fee for the junior small and big game license; makes related provisions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "AA7100-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to a junior small and big game hunting license and the use of crossbows; and repealing certain provisions of such law relating thereto ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T155117.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293137477717
+}
