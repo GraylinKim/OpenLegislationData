@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1757-2011",
+  "senateBillNo" : "S1759-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1757-2011-1294808400000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1759-2011-1294808400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Grants volunteer ambulance workers preferential treatment when applying to medical schools within New York state which receive funding from the state",
+  "title" : "Exempts wholesalers from filing annual information returns with the commissioner of taxation and finance for sales made to and from farm wineries",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Volunteer Ambulance Workers' Benefit Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T102955.TXT", "SOBI.D110112.T103456.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T103456.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294846496153
+  "luceneModified" : 1294846496162
 }
