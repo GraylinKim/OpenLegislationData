@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Excludes a social security number or social security card from documentation required to be provided to renew an existing driver's license",
-  "summary" : null,
+  "summary" : "Excludes a social security number or card from documentation required to renew an existing driver's license. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2179-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to certain requirements for renewing a driver's license ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101202.T163601.TXT", "SOBI.D101202.T164602.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101203.T091436.TXT", "SOBI.D101202.T163601.TXT", "SOBI.D101202.T164602.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291326362530
+  "luceneModified" : 1291385676782
 }
