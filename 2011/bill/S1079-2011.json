@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1078-2011",
+  "senateBillNo" : "S1079-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S1078-2011-1294203600000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+    "billEventId" : "S1079-2011-1294203600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MARTINS",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that a lender may receive not more than 20% of the future appreciation of property secured by a reverse mortgage granted to a person 60 years old or older",
+  "title" : "Provides authority for financing and construction of a building to be used as a school for Mesivta Torah Vodaath Rabbinical Seminary by the dormitory authority",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
   "sameAs" : null,
-  "lawSection" : "Real Property Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "SKELOS",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T103104.TXT", "SOBI.D110105.T102603.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T103104.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294241464103
+  "luceneModified" : 1294241464105
 }
