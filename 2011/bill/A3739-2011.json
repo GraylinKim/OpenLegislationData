@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3739-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to banks",
+    "billEventId" : "A3739-2011-1296104400000-referred+to+banks",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits imposition of surcharges at automated teller machines on public university property",
+  "summary" : "Prohibits imposing surcharges on automated teller machines located on state university of New York or city university of New York property. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Banking Law",
+  "previousVersions" : [ "A2147-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the banking law, in relation to prohibiting banks from imposing surcharge fees at automated teller machines located at a state university or a city university ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148428940
+}

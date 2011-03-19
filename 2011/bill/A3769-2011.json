@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3769-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to education",
+    "billEventId" : "A3769-2011-1296104400000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes any school district to use land owned by the school district for parkland purposes",
+  "summary" : "Authorizes any school district to use land owned by the school district for parkland purposes provided the voters of the school district approve of such use by affirmative vote. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education",
+  "previousVersions" : [ "A2617-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to authorize school districts to create parklands from land owned by such school districts ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148428998
+}

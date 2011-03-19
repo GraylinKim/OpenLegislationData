@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3741-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A3741-2011-1296104400000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes standards for the storage and maintenance of pesticides",
+  "summary" : "Makes various provisions regarding pesticide safety including required notification of local fire departments, emergency response personnel and health officials by all certified applicators, registered pesticide businesses and commercial permit holders; specifies responsibility for pesticide releases, and establishes pesticide storage and inventory requirements for certified and registered pesticide businesses. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A1972-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to pesticide safety ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148428944
+}

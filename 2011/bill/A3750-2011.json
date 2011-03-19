@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3750-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A3750-2011-1296104400000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the concentrated animal feeding operation board to study nutrient management and exchange",
+  "summary" : "Creates the concentrated animal feeding operation board to study nutrient management and exchange, and to collect and study data on nutrient management systems on certain farms in the state. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A2927-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to establishing a concentrated animal feeding operation board ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148428966
+}

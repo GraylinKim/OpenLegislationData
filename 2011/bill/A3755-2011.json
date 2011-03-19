@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3755-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3755-2011-1296104400000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires telegraph and telephone corporations to obtain permits to perform work within a county road right of way",
+  "summary" : "Requires telegraph and telephone corporations to obtain permits to perform work within a county road right-of-way. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Highway Law",
+  "previousVersions" : [ "A2659-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the highway law and the transportation corporations law, in relation to requiring the issuance of permits to telegraph and telephone corporations for work within a county road right of way ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148428974
+}

@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3738-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A3738-2011-1296104400000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Camara",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the use of public retirement or pension funds to provide permanent affordable housing",
+  "summary" : "Authorizes the investment of public retirement or pension funds in bonds issued by the New York state housing finance agency for the purpose of providing permanent affordable housing consisting of rehabilitated and newly constructed dwellings; provides for participation by minority and women-owned business enterprises in such construction; establishes the permanent affordable housing advisory board to administer the program. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Private Housing Finance Law",
+  "previousVersions" : [ "A6849-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the private housing finance law and the retirement and social security law, in relation to authorizing the use of public retirement or pension funds for the purpose of establishing permanent affordable housing; and establishing a permanent affordable housing advisory board ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110127.T121348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296148428937
+}
