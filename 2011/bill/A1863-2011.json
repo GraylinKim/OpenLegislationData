@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1841-2011",
+  "senateBillNo" : "A1863-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A1841-2011-1294808400000-referred+to+housing",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1863-2011-1294808400000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,77 +13,84 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Gantt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the right of tenant association to have the first option to purchase a housing unit",
-  "summary" : "Relates to the right of tenant association to have the first option to purchase a housing unit. ",
+  "title" : "Enables safe access to public roads for all users",
+  "summary" : "Enables safe access to public roads for all users by requiring that all transportation improvements shall improve safety, access, and mobility for all travelers regardless of age or ability. ",
   "currentCommittee" : null,
-  "sameAs" : "S428",
-  "lawSection" : "Public Health Law",
-  "previousVersions" : [ "A9974-2009" ],
+  "sameAs" : "S1332",
+  "lawSection" : "Highway Law",
+  "previousVersions" : [ "AB8587-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Bing",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Benedetto",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jeffries",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera J",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lopez V",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Latimer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the private housing finance law, in relation to right of first refusal ",
+  "actClause" : "AN ACT to amend the highway law, in relation to enabling safe access to public roads for all users by utilizing complete street design principles ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT", "SOBI.D110112.T131005.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T131005.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294855805833
+  "luceneModified" : 1294855805816
 }

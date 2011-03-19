@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1841-2011",
+  "senateBillNo" : "A1851-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A1841-2011-1294808400000-referred+to+housing",
+    "eventText" : "referred to social services",
+    "billEventId" : "A1851-2011-1294808400000-referred+to+social+services",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the right of tenant association to have the first option to purchase a housing unit",
-  "summary" : "Relates to the right of tenant association to have the first option to purchase a housing unit. ",
+  "title" : "Establishes rental vouchers for working families",
+  "summary" : "Establishes rental vouchers for working families; provides definitions; allows for families to make an application for rental vouchers at the appropriate social services district or any facilitated enrollment site authorized by the office of temporary and disability assistance; sets forth eligibility requirements. ",
   "currentCommittee" : null,
-  "sameAs" : "S428",
-  "lawSection" : "Public Health Law",
-  "previousVersions" : [ "A9974-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A1551-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Bing",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Benedetto",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jeffries",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Glick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,28 +41,42 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lopez V",
+    "fullname" : "O'Donnell",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Jacobs",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Kellner",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the private housing finance law, in relation to right of first refusal ",
+  "actClause" : "AN ACT to amend the social services law, in relation to establishing rental vouchers for working families ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT", "SOBI.D110112.T131005.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T131005.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294855805833
+  "luceneModified" : 1294855805789
 }

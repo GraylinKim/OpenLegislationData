@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1844-2011",
+  "senateBillNo" : "A1859-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "referred to transportation",
-    "billEventId" : "A1844-2011-1294808400000-referred+to+transportation",
+    "eventText" : "referred to insurance",
+    "billEventId" : "A1859-2011-1294808400000-referred+to+insurance",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to monetary penalties that a parking violations bureau may impose for illegally idling the engine of a motor vehicle",
-  "summary" : "Relates to monetary penalties that a parking violations bureau may impose for illegally idling the engine of a motor vehicle. ",
+  "title" : "Requires insurer to respond within thirty days of a request from an insured for his or her health plan documents",
+  "summary" : "Requires insurer to respond within thirty days of a written request from an insured for his or her health plan documents, including copies of most recent group or individual contracts. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "A6903-2009" ],
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A3301-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -34,7 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Meng",
+    "fullname" : "Sweeney",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,7 +48,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law and the administrative code of the city of New York, in relation to monetary penalties that the parking violations bureau may impose for illegally idling the engine of a motor vehicle ",
+  "actClause" : "AN ACT to amend the insurance law and the public health law, in relation to disclosure and access to health insurance plan documents ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T130504.TXT", "SOBI.D110112.T131005.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T131005.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294855805787
+  "luceneModified" : 1294855805808
 }

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1856-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1856-2011-1294808400000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires court clerk to mail disposition of criminal felony trial to any crime victim not present at time defendant sentenced or acquitted after completion of trial",
+  "summary" : "Requires that following the acquittal after trial or the sentencing of any defendant for a felony, the clerk of the court, or such clerk's designee, shall mail a written summary of the disposition of such felony to any victim who was not present at the time that the defendant was sentenced or acquitted after trial. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : [ "A1293-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the criminal procedure law, in relation to notifying certain crime victims of the disposition of criminal trial ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T131005.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294855805800
+}

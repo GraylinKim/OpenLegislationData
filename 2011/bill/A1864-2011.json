@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1864-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1864-2011-1294808400000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the definition and regulation of personal watercraft; repealer",
+  "summary" : "Relates to the definition and regulation of personal watercraft. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Navigation Law",
+  "previousVersions" : [ "AA11160-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the navigation law, in relation to personal watercraft; and to repeal certain provisions of such law relating thereto ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T131005.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294855805818
+}

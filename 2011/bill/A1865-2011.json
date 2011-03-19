@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1865-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1865-2011-1294808400000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the department of transportation to retain jurisdiction and maintenance of the route 219 bridge over the Cattaraugus Creek/Zoar Valley",
+  "summary" : "Directs the department of transportation to retain jurisdiction over and maintenance responsibilities for the route 219 bridge over the Cattaraugus Creek/Zoar Valley in the counties of Cattaraugus and Erie. ",
+  "currentCommittee" : null,
+  "sameAs" : "S860",
+  "lawSection" : "Transportation",
+  "previousVersions" : [ "A6520-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Smardz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to direct the department of transportation to retain jurisdiction over and continue to maintain the state route 219 bridge over Cattaraugus Creek/Zoar Valley, in the counties of Cattaraugus and Erie ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T131005.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294855805821
+}
