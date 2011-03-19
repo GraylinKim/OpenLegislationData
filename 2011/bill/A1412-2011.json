@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1408-2011",
+  "senateBillNo" : "A1412-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "referred to environmental conservation",
-    "billEventId" : "A1408-2011-1294376400000-referred+to+environmental+conservation",
+    "eventText" : "referred to local governments",
+    "billEventId" : "A1412-2011-1294376400000-referred+to+local+governments",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for local tidal wetlands protection",
+  "title" : "Creates the Peconic Bay regional transportation council; repealer",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S1455",
-  "lawSection" : "Environmental Conservation Law",
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the environmental conservation law, in relation to local tidal wetlands protection ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T143426.TXT", "SOBI.D110107.T143909.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T143909.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294429149173
+  "luceneModified" : 1294429149152
 }

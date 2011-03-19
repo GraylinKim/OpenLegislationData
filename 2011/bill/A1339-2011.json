@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1339-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A1339-2011-1294203600000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Limits the number and type of party committees which may be formed by state committees to receive or spend contributions to support or oppose candidates",
+  "summary" : "Limits the number and type of party committees which may be formed by state committees to receive or spend contributions in support or opposition to candidates for election to public office to: one committee for each of the 3 types of committees specified: state senate, state assembly and federal account. ",
+  "currentCommittee" : null,
+  "sameAs" : "S917",
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "A836-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to limiting the number and type of party committees which may be established by state committees for the receipt and expenditure of campaign contributions to aid in the election or defeat of candidates for public office ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T143909.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294429149141
+}

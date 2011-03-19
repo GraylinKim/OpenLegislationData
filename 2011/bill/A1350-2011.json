@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1350-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1350-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Defines the term electric assisted bicycle",
+  "summary" : "Defines the term \"electric assisted bicycle\" for purposes of the applicability of the vehicle and traffic law; requires persons sixteen years of age or younger to wear a helmet when operating an electric assisted bicycle. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1357",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A2393-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to the definition of electric assisted bicycle ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T143909.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294429149210
+}
