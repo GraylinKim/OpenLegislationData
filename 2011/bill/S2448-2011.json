@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2448-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S2448-2011-1295586000000-REFERRED+TO+EDUCATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "YOUNG",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to providing state aid for transportation of students to and from extracurricular activities",
+  "summary" : null,
+  "currentCommittee" : "EDUCATION",
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T120521.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295629521756
+}
