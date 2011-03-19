@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows N.Y. city to provide tax and rent relief to senior citizens based on the metered use of water in a dwelling unit",
-  "summary" : null,
+  "summary" : "Allows a city of one million or more to provide tax and rent relief to senior citizens based on the metered use of water in a dwelling unit. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A7059-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT", "SOBI.D110112.T123502.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294850098413
+  "luceneModified" : 1294853702796
 }

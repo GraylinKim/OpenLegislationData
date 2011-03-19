@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the annual reporting of criminal activity on subways",
-  "summary" : null,
+  "summary" : "Requires the annual reporting of criminal activity on subways. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "New York City Administrative Code",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA10444-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -109,7 +109,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113458.TXT", "SOBI.D110112.T123502.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294850098410
+  "luceneModified" : 1294853702790
 }
