@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S796-2011",
+  "senateBillNo" : "S800-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S796-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S800-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for free hunting, fishing and trapping licenses to residents of the state who are active duty members of the U.S. armed forces regardless of duty station",
+  "title" : "Authorizes local governments to deliver proposed local laws to members of their legislative bodies by means of e-mail",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Municipal Home Rule Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,7 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "DEFRANCISCO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T125229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293731850417
+  "luceneModified" : 1293731850432
 }

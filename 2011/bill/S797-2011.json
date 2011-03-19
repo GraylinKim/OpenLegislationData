@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S796-2011",
+  "senateBillNo" : "S797-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S796-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S797-2011-1294203600000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for free hunting, fishing and trapping licenses to residents of the state who are active duty members of the U.S. armed forces regardless of duty station",
+  "title" : "Directs the superintendent of insurance to study the feasibility of developing and implementing a liability reform plan for recreational land use",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Insurance",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T125229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293731850417
+  "luceneModified" : 1293731850421
 }
