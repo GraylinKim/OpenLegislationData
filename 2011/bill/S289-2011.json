@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S269-2011",
+  "senateBillNo" : "S289-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S269-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S289-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires a course of instruction in the awareness of hate crimes",
+  "title" : "Eliminates taxes on alternative energies",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T114806.TXT", "SOBI.D101213.T114306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T114806.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292258886706
+  "luceneModified" : 1292258886712
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S269-2011",
+  "senateBillNo" : "S276-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S269-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S276-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires a course of instruction in the awareness of hate crimes",
+  "title" : "Establishes certain persons engaged in the sale of alcoholic beverages for off premise consumption may not advertise the sale of such beverages",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T114806.TXT", "SOBI.D101213.T114306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T114806.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292258886706
+  "luceneModified" : 1292258886737
 }
