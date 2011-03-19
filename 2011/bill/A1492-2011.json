@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1492-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1492-2011-1294635600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates New York state regulatory review council; expands scope of regulatory impact statements",
+  "summary" : "Expands requirements for regulatory impact statements to include discussion of potential benefits and cost savings; creates New York state regulatory review council to review every promulgation, repeal or amendment of every rule or regulation; provides that no new rule, unless critical to health, safety, or welfare, may become effective without the approval of the council; provides for the procedures of the council; provides for an annual report by the council on its actions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "State Administrative Procedure Act",
+  "previousVersions" : [ "A2856-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilich",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the state administrative procedure act, in relation to creating the New York state regulatory review council and expanding regulatory impact statements ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T142112.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294687272270
+}

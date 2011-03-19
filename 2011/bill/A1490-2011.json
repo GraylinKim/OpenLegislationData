@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1490-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1490-2011-1294635600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to limits of the amount of contracts for printing public documents which may be let without competitive bidding",
+  "summary" : "Amends the limits of the amount of contracts for printing public documents which may be let without competitive bidding to match those set forth in the state finance law for purchasing services and commodities. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York State Printing and Public Documents Law",
+  "previousVersions" : [ "A10522-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the New York state printing and public documents law, in relation to the letting of contracts for printing ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T142112.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294687272253
+}

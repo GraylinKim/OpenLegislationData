@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1491-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1491-2011-1294635600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the prior approval of the appropriate legislative committees required of agency rules and regulations",
+  "summary" : "Requires state agencies to submit proposed rules and regulations intended to implement legislation to the appropriate committee of the legislature for approval; provides that no such rule or regulation shall take effect unless it has been approved by a majority vote of such legislative committee. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "State Administrative Procedure Act",
+  "previousVersions" : [ "A10905-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the state administrative procedure act, in relation to legislative approval of certain proposed rules ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T142112.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294687272262
+}
