@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3052-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3052-2011-1295586000000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the removal or seizure of a vehicle for failure to satisfy outstanding parking violation judgments when such vehicle is occupied",
+  "summary" : "Prohibits the removal or seizure of a vehicle for failure to satisfy outstanding parking violation judgments when such vehicle is occupied and, in the city of New York, also prohibits the removal of such a vehicle unless the total amount of outstanding parking judgments is more than $500 and the vehicle cannot be impounded by booting it where it is found; prohibits excessive towing charges. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A3542-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law and the administrative code of the city of New York, in relation to the removal of motor vehicles for the failure to satisfy judgments in certain circumstances ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T162039.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295644839256
+}

@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3055-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to cities",
+    "billEventId" : "A3055-2011-1295586000000-referred+to+cities",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the New York city water board from enacting any rules and regulations less favorable to the consumer",
+  "summary" : "Prohibits the NYC water board from enacting any rules and regulations less favorable to the consumer, including timeframes for appeals and receiving refunds. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1182",
+  "lawSection" : "Public Authorities",
+  "previousVersions" : [ "A3374-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT relating to prohibiting the New York city water board from adopting any rules and regulations less favorable to the consumer ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T162039.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295644839268
+}
