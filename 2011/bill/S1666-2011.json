@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1665-2011",
+  "senateBillNo" : "S1666-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1665-2011-1294722000000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1666-2011-1294722000000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides tax abatement related to the removal of lead paint",
+  "title" : "Expands scope of criminal mischief to include cases wherein a person intentionally damages property of another with intent to harass, annoy, or alarm",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T104651.TXT", "SOBI.D110111.T104151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T104651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294760811107
+  "luceneModified" : 1294760811116
 }
