@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1107-2011",
+  "senateBillNo" : "S1108-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S1107-2011-1294203600000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1108-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires contractors in certain large cities to recycle 50% of the waste generated on construction and demolition sites",
+  "title" : "Creates the lupus research enhancement program and the lupus research enhancement fund; appropriation",
   "summary" : null,
-  "currentCommittee" : "CITIES",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "General City Law",
+  "lawSection" : "Appropriations",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T112118.TXT", "SOBI.D110105.T111618.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T112118.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294244478179
+  "luceneModified" : 1294244478184
 }

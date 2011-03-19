@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1107-2011",
+  "senateBillNo" : "S1111-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S1107-2011-1294203600000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S1111-2011-1294203600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires contractors in certain large cities to recycle 50% of the waste generated on construction and demolition sites",
+  "title" : "Provides for the appointment of a replacement lieutenant-governor by the governor, subject to the approval of the state senate, during permanent vacancy of office",
   "summary" : null,
-  "currentCommittee" : "CITIES",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "General City Law",
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T112118.TXT", "SOBI.D110105.T111618.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T112118.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294244478179
+  "luceneModified" : 1294244478189
 }
