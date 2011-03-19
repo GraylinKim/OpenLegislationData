@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S384-2011",
+  "senateBillNo" : "S385-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S384-2011-1294203600000-REFERRED+TO+HEALTH",
+    "billEventId" : "S385-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides treatment for sexually transmissible diseases to minors without a parent's or guardian's consent",
+  "title" : "Requires cigarette manufacturer to disclose chemical additives in cigarettes",
   "summary" : null,
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
@@ -27,7 +27,14 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADAMS",
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HUNTLEY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,7 +48,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERALTA",
+    "fullname" : "SERRANO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T101816.TXT", "SOBI.D101220.T102317.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T102317.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292858597397
+  "luceneModified" : 1292858597402
 }
