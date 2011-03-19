@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S703-2011",
+  "senateBillNo" : "S707-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S703-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S707-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "ROBACH",
+    "fullname" : "SAVINO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Deposits for refillable beverage containers",
+  "title" : "Prohibits debt collectors from collecting or attempting to collect a debt owed by a deceased debtor that is known by such debt collector to be deceased",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT", "SOBI.D101229.T155253.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T155253.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293655973120
+  "luceneModified" : 1293655973131
 }

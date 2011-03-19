@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S703-2011",
+  "senateBillNo" : "S708-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S703-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S708-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "ROBACH",
+    "fullname" : "SAVINO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Deposits for refillable beverage containers",
+  "title" : "Requires dating violence education and dating violence policies in school districts, boards of cooperative educational services and county vocational education and extension boards",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT", "SOBI.D101229.T155253.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T155253.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293655973120
+  "luceneModified" : 1293655973133
 }

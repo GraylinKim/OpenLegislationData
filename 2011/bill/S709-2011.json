@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S703-2011",
+  "senateBillNo" : "S709-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S703-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S709-2011-1294203600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Deposits for refillable beverage containers",
+  "title" : "Provides for initiative and referendum in New York State for the People as electors to propose or reject laws and submit amendments to the state constitution",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT", "SOBI.D101229.T155253.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T155253.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293655973120
+  "luceneModified" : 1293655973135
 }

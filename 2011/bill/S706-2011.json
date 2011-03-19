@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S703-2011",
+  "senateBillNo" : "S706-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S703-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "billEventId" : "S706-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Deposits for refillable beverage containers",
+  "title" : "Clarifies the state's obligation to make payments with respect to certain lands",
   "summary" : null,
   "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Environmental Conservation",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT", "SOBI.D101229.T155253.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T155253.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293655973120
+  "luceneModified" : 1293655973129
 }
