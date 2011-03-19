@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A943-2011-1294722000000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Pheffer (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the correction law, in relation to providing death benefits for the heirs of employees killed in the line of duty ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T165749.TXT", "SOBI.D110105.T133158.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T140712.TXT", "SOBI.D110106.T165749.TXT", "SOBI.D110105.T133158.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294351069268
+  "luceneModified" : 1294772832776
 }
