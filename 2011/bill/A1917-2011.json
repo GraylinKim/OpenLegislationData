@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1917-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A1917-2011-1294808400000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that in N.Y. city, required distances of bars from schools, places of worship and existing licensed premises be measured from the closest boundary lines",
+  "summary" : "Relates to the siting of certain premises, located in counties with a population in excess of one million, licensed to sell liquor for consumption on the premises; provides that required distances from schools and places of worship and from existing licensed premises shall be measured from the closest boundary lines instead of from the center of the entrances of such premises. ",
+  "currentCommittee" : null,
+  "sameAs" : "S29",
+  "lawSection" : "Alcoholic Beverage Control Law",
+  "previousVersions" : [ "AC7364-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to the siting of certain premises licensed to sell liquor for consumption on the premises, which premises are located in cities with populations in excess of one million people ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T151019.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294863019470
+}

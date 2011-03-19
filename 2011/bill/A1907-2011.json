@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1907-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A1907-2011-1294808400000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants a $100,000 real property tax exemption to conservation clubs and rod and gun clubs owning certain land having an assessed value of $500,000 or less",
+  "summary" : "Grants a $100,000 real property tax exemption to conservation clubs and rod and gun clubs owning land acquired prior to January 1, 2011, having an assessed value of $500,000 or less. ",
+  "currentCommittee" : null,
+  "sameAs" : "S858",
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "AA5118-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Burling",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to granting a tax exemption to certain land owned by a conservation club or a rod and gun club ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T151019.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294863019443
+}

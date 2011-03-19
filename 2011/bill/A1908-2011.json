@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1908-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1908-2011-1294808400000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the crime of reckless endangerment of the public health for recklessly transmitting HIV/AIDS",
+  "summary" : "Creates crimes of reckless endangerment of public health with respect to HIV/AIDS transmission; creates crime of filing false instrument with respect to HIV/AIDS; provides for HIV/AIDS testing for alleged sex offenders and public health offenders; provides for contagious disease testing for persons in the custody of the department of corrections; provides that if an inmate tests positive notice shall be given to all employees that will have contact with such inmate. ",
+  "currentCommittee" : null,
+  "sameAs" : "S745",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A4939-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, the criminal procedure law and the correction law, in relation to criminalizing the reckless transmission of HIV/AIDS and to require testing for AIDS and HIV for certain persons ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T151019.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294863019445
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1912-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1912-2011-1294808400000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes a personal income tax credit for portion of residential real property taxes which exceeds a certain percentage of the household gross income",
+  "summary" : "Establishes a personal income tax credit for a portion of a taxpayer's residential real property taxes which exceeds a certain percentage of the taxpayer's household gross income; provides that the taxpayer shall have resided in such residential real property for not less than 10 years; provides that such credit shall not apply to taxpayers whose household gross income exceeds $250,000 or who have received the school tax relief exemption on such real property. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1796",
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A646-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to establishing the maximum residential real property, personal income tax credit ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T151019.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294863019453
+}
