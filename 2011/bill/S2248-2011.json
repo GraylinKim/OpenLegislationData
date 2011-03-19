@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for certification of vote by local board of elections for all votes",
-  "summary" : null,
+  "summary" : "Requires county boards of elections to provide the state board of elections with votes cast for all nominations. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S176-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to certification of the vote ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T134139.TXT", "SOBI.D110118.T142142.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T134139.TXT", "SOBI.D110118.T142142.TXT", "SOBI.D110118.T150705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295378502190
+  "luceneModified" : 1295381225014
 }

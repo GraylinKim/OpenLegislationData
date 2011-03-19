@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the personal property law, in relation to prohibiting certain provisions in retail lease agreements ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T144115.TXT", "SOBI.D110110.T151618.TXT", "SOBI.D110110.T153118.TXT", "SOBI.D110114.T181509.TXT", "SOBI.D110110.T144614.TXT", "SOBI.D110111.T152219.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T144115.TXT", "SOBI.D110110.T151618.TXT", "SOBI.D110110.T153118.TXT", "SOBI.D110114.T181509.TXT", "SOBI.D110118.T150705.TXT", "SOBI.D110111.T152219.TXT", "SOBI.D110110.T144614.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295046909993
+  "luceneModified" : 1295381225984
 }

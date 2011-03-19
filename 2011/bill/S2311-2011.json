@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2283-2011",
+  "senateBillNo" : "S2311-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2283-2011-1295326800000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S2311-2011-1295326800000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to protection of religious freedom",
+  "title" : "Authorizes reimbursement for Tay-Sachs testing",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Insurance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to the free exercise of religion ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T144146.TXT", "SOBI.D110118.T150705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T150705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295381225949
+  "luceneModified" : 1295381225946
 }

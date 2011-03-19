@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2283-2011",
+  "senateBillNo" : "S2313-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2283-2011-1295326800000-REFERRED+TO+FINANCE",
+    "billEventId" : "S2313-2011-1295326800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to protection of religious freedom",
+  "title" : "Creates a traffic adjudication appeals bureau in executive department for appeals from traffic violations bureau; repealer",
   "summary" : null,
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to the free exercise of religion ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T144146.TXT", "SOBI.D110118.T150705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T150705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295381225949
+  "luceneModified" : 1295381225956
 }

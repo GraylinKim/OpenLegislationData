@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Restricts use of title \"doctor\" in advertisements",
-  "summary" : null,
+  "summary" : "Restricts use of the title \"doctor\" in advertisements to medical doctors, dentists, chiropractors, veterinarians, podiatrists, and optometrists who have received a degree in the appropriate profession and have met all professional requirements of the appropriate program registered by the New York state education department or accredited by an accrediting organization acceptable to such department or are otherwise licensed to practice in the state of New York. ",
   "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S814-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to restricting the use of the title \"doctor\" in advertisements ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T142142.TXT", "SOBI.D110118.T135141.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T142142.TXT", "SOBI.D110118.T150705.TXT", "SOBI.D110118.T135141.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295378502193
+  "luceneModified" : 1295381225996
 }
