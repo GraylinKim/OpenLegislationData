@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2543-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S2543-2011-1295931600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GIANARIS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes apportionment commission to create apportionment plans for congressional and state legislative districts based on federal censuses; repealer",
+  "summary" : null,
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "sameAs" : null,
+  "lawSection" : "Legislative Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T112440.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295972680309
+}
