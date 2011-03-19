@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S656-2011",
+  "senateBillNo" : "S657-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S656-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S657-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes DEC to designate additional fishing events as rehabilitation for armed forces veterans or active members",
+  "title" : "Makes possession and sale of embalming fluid a misdemeanor",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T142831.TXT", "SOBI.D101228.T143333.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T143333.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293564813081
+  "luceneModified" : 1293564813085
 }
