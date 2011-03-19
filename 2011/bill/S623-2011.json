@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S618-2011",
+  "senateBillNo" : "S623-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S618-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO RACING, GAMING AND WAGERING",
+    "billEventId" : "S623-2011-1294203600000-REFERRED+TO+RACING%2C+GAMING+AND+WAGERING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Defenses against patronizing a prostitute",
+  "title" : "Establishes antitrust exemptions for certain horse racing agreements",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "RACING, GAMING AND WAGERING",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Racing, Pari-Mutuel Wagering and Breeding Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101223.T142111.TXT", "SOBI.D101223.T142612.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101223.T142612.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293132372659
+  "luceneModified" : 1293132372675
 }
