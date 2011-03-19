@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1776-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+    "billEventId" : "S1776-2011-1294808400000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERKINS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes and directs the Port Authority to conduct cumulative impact analysis of environmental hazards at Port Authority facilities",
+  "summary" : null,
+  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "sameAs" : null,
+  "lawSection" : "Port Authority of New York and New Jersey",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T120501.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294851901186
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1778-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1778-2011-1294808400000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERKINS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the purchase of security services",
+  "summary" : null,
+  "currentCommittee" : "FINANCE",
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T120501.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294851901192
+}
