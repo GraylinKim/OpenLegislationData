@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported",
+    "billEventId" : "A263-2011-1295413200000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Paulin (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -102,7 +109,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to making technical corrections with regards to political subdivisions and election districts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T170342.TXT", "SOBI.D101220.T165842.TXT", "SOBI.D101217.T153505.TXT", "SOBI.D101217.T161006.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D101220.T165842.TXT", "SOBI.D101220.T170342.TXT", "SOBI.D101217.T153505.TXT", "SOBI.D101217.T161006.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292882622922
+  "luceneModified" : 1295465887480
 }

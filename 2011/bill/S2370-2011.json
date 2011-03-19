@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2369-2011",
+  "senateBillNo" : "S2370-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S2369-2011-1295413200000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S2370-2011-1295413200000-REFERRED+TO+AGRICULTURE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,27 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the use of ultra low sulfur diesel fuel and the best available technology by the state",
+  "title" : "Amends the agriculture and markets law, exempting certain institutions from the definition of a food processing establishment",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "AGRICULTURE",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Agriculture and Markets Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GRISANTI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "JOHNSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "LARKIN",
@@ -34,21 +48,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "RANZENHOFER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SALAND",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T143307.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295465887476
+  "luceneModified" : 1295465887478
 }

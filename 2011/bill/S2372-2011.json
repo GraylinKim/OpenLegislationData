@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2369-2011",
+  "senateBillNo" : "S2372-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S2369-2011-1295413200000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S2372-2011-1295413200000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the use of ultra low sulfur diesel fuel and the best available technology by the state",
+  "title" : "Provides a toll exemption for certain ambulance services",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Highways",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BONACIC",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "LARKIN",
@@ -45,13 +52,6 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SALAND",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T143307.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295465887476
+  "luceneModified" : 1295465887489
 }
