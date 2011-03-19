@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes the mortgagee or lienor of an abandoned multiple dwelling to apply for the appointment of a receiver to bring the building into compliance",
-  "summary" : null,
+  "summary" : "Authorizes the mortgagee or lienor of an abandoned multiple dwelling to apply for the appointment of a receiver to bring the building into compliance. ",
   "currentCommittee" : null,
   "sameAs" : "S696",
   "lawSection" : "Real Property Actions and Proceedings Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA6161-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to title to an abandoned multiple dwelling in a city, town or village ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T114401.TXT", "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240817
+  "luceneModified" : 1294073041424
 }

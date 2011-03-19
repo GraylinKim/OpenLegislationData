@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires a recording officer not to record or accept a transfer or assignment of interest in a mortgage unless accompanied with a mortgage ownership assignment",
-  "summary" : null,
+  "summary" : "Requires a recording officer not to record or accept a transfer or assignment of interest in a mortgage unless accompanied with a mortgage ownership assignment document. ",
   "currentCommittee" : null,
   "sameAs" : "S667",
   "lawSection" : "Real Property Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AB8684-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the real property law, in relation to the recording of a transfer or assignment of a mortgage interest ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T114401.TXT", "SOBI.D110103.T111901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541966
+  "luceneModified" : 1294073041409
 }

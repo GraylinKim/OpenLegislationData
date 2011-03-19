@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates the New York city transit authority safety advisory panel to study and report on safety from terrorist acts",
-  "summary" : null,
+  "summary" : "Creates the New York city transit authority safety advisory panel to study and report on safety from terrorist acts and to provide a moratorium on the closing of token booths and minimum staffing levels on trains operated in passenger service in the NYC transit system. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Authorities Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA1442-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : "AN ACT to amend the public authorities law, in relation to creating a New York city transit authority safety advisory panel to study and report on safety from terrorist acts and to provide for a moratorium on the closing of token booths and minimum staffing levels on trains operated in passenger service in the New York city transit system ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T114401.TXT", "SOBI.D110103.T111901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541943
+  "luceneModified" : 1294073041406
 }

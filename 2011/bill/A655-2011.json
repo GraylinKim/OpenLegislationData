@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires health care providers to disclose errors in diagnosis, treatment, services that provider knows has caused substantial harm or significant risk thereof",
-  "summary" : null,
+  "summary" : "Requires health care providers (i.e., an entity licensed/certified under certain articles of the public health law or the mental hygiene law, a health care practitioner licensed/registered/certified under title eight of the education law, or a provider of pharmaceutical products/services or durable medical equipment) to disclose errors in diagnosis, treatment or other services that the provider knows has caused substantial harm or significant risk of substantial harm; provides there shall be a rebuttable presumption that the provider knew of the error and the harm or risk of harm if, under the circumstances, the provider reasonably should have had knowledge thereof; provides such disclosure shall be made within a reasonable period of time and be reasonably understandable. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA1673-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to requiring health care providers to inform patients or their representatives of certain errors in diagnosis, treatment or other services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T114401.TXT", "SOBI.D110103.T112900.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072140067
+  "luceneModified" : 1294073041423
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Imposes fines on landlords who make false monetary claims in non-payment proceedings and requires dismissal of the proceeding",
-  "summary" : null,
+  "summary" : "Imposes a $100 fine on landlords who make false rent claims in non-payment proceedings and requires dismissal of the proceeding if the court finds that the amount requested is more than the amount due pursuant to an agreement between the parties. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Real Property Actions and Proceedings Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1463-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to imposing penalties for false rent claims ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T114401.TXT", "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240838
+  "luceneModified" : 1294073041419
 }
