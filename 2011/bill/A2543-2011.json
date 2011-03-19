@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2543-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2543-2011-1295413200000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the reestablishment of the Westchester parkway commission, to advise the commissioner of transportation",
+  "summary" : "Provides for the reestablishment of the Westchester Parkway Commission, to advise the commissioner of transportation regarding the operation and maintenance of the special parkways within the county of Westchester. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Transportation Law",
+  "previousVersions" : [ "A5024-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the transportation law, in relation to reestablishing the Westchester parkway commission ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T141307.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295464387674
+}
