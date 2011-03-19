@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296574200000S1685-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296574200000,
+    "ayes" : [ "Saland", "DeFrancisco", "Flanagan", "Fuschillo", "Gallivan", "Golden", "Lanza", "Nozzolio", "O'Mara", "Gianaris", "Huntley", "Perkins", "Squadron", "Espaillat" ],
+    "nays" : [ "Parker" ],
+    "abstains" : null,
+    "excused" : [ "Duane" ],
+    "ayeswr" : null,
+    "description" : "Codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -39,7 +52,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to staging a motor vehicle accident ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T105849.TXT", "SOBI.D110111.T125203.TXT", "SOBI.D110111.T164725.TXT", "SOBI.D110111.T130704.TXT", "SOBI.D110111.T132207.TXT", "SOBI.D110118.T181704.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T105849.TXT", "SOBI.D110201.T121850.TXT-agenda-1.xml", "SOBI.D110111.T125203.TXT", "SOBI.D110111.T164725.TXT", "SOBI.D110111.T132207.TXT", "SOBI.D110111.T130704.TXT", "SOBI.D110118.T181704.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296575929847
+  "luceneModified" : 1296580730156
 }

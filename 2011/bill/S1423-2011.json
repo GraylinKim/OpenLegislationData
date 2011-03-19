@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296574200000S1423-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296574200000,
+    "ayes" : [ "Saland", "DeFrancisco", "Flanagan", "Fuschillo", "Gallivan", "Golden", "Lanza", "Nozzolio", "O'Mara", "Gianaris", "Squadron", "Espaillat" ],
+    "nays" : [ "Huntley", "Parker", "Perkins" ],
+    "abstains" : null,
+    "excused" : [ "Duane" ],
+    "ayeswr" : null,
+    "description" : "Codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -46,7 +59,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law and the executive law, in relation to disclosure of arrest and prosecution records of applicants for employment by police departments and other law enforcement agencies ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T104850.TXT", "SOBI.D110201.T105849.TXT", "SOBI.D110112.T175532.TXT", "SOBI.D110111.T105151.TXT", "SOBI.D110107.T115854.TXT", "SOBI.D110107.T113353.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T104850.TXT", "SOBI.D110201.T105849.TXT", "SOBI.D110201.T121850.TXT-agenda-1.xml", "SOBI.D110112.T175532.TXT", "SOBI.D110111.T105151.TXT", "SOBI.D110107.T115854.TXT", "SOBI.D110107.T113353.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296575929844
+  "luceneModified" : 1296580730155
 }

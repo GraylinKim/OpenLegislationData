@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296574200000S2141-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296574200000,
+    "ayes" : [ "Saland", "DeFrancisco", "Flanagan", "Fuschillo", "Gallivan", "Golden", "Lanza", "Nozzolio", "O'Mara", "Gianaris", "Huntley", "Perkins", "Espaillat" ],
+    "nays" : [ "Parker" ],
+    "abstains" : null,
+    "excused" : [ "Duane" ],
+    "ayeswr" : [ "Squadron" ],
+    "description" : "Codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -39,7 +52,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to the aggravated harassment of an employee by an inmate ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T105849.TXT", "SOBI.D110118.T114627.TXT", "SOBI.D110124.T222157.TXT", "SOBI.D110118.T160154.TXT", "SOBI.D110118.T105619.TXT", "SOBI.D110118.T120128.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T105849.TXT", "SOBI.D110201.T121850.TXT-agenda-1.xml", "SOBI.D110118.T114627.TXT", "SOBI.D110124.T222157.TXT", "SOBI.D110118.T160154.TXT", "SOBI.D110118.T105619.TXT", "SOBI.D110118.T120128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296575929850
+  "luceneModified" : 1296580730160
 }

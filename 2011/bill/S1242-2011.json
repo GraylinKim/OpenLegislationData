@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296574200000S1242-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296574200000,
+    "ayes" : [ "Saland", "DeFrancisco", "Flanagan", "Fuschillo", "Gallivan", "Lanza", "Nozzolio", "O'Mara", "Gianaris", "Huntley", "Perkins", "Squadron", "Espaillat" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : [ "Duane" ],
+    "ayeswr" : [ "Golden", "Parker" ],
+    "description" : "Codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -46,7 +59,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to including the use of a governmental agency to harass a person within the crime of aggravated harassment in the second degree ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T133403.TXT", "SOBI.D110106.T130219.TXT", "SOBI.D110201.T105849.TXT", "SOBI.D110110.T180137.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110106.T113706.TXT", "SOBI.D110113.T144414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T133403.TXT", "SOBI.D110106.T130219.TXT", "SOBI.D110201.T105849.TXT", "SOBI.D110201.T121850.TXT-agenda-1.xml", "SOBI.D110106.T123717.TXT", "SOBI.D110110.T180137.TXT", "SOBI.D110106.T113706.TXT", "SOBI.D110113.T144414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296575929839
+  "luceneModified" : 1296580730151
 }
