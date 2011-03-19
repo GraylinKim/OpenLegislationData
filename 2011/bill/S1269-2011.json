@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1264-2011",
+  "senateBillNo" : "S1269-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1264-2011-1294290000000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S1269-2011-1294290000000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Extends provisions of \"heart bill\" to deputy sheriff members of the NYCERS",
+  "title" : "Provides for the use of binding arbitration for certain represented members of the unified court system",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
   "sameAs" : null,
-  "lawSection" : "General Municipal Law",
+  "lawSection" : "Civil Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T121715.TXT", "SOBI.D110106.T122216.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T122216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294334536606
+  "luceneModified" : 1294334536614
 }

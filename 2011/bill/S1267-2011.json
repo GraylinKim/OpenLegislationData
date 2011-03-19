@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1264-2011",
+  "senateBillNo" : "S1267-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1264-2011-1294290000000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S1267-2011-1294290000000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Extends provisions of \"heart bill\" to deputy sheriff members of the NYCERS",
+  "title" : "Relates to the amount of dispensing fees paid to pharmacies in EPIC and Medicaid",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
-  "lawSection" : "General Municipal Law",
+  "lawSection" : "Elder Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T121715.TXT", "SOBI.D110106.T122216.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T122216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294334536606
+  "luceneModified" : 1294334536611
 }
