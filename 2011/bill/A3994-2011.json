@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3994-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to cities",
+    "billEventId" : "A3994-2011-1296536400000-referred+to+cities",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brennan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to docketing of decisions and orders of the administrative tribunal of the New York City taxi and limousine commission",
+  "summary" : "Relates to docketing of decisions and orders of the administrative tribunal of the New York City taxi and limousine commission. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City Charter",
+  "previousVersions" : [ "A11467-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the New York city charter, in relation to docketing of decisions and orders of the administrative tribunal of the New York city taxi and limousine commission ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T113846.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296578326647
+}

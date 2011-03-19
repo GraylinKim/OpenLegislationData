@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3992-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to cities",
+    "billEventId" : "A3992-2011-1296536400000-referred+to+cities",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brennan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the N.Y. city department of consumer affairs to adjudicate violations of the laws that it enforces pursuant to rules promulgated by its commissioner",
+  "summary" : "Authorizes the NYC department of consumer affairs to adjudicate violations of the laws that it enforces pursuant to rules promulgated by its commissioner; makes procedural provisions for service of notice of violation and entry of judgments; limits penalties; provides for the county clerks to docket the department's judgments in separate volumes. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "County Law",
+  "previousVersions" : [ "A4119-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the county law, the New York city charter and the administrative code of the city of New York, in relation to the adjudication of violations of laws enforced by the New York city department of consumer affairs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T113846.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296578326643
+}

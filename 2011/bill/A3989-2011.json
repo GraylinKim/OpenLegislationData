@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3989-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to cities",
+    "billEventId" : "A3989-2011-1296536400000-referred+to+cities",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brennan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires taxicabs in New York city to display the taxi and limousine commission's complaint telephone number on their rear bumpers; sets minimum insurance coverage",
+  "summary" : "Requires taxicabs in New York city to display the taxi and limousine commission's complaint telephone number on their rear bumpers; requires the commission to staff this telephone with a person from 8 to 9 a.m. and from 5 to 7 p.m.; requires a taxicab driver who receives five complaints in a three month period to undergo safety training; sets minimum liability insurance requirements for taxicabs and liveries. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : [ "A4121-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to liability insurance coverage for taxicabs and liveries, safety training for delinquent taxi drivers, and requiring taxis to display the taxi and limousine commission's complaint number on their bumpers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T113846.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296578326637
+}
