@@ -1,24 +1,45 @@
 {
   "year" : 2011,
   "senateBillNo" : "A1744-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A1744-2011-1294722000000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Includes certified nursing assistants in provisions of law relating to restrictions on consecutive hours of work",
+  "summary" : "Includes certified nursing assistants in provisions of law relating to restrictions on consecutive hours of work. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
-  "coSponsors" : null,
+  "sameAs" : "S159",
+  "lawSection" : "Labor Law",
+  "previousVersions" : [ "A10072-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         1744\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 11, 2011\n                                      ___________\n\n       Introduced  by M. of A. GUNTHER, WEISENBERG -- read once and referred to\n         the Committee on Labor\n\n       AN ACT to amend the labor law, in relation to including certified  nurs-\n         ing  assistants  in  provisions  of  law  relating  to restrictions on\n         consecutive hours of work\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Paragraph  b of subdivision 1 of section 167 of the labor\n    2  law, as added by chapter 493 of the laws of 2008, is amended and  a  new\n    3  paragraph d is added to read as follows:\n    4    b.  \"Nurse\"  shall  mean a registered professional nurse or a licensed\n    5  practical nurse as defined by article one  hundred  thirty-nine  of  the\n    6  education  law  who provides direct patient care, OR A CERTIFIED NURSING\n    7  ASSISTANT AS DEFINED IN THIS SUBDIVISION.\n    8    D. \"CERTIFIED NURSING ASSISTANT\" SHALL MEAN A PERSON WHO HAS  SUCCESS-\n    9  FULLY  COMPLETED  A  NURSE  AIDE  TRAINING  AND/OR COMPETENCY EVALUATION\n   10  PROGRAM ADMINISTERED BY THE DEPARTMENT OF  HEALTH  AND/OR  IS  CURRENTLY\n   11  LISTED IN THE NURSE AIDE REGISTRY.\n   12    S  2.  This  act shall take effect on the ninetieth day after it shall\n   13  have become a law.\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD00650-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the labor law, in relation to including certified nursing assistants in provisions of law relating to restrictions on consecutive hours of work ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T100454.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T112958.TXT", "SOBI.D110112.T100454.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294844694355
+  "luceneModified" : 1294849798291
 }
