@@ -1,0 +1,32 @@
+{
+  "id" : "commagenda-26-2009-2010",
+  "number" : 26,
+  "year" : 2010,
+  "addendums" : [ {
+    "id" : "-26-2009-2010",
+    "meetings" : [ {
+      "location" : "Room 124 CAP",
+      "id" : "meeting-Higher Education-26-2009-2010",
+      "bills" : [ ],
+      "votes" : null,
+      "meetingDateTime" : 1291735800000,
+      "committeeName" : "Higher Education",
+      "committee" : {
+        "name" : null,
+        "chair" : null
+      },
+      "meetday" : "Tuesday",
+      "notes" : "The committee will consider the following nominations:Alan M. Klinger, Member, Board of Trustees, Higher Education Services Corporation ",
+      "committeeChair" : "Toby Ann Stavisky",
+      "luceneActive" : true,
+      "luceneModified" : 0
+    } ],
+    "publicationDateTime" : 1291671546000,
+    "weekOf" : "2010-12-06",
+    "addendumId" : ""
+  } ],
+  "sessionYear" : 2009,
+  "sobiReferenceList" : [ "SOBI.D101206.T163922.TXT-agenda-1.xml" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291671562628
+}
