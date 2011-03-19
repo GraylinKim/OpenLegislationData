@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2570-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S2570-2011-1296018000000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Repeals provisions mandating payroll deductions from public employees who engage in prohibited strikes",
+  "summary" : null,
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
+  "sameAs" : null,
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T092738.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296052058931
+}
