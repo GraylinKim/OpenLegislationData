@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the monitoring of vehicular traffic speed by electronic toll collection systems operated by public authorities",
-  "summary" : null,
+  "summary" : "Relates to the monitoring of vehicular traffic speed by electronic toll collection systems operated by public authorities; prohibits the public authority from making such vehicle speed data available to any law enforcement personnel for the purposes of issuing a citation or traffic ticket. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Public Authorities Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4232-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T154119.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T154119.TXT", "SOBI.D110110.T161630.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294692079716
+  "luceneModified" : 1294694190632
 }

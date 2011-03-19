@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1617-2011",
+  "senateBillNo" : "S1641-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
     "eventText" : "REFERRED TO LABOR",
-    "billEventId" : "S1617-2011-1294635600000-REFERRED+TO+LABOR",
+    "billEventId" : "S1641-2011-1294635600000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits certain retaliatory personnel action by employers",
-  "summary" : "Prohibits retaliatory personnel action by an employer against an employee who discloses or threatens to disclose an activity, policy or practice of the employer or a fellow employee that is in violation of law; removes requirement that such violation of law present a substantial and specific danger to public health or safety. ",
+  "summary" : null,
   "currentCommittee" : "LABOR",
   "sameAs" : null,
   "lawSection" : "Labor Law",
-  "previousVersions" : [ "S61-2009" ],
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T154119.TXT", "SOBI.D110110.T161630.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T161630.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294694190648
+  "luceneModified" : 1294694190590
 }
