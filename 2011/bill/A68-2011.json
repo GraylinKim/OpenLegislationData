@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported",
+    "billEventId" : "A68-2011-1295931600000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "Latimer (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -102,7 +109,7 @@
   "actClause" : "AN ACT to amend the public officers law, in relation to limiting the amount of time to appeal certain judgments regarding freedom of information violations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T104432.TXT", "SOBI.D101216.T105913.TXT", "SOBI.D101216.T102403.TXT", "SOBI.D101216.T103411.TXT", "SOBI.D101217.T095929.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T104432.TXT", "SOBI.D101216.T105913.TXT", "SOBI.D101216.T102403.TXT", "SOBI.D101216.T103411.TXT", "SOBI.D110125.T124913.TXT", "SOBI.D101217.T095929.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292600672683
+  "luceneModified" : 1295977753257
 }
