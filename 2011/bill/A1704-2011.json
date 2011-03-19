@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1682-2011",
+  "senateBillNo" : "A1704-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A1682-2011-1294722000000-referred+to+housing",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1704-2011-1294722000000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,56 +13,70 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Jeffries",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to statutes of limitations based on notices of deregulation",
-  "summary" : "Relates to statutes of limitations based on notices of deregulation. ",
+  "title" : "Establishes a distinctive \"Pink Ribbon\" license plate and provides for the use of the service charge for breast cancer education and support",
+  "summary" : "Establishes a distinctive \"Pink Ribbon\" license plate for which there is an additional annual service charge of $25; establishes the \"breast cancer education and support fund\"; provides for disbursement of monies in such fund for community-based breast cancer education and support programs. ",
   "currentCommittee" : null,
-  "sameAs" : "S57",
-  "lawSection" : "New York City Administrative Code",
-  "previousVersions" : [ "A7598-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A9378-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "DenDekker",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -76,28 +90,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jaffee",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rosenthal",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "O'Donnell",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -106,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the administrative code of the city of New York and the emergency tenant protection act of nineteen seventy-four, in relation to the statute of limitations on notices of deregulation ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to establishing distinctive \"Pink Ribbon\" plates; and to amend the state finance law, in relation to establishing the \"breast cancer education and support fund\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T141713.TXT", "SOBI.D110111.T141212.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T141713.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294773433170
+  "luceneModified" : 1294773433168
 }

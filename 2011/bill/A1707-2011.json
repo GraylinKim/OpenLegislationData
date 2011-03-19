@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1682-2011",
+  "senateBillNo" : "A1707-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A1682-2011-1294722000000-referred+to+housing",
+    "eventText" : "referred to education",
+    "billEventId" : "A1707-2011-1294722000000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,70 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Jeffries",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to statutes of limitations based on notices of deregulation",
-  "summary" : "Relates to statutes of limitations based on notices of deregulation. ",
+  "title" : "Provides that regulatory mandates imposed upon a school district shall not take effect until the subsequent school year",
+  "summary" : "Provides that regulatory mandates imposed upon a school district shall not take effect until the subsequent school year. ",
   "currentCommittee" : null,
-  "sameAs" : "S57",
-  "lawSection" : "New York City Administrative Code",
-  "previousVersions" : [ "A7598-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A6383-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Kellner",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lancman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Colton",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -90,14 +55,42 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Sayward",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "O'Donnell",
+    "fullname" : "Tobacco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McKevitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Corwin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -106,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the administrative code of the city of New York and the emergency tenant protection act of nineteen seventy-four, in relation to the statute of limitations on notices of deregulation ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T141713.TXT", "SOBI.D110111.T141212.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T141713.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294773433170
+  "luceneModified" : 1294773433176
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Expands the authority of the supreme court to hear election case disputes",
-  "summary" : null,
+  "summary" : "Expands the authority of the supreme court to hear disputes relating to proceedings involving special and general elections. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A631-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to the jurisdiction of the supreme court to hear cases involving disputed results of general and special elections ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T140712.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T140712.TXT", "SOBI.D110111.T141713.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294772832769
+  "luceneModified" : 1294773433226
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1682-2011",
+  "senateBillNo" : "A1705-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A1682-2011-1294722000000-referred+to+housing",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1705-2011-1294722000000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,56 +13,56 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Jeffries",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to statutes of limitations based on notices of deregulation",
-  "summary" : "Relates to statutes of limitations based on notices of deregulation. ",
+  "title" : "Establishes distinctive \"I love NYS parks\" license plates and \"New York state park revolving fund\"",
+  "summary" : "Establishes distinctive \"I love NYS parks\" license plates and \"New York state parks revolving fund.\" ",
   "currentCommittee" : null,
-  "sameAs" : "S57",
-  "lawSection" : "New York City Administrative Code",
-  "previousVersions" : [ "A7598-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A10064-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Weisenberg",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -76,28 +76,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "O'Donnell",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -106,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the administrative code of the city of New York and the emergency tenant protection act of nineteen seventy-four, in relation to the statute of limitations on notices of deregulation ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to establishing distinctive \"I love NYS parks\" license plates; and to amend the state finance law, in relation to establishing the New York state parks revolving fund ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T141713.TXT", "SOBI.D110111.T141212.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T141713.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294773433170
+  "luceneModified" : 1294773433172
 }
