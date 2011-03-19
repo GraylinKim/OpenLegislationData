@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A341-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A341-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the imposition, at local option, of a probation administrative fee upon persons on probation for a crime of domestic violence",
+  "summary" : "Authorizes a county probation service or the probation services of New York city to impose a probation administrative fee upon any person convicted of a domestic violence crime and sentenced to probation to pay for the cost of such person's probation, not in excess of thirty dollars per month or actual expenses, whichever is less. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A804-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to imposing a probation administrative fee upon persons sentenced to probation following convictions for crimes of domestic violence ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292861302857
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S402-2011",
+  "senateBillNo" : "S405-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S402-2011-1294203600000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
+    "billEventId" : "S405-2011-1294203600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires notice to adjoining owners of construction, excavation or demolition work",
+  "title" : "Requires the prosecution of juveniles, who are under the age of eighteen and who commit family offenses against his or her parent or legal guardian, under article VI",
   "summary" : null,
-  "currentCommittee" : "CITIES",
+  "currentCommittee" : "CHILDREN AND FAMILIES",
   "sameAs" : null,
-  "lawSection" : "New York City Administrative Code",
+  "lawSection" : "Family Court Act",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT", "SOBI.D101220.T110321.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292861302831
+  "luceneModified" : 1292861302851
 }

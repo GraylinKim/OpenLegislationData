@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S402-2011",
+  "senateBillNo" : "S409-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S402-2011-1294203600000-REFERRED+TO+CITIES",
+    "billEventId" : "S409-2011-1294203600000-REFERRED+TO+CITIES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires notice to adjoining owners of construction, excavation or demolition work",
+  "title" : "Enacts the New York city department of buildings community accountability act",
   "summary" : null,
   "currentCommittee" : "CITIES",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT", "SOBI.D101220.T110321.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292861302831
+  "luceneModified" : 1292861302870
 }

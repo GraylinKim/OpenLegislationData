@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S402-2011",
+  "senateBillNo" : "S404-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S402-2011-1294203600000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S404-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires notice to adjoining owners of construction, excavation or demolition work",
+  "title" : "Exempts monthly assessments due from certain residential health facilities from interest or penalties for any period prior to October 1, 2012",
   "summary" : null,
-  "currentCommittee" : "CITIES",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "New York City Administrative Code",
+  "lawSection" : "Public Health",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT", "SOBI.D101220.T110321.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292861302831
+  "luceneModified" : 1292861302847
 }
