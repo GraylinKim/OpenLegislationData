@@ -24,7 +24,14 @@
   "sameAs" : null,
   "lawSection" : "Alcoholic Beverage Control Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "VALESKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T102704.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T102704.TXT", "SOBI.D110202.T103205.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296660424495
+  "luceneModified" : 1296660725649
 }
