@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1798-2011",
+  "senateBillNo" : "A1898-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S1798-2011-1294808400000-REFERRED+TO+INSURANCE",
+    "eventText" : "referred to cities",
+    "billEventId" : "A1898-2011-1294808400000-referred+to+cities",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,82 +13,75 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for accelerated payment of a death benefit rider on life insurance policies",
-  "summary" : "Provides for an accelerated death benefit rider on life insurance policies. ",
-  "currentCommittee" : "INSURANCE",
+  "title" : "Provides that appearance enhancement businesses in the city of New York shall be maintained and operated in accordance with the provisions of the city health code",
+  "summary" : "Provides that appearance enhancement businesses in the city of New York shall be maintained and operated in accordance with the provisions of the city health code. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
-  "previousVersions" : [ "SB1981-2009" ],
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A1500-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADDABBO",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "Meng",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Barron",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "Towns",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   } ],
-  "pastCommittees" : [ "INSURANCE" ],
+  "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to accelerated payment of the death benefit rider under a life insurance policy ",
+  "actClause" : "AN ACT to amend the general business law, in relation to the regulation of appearance enhancement businesses in the city of New York ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T140509.TXT", "SOBI.D110112.T144512.TXT", "SOBI.D110112.T141010.TXT", "SOBI.D110112.T150519.TXT", "SOBI.D110112.T143512.TXT", "SOBI.D110112.T140009.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T150519.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294862719316
+  "luceneModified" : 1294862719334
 }

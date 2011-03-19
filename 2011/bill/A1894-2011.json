@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1894-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1894-2011-1294808400000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the court to order sexual offenders on probation to terms of imprisonment which run consecutively to sentences already being served",
+  "summary" : "Authorizes the court to order sexual offenders on probation, where such probation has been revoked, to terms of imprisonment which run consecutively to sentences already being served. ",
+  "currentCommittee" : null,
+  "sameAs" : "S487",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A2237-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to consecutive sentences for sexual offenders on probation ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T150519.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294862719325
+}

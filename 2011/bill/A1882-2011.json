@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1882-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1882-2011-1294808400000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the crime of unlawful defilement of a water supply",
+  "summary" : "Creates the crime of unlawful defilement of a water supply; provides that a person is guilty of such crime when he introduces, places, or causes to be introduced or placed a defiling agent into a water supply; makes definitions; establishes such crime as a class B felony. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1074",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A2170-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to unlawful defilement of a water supply ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T150519.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294862719298
+}

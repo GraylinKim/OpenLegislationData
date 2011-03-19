@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1895-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1895-2011-1294808400000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires investigating officers to field test and test blood alcohol levels of all drivers involved in auto accidents where serious physical injury or death occur",
+  "summary" : "Requires investigating officers to field test and test blood alcohol levels of all drivers involved in auto accidents where serious physical injury or death occur; imposes rebuttable presumption of guilt for refusals; requires hospital to conduct such test where trauma/injury is considered too severe. ",
+  "currentCommittee" : null,
+  "sameAs" : "S562",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A2092-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lifton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring breathalyzer tests of drivers involved in accidents causing serious physical injury or death ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T150519.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294862719328
+}
