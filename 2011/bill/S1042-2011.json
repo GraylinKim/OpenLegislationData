@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1031-2011",
+  "senateBillNo" : "S1042-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S1031-2011-1294203600000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1042-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,37 +18,51 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires insurers to provide victims of domestic violence with the option of providing alternative contact information",
+  "title" : "Relates to the crime of unauthorized use of a motor vehicle",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "HUNTLEY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SQUADRON",
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SMITH",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law and the public health law, in relation to allowing victims of domestic violence the opportunity to designate an alternate address for insurance claims or billing purposes ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T153013.TXT", "SOBI.D110104.T151011.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T153013.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294173013186
+  "luceneModified" : 1294173013157
 }
