@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S515-2011",
+  "senateBillNo" : "S516-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S515-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S516-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,27 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates stricter fines and criminal penalties for passing a stopped school bus",
+  "title" : "Authorizes county clerks to retain a portion of fees collected for motor vehicle related services",
   "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "HANNON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "JOHNSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -46,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T110608.TXT", "SOBI.D101221.T111609.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T111609.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292948169134
+  "luceneModified" : 1292948169137
 }
