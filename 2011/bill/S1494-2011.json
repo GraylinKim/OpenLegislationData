@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires lending institutions that send unsolicited mail-loan checks to clearly state the interest rate and the total cost of loan in a dollar amount",
-  "summary" : null,
+  "summary" : "Requires lending institutions that send unsolicited mail-loan checks to clearly state in solicitation letter the interest rate to be applied to such loan and to demonstrate the total cost of loan in a dollar amounts, at interest rate, over periods of six months, one year, and three years. ",
   "currentCommittee" : "BANKS",
   "sameAs" : null,
   "lawSection" : "Banking Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2285-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the banking law, in relation to full disclosure of interest rate on unsolicited mail-loan checks ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T153916.TXT", "SOBI.D110107.T160417.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T161918.TXT", "SOBI.D110107.T153916.TXT", "SOBI.D110107.T160417.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294434257357
+  "luceneModified" : 1294435158788
 }

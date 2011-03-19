@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Facilitates absentee voting in local jails and designates several agencies as assisting agencies for voter registration purposes",
-  "summary" : null,
+  "summary" : "Facilitates absentee voting in local correctional facilities and designates the division of probation, the department of correctional services, and the division of parole as assisting agencies for voter registration purposes. ",
   "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
   "lawSection" : "Correction Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1707-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the correction law and the election law, in relation to absentee voting by eligible inmates of local correctional facilities and designating certain agencies as assisting agencies for voter registration ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T153916.TXT", "SOBI.D110107.T160417.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T161918.TXT", "SOBI.D110107.T153916.TXT", "SOBI.D110107.T160417.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294434257382
+  "luceneModified" : 1294435158785
 }
