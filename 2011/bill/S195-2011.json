@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires a principal creditor to send a notice of delinquency to the debtor and co-signer of an account",
-  "summary" : null,
+  "summary" : "Requires a principal creditor to send a notice of delinquency to the debtor and co-signer of an account. ",
   "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2538-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to notice of delinquency requirements ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101210.T164208.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161216.TXT", "SOBI.D101213.T091758.TXT", "SOBI.D101210.T164208.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292017328818
+  "luceneModified" : 1292249878028
 }
