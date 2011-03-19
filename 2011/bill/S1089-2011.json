@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1066-2011",
+  "senateBillNo" : "S1089-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S1066-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "billEventId" : "S1089-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the Energy Research and Development Authority to do a study as to a comprehensive energy plan for the downstate region of the state",
-  "summary" : "Directs the Energy Research and Development Authority to do a study as to a comprehensive energy plan for the downstate region of the state. ",
+  "title" : "Provides a tax exemption from sales and compensating use taxes on alternative energy systems",
+  "summary" : null,
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "SA1785-2009" ],
+  "lawSection" : "Tax Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "BONACIC",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BRESLIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,28 +48,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "KRUEGER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "KRUGER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -76,7 +62,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -87,15 +80,22 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "VALESKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public authorities law, in relation to directing the New York state energy research and development authority to conduct a study related to a comprehensive energy plan for the downstate region of the state ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T105108.TXT", "SOBI.D110105.T091556.TXT", "SOBI.D110105.T104608.TXT", "SOBI.D110105.T104107.TXT", "SOBI.D110105.T091055.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T105108.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294242668550
+  "luceneModified" : 1294242668552
 }

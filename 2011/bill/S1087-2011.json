@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1064-2011",
+  "senateBillNo" : "S1087-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S1064-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "billEventId" : "S1087-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the New York state energy research and development authority to develop a temporary middle income home energy assistance program",
-  "summary" : "Authorizes the New York state energy research and development authority to develop, implement, administer and operate a temporary middle income home energy assistance program. ",
+  "title" : "Authorizes the power authority of the state of New York to provide low-cost electric power to Broadway, off-Broadway and off-off-Broadway theaters",
+  "summary" : null,
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
   "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "S2457-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public authorities law, in relation to authorizing the New York state energy research and development authority to develop a temporary middle income home energy assistance program and providing for the repeal of such provisions upon expiration thereof ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T105108.TXT", "SOBI.D110105.T104107.TXT", "SOBI.D110105.T091055.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T105108.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294242668559
+  "luceneModified" : 1294242668538
 }
