@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1028-2011",
+  "senateBillNo" : "S1029-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S1028-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1029-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires certain persons to report financial exploitation of the elderly; repealer",
+  "title" : "Establishes the office of risk assessment and management within the office of general services",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ADDABBO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T151011.TXT", "SOBI.D110104.T150512.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T151011.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294171811838
+  "luceneModified" : 1294171811840
 }

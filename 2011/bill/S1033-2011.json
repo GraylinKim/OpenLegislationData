@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1028-2011",
+  "senateBillNo" : "S1033-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S1028-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S1033-2011-1294203600000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires certain persons to report financial exploitation of the elderly; repealer",
+  "title" : "Requires pharmacies to post notice of the professional misconduct complaint process",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T151011.TXT", "SOBI.D110104.T150512.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T151011.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294171811838
+  "luceneModified" : 1294171811860
 }
