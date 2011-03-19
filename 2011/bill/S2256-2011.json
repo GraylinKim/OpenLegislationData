@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2227-2011",
+  "senateBillNo" : "S2256-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2227-2011-1295326800000-REFERRED+TO+CODES",
+    "billEventId" : "S2256-2011-1295326800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalty for witness and jury tampering",
-  "summary" : "Increases the penalties for witness and jury tampering from a class D felony to a class C felony. ",
+  "title" : "Relates to protecting minors from exposure to obscene materials",
+  "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : [ "S208-2009" ],
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to increasing the penalty for witness and jury tampering ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T135641.TXT", "SOBI.D110118.T133136.TXT", "SOBI.D110118.T134639.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T135641.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295377001292
+  "luceneModified" : 1295377001275
 }
