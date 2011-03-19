@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S764-2011",
+  "senateBillNo" : "A593-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S764-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "referred to health",
+    "billEventId" : "A593-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,63 +13,56 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits two or more contiguous towns to jointly purchase highway equipment",
-  "summary" : "Permits two or more contiguous towns to jointly purchase highway equipment. ",
-  "currentCommittee" : "TRANSPORTATION",
+  "title" : "Extends the protections of the medical exemption from mandatory immunizations for students",
+  "summary" : "Extends the protections of the medical exemption from mandatory immunizations for students to ensure deference to the professional assessments of physicians and nurse practitioners in the care of their individual patients. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Highway Law",
-  "previousVersions" : [ "S3417-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A880-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "Cymbrowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "Rivera N",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the highway law, in relation to permitting two or more towns to jointly purchase highway equipment ",
+  "actClause" : "AN ACT to amend the public health law, in relation to the medical exemption from mandatory immunizations for students ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T145243.TXT", "SOBI.D101230.T123228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294070962687
+  "luceneModified" : 1294070962688
 }

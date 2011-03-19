@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the highway law, in relation to directing the commissioner of transportation, upon a finding that a bridge has consistent structural defects and/or safety concerns, to establish and implement an emergency plan for the drivers and the communities affected by the closure of such bridge ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T151257.TXT", "SOBI.D101222.T093824.TXT", "SOBI.D101222.T092823.TXT", "SOBI.D101222.T092323.TXT", "SOBI.D101222.T094824.TXT", "SOBI.D101223.T121603.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D101230.T151257.TXT", "SOBI.D101222.T093824.TXT", "SOBI.D101222.T092823.TXT", "SOBI.D101222.T092323.TXT", "SOBI.D101223.T121603.TXT", "SOBI.D101222.T094824.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293739977732
+  "luceneModified" : 1294070962671
 }

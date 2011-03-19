@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to aggravated sexual offenses; and to amend the criminal procedure law, in relation to youthful offender status ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T142740.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T122228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T142740.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T122228.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293737260965
+  "luceneModified" : 1294070962684
 }

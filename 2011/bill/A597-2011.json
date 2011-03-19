@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S746-2011",
+  "senateBillNo" : "A597-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S746-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "referred to health",
+    "billEventId" : "A597-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,70 +13,70 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the offenses of promoting and possessing a sex offense against a child",
-  "summary" : "Establishes the class B felony of promoting a sex offense against a child for producing, directing or promoting any visual or audio representation of the commission of a sex offense against a person under the age of 16 years; establishes the class C felony of possessing a sex offense against a child for knowingly possessing any such representation; designates both such felonies as violent felony offenses. ",
-  "currentCommittee" : "CODES",
+  "title" : "Prohibits smoking on platforms of the Long Island and Metro North railroads",
+  "summary" : "Prohibits smoking on platforms of the Long Island and Metro North railroads. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : [ "S3411-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "AA10500-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
+    "fullname" : "Miller M",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "NOZZOLIO",
+    "fullname" : "Weprin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "Markey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -85,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to establishing the offenses of promoting and possessing a sex offense against a child ",
+  "actClause" : "AN ACT to amend the public health law, in relation to prohibiting smoking on platforms of the Long Island and Metro North railroads ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T121227.TXT", "SOBI.D101230.T143740.TXT", "SOBI.D101230.T121727.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294070962677
+  "luceneModified" : 1294070962698
 }

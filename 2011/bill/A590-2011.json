@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S746-2011",
+  "senateBillNo" : "A590-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S746-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "referred to health",
+    "billEventId" : "A590-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,70 +13,70 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the offenses of promoting and possessing a sex offense against a child",
-  "summary" : "Establishes the class B felony of promoting a sex offense against a child for producing, directing or promoting any visual or audio representation of the commission of a sex offense against a person under the age of 16 years; establishes the class C felony of possessing a sex offense against a child for knowingly possessing any such representation; designates both such felonies as violent felony offenses. ",
-  "currentCommittee" : "CODES",
+  "title" : "Prohibits disclosure of testimony of a party to a health care quality assurance or peer review proceeding",
+  "summary" : "Prohibits the disclosure and discovery of the testimony of a party to a health care quality assurance or peer review proceeding; further adds the failure to cooperate and participate in the quality assurance, reporting, activities, requirements and procedures covered under such discovery to the definition of professional misconduct. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : [ "S3411-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A1596-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "NOZZOLIO",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -85,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to establishing the offenses of promoting and possessing a sex offense against a child ",
+  "actClause" : "AN ACT to amend the public health law and the education law, in relation to quality assurance and peer review activities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T121227.TXT", "SOBI.D101230.T143740.TXT", "SOBI.D101230.T121727.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294070962677
+  "luceneModified" : 1294070962678
 }

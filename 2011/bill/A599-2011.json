@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S746-2011",
+  "senateBillNo" : "A599-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S746-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A599-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,70 +13,77 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "Magnarelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the offenses of promoting and possessing a sex offense against a child",
-  "summary" : "Establishes the class B felony of promoting a sex offense against a child for producing, directing or promoting any visual or audio representation of the commission of a sex offense against a person under the age of 16 years; establishes the class C felony of possessing a sex offense against a child for knowingly possessing any such representation; designates both such felonies as violent felony offenses. ",
-  "currentCommittee" : "CODES",
+  "title" : "Creates the technology commercialization partnership program and removes the incentive program from the research development program",
+  "summary" : "Creates the technology commercialization partnership program and removes the incentive program from the research development program. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : [ "S3411-2009" ],
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "AA9469-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "NOZZOLIO",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -85,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to establishing the offenses of promoting and possessing a sex offense against a child ",
+  "actClause" : "AN ACT to amend the public authorities law and the executive law, in relation to creating the technology commercialization partnership program and removing the incentive program from the research development program ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T121227.TXT", "SOBI.D101230.T143740.TXT", "SOBI.D101230.T121727.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294070962677
+  "luceneModified" : 1294070962701
 }

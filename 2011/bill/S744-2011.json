@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the correction law, in relation to authorizing employment by not-for-profit organizations and public service projects under the work release program ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T131731.TXT", "SOBI.D101230.T121227.TXT", "SOBI.D101230.T143740.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T121227.TXT", "SOBI.D101230.T143740.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293737860118
+  "luceneModified" : 1294070962676
 }

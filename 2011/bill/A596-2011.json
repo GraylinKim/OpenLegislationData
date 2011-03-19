@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S764-2011",
+  "senateBillNo" : "A596-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S764-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A596-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,63 +13,63 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits two or more contiguous towns to jointly purchase highway equipment",
-  "summary" : "Permits two or more contiguous towns to jointly purchase highway equipment. ",
-  "currentCommittee" : "TRANSPORTATION",
+  "title" : "Requires the MTA to renegotiate the joint service operating agreement with the state of Connecticut",
+  "summary" : "Requires the MTA to renegotiate the joint service operating agreement with the State of Connecticut; eliminates the metropolitan commuter transportation tax imposed on the residents of Dutchess, Orange, Putnam and Rockland counties. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Highway Law",
-  "previousVersions" : [ "S3417-2009" ],
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A9479-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "Rabbitt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "Calhoun",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "Molinaro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the highway law, in relation to permitting two or more towns to jointly purchase highway equipment ",
+  "actClause" : "AN ACT to amend the public authorities law and the tax law, in relation to requiring the metropolitan transportation authority to renegotiate the joint service operating agreement with the state of Connecticut ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T145243.TXT", "SOBI.D101230.T123228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294070962687
+  "luceneModified" : 1294070962696
 }
