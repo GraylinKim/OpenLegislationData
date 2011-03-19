@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1016-2011",
+  "senateBillNo" : "S1017-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1016-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S1017-2011-1294203600000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires schools to provide instruction on the history of the Ukrainian genocide-holodomor of 1932 through 1933",
+  "title" : "Provides for designation of agency on aging in city of Yonkers",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Elder Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T142027.TXT", "SOBI.D110104.T143009.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T143009.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294169409270
+  "luceneModified" : 1294169409273
 }
