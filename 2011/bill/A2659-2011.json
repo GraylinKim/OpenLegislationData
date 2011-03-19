@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2659-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A2659-2011-1295413200000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes certain people to get married within twenty-four hours of receiving a marriage license",
+  "summary" : "Authorizes certain military personnel to get married within twenty-four hours of receiving a marriage license. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Domestic Relations Law",
+  "previousVersions" : [ "A1893-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the domestic relations law, in relation to allowing marriages within twenty-four hours of receiving a marriage license ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T155323.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295470403482
+}

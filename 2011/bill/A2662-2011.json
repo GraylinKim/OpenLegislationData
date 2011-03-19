@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2662-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2662-2011-1295413200000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the environmental control board to adjudicate disputes between adjoining real property owners over the blocking of a driveway in the city of New York",
+  "summary" : "Authorizes the environmental control board to adjudicate disputes between adjoining real property owners over the blocking of a driveway, the ownership or use of which is shared by such adjoining owners in the city of New York; further appoints another hearing officer to the board who shall be an attorney; defines the term \"blocking\". ",
+  "currentCommittee" : null,
+  "sameAs" : "S690",
+  "lawSection" : "New York City Charter",
+  "previousVersions" : [ "A8054-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the New York city charter, the vehicle and traffic law and the administrative code of the city of New York, in relation to the \"open driveway act\" regarding the environmental control board adjudication of disputes concerning the blocking of a driveway; and providing for the repeal of such provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T155323.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295470403491
+}
