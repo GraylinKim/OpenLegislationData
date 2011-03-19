@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2822-2011",
+  "senateBillNo" : "S2824-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
-    "billEventId" : "S2822-2011-1296622800000-REFERRED+TO+COMMERCE%2C+ECONOMIC+DEVELOPMENT+AND+SMALL+BUSINESS",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S2824-2011-1296622800000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,34 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a small business energy assistance and advocacy services program",
+  "title" : "Establishes a maximum temperature in school buildings and indoor facilities",
   "summary" : null,
-  "currentCommittee" : "COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Economic Development Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ADAMS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ADDABBO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "ESPAILLAT",
@@ -48,13 +69,6 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "OPPENHEIMER",
     "branch" : null,
     "contactInfo" : null,
@@ -62,14 +76,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "PERKINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "VALESKY",
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +95,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T100203.TXT", "SOBI.D110202.T095703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T100203.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296658923600
+  "luceneModified" : 1296658923614
 }
