@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1971-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1971-2011-1294808400000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Limits evictions in summary proceedings in certain cases where a complaint is registered with a local rent office",
+  "summary" : "Prohibits evictions for non-payment of rent in summary proceedings where a tenant of a multiple dwelling with 6 or more units has registered a complaint with a local rent office unless the court or local rent office has found that such complaint was without merit or the grounds for the complaint no longer exist or the court finds that rent should have been paid notwithstanding such complaint; provides that court may order eviction if it finds the complaint was made frivolously or with intent to defraud. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1220",
+  "lawSection" : "Real Property Actions and Proceedings Law",
+  "previousVersions" : [ "A191-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Glick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to evictions from multiple dwellings ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T155522.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294865722603
+}

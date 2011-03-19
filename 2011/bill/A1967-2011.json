@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1967-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A1967-2011-1294808400000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to protecting homeless children from lead paint poisoning",
+  "summary" : "Relates to protecting homeless children from lead paint poisoning; bars discrimination in the leasing of rental property against families receiving public assistance or governmental housing subsidies. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1391",
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A6075-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law and the real property law, in relation to protecting homeless children from lead paint poisoning ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T155522.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294865722597
+}
