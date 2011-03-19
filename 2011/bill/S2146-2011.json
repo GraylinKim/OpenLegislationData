@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2084-2011",
+  "senateBillNo" : "S2146-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2084-2011-1295326800000-REFERRED+TO+CODES",
+    "billEventId" : "S2146-2011-1295326800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to bias related criminal activity",
+  "title" : "Includes possession of armor piercing, frangible or devastator ammunition as criminal possession of a weapon",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law and the criminal procedure law, in relation to bias related crime ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T110118.TXT", "SOBI.D110118.T095613.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T110118.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295366478629
+  "luceneModified" : 1295366478608
 }
