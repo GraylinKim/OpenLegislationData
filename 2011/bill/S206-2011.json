@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S181-2011",
+  "senateBillNo" : "S206-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO LABOR",
-    "billEventId" : "S181-2011-1294203600000-REFERRED+TO+LABOR",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S206-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the New York state nursing shortage correction act",
+  "title" : "Abolishes the market clearing price",
   "summary" : null,
-  "currentCommittee" : "LABOR",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Labor Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the labor law and the state finance law, in relation to enacting the New York state nursing shortage correction act ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T161708.TXT", "SOBI.D101210.T155705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T161708.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015828482
+  "luceneModified" : 1292015828511
 }
