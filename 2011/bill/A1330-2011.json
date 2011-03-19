@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1330-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1330-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castelli",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates an exemption from civil liability for any person who renders emergency medical care during a state declaration of disaster emergency",
+  "summary" : "Creates an exemption from civil liability for causing the death or injury of any person, or damage to any property, for any person who renders emergency medical care during a state declaration of disaster emergency. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A10455-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to providing an exemption from civil liability for any person who renders emergency medical care during a state declaration of disaster emergency ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T143426.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294428866948
+}

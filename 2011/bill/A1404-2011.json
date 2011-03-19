@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1451-2011",
+  "senateBillNo" : "A1404-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1451-2011-1294376400000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A1404-2011-1294376400000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,15 +13,15 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Grants the power of site plan review to towns and villages over railroad facilities of the MTA",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
-  "sameAs" : "A1404",
+  "currentCommittee" : null,
+  "sameAs" : "S1451",
   "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the public authorities law, in relation to granting the power of site plan review to towns and villages over railroad facilities of the metropolitan transportation authority ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T135905.TXT", "SOBI.D110107.T143426.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T143426.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294428866002
+  "luceneModified" : 1294428866947
 }

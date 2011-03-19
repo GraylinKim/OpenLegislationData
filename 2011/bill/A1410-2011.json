@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1401-2011",
+  "senateBillNo" : "A1410-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "referred to correction",
-    "billEventId" : "A1401-2011-1294376400000-referred+to+correction",
+    "eventText" : "referred to health",
+    "billEventId" : "A1410-2011-1294376400000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires inmates to have an acceptable residence to qualify for parole",
+  "title" : "Relates to personal watercraft and certain safety provisions that require their use",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S1448",
-  "lawSection" : "Executive Law",
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to requiring inmates to have an acceptable residence to qualify for parole ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T142908.TXT", "SOBI.D110107.T143426.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T143426.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294428866969
+  "luceneModified" : 1294428866998
 }

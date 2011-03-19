@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1449-2011",
+  "senateBillNo" : "A1402-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
-    "billEventId" : "S1449-2011-1294376400000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
+    "eventText" : "referred to correction",
+    "billEventId" : "A1402-2011-1294376400000-referred+to+correction",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,15 +13,15 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Requires school districts, upon notification from law enforcement agencies, to notify residents of sex offenders living in the district",
   "summary" : null,
-  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
-  "sameAs" : "A1402",
+  "currentCommittee" : null,
+  "sameAs" : "S1449",
   "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the correction law, in relation to required notification by school districts of sex offender residence; and to amend the education law, in relation to apportionment to school districts for certain expenses related to sex offender notification ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T135905.TXT", "SOBI.D110107.T143426.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T143426.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294428866981
+  "luceneModified" : 1294428866933
 }
