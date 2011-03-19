@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295964000000S193-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295964000000,
+    "ayes" : [ "Grisanti", "Johnson", "Little", "Marcellino", "Maziarz", "O'Mara", "Gallivan", "Young", "Avella", "Espaillat", "Oppenheimer", "Perkins", "Stewart-Cousins" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Serrano" ],
+    "description" : "Environmental Conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -111,12 +124,12 @@
   } ],
   "pastCommittees" : [ "ENVIRONMENTAL CONSERVATION" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          193\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by Sens. MAZIARZ, ALESI, BONACIC, DeFRANCISCO, GRIFFO, JOHN-\n         SON, LANZA, LARKIN, LITTLE,  NOZZOLIO,  RANZENHOFER,  SALAND  --  read\n         twice  and  ordered  printed,  and when printed to be committed to the\n         Committee on Environmental Conservation\n\n       AN ACT to amend the  environmental  conservation  law,  in  relation  to\n         providing  for  lifetime  sportsman  license for honorably discharged,\n         disabled veterans\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Subdivision  1  of  section  11-0702 of the environmental\n    2  conservation law, as amended by chapter 507 of  the  laws  of  2010,  is\n    3  amended to read as follows:\n    4    1.  There  are hereby created the following lifetime hunting, fishing,\n    5  trapping, archery and muzzle-loading licenses and fees therefor  subject\n    6  to  the  same  privileges  and  obligations  of  a comparable short term\n    7  license:\n\n    8               Licenses                               Fees\n    9        a. Lifetime sportsman\n   10       license and turkey\n   11       permit. If purchased,\n   12       for a  child four years\n   13       of age or younger                              $380.00\n\n   14        for a child age five through\n   15       eleven years of age                            $535.00\n\n   16        for a person age twelve through\n   17       sixty-nine years of age                        $765.00\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD01348-01-1\n\n       S. 193                              2\n\n    1        for a person age seventy\n    2        and over[.]                                   $65.00\n\n    3        FOR A PERSON WHO HAS BEEN\n    4       HONORABLY DISCHARGED FROM\n    5       SERVICE IN THE ARMED FORCES OF THE\n    6       UNITED STATES AND IS CERTIFIED\n    7       AS HAVING A FORTY-PERCENT OR\n    8       GREATER SERVICE-CONNECTED DISABILITY.           $ 20.00\n\n    9        b. Lifetime small and\n   10       big game license.                              $535.00\n\n   11        c. Lifetime fishing\n   12       license for a person age\n   13       sixty-nine or younger.                         $460.00\n\n   14        d. Lifetime fishing license\n   15       for a person age seventy\n   16       and over.                                      $ 65.00\n\n   17        e. Lifetime trapping\n   18       license.                                       $395.00\n\n   19        f. Lifetime archery\n   20       stamp.                                         $235.00\n\n   21        g. Lifetime muzzle-\n   22       loading stamp.                                 $235.00\n\n   23        h. Lifetime recreational\n   24       marine fishing license.                        $150.00\n\n   25        i. Lifetime combination fishing\n   26       and recreational marine fishing\n   27       license.                                       $450.00\n\n   28        j. For transfer to a person pursuant\n   29       to section 11-0704 of this title.               $50.00\n\n   30    The holder of a lifetime small and big game license or fishing license\n   31  may,  at  any time, convert such license to a lifetime sportsman license\n   32  and turkey permit for an additional fee equal to the existing  differen-\n   33  tial.\n   34    S  2.  This  act  shall  take  effect on the same date and in the same\n   35  manner as section 3 of chapter 507 of the laws of 2010, takes effect.\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to providing for lifetime sportsman license for honorably discharged, disabled veterans ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T102403.TXT", "SOBI.D101210.T161216.TXT", "SOBI.D101213.T091758.TXT", "SOBI.D101214.T111131.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D101210.T164208.TXT", "SOBI.D101214.T111632.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T102403.TXT", "SOBI.D101210.T161216.TXT", "SOBI.D101213.T091758.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D101214.T111131.TXT", "SOBI.D110126.T114750.TXT-agenda-2.xml", "SOBI.D101210.T164208.TXT", "SOBI.D101214.T111632.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295969043254
+  "luceneModified" : 1296060470979
 }

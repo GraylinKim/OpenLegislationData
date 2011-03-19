@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295964000000S1683-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295964000000,
+    "ayes" : [ "Grisanti", "Johnson", "Little", "Marcellino", "Maziarz", "O'Mara", "Gallivan", "Young", "Avella", "Oppenheimer", "Stewart-Cousins" ],
+    "nays" : [ "Espaillat", "Serrano" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Perkins" ],
+    "description" : "Environmental Conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -39,7 +52,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to allowing the use of rifles for hunting in Cortland county ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T125203.TXT", "SOBI.D110111.T130704.TXT", "SOBI.D110111.T132207.TXT", "SOBI.D110111.T131206.TXT", "SOBI.D110111.T165725.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110125.T134918.TXT", "SOBI.D110111.T124703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T125203.TXT", "SOBI.D110111.T132207.TXT", "SOBI.D110111.T130704.TXT", "SOBI.D110126.T114750.TXT-agenda-2.xml", "SOBI.D110111.T131206.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110111.T165725.TXT", "SOBI.D110111.T124703.TXT", "SOBI.D110125.T134918.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295981358392
+  "luceneModified" : 1296060470996
 }

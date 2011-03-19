@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295964000000S656-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295964000000,
+    "ayes" : [ "Grisanti", "Johnson", "Little", "Marcellino", "Maziarz", "O'Mara", "Gallivan", "Young", "Avella", "Espaillat", "Oppenheimer", "Perkins", "Serrano", "Stewart-Cousins" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Environmental Conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -34,12 +47,12 @@
   "coSponsors" : null,
   "pastCommittees" : [ "ENVIRONMENTAL CONSERVATION" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          656\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sen. VALESKY -- read twice and ordered printed, and when\n         printed to be committed to the Committee on Environmental Conservation\n\n       AN ACT to amend the environmental conservation law, in relation to fish-\n         ing events as rehabilitation for members of the  United  States  armed\n         forces\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Subdivision 16 of  section  11-0305  of  the  environmental\n    2  conservation  law,  as  added  by chapter 292 of the laws of 1996 and as\n    3  renumbered by section 2 of part F of chapter 82 of the laws of 2002,  is\n    4  amended to read as follows:\n    5    16. Notwithstanding any inconsistent provision of law, to authorize no\n    6  more than four free sport fishing clinics in each year for each separate\n    7  administrative  region  of the department, provided however that nothing\n    8  in this subdivision shall preclude the department from conducting  addi-\n    9  tional  free sport fishing clinics during free sport fishing days desig-\n   10  nated by the commissioner pursuant to subdivision [fifteen] FOURTEEN  of\n   11  this  section.  A  free  sport  fishing clinic shall include, but not be\n   12  limited to, instruction provided  by  employees  of  the  department  in\n   13  recreational  angling,  including  its benefits and values, and may also\n   14  include instruction and other information relevant to  an  understanding\n   15  of  fisheries  management,  ethics  and  aquatic ecology and habitat. No\n   16  license is required to take fish by angling  while  participating  in  a\n   17  fishing  clinic  conducted by the department that has been designated by\n   18  the commissioner as a free sport fishing clinic. Such clinics  shall  be\n   19  implemented  in  a  manner  determined by the department to best provide\n   20  public notice thereof and to maximize public participation  therein,  so\n   21  as  to promote the recreational opportunities afforded by sport fishing.\n   22  FURTHER, THE COMMISSIONER MAY DESIGNATE ADDITIONAL FISHING EVENTS ORGAN-\n   23  IZED THROUGH THE DEPARTMENT THAT PROVIDE PHYSICAL OR EMOTIONAL REHABILI-\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD03515-01-1\n\n       S. 656                              2\n\n    1  TATION FOR VETERANS OR ACTIVE DUTY MEMBERS OF THE ARMED  FORCES  OF  THE\n    2  UNITED  STATES. NO LICENSE SHALL BE REQUIRED FOR SUCH VETERANS OR ACTIVE\n    3  DUTY MEMBERS TO TAKE  FISH  BY  ANGLING  WHILE  PARTICIPATING  IN  THESE\n    4  EVENTS.\n    5    S 2. This act shall take effect immediately.\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to fishing events as rehabilitation for members of the United States armed forces ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T142831.TXT", "SOBI.D101230.T102722.TXT", "SOBI.D101228.T151335.TXT", "SOBI.D101228.T143333.TXT", "SOBI.D101228.T144333.TXT", "SOBI.D110125.T134918.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T142831.TXT", "SOBI.D101230.T102722.TXT", "SOBI.D101228.T151335.TXT", "SOBI.D101228.T143333.TXT", "SOBI.D110126.T114750.TXT-agenda-2.xml", "SOBI.D101228.T144333.TXT", "SOBI.D110125.T134918.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295981358377
+  "luceneModified" : 1296060470983
 }
