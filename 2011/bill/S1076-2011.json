@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "HANNON",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to the inclusion of fiscal notes with certain resolutions or rules and regulations adopted by educational institutions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T105108.TXT", "SOBI.D110105.T093557.TXT", "SOBI.D110105.T104608.TXT", "SOBI.D110105.T104107.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T101348.TXT", "SOBI.D110105.T105108.TXT", "SOBI.D110105.T093557.TXT", "SOBI.D110105.T104608.TXT", "SOBI.D110105.T104107.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294242668544
+  "luceneModified" : 1294413228435
 }

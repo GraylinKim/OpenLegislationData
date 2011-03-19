@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the correction law, in relation to charging taxes on sales of commissaries and canteens ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T124334.TXT", "SOBI.D101220.T131829.TXT", "SOBI.D110104.T122000.TXT", "SOBI.D110105.T105611.TXT", "SOBI.D101222.T165354.TXT", "SOBI.D101220.T140833.TXT", "SOBI.D110105.T120651.TXT", "SOBI.D101220.T134330.TXT", "SOBI.D101220.T131329.TXT", "SOBI.D110104.T121502.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T101348.TXT", "SOBI.D101220.T131829.TXT", "SOBI.D101220.T124334.TXT", "SOBI.D110105.T105611.TXT", "SOBI.D110104.T122000.TXT", "SOBI.D101220.T140833.TXT", "SOBI.D101222.T165354.TXT", "SOBI.D110105.T120651.TXT", "SOBI.D101220.T131329.TXT", "SOBI.D101220.T134330.TXT", "SOBI.D110104.T121502.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294247211948
+  "luceneModified" : 1294413228430
 }
