@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2199-2011",
+  "senateBillNo" : "A2212-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to health",
-    "billEventId" : "A2199-2011-1294981200000-referred+to+health",
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A2212-2011-1294981200000-referred+to+agriculture",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for tuberculosis screenings outreach and services in epidemic areas and makes an appropriation therefor",
+  "title" : "Prohibits the licensing of slaughterhouses within a fifteen hundred foot radius of a residential dwelling",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Agriculture and Markets Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Calhoun",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to tuberculosis screening, outreach and services and making an appropriation therefor ",
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to prohibiting the licensing of slaughterhouses within a fifteen hundred foot radius of a residential dwelling ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T122438.TXT", "SOBI.D110114.T121937.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T122438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025878422
+  "luceneModified" : 1295025878436
 }

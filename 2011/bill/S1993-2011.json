@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2187-2011",
+  "senateBillNo" : "S1993-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A2187-2011-1294981200000-referred+to+codes",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S1993-2011-1294981200000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates crime of tampering with a taximeter",
+  "title" : "Requires unanimous agreement by the parole board to release an inmate on parole",
   "summary" : null,
-  "currentCommittee" : null,
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to criminal tampering with a taximeter ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T122438.TXT", "SOBI.D110114.T121438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T122438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025878462
+  "luceneModified" : 1295025878470
 }

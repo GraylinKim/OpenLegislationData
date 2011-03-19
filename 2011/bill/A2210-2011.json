@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2207-2011",
+  "senateBillNo" : "A2210-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A2207-2011-1294981200000-referred+to+governmental+operations",
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A2210-2011-1294981200000-referred+to+environmental+conservation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the notification of certain victims of certain felons of name changes by such felons",
+  "title" : "Relates to the development of a model pesticide policy",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to the notification of victims of certain felons of name changes by such felons ",
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to the development of a model pesticide policy ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T122438.TXT", "SOBI.D110114.T121937.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T122438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025878359
+  "luceneModified" : 1295025878395
 }

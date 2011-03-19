@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1966-2011",
+  "senateBillNo" : "A2209-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
-    "billEventId" : "S1966-2011-1294981200000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2209-2011-1294981200000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MARCELLINO",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires notification to victims upon the conditional release of an inmate convicted of a crime against a member of the same family or household",
+  "title" : "Extends the period in which a defective equipment violation may be corrected from one to two days",
   "summary" : null,
-  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "Brennan",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to notification of certain persons upon the conditional release of an inmate convicted of a crime against a member of the same family or household ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to extending the period in which a defective equipment violation may be corrected from one to two days ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T122438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T122438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025878385
+  "luceneModified" : 1295025878383
 }
