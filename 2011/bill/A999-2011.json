@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1145-2011",
+  "senateBillNo" : "A999-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1145-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A999-2011-1294203600000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,77 +13,91 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"Nurse of Tomorrow Act of 2011\" to provide for grants to certain hospitals, schools and other entities for nurse recruitment, education and retention",
-  "summary" : "Enacts the \"Nurse of Tomorrow Act OF 2011\" to provide for grants from the state commissioner of education to public and not-for-profit hospitals, skilled nursing facilities, schools and other entities for nurse recruitment, education and retention costs and activities as described herein. ",
-  "currentCommittee" : "EDUCATION",
+  "title" : "Creates a task force to study and assess the condition of African American men in New York",
+  "summary" : null,
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "SA2542-2009" ],
+  "lawSection" : "Executive Department",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Aubry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "Camara",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Jeffries",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Scarborough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "Brook-Krasny",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "VALESKY",
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to enacting the \"Nurse of Tomorrow Act of 2011\" to provide for grants to public and not-for-profit hospitals, skilled nursing facilities, schools and other entities for nurse recruitment, education and retention costs and activities ",
+  "actClause" : "AN ACT to establish a task force on the condition of African American men in New York state ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT", "SOBI.D110105.T120651.TXT", "SOBI.D110105.T125151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251713942
+  "luceneModified" : 1294251713926
 }

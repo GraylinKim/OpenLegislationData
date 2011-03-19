@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the commissioner of education to require all schools to obtain permission from parents prior to collecting a pupil's biometric information",
-  "summary" : null,
+  "summary" : "Requires the commissioner of education to require all schools to obtain permission from parents to collect a pupil's biometric information at least thirty days prior to collecting such information. ",
   "currentCommittee" : "EDUCATION",
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6824-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to requiring the commissioner of education to cause all schools to obtain written permission prior to collecting biometric information on pupils ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T120651.TXT", "SOBI.D110105.T125151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT", "SOBI.D110105.T120651.TXT", "SOBI.D110105.T125151.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294249911989
+  "luceneModified" : 1294251713955
 }

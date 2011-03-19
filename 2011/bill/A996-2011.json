@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1145-2011",
+  "senateBillNo" : "A996-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1145-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A996-2011-1294203600000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,77 +13,77 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"Nurse of Tomorrow Act of 2011\" to provide for grants to certain hospitals, schools and other entities for nurse recruitment, education and retention",
-  "summary" : "Enacts the \"Nurse of Tomorrow Act OF 2011\" to provide for grants from the state commissioner of education to public and not-for-profit hospitals, skilled nursing facilities, schools and other entities for nurse recruitment, education and retention costs and activities as described herein. ",
-  "currentCommittee" : "EDUCATION",
+  "title" : "Allows the use of the individual tax identification number when a legal immigrant applies for a driver's license or a renewal of a driver's license",
+  "summary" : null,
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "SA2542-2009" ],
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Abbate",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "Sweeney",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Towns",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Ramos",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "Jacobs",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "VALESKY",
+    "fullname" : "Meng",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to enacting the \"Nurse of Tomorrow Act of 2011\" to provide for grants to public and not-for-profit hospitals, skilled nursing facilities, schools and other entities for nurse recruitment, education and retention costs and activities ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to certain requirements for obtaining a driver's license ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT", "SOBI.D110105.T120651.TXT", "SOBI.D110105.T125151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251713942
+  "luceneModified" : 1294251713920
 }

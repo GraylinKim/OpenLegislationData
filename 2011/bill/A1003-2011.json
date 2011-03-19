@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A968-2011",
+  "senateBillNo" : "A1003-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to ways and means",
-    "billEventId" : "A968-2011-1294203600000-referred+to+ways+and+means",
+    "eventText" : "referred to higher education",
+    "billEventId" : "A1003-2011-1294203600000-referred+to+higher+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,63 +13,63 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
+    "fullname" : "Peoples-Stokes (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides a tax credit for spay or neuter services",
-  "summary" : "Provides a tax credit for spay or neuter services. ",
+  "title" : "Establishes the university at Buffalo institute for African American studies; appropriation",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Tax Law",
-  "previousVersions" : [ "A993-2009" ],
+  "lawSection" : "Education Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Kellner",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Glick",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Raia",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera J",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the tax law, in relation to establishing a tax credit for the cost of spay or neuter services ",
+  "actClause" : "AN ACT to amend the education law, in relation to establishing the university at Buffalo institute for African American studies; and making an appropriation therefor ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT", "SOBI.D110105.T131653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251713950
+  "luceneModified" : 1294251713940
 }

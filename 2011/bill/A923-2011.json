@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1145-2011",
+  "senateBillNo" : "A923-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1145-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "referred to education",
+    "billEventId" : "A923-2011-1294203600000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,77 +13,91 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"Nurse of Tomorrow Act of 2011\" to provide for grants to certain hospitals, schools and other entities for nurse recruitment, education and retention",
-  "summary" : "Enacts the \"Nurse of Tomorrow Act OF 2011\" to provide for grants from the state commissioner of education to public and not-for-profit hospitals, skilled nursing facilities, schools and other entities for nurse recruitment, education and retention costs and activities as described herein. ",
-  "currentCommittee" : "EDUCATION",
+  "title" : "Provides for required instruction in physical education in elementary schools",
+  "summary" : "Provides for required instruction in physical education in elementary schools; requires that the regents shall include in its rules that students in elementary schools shall participate in physical education for a minimum of one hundred fifty minutes during each school week. ",
+  "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : [ "SA2542-2009" ],
+  "previousVersions" : [ "A2627-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "Morelle",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "VALESKY",
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Boyland",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to enacting the \"Nurse of Tomorrow Act of 2011\" to provide for grants to public and not-for-profit hospitals, skilled nursing facilities, schools and other entities for nurse recruitment, education and retention costs and activities ",
+  "actClause" : "AN ACT to amend the education law, in relation to the required instruction in physical education in elementary schools ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT", "SOBI.D110105.T120651.TXT", "SOBI.D110105.T125151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251713942
+  "luceneModified" : 1294251713968
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A968-2011",
+  "senateBillNo" : "A1004-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to ways and means",
-    "billEventId" : "A968-2011-1294203600000-referred+to+ways+and+means",
+    "eventText" : "referred to election law",
+    "billEventId" : "A1004-2011-1294203600000-referred+to+election+law",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,63 +13,56 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  },
-  "title" : "Provides a tax credit for spay or neuter services",
-  "summary" : "Provides a tax credit for spay or neuter services. ",
-  "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : "Tax Law",
-  "previousVersions" : [ "A993-2009" ],
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rosenthal",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Spano",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
+  },
+  "title" : "Increases compensation in N.Y. city for election inspectors from $130 to $250 and election coordinators from $200 to $350",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Glick",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Raia",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera J",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the tax law, in relation to establishing a tax credit for the cost of spay or neuter services ",
+  "actClause" : "AN ACT to amend the election law, in relation to compensation of election officials ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT", "SOBI.D110105.T131653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251713950
+  "luceneModified" : 1294251713946
 }
