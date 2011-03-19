@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S70-2011",
+  "senateBillNo" : "S72-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S70-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO SOCIAL SERVICES",
+    "billEventId" : "S72-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the calculation of gross income for state income tax purposes",
+  "title" : "Relates to training and education for sustainable wage jobs and traditional and nontraditional employment in public assistance employment programs",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "SOCIAL SERVICES",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101202.T100031.TXT", "SOBI.D101202.T095530.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101202.T100031.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291302031236
+  "luceneModified" : 1291302031259
 }
