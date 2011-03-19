@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3605-2011",
+  "senateBillNo" : "A3609-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "referred to judiciary",
-    "billEventId" : "A3605-2011-1296018000000-referred+to+judiciary",
+    "eventText" : "referred to codes",
+    "billEventId" : "A3609-2011-1296018000000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Pretlow",
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes and limits casino gambling in the county of Sullivan",
+  "title" : "Provides for evidentiary treatment of informant testimony",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "lawSection" : "Criminal Procedure Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Aubry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T104744.TXT", "SOBI.D110126.T105244.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T105244.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296057164207
+  "luceneModified" : 1296057164224
 }
