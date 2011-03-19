@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires all interrogations to be videotaped",
-  "summary" : null,
+  "summary" : "Requires all interrogations to be videotaped. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1082-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to videotaping interrogations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T093846.TXT", "SOBI.D110107.T102849.TXT", "SOBI.D110107.T092845.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T093846.TXT", "SOBI.D110107.T102849.TXT", "SOBI.D110107.T092845.TXT", "SOBI.D110107.T103351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294414129840
+  "luceneModified" : 1294414431975
 }

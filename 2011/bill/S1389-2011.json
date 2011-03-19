@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the annual reporting of criminal activity on subways",
-  "summary" : null,
+  "summary" : "Requires the annual reporting of criminal activity on subways. ",
   "currentCommittee" : "CITIES",
   "sameAs" : null,
   "lawSection" : "New York City Administrative Code",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA7419-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to the reporting of criminal activity on subways ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T102348.TXT", "SOBI.D110107.T095347.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T095347.TXT", "SOBI.D110107.T102348.TXT", "SOBI.D110107.T103351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294413828707
+  "luceneModified" : 1294414431971
 }
