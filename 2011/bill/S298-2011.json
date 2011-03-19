@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S292-2011",
+  "senateBillNo" : "S298-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S292-2011-1294203600000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S298-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the commissioner of health shall report improper measures by manufacturers, suppliers or retailers to attorney general which cause exposure to lead",
+  "title" : "Requires telephone companies to provide essential equipment, including voice dialing equipment, to persons with disabilities",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T141318.TXT", "SOBI.D101213.T140818.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T141318.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292267598745
+  "luceneModified" : 1292267598761
 }
