@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S888-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
+    "billEventId" : "S888-2011-1294203600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides clarification on determining the expiration date of an order of protection issued in relation to a family offense",
+  "summary" : null,
+  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T105353.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294070033435
+}
