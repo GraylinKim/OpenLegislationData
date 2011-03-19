@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S956-2011",
+  "senateBillNo" : "S960-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S956-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S960-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "HANNON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for a financial exploitation prevention outreach, education and training program and fund",
+  "title" : "Directs state agencies which apply for federal medical assistance waivers to post information relating thereto on the agency internet website",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Elder Law",
+  "lawSection" : "Health",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T143417.TXT", "SOBI.D110103.T142912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T143417.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294083257239
+  "luceneModified" : 1294083257253
 }
