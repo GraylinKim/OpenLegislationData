@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S637-2011",
+  "senateBillNo" : "S638-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S637-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S638-2011-1294203600000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the liability of obstetricians and gynecologists be limited in certain cases and establishes the impaired infant compensation fund",
+  "title" : "Relating to assessment exemptions for living quarters for a parent or grandparent",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T105318.TXT", "SOBI.D101228.T104818.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T105318.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293551598560
+  "luceneModified" : 1293551598562
 }

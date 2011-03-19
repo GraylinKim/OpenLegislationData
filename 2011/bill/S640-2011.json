@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S637-2011",
+  "senateBillNo" : "S640-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S637-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S640-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the liability of obstetricians and gynecologists be limited in certain cases and establishes the impaired infant compensation fund",
+  "title" : "Creates a black box tax credit",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T105318.TXT", "SOBI.D101228.T104818.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T105318.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293551598560
+  "luceneModified" : 1293551598565
 }
