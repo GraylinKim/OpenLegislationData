@@ -29,6 +29,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "PASSED SENATE",
+    "billEventId" : "S1919-2011-1295413200000-PASSED+SENATE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413201000,
+    "eventText" : "DELIVERED TO ASSEMBLY",
+    "billEventId" : "S1919-2011-1295413201000-DELIVERED+TO+ASSEMBLY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : [ {
     "id" : "1295366400000S1919-2011--1--1",
@@ -93,7 +107,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 14 of article 3 of the constitution, in relation to the procedure for voting increases in the rate of state taxes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T164657.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110114.T162503.TXT", "SOBI.D110114.T102913.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110114.T114424.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110119.T115750.TXT", "SOBI.D110114.T101910.TXT", "SOBI.D110114.T103413.TXT", "SOBI.D110114.T103913.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T164657.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110114.T162503.TXT", "SOBI.D110114.T102913.TXT", "SOBI.D110119.T134800.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110114.T114424.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110119.T115750.TXT", "SOBI.D110114.T101910.TXT", "SOBI.D110114.T103413.TXT", "SOBI.D110114.T103913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295456270245
+  "luceneModified" : 1295462880021
 }

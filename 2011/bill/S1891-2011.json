@@ -22,6 +22,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "PASSED SENATE",
+    "billEventId" : "S1891-2011-1295413200000-PASSED+SENATE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413201000,
+    "eventText" : "DELIVERED TO ASSEMBLY",
+    "billEventId" : "S1891-2011-1295413201000-DELIVERED+TO+ASSEMBLY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : [ {
     "id" : "1295366400000S1891-2011--1--1",
@@ -86,7 +100,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to the creation of the New York jobs tax credit (Part A); to amend the tax law, in relation to the personal income tax rates and benefit recapture (Part B); to amend the tax law, in relation to entire net income base (Part C); and creating a commission on regulatory reform and economic competitiveness; and providing for the repeal of such provisions upon expiration thereof (Part D) ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T095906.TXT", "SOBI.D110118.T164657.TXT", "SOBI.D110114.T102411.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110114.T100407.TXT", "SOBI.D110114.T104920.TXT", "SOBI.D110114.T094906.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110114.T114424.TXT", "SOBI.D110114.T092403.TXT", "SOBI.D110114.T115945.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110114.T094405.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110119.T115750.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T095906.TXT", "SOBI.D110118.T164657.TXT", "SOBI.D110114.T102411.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110114.T100407.TXT", "SOBI.D110114.T104920.TXT", "SOBI.D110119.T134800.TXT", "SOBI.D110114.T094906.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110114.T114424.TXT", "SOBI.D110114.T092403.TXT", "SOBI.D110114.T115945.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110114.T094405.TXT", "SOBI.D110119.T115750.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295456270221
+  "luceneModified" : 1295462880010
 }

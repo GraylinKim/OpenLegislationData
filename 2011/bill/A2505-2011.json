@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2505-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A2505-2011-1295413200000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the crime of possession of a gambling device in the first degree",
+  "summary" : "Creates the crime of possession of a gambling device in the first degree which prohibits the manufacture, sale, transport, placement or possession of five or more slot machines, other gambling device or a coin operated gambling device; possession of a gambling device in the first degree is a class E felony; also includes within the offense of promoting gambling the receiving of more than $5000 in any one day from unlawful gambling activities. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A4738-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to possession of gambling devices and promoting certain gambling activities ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T134800.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295462880020
+}
