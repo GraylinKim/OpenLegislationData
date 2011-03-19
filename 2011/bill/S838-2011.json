@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S837-2011",
+  "senateBillNo" : "S838-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S837-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S838-2011-1294203600000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for statewide video arraignments; repealer",
+  "title" : "Eliminates the maximum age for taking the civil service examination for appointment as a police officer",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Civil Service Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "NOZZOLIO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T150744.TXT", "SOBI.D101230.T150308.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T150744.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293739664632
+  "luceneModified" : 1293739664636
 }
