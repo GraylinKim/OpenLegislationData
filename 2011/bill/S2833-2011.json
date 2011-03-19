@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2831-2011",
+  "senateBillNo" : "S2833-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO LABOR",
-    "billEventId" : "S2831-2011-1296622800000-REFERRED+TO+LABOR",
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S2833-2011-1296622800000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires sanitation workers to receive certain training",
+  "title" : "Authorizes John Bergmann to obtain credit for service to a participating employer in the New York state and local employees' retirement system",
   "summary" : null,
-  "currentCommittee" : "LABOR",
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
   "sameAs" : null,
-  "lawSection" : "Labor Law",
+  "lawSection" : "Retirement",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "ESPAILLAT",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -39,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T101204.TXT", "SOBI.D110202.T100704.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T101204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296659524944
+  "luceneModified" : 1296659524950
 }
