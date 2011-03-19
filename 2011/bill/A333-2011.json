@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A333-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A333-2011-1294203600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to creating the commission on state educational assessments",
+  "summary" : "Creates the commission on state educational assessments to review the education assessment process in the state to determine the adequacy of the psychometric qualities of standardized tests given to students and the scoring methods. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education",
+  "previousVersions" : [ "A780-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT creating the commission on state educational assessments ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T110321.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292861001781
+}

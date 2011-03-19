@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A328-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A328-2011-1294203600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Montesano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes municipalities to sell certain municipally owned dwellings to low/moderate income persons for nominal consideration",
+  "summary" : "Authorizes municipalities to sell municipally owned 1-4 family residential dwellings requiring rehabilitation to persons of low and moderate income who are first-time homebuyers, for nominal consideration; defines \"persons and families of low and moderate income\" as persons and families who are determined by the municipality to be in the low and moderate income groups and who cannot afford to pay enough to cause private enterprise in the municipality to build a sufficient supply of adequate, safe and sanitary dwellings. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Private Housing Finance Law",
+  "previousVersions" : [ "A10675-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Molinaro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Saladino",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the private housing finance law, in relation to enacting the state homesteading act ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T110321.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292861001762
+}

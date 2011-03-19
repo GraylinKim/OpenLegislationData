@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A327-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A327-2011-1294203600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires group health plans and health insurance issuers to cover costs for scalp hair prosthesis worn for certain hair loss",
+  "summary" : "Requires group health plans and health insurance issuers to cover costs for scalp hair prostheses worn for hair loss suffered as a result of alopecia areata, alopecia totalis or alopecia universalis. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A591-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to requiring certain health insurance policies to cover costs for scalp hair prosthesis worn for hair loss suffered as a result of alopecia areata, alopecia totalis or alopecia universalis ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T110321.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292861001759
+}

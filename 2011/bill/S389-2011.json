@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Grants cities authority to review plans for the construction of structures proposed to be made within its boundaries",
-  "summary" : null,
+  "summary" : "Grants cities authority to review plans for the construction of structures proposed to be made within its boundaries. ",
   "currentCommittee" : "CITIES",
   "sameAs" : null,
   "lawSection" : "General City Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1665-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the general city law, in relation to the review of construction plans by cities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T102817.TXT", "SOBI.D101220.T105320.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T102817.TXT", "SOBI.D101220.T110321.TXT", "SOBI.D101220.T105320.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292860400578
+  "luceneModified" : 1292861001764
 }
