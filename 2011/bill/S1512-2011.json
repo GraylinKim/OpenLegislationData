@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes the offense of aggravated criminal conduct as a class E felony",
-  "summary" : null,
+  "summary" : "Establishes the offense of aggravated criminal conduct, when a person commits a misdemeanor after having been previously convicted of six or more qualifying misdemeanor or felony crimes within the preceding year, as a class E felony. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SB5377-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to aggravated criminal conduct ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T114558.TXT", "SOBI.D110110.T103559.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T114558.TXT", "SOBI.D110110.T120059.TXT", "SOBI.D110110.T103559.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294677958776
+  "luceneModified" : 1294678859272
 }
