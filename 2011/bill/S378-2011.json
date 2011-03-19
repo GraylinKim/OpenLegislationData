@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S378-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO BANKS",
+    "billEventId" : "S378-2011-1294203600000-REFERRED+TO+BANKS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires banking institutions to accept the Dominican consular identification card as a valid form of identification for all banking transactions",
+  "summary" : null,
+  "currentCommittee" : "BANKS",
+  "sameAs" : null,
+  "lawSection" : "Banking Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T104933.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292600973803
+}
