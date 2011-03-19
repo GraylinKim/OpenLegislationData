@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S995-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
+    "billEventId" : "S995-2011-1294203600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KLEIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Broadens the scope of child abuse and neglected child to include proof of a positive controlled substance toxicology report on a newborn infant",
+  "summary" : null,
+  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T101948.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294154388928
+}

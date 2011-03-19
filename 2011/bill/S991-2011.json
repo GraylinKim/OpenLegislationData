@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S991-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CITIES",
+    "billEventId" : "S991-2011-1294203600000-REFERRED+TO+CITIES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MONTGOMERY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires developers to deposit a portion of the total estimated project cost into an escrow account for damage caused to neighboring properties during construction",
+  "summary" : null,
+  "currentCommittee" : "CITIES",
+  "sameAs" : null,
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T101948.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294154388914
+}
