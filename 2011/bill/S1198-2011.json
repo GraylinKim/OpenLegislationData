@@ -36,6 +36,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "id" : "1295326800000S1198-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295326800000,
+    "ayes" : [ "DeFrancisco", "Johnson", "Alesi", "Farley", "Flanagan", "Fuschillo", "Golden", "Hannon", "Larkin", "LaValle", "Little", "Marcellino", "Nozzolio", "Robach", "Saland", "Seward", "Young", "Diaz", "Rivera", "Gianaris", "Breslin", "Stavisky", "Stewart-Cousins" ],
+    "nays" : [ "Kruger", "Dilan", "Krueger", "Oppenheimer", "Parker", "Peralta", "Perkins" ],
+    "abstains" : null,
+    "excused" : [ "Bonacic" ],
+    "ayeswr" : [ "Duane", "Montgomery" ],
+    "description" : "Finance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "sponsor" : {
     "id" : null,
@@ -59,7 +72,7 @@
   "actClause" : "AN ACT to amend the civil practice law and rules, in relation to increasing the property values which are exempt from the satisfaction of a money judgment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110107.T111351.TXT", "SOBI.D110105.T141157.TXT", "SOBI.D110106.T150728.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110105.T153729.TXT", "SOBI.D110105.T142658.TXT", "SOBI.D110105.T153205.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110107.T111351.TXT", "SOBI.D110105.T141157.TXT", "SOBI.D110106.T150728.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110105.T153729.TXT", "SOBI.D110105.T142658.TXT", "SOBI.D110105.T153205.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295447554276
+  "luceneModified" : 1295447554481
 }
