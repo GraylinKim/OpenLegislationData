@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3913-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A3913-2011-1296190800000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titus",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the time to commence certain medical malpractice actions",
+  "summary" : "Relates to the time to commence certain medical malpractice actions; provides that actions related to acts or omissions of hospitals where an incident report is required to be filed may be filed within one year of the required filing. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1098",
+  "lawSection" : "Civil Practice Law and Rules",
+  "previousVersions" : [ "A10592-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil practice law and rules and the public health law, in relation to the time to commence certain malpractice actions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110128.T133801.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296239881555
+}
