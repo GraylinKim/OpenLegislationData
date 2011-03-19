@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1871-2011",
+  "senateBillNo" : "S1872-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1871-2011-1294894800000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1872-2011-1294894800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires domestic violence awareness in a school curriculum and establishes a domestic violence awareness trust fund",
+  "title" : "Relates to ethnic or racial profiling",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T161441.TXT", "SOBI.D110113.T161922.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T161922.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294953562484
+  "luceneModified" : 1294953562487
 }

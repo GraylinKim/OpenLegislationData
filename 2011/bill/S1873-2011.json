@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1871-2011",
+  "senateBillNo" : "S1873-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1871-2011-1294894800000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+    "billEventId" : "S1873-2011-1294894800000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires domestic violence awareness in a school curriculum and establishes a domestic violence awareness trust fund",
+  "title" : "Extends the applicability of a certain provision in the Patriot Plan relating to the suspension of public retirement system loan repayment obligations",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Veterans",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T161441.TXT", "SOBI.D110113.T161922.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T161922.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294953562484
+  "luceneModified" : 1294953562495
 }
