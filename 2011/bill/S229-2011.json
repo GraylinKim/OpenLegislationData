@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S228-2011",
+  "senateBillNo" : "S229-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S228-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S229-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,58 +18,44 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Grants a state personal income tax deduction for retirement plan distributions used to purchase long-term care insurance",
+  "title" : "Relates to the crimes of criminal possession of stolen property in the third degree and grand larceny in the third degree",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "ALESI",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FLANAGAN",
+    "fullname" : "LANZA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "LIBOUS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "LARKIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T103802.TXT", "SOBI.D101213.T103302.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T103802.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292254682594
+  "luceneModified" : 1292254682601
 }

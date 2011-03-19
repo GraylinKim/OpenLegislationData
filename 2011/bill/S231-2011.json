@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S231-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S231-2011-1294203600000-REFERRED+TO+CODES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MONTGOMERY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits possession of certain condoms as evidence",
+  "summary" : null,
+  "currentCommittee" : "CODES",
+  "sameAs" : null,
+  "lawSection" : "Civil Practice Law and Rules",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101213.T103802.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292254682608
+}
