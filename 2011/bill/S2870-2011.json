@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2869-2011",
+  "senateBillNo" : "S2870-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
     "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2869-2011-1296622800000-REFERRED+TO+JUDICIARY",
+    "billEventId" : "S2870-2011-1296622800000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Removes constitutional provision that the lieutenant-governor shall act as governor when the governor is absent from the state",
+  "title" : "Provides for the filling of vacancies in the office of lieutenant-governor by appointment of the governor subject to confirmation by the senate and assembly",
   "summary" : null,
   "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
@@ -27,7 +27,28 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "GRISANTI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T120211.TXT", "SOBI.D110202.T115710.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T120211.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296666131457
+  "luceneModified" : 1296666131459
 }
