@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S148-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S148-2011-1294203600000-REFERRED+TO+HIGHER+EDUCATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Changes the eligibility dates for a military service recognition scholarship to include certain conflicts",
+  "summary" : null,
+  "currentCommittee" : "HIGHER EDUCATION",
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101210.T151203.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292011923478
+}
