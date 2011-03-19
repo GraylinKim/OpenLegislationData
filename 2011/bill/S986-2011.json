@@ -24,7 +24,14 @@
   "sameAs" : null,
   "lawSection" : "New York State Urban Development Corporation Act",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T101948.TXT", "SOBI.D110104.T102449.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T101948.TXT", "SOBI.D110104.T102949.TXT", "SOBI.D110104.T102449.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294154689985
+  "luceneModified" : 1294154989072
 }
