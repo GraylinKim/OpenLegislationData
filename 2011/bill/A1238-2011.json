@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1234-2011",
+  "senateBillNo" : "A1238-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to judiciary",
-    "billEventId" : "A1234-2011-1294203600000-referred+to+judiciary",
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A1238-2011-1294203600000-referred+to+environmental+conservation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Bing",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prevents a judge from prohibiting a parent from undergoing a gender reassignment when making a determination in a child custody case",
+  "title" : "Establishes certain requirements for environmental safety permits for liquefied natural gas facilities",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Domestic Relations Law",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the domestic relations law, in relation to the custody of children ",
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to establishing certain requirements for environmental safety permits for liquefied natural gas facilities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T105851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231657
+  "luceneModified" : 1294416231636
 }

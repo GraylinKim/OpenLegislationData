@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1218-2011",
+  "senateBillNo" : "A1232-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A1218-2011-1294203600000-referred+to+insurance",
+    "eventText" : "referred to local governments",
+    "billEventId" : "A1232-2011-1294203600000-referred+to+local+governments",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,51 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires insurers to recognize any licensed broker or agent retained by an insured for the remainder of a policy",
-  "summary" : "Requires insurers to recognize any licensed broker or agent retained by an insured for the remainder of a policy and to implement any changes requested by the insured through the broker or agent. ",
+  "title" : "Relates to the training of police officers and firefighters with respect to persons with disabilities and hearing-impaired people",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
-  "previousVersions" : [ "A7378-2009" ],
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Boyland",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Meng",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,21 +76,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cook",
+    "fullname" : "Barron",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to requiring insurers to recognize any licensed broker or agent retained by the insured for the remainder of a policy ",
+  "actClause" : "AN ACT to amend the general municipal law and the public health law, in relation to the training of police officers and firefighters ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T105851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231686
+  "luceneModified" : 1294416231693
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1218-2011",
+  "senateBillNo" : "A1226-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A1218-2011-1294203600000-referred+to+insurance",
+    "eventText" : "referred to election law",
+    "billEventId" : "A1226-2011-1294203600000-referred+to+election+law",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,44 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires insurers to recognize any licensed broker or agent retained by an insured for the remainder of a policy",
-  "summary" : "Requires insurers to recognize any licensed broker or agent retained by an insured for the remainder of a policy and to implement any changes requested by the insured through the broker or agent. ",
+  "title" : "Provides for ballot pamphlets for general elections and repeals provision for distribution of copies of constitutional amendments",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
-  "previousVersions" : [ "A7378-2009" ],
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lancman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Cook",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Cymbrowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -69,7 +41,42 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to requiring insurers to recognize any licensed broker or agent retained by the insured for the remainder of a policy ",
+  "actClause" : "AN ACT to amend the election law, in relation to the preparation, contents and distribution of a paper pamphlet containing information relative to general elections, to repeal certain provisions of the election law, relating to distribution of copies of proposed amendments to the constitution or other propositions or questions; and providing for the repeal of such provisions upon expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T105851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231686
+  "luceneModified" : 1294416231651
 }

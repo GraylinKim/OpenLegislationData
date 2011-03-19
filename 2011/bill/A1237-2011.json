@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1235-2011",
+  "senateBillNo" : "A1237-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to insurance",
-    "billEventId" : "A1235-2011-1294203600000-referred+to+insurance",
+    "billEventId" : "A1237-2011-1294203600000-referred+to+insurance",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for health insurance coverage for loss or damage to prosthetic limb",
+  "title" : "Provides for actuarially appropriate discounts on fire and homeowners insurance after completion of certified residential home safety and loss prevention course",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to health insurance coverage of prosthetic limbs ",
+  "actClause" : "AN ACT to amend the insurance law, in relation to establishing residential home safety and loss prevention courses and providing for an associated reduction in certain insurance premiums and providing for the repeal of such provisions upon expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T105851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231659
+  "luceneModified" : 1294416231628
 }

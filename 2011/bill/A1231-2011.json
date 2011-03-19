@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1251-2011",
+  "senateBillNo" : "A1231-2011",
   "billEvents" : [ {
-    "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S1251-2011-1294290000000-REFERRED+TO+AGING",
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A1231-2011-1294203600000-referred+to+real+property+taxation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,77 +13,119 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "ADDABBO",
+    "fullname" : "Bing",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Relates to the definition of income for purposes of the senior citizen rent increase exemptions (SCRIE) program",
-  "summary" : "Excludes social security payments and supplemental security income from the definition of \"income\" for the purposes of determining eligibility under the senior citizen rent increase exemption (SCRIE). ",
-  "currentCommittee" : "AGING",
-  "sameAs" : "A1231",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S1251",
   "lawSection" : "Real Property Tax Law",
-  "previousVersions" : [ "S3498-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADAMS",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "OPPENHEIMER",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Camara",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DenDekker",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Meng",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -95,7 +137,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to the definition of income for purposes of the senior citizen rent increase exemptions (SCRIE) program ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110106.T125718.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110106.T114713.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231653
+  "luceneModified" : 1294416231683
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1218-2011",
+  "senateBillNo" : "A1230-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A1218-2011-1294203600000-referred+to+insurance",
+    "eventText" : "referred to election law",
+    "billEventId" : "A1230-2011-1294203600000-referred+to+election+law",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires insurers to recognize any licensed broker or agent retained by an insured for the remainder of a policy",
-  "summary" : "Requires insurers to recognize any licensed broker or agent retained by an insured for the remainder of a policy and to implement any changes requested by the insured through the broker or agent. ",
+  "title" : "Provides that the board of elections shall transfer a registration and enrollment of a voter to wherever they move in the state, even if it's a new county",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
-  "previousVersions" : [ "A7378-2009" ],
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Kellner",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "Lancman",
@@ -41,21 +34,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cook",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -69,7 +62,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Meng",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to requiring insurers to recognize any licensed broker or agent retained by the insured for the remainder of a policy ",
+  "actClause" : "AN ACT to amend the election law, in relation to a universal jurisdiction voting act ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T105851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231686
+  "luceneModified" : 1294416231680
 }

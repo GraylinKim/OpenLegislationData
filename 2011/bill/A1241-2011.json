@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1219-2011",
+  "senateBillNo" : "A1241-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A1219-2011-1294203600000-referred+to+insurance",
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A1241-2011-1294203600000-referred+to+environmental+conservation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Bing",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to coverage for refills of prescription eye drops",
-  "summary" : "Requires coverage for the authorized refill of any prescription eye drop medication under certain circumstances when such refill is requested prior to expiration of the period of usage. ",
+  "title" : "Provides for source separation and disposal of recyclable materials and requires municipalities to adopt local laws providing therefor",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
-  "previousVersions" : [ "AB10229-2009" ],
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cymbrowitz",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "Schimel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,14 +55,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rivera P",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to prescription coverage for eye drops ",
+  "actClause" : "AN ACT to amend the environmental conservation law and the general municipal law, in relation to disposal and source separation of recyclable materials ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T105851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231699
+  "luceneModified" : 1294416231667
 }

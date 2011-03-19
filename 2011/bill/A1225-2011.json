@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1251-2011",
+  "senateBillNo" : "A1225-2011",
   "billEvents" : [ {
-    "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S1251-2011-1294290000000-REFERRED+TO+AGING",
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1225-2011-1294203600000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,77 +13,91 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "ADDABBO",
+    "fullname" : "Bing",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the definition of income for purposes of the senior citizen rent increase exemptions (SCRIE) program",
-  "summary" : "Excludes social security payments and supplemental security income from the definition of \"income\" for the purposes of determining eligibility under the senior citizen rent increase exemption (SCRIE). ",
-  "currentCommittee" : "AGING",
-  "sameAs" : "A1231",
-  "lawSection" : "Real Property Tax Law",
-  "previousVersions" : [ "S3498-2009" ],
+  "title" : "Establishes the emergency preparedness month act and exempts prefabricated go-bags and individual emergency preparedness items",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADAMS",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "OPPENHEIMER",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
+    "fullname" : "Brook-Krasny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DenDekker",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the real property tax law, in relation to the definition of income for purposes of the senior citizen rent increase exemptions (SCRIE) program ",
+  "actClause" : "AN ACT in relation to establishing the emergency preparedness month act and to amend the tax law, in relation to exempting prefabricated go-bags and individual emergency preparedness items ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110106.T125718.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110106.T114713.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231653
+  "luceneModified" : 1294416231638
 }
