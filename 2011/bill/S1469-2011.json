@@ -62,13 +62,6 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "PERALTA",
     "branch" : null,
     "contactInfo" : null,
@@ -109,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T145410.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T150413.TXT", "SOBI.D110107.T145410.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294430050740
+  "luceneModified" : 1294430653065
 }

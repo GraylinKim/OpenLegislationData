@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1479-2011",
+  "senateBillNo" : "S1480-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
     "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S1479-2011-1294376400000-REFERRED+TO+CONSUMER+PROTECTION",
+    "billEventId" : "S1480-2011-1294376400000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the regulation of the licensure and practice of immigration providers by the department of state",
+  "title" : "Relates to residential wireless telephone service",
   "summary" : null,
   "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
@@ -31,13 +31,6 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "KRUEGER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T150413.TXT", "SOBI.D110107.T145913.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T150413.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294430653003
+  "luceneModified" : 1294430653012
 }
