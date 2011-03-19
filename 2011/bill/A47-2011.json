@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A23-2011",
+  "senateBillNo" : "A47-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to education",
-    "billEventId" : "A23-2011-1294203600000-referred+to+education",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A47-2011-1294203600000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Montesano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the furnishing of programs and services to pupils who attend private or parochial schools upon request of persons in parental relation",
+  "title" : "Provides for the issuance of distinctive license plates for members of the Navy League of the United States",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "McEneny",
+    "fullname" : "Saladino",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to the provision of certain programs and services to private or parochial school pupils ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to creating the \"Navy League of the United States\" distinctive license plate ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT", "SOBI.D101216.T103912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T103912.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513952052
+  "luceneModified" : 1292513952033
 }

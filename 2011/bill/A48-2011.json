@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A31-2011",
+  "senateBillNo" : "A48-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to higher education",
-    "billEventId" : "A31-2011-1294203600000-referred+to+higher+education",
+    "eventText" : "referred to alcoholism and drug abuse",
+    "billEventId" : "A48-2011-1294203600000-referred+to+alcoholism+and+drug+abuse",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the New York International Scholarship program and makes an appropriation therefor",
+  "title" : "Creates the chemical dependence treatment bill of rights to be posted in a conspicuous place in all treatment facilities",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Mental Hygiene Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to establishing the New York International Scholarship program and making an appropriation therefor ",
+  "actClause" : "AN ACT to amend the mental hygiene law, in relation to creating a chemical dependence treatment bill of rights ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT", "SOBI.D101216.T103912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T103912.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513952083
+  "luceneModified" : 1292513952040
 }

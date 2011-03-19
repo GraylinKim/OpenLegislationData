@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A34-2011",
+  "senateBillNo" : "A50-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to ways and means",
-    "billEventId" : "A34-2011-1294203600000-referred+to+ways+and+means",
+    "eventText" : "referred to veterans' affairs",
+    "billEventId" : "A50-2011-1294203600000-referred+to+veterans%27+affairs",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to tax credits provided for solar energy system equipment",
+  "title" : "Enacts the \"behavioral health services for veterans act\"",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the tax law, in relation to tax credits provided for solar energy system equipment ",
+  "actClause" : "AN ACT to amend the executive law and the mental hygiene law, in relation to enacting the \"behavioral health services for veterans act\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT", "SOBI.D101216.T103912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T103912.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513952096
+  "luceneModified" : 1292513952050
 }
