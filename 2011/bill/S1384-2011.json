@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1382-2011",
+  "senateBillNo" : "S1384-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S1382-2011-1294376400000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S1384-2011-1294376400000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires school buses that contract with the N.Y. city department of education to retrofit certain buses with certain equipment",
+  "title" : "Establishes the home ownership assistance program",
   "summary" : null,
-  "currentCommittee" : "CITIES",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "New York City Administrative Code",
+  "lawSection" : "Public Housing Law",
   "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "BRESLIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
@@ -62,21 +55,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "SMITH",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -88,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T094847.TXT", "SOBI.D110107.T094347.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T094847.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294411727923
+  "luceneModified" : 1294411727931
 }
