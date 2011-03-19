@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "AVELLA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to the possession of anti-security items ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D101221.T164629.TXT", "SOBI.D110105.T123155.TXT", "SOBI.D101222.T164854.TXT", "SOBI.D110103.T110354.TXT", "SOBI.D101221.T161627.TXT", "SOBI.D110105.T122648.TXT", "SOBI.D101221.T163128.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T164629.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D101222.T164854.TXT", "SOBI.D110105.T123155.TXT", "SOBI.D110111.T101649.TXT", "SOBI.D110103.T110354.TXT", "SOBI.D101221.T161627.TXT", "SOBI.D110105.T122648.TXT", "SOBI.D101221.T163128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294248715517
+  "luceneModified" : 1294759009432
 }
