@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3920-2011",
+  "senateBillNo" : "A3934-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "referred to aging",
-    "billEventId" : "A3920-2011-1296450000000-referred+to+aging",
+    "eventText" : "referred to education",
+    "billEventId" : "A3934-2011-1296450000000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Calhoun",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to social security income and eligibility in the EPIC program",
+  "title" : "Establishes integrated pest management requirements for schools",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Elder Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T113159.TXT", "SOBI.D110131.T112710.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T113159.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296491519396
+  "luceneModified" : 1296491519424
 }
