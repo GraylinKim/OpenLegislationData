@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S685-2011",
+  "senateBillNo" : "S687-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S685-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S687-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to commencement of a small claims action in New York city civil courts",
+  "title" : "Relates to providing funding for transitional programs for students from English-speaking Caribbean countries",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "New York City Civil Court Act",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T102722.TXT", "SOBI.D101229.T102222.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T102722.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293636442256
+  "luceneModified" : 1293636442267
 }
