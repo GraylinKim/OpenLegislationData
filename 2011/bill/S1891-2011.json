@@ -23,7 +23,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295366400000S1891-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295366400000,
+    "ayes" : [ "Skelos", "Libous", "Alesi", "Farley", "Hannon", "Johnson", "Larkin", "LaValle", "Marcellino", "Maziarz", "Nozzolio", "Saland", "Seward" ],
+    "nays" : [ "Sampson", "Breslin", "Dilan", "Hassell-Thompson", "Krueger", "Parker", "Perkins", "Stewart-Cousins" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Duane", "Montgomery", "Smith" ],
+    "description" : "Rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -53,7 +66,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to the creation of the New York jobs tax credit (Part A); to amend the tax law, in relation to the personal income tax rates and benefit recapture (Part B); to amend the tax law, in relation to entire net income base (Part C); and creating a commission on regulatory reform and economic competitiveness; and providing for the repeal of such provisions upon expiration thereof (Part D) ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T095906.TXT", "SOBI.D110118.T164657.TXT", "SOBI.D110114.T102411.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110114.T100407.TXT", "SOBI.D110114.T104920.TXT", "SOBI.D110114.T094906.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110114.T114424.TXT", "SOBI.D110114.T092403.TXT", "SOBI.D110114.T115945.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110114.T094405.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T095906.TXT", "SOBI.D110118.T164657.TXT", "SOBI.D110114.T102411.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110114.T100407.TXT", "SOBI.D110114.T104920.TXT", "SOBI.D110114.T094906.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110114.T114424.TXT", "SOBI.D110114.T092403.TXT", "SOBI.D110114.T115945.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110114.T094405.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295392624860
+  "luceneModified" : 1295447554278
 }
