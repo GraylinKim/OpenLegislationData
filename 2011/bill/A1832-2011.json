@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1832-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A1832-2011-1294808400000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants additional credit on promotional examinations for police officers and firefighters who are residents of certain cities",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Scarborough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T115000.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294851000844
+}

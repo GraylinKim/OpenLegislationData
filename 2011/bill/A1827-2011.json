@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1826-2011",
+  "senateBillNo" : "A1827-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "referred to corporations, authorities and commissions",
-    "billEventId" : "A1826-2011-1294808400000-referred+to+corporations%2C+authorities+and+commissions",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1827-2011-1294808400000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the governor may within 180 days of taking office, remove members of boards of public authorities and fill vacancies created with his or her appointees",
+  "title" : "Increases the registration filing fee",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T115000.TXT", "SOBI.D110112.T114459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T115000.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294851000827
+  "luceneModified" : 1294851000830
 }
