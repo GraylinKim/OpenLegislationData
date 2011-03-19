@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S307-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO RULES",
+    "billEventId" : "S307-2011-1294203600000-REFERRED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Regulates the proportional distribution of revenues from the sale of lottery tickets between expenses of the lottery and state education",
+  "summary" : null,
+  "currentCommittee" : "RULES",
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101213.T162826.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292275706273
+}
