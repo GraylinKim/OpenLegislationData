@@ -1,0 +1,66 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "A42005-2009",
+  "billEvents" : [ {
+    "eventDate" : 1291006800000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A42005-2009-1291006800000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006801000,
+    "eventText" : "reported referred to rules",
+    "billEventId" : "A42005-2009-1291006801000-reported+referred+to+rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006802000,
+    "eventText" : "reported",
+    "billEventId" : "A42005-2009-1291006802000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006803000,
+    "eventText" : "rules report cal.3",
+    "billEventId" : "A42005-2009-1291006803000-rules+report+cal.3",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006804000,
+    "eventText" : "substituted by s68005",
+    "billEventId" : "A42005-2009-1291006804000-substituted+by+s68005",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rules",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes technical corrections to provisions of the multiple dwelling law relating to time to obtain certificates of occupancy",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "s68005",
+  "lawSection" : "Multiple Dwelling Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101215.T142912.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292441352194
+}

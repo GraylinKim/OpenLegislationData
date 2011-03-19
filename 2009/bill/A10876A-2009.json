@@ -1,0 +1,80 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "A10876A-2009",
+  "billEvents" : [ {
+    "eventDate" : 1272340800000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A10876A-2009-1272340800000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277265600000,
+    "eventText" : "amend and recommit to insurance",
+    "billEventId" : "A10876A-2009-1277265600000-amend+and+recommit+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277265601000,
+    "eventText" : "print number 10876a",
+    "billEventId" : "A10876A-2009-1277265601000-print+number+10876a",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277438400000,
+    "eventText" : "reported referred to rules",
+    "billEventId" : "A10876A-2009-1277438400000-reported+referred+to+rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956800000,
+    "eventText" : "reported",
+    "billEventId" : "A10876A-2009-1277956800000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956801000,
+    "eventText" : "rules report cal.541",
+    "billEventId" : "A10876A-2009-1277956801000-rules+report+cal.541",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956802000,
+    "eventText" : "substituted by s7196a",
+    "billEventId" : "A10876A-2009-1277956802000-substituted+by+s7196a",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits accelerated payment of death benefits or special surrender value pursuant to a life insurance policy because of residency in a nursing home",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "s7196a",
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101215.T142912.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292441352184
+}

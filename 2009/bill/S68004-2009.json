@@ -1,7 +1,98 @@
 {
   "year" : 2009,
   "senateBillNo" : "S68004-2009",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1291006800000,
+    "eventText" : "REFERRED TO RULES",
+    "billEventId" : "S68004-2009-1291006800000-REFERRED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006801000,
+    "eventText" : "ORDERED TO THIRD READING CAL.2",
+    "billEventId" : "S68004-2009-1291006801000-ORDERED+TO+THIRD+READING+CAL.2",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006802000,
+    "eventText" : "MESSAGE OF NECESSITY",
+    "billEventId" : "S68004-2009-1291006802000-MESSAGE+OF+NECESSITY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006803000,
+    "eventText" : "PASSED SENATE",
+    "billEventId" : "S68004-2009-1291006803000-PASSED+SENATE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006804000,
+    "eventText" : "DELIVERED TO ASSEMBLY",
+    "billEventId" : "S68004-2009-1291006804000-DELIVERED+TO+ASSEMBLY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006805000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "S68004-2009-1291006805000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006806000,
+    "eventText" : "substituted for a42004",
+    "billEventId" : "S68004-2009-1291006806000-substituted+for+a42004",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006807000,
+    "eventText" : "ordered to third reading rules cal.2",
+    "billEventId" : "S68004-2009-1291006807000-ordered+to+third+reading+rules+cal.2",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006808000,
+    "eventText" : "message of necessity - 3 day message",
+    "billEventId" : "S68004-2009-1291006808000-message+of+necessity+-+3+day+message",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006809000,
+    "eventText" : "passed assembly",
+    "billEventId" : "S68004-2009-1291006809000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006810000,
+    "eventText" : "returned to senate",
+    "billEventId" : "S68004-2009-1291006810000-returned+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291179600000,
+    "eventText" : "DELIVERED TO GOVERNOR",
+    "billEventId" : "S68004-2009-1291179600000-DELIVERED+TO+GOVERNOR",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291957200000,
+    "eventText" : "SIGNED CHAP.565",
+    "billEventId" : "S68004-2009-1291957200000-SIGNED+CHAP.565",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : [ {
     "id" : "1291006800000S68004-2009--1--1",
     "voteType" : 2,
@@ -17,28 +108,28 @@
     "luceneModified" : 0
   } ],
   "sponsor" : {
-    "id" : "RULES",
+    "id" : null,
     "position" : null,
     "fullname" : "RULES",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : null,
+  "title" : "Relates to cost-sharing, deductible or co-insurance for tier IV prescription drugs and unlawful discriminatory practice in prescribing such drugs; repealer",
   "summary" : null,
-  "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : null,
+  "currentCommittee" : "RULES",
+  "sameAs" : "a42004",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
-  "fulltext" : "",
+  "fulltext" : null,
   "memo" : "",
   "law" : null,
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101209.T120638.TXT-agenda-2.xml" ],
+  "sobiReferenceList" : [ "SOBI.D101215.T142912.TXT", "SOBI.D101209.T120638.TXT-agenda-2.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1291914398702
+  "luceneModified" : 1292441352186
 }
