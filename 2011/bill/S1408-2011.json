@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1403-2011",
+  "senateBillNo" : "S1408-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1403-2011-1294376400000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1408-2011-1294376400000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "STEWART-COUSINS",
+    "fullname" : "HANNON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for inclusion of the school district's regional cost index in calculating the supplemental education improvement plan grant amount for Yonkers city schools",
+  "title" : "Authorizes the immunization against hepatitis B of minors capable of consent who are housed in a local or state correctional facility",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T100348.TXT", "SOBI.D110107.T095848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T100348.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294412628217
+  "luceneModified" : 1294412628227
 }

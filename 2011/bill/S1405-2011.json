@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1403-2011",
+  "senateBillNo" : "S1405-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1403-2011-1294376400000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S1405-2011-1294376400000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "STEWART-COUSINS",
+    "fullname" : "SAVINO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for inclusion of the school district's regional cost index in calculating the supplemental education improvement plan grant amount for Yonkers city schools",
+  "title" : "Requires the availability of and reimbursement for chiropractic care under the workers' compensation law to be provided on the same basis as care by a physician",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "LABOR",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Workers' Compensation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T100348.TXT", "SOBI.D110107.T095848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T100348.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294412628217
+  "luceneModified" : 1294412628221
 }
