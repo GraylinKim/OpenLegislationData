@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S971-2011",
+  "senateBillNo" : "A696-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S971-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "referred to election law",
+    "billEventId" : "A696-2011-1294203600000-referred+to+election+law",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,133 +13,98 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Designates the tenth day of March of each year as a public holiday, to be known as Harriet Tubman",
-  "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "title" : "Enacts the \"corporate political activity accountability to shareholders act\"",
+  "summary" : "Enacts the \"corporate political activity accountability to shareholders act\"; establishes the corporate political activity accountability to shareholders act which requires that corporate contributions to a political candidate or party committee or in support or opposition to a candidate or ballot referendum be approved by a majority of shareholders; applies to cooperative corporations, not-for-profit corporations, railroad and transportation corporations. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Construction Law",
-  "previousVersions" : null,
+  "lawSection" : "Business Corporation Law",
+  "previousVersions" : [ "AB9948-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADAMS",
+    "fullname" : "Jacobs",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "ADDABBO",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "ALESI",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HANNON",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LANZA",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "NOZZOLIO",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "OPPENHEIMER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "PARKER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "PERKINS",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SAVINO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STEWART-COUSINS",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "VALESKY",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -148,10 +113,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general construction law, in relation to the designation of Harriet Tubman day ",
+  "actClause" : "AN ACT to amend the business corporation law, the cooperative corporations law, the not-for-profit corporation law, the railroad law, the transportation corporations law, the banking law and the limited liability company law, in relation to enacting the \"corporate political activity accountability to shareholders act\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T160933.TXT", "SOBI.D110103.T163934.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T163934.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294090774392
+  "luceneModified" : 1294090774377
 }

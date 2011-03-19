@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A691-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to correction",
+    "billEventId" : "A691-2011-1294203600000-referred+to+correction",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Aubry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the New York state commission on sex offender supervision and management",
+  "summary" : "Creates the New York state commission on sex offender supervision and management; such commission shall consist of thirteen members; the commission shall be required to make a report of its findings. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Commissions",
+  "previousVersions" : [ "A3772-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT creating a temporary New York state commission on sex offender supervision and management and providing for the repeal of such provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T163934.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294090774368
+}
