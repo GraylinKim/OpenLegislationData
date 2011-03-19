@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S875-2011",
+  "senateBillNo" : "S876-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S875-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S876-2011-1294203600000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes certain cities to implement a pilot truck weight photo-monitoring system at certain intersections throughout the city",
+  "title" : "Provides for a state board of elections enforcement unit and counsel",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
+  "lawSection" : "Election Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T102351.TXT", "SOBI.D110103.T101851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T102351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294068231034
+  "luceneModified" : 1294068231037
 }
