@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4032-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A4032-2011-1296536400000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to instituting mandatory jail time if a person is found to have been in willful violation of a support order at least three times",
+  "summary" : "Institutes mandatory jail time of a minimum of sixty days if a person is found to have been in willful violation of a support order at least three times. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Family Court Act",
+  "previousVersions" : [ "A4640-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Oaks",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the family court act, in relation to instituting mandatory jail time if a person is found to have been in willful violation of a support order at least three times ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T140400.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296587040355
+}

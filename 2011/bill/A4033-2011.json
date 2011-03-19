@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4033-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A4033-2011-1296536400000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes a court to order the confidentiality of election registration records of a victim of domestic violence",
+  "summary" : "Authorizes the county court, or supreme court in the city of New York, to issue a court order providing for the confidentiality of election registration records of a victim of domestic violence. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "AA9368-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Miller M",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to authorizing registration records of victims of domestic violence to be kept confidential in certain cases ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T140400.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296587040358
+}

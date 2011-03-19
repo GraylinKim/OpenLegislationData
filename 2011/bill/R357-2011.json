@@ -8,6 +8,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296450000000,
+    "eventText" : "DEFEATED IN RULES",
+    "billEventId" : "R357-2011-1296450000000-DEFEATED+IN+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T140855.TXT", "SOBI.D110127.T140354.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T140400.TXT", "SOBI.D110127.T140855.TXT", "SOBI.D110127.T140354.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296155335710
+  "luceneModified" : 1296587040345
 }
