@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1017-2011",
+  "senateBillNo" : "S1018-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S1017-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1018-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "STEWART-COUSINS",
+    "fullname" : "PERALTA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for designation of agency on aging in city of Yonkers",
+  "title" : "Requires the court to advise aliens of deportation consequences of guilty plea; allows guilty plea withdrawal",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Elder Law",
+  "lawSection" : "Criminal Procedure Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T143510.TXT", "SOBI.D110104.T143009.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T143510.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294169710328
+  "luceneModified" : 1294169710331
 }

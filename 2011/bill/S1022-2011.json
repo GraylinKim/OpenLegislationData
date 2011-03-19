@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1017-2011",
+  "senateBillNo" : "S1022-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S1017-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S1022-2011-1294203600000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for designation of agency on aging in city of Yonkers",
+  "title" : "Authorizes the village of Sleepy Hollow to offer an optional twenty year retirement plan to certain police officers employed by such village",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
   "sameAs" : null,
-  "lawSection" : "Elder Law",
+  "lawSection" : "Retirement",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T143510.TXT", "SOBI.D110104.T143009.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T143510.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294169710328
+  "luceneModified" : 1294169710339
 }
