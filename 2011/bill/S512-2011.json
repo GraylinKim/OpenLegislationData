@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S507-2011",
+  "senateBillNo" : "S512-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S507-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S512-2011-1294203600000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits certain sex offenders from entering upon school grounds for the remainder of his or her natural life without a legitimate purpose",
+  "title" : "Requires the employment address of certain sex offenders to be reported to the division of criminal justice services",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T105608.TXT", "SOBI.D101221.T110108.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T110108.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292947268030
+  "luceneModified" : 1292947268047
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S507-2011",
+  "senateBillNo" : "S510-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S507-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S510-2011-1294203600000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits certain sex offenders from entering upon school grounds for the remainder of his or her natural life without a legitimate purpose",
+  "title" : "Permits minors to be employed as a referee, umpire or official at a youth sporting event",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "LABOR",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Labor Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T105608.TXT", "SOBI.D101221.T110108.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T110108.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292947268030
+  "luceneModified" : 1292947268041
 }
