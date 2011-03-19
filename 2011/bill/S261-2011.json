@@ -48,13 +48,6 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HANNON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "LIBOUS",
     "branch" : null,
     "contactInfo" : null,
@@ -67,7 +60,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to permitting direct access to laboratory results ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101215.T111859.TXT", "SOBI.D101213.T112805.TXT", "SOBI.D101213.T115306.TXT", "SOBI.D101213.T121808.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T112805.TXT", "SOBI.D101215.T111859.TXT", "SOBI.D101213.T115306.TXT", "SOBI.D101213.T121808.TXT", "SOBI.D110104.T121502.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292429939135
+  "luceneModified" : 1294161302541
 }
