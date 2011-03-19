@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A851-2011",
+  "senateBillNo" : "S1007-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to judiciary",
-    "billEventId" : "A851-2011-1294203600000-referred+to+judiciary",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1007-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to increasing property values which are exempt from the satisfaction of a money judgement",
+  "title" : "Exempts from the imposition of sales tax, the purchase of military service flags, prisoner of war flags and blue star banners",
   "summary" : null,
-  "currentCommittee" : null,
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T134006.TXT", "SOBI.D110104.T133504.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T134006.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294166406617
+  "luceneModified" : 1294166406623
 }
