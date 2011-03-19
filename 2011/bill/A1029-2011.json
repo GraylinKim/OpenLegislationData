@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1029-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A1029-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants consumer the right to cancel motor vehicle sale contract within one day in the case of a sale or lease",
+  "summary" : "Grants consumers the right to cancel motor vehicle installment contract within one day; establishes procedures therefor; permits waiver of such right; provides for reappraisal of trade-in vehicles during such one day period if the trade-in vehicle is removed from the dealer's lot and not returned in the same condition; permits a dealer to keep up to $100 as a cancellation fee; applies to leases as well as sales. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A3225-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law and the personal property law, in relation to contracts for the sale of new motor vehicles ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T110204.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294329724434
+}

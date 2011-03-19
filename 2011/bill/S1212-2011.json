@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1212-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294290000000,
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S1212-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides a toll exemption for voluntary ambulance services",
+  "summary" : null,
+  "currentCommittee" : "TRANSPORTATION",
+  "sameAs" : null,
+  "lawSection" : "Transportation",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T110204.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294329724442
+}

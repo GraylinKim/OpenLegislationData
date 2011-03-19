@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1026-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A1026-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the sale or offer for sale at retail of bottled water in this state in a beverage container unless such container includes on its label certain information",
+  "summary" : "Prohibits the sale or offer for sale at retail of bottled water for human consumption, food preparation or culinary purposes in this state in a beverage container unless such container includes on its label certain information; requires an annual bottled water report to be prepared annually by the purveyors of bottled water. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A3642-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to labelling bottled water sold or offered for sale ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T110204.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294329724427
+}

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1027-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A1027-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the unauthorized change of a natural gas or electric service provider",
+  "summary" : "Prohibits suppliers of natural gas or electric service from changing a customer's supplier of gas or electric service (commonly known as \"slamming\") unless such supplier complies with requirement established by the public service commission; authorizes the commission to establish requirements for customer consent; makes enforcement provisions to punish violators of slamming requirements. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Service Law",
+  "previousVersions" : [ "A3245-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public service law, in relation to unauthorized changes in suppliers of natural gas and electric service ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T110204.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294329724431
+}
