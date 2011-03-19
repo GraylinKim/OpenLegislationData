@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S931-2011",
+  "senateBillNo" : "S936-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S931-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S936-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the power of eminent domain shall only be exercised for economic development purposes when the area for economic development is a blighted area",
+  "title" : "Requires health department to promulgate rules regarding staffing standards for certain health care facilities and monitor compliance therewith",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Eminent Domain Procedure Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T141911.TXT", "SOBI.D110103.T140911.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T141911.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294082351032
+  "luceneModified" : 1294082351049
 }
