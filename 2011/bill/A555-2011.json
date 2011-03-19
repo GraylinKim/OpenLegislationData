@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A555-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A555-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the crime of manufacturing a controlled substance in the presence of a child",
+  "summary" : "Creates the crime of manufacturing a controlled substance in the presence of a child; makes such crime a class E felony. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A3761-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to manufacturing a controlled substance in the presence of a child ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294066428386
+}

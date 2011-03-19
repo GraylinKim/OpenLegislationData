@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A565-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A565-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to death and felony crime reports in certain adult care facilities",
+  "summary" : "Relates to death and felony crime reports in certain adult care facilities. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A9554-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to death and felony crime reports in certain adult care facilities ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294066428412
+}

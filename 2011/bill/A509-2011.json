@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A509-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to children and families",
+    "billEventId" : "A509-2011-1294203600000-referred+to+children+and+families",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to notice requirements when funding cuts are made",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S819",
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to notice requirements to families and providers when funding cuts are made ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294066428405
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S813-2011",
+  "senateBillNo" : "A510-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S813-2011-1294203600000-REFERRED+TO+FINANCE",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A510-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Establishes an office of education legal services",
   "summary" : "Establishes an office of education legal services within the department of law which shall provide all legal services to school districts except for school districts in the cities of New York, Albany, Buffalo, Rochester, Syracuse and Yonkers. ",
-  "currentCommittee" : "FINANCE",
-  "sameAs" : "A510",
+  "currentCommittee" : null,
+  "sameAs" : "S813",
   "lawSection" : "Executive Law",
-  "previousVersions" : [ "S1177-2009" ],
+  "previousVersions" : [ "A3338-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the executive law, in relation to the establishment of an office of education legal services in the department of law to provide all legal services to certain school districts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T143240.TXT", "SOBI.D110103.T095348.TXT", "SOBI.D101230.T162249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294066428406
+  "luceneModified" : 1294066428410
 }

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A564-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A564-2011-1294203600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Protects non-purchasing senior citizens threatened by eviction pursuant to a cooperative/condominium conversion plan",
+  "summary" : "Provides that a person sixty-two years of age or older, who is a tenant of a dwelling unit located in a building which is located in the city of New York, and who is threatened with eviction because such building is subject to a cooperative or condominium conversion plan, shall be entitled to remain in occupancy of such dwelling unit. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Housing",
+  "previousVersions" : [ "A5610-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to provide continued tenancy for certain non-purchasing senior citizens in the city of New York; and to amend chapter 555 of the laws of 1982 amending the general business law and the administrative code of the city of New York relating to conversion of residential property to cooperative or condominium ownership in the city of New York, in relation to extending the expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294066428409
+}

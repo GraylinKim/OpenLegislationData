@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A508-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A508-2011-1294203600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Extends for two years the authorization of additional sales and compensating use taxes for the county of Albany",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S820",
+  "lawSection" : "Tax Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to the imposition of sales and compensating use taxes by the county of Albany ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294066428399
+}

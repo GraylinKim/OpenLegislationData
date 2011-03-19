@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A566-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A566-2011-1294203600000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Classifies certain multiple entities as a single entity for contribution purposes and requires disclosure of the interests of the components or contributors thereof",
+  "summary" : "Relates to campaign contribution limits on corporations; provides that all controlled corporations (subsidiaries) as defined by the IRS code shall be considered one corporation for the purposes of contribution limits; requires the treasurer of a political committee, other than a party committee, to identify and disclose the economic or other special interests of a majority of its contributors and/or organizers and the identity of any common employer or organizer. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "A538-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to the classification of certain components of a controlled group of corporations as a single entity for purposes of calculating contribution limits, and requiring the identification of the interests of certain contributors ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T095348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294066428415
+}
