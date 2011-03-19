@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295447400000S764-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295447400000,
+    "ayes" : [ "Fuschillo", "Johnson", "Lanza", "Larkin", "Maziarz", "McDonald", "Nozzolio", "Robach", "Young", "Zeldin", "Dilan", "Adams", "Addabbo", "Kennedy", "Perkins", "Smith", "Squadron", "Stavisky" ],
+    "nays" : [ "Diaz" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -83,12 +96,12 @@
   } ],
   "pastCommittees" : [ "TRANSPORTATION" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          764\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sens.  YOUNG,  BONACIC,  DeFRANCISCO,  JOHNSON,  LITTLE,\n         RANZENHOFER, SALAND -- read twice and ordered printed, and when print-\n         ed to be committed to the Committee on Transportation\n\n       AN ACT to amend the highway law, in relation to permitting two  or  more\n         towns to jointly purchase highway equipment\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Section 142 of the highway law is amended by adding  a  new\n    2  subdivision 6 to read as follows:\n    3    6.  A. TWO OR MORE CONTIGUOUS TOWNS MAY, UPON THE REQUEST OF THE HIGH-\n    4  WAY SUPERINTENDENTS OF SUCH TOWNS AND BY A MAJORITY VOTE OF EACH OF  THE\n    5  TOWN  BOARDS  OF SUCH TWO OR MORE CONTIGUOUS TOWNS AUTHORIZE THE HIGHWAY\n    6  SUPERINTENDENTS OF SUCH TOWNS TO PURCHASE AND  PROVIDE  FOR  STORAGE  OF\n    7  HIGHWAY EQUIPMENT AS PROVIDED IN THIS SECTION.\n    8    B.  EACH TOWN THAT SO ELECTS TO PARTICIPATE SHALL BY RESOLUTION OF THE\n    9  TOWN BOARD AUTHORIZE EXPENDITURE OF  FUNDS  FOR  THE  PURPOSE  OF  JOINT\n   10  PURCHASE AND USE OF HIGHWAY EQUIPMENT.\n   11    C.  NOTWITHSTANDING  ANY  PROVISION  OF LAW TO THE CONTRARY, A VILLAGE\n   12  PARTIALLY OR WHOLLY CONTAINED WITHIN A TOWN THAT PARTICIPATES IN A JOINT\n   13  HIGHWAY EQUIPMENT PURCHASE SHALL NOT BE REQUIRED BUT MAY, BY  RESOLUTION\n   14  OF  THE  VILLAGE BOARD, ELECT TO PARTICIPATE IN A JOINT TOWN PURCHASE OF\n   15  HIGHWAY EQUIPMENT.\n   16    S 2. This act shall take effect immediately.\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD02698-01-1\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the highway law, in relation to permitting two or more towns to jointly purchase highway equipment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T121752.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T145243.TXT", "SOBI.D110105.T103608.TXT", "SOBI.D101230.T123228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T131731.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D110119.T121752.TXT", "SOBI.D101230.T145243.TXT", "SOBI.D110105.T103608.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D101230.T123228.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295457472874
+  "luceneModified" : 1295468894319
 }

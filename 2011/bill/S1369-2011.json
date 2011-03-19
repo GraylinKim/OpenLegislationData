@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295447400000S1369-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295447400000,
+    "ayes" : [ "Fuschillo", "Johnson", "Lanza", "Larkin", "Maziarz", "McDonald", "Nozzolio", "Robach", "Young", "Zeldin", "Dilan", "Adams", "Addabbo", "Kennedy", "Perkins", "Smith", "Squadron", "Stavisky" ],
+    "nays" : [ "Diaz" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -39,7 +52,7 @@
   "actClause" : "AN ACT to amend the highway law, in relation to authorizing county highway superintendents to rent road machinery from any city, town or village, and the authority of the town highway superintendent to contract with another municipality, district corporation, school district, community college or any unit of the state university to provide certain services and the use of town machinery, tools and equipment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110119.T121752.TXT", "SOBI.D110106.T163248.TXT", "SOBI.D110110.T163633.TXT", "SOBI.D110106.T162736.TXT", "SOBI.D110111.T180730.TXT", "SOBI.D110106.T164249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110106.T163248.TXT", "SOBI.D110119.T121752.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D110106.T162736.TXT", "SOBI.D110110.T163633.TXT", "SOBI.D110111.T180730.TXT", "SOBI.D110106.T164249.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295457472876
+  "luceneModified" : 1295468894323
 }
