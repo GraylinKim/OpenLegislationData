@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S808-2011",
+  "senateBillNo" : "S813-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S808-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S813-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a registry of wills and codicils",
+  "title" : "Establishes an office of education legal services",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Surrogate's Court Procedure Act",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T142740.TXT", "SOBI.D101230.T143240.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T143240.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293737560020
+  "luceneModified" : 1293737560046
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S808-2011",
+  "senateBillNo" : "S809-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S808-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S809-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a registry of wills and codicils",
+  "title" : "Relates to a residential housing downpayment credit",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Surrogate's Court Procedure Act",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T142740.TXT", "SOBI.D101230.T143240.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T143240.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293737560020
+  "luceneModified" : 1293737560025
 }
