@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1802-2011",
+  "senateBillNo" : "A1939-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1802-2011-1294808400000-REFERRED+TO+EDUCATION",
+    "eventText" : "referred to education",
+    "billEventId" : "A1939-2011-1294808400000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Enacts the New York state school taxpayers' protection act",
   "summary" : "Enacts the NYS school taxpayers' protection act; requires the reporting of suspected corruption or conflicts of interest within the operation of a school district; requires the treasurer of each district to issue an annual report of all moneys received by the board and any expenditures; creates a compensation committee to oversee proposed contracts of all school district bargaining units, administrators and superintendents; creates the office of the state inspector general for education; prohibits retaliation by public school district employers where employees have made complaints of malfeasance; creates crime of defrauding a public pension plan. ",
-  "currentCommittee" : "EDUCATION",
-  "sameAs" : "A1939",
+  "currentCommittee" : null,
+  "sameAs" : "S1802",
   "lawSection" : "Education Law",
-  "previousVersions" : [ "A7280-2009", "S3567-2009" ],
+  "previousVersions" : [ "A7280-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the education law, the executive law, the general municipal law, the labor law, the penal law and the retirement and social security law, in relation to enacting the \"New York state school taxpayers' protection act\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T154619.TXT", "SOBI.D110112.T152028.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T154619.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294865179283
+  "luceneModified" : 1294865179307
 }

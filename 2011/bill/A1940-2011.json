@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1801-2011",
+  "senateBillNo" : "A1940-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1801-2011-1294808400000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "referred to local governments",
+    "billEventId" : "A1940-2011-1294808400000-referred+to+local+governments",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Authorizes town of Brookhaven to establish a housing and community court, and provides for its powers and duties",
   "summary" : "Authorizes the town of Brookhaven to establish a housing and community court to assist the district court in the disposition of all violations of town laws, codes and ordinances, and provides for its powers and duties. ",
-  "currentCommittee" : "LOCAL GOVERNMENT",
-  "sameAs" : "A1940",
+  "currentCommittee" : null,
+  "sameAs" : "S1801",
   "lawSection" : "Town Law",
-  "previousVersions" : [ "S5251-2009", "A7870-2009" ],
+  "previousVersions" : [ "A7870-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the town law, in relation to authorizing the town of Brookhaven to establish a housing and community court ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T154619.TXT", "SOBI.D110112.T153520.TXT", "SOBI.D110112.T152028.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T154619.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294865179284
+  "luceneModified" : 1294865179309
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1804-2011",
+  "senateBillNo" : "A1938-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S1804-2011-1294808400000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "referred to social services",
+    "billEventId" : "A1938-2011-1294808400000-referred+to+social+services",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires kitchen facilities in locations that temporarily house homeless individuals or accept government subsidies to house such individuals outside of the city of",
+  "title" : "Requires kitchen facilities in locations that temporarily house homeless individuals or accept government subsidies to house such individuals outside of the city of New York",
   "summary" : "Requires kitchen facilities in locations that temporarily house homeless individuals or accepts government subsidies to house such individuals outside of the city of New York. ",
-  "currentCommittee" : "SOCIAL SERVICES",
-  "sameAs" : "A1938",
+  "currentCommittee" : null,
+  "sameAs" : "S1804",
   "lawSection" : "Social Services Law",
-  "previousVersions" : [ "A9887-2009", "S6812-2009" ],
+  "previousVersions" : [ "A9887-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to requiring the provision of kitchen facilities in certain locations that temporarily house homeless individuals or accept certain government subsidies outside of the city of New York ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T154619.TXT", "SOBI.D110112.T152028.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T154619.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294865179282
+  "luceneModified" : 1294865179305
 }

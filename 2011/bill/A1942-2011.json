@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1942-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1942-2011-1294808400000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Bing",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits disclosure of highway, bridge, tunnel and other thoroughfare toll and transit records, with exceptions",
+  "summary" : "Prohibits the disclosure of highway, bridge, tunnel and other thoroughfare toll records, and commuter railroad and transit records to protect privacy, unless necessary to perform law enforcement functions of certain public officials and bodies or to further another public entities official functions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Rights Law",
+  "previousVersions" : [ "A4985-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil rights law, in relation to privacy of electronic fare and toll records ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T154619.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294865179313
+}
