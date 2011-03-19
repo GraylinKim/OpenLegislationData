@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A462-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A462-2011-1294203600000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Eliminates the state's recourse to public assistance recipients' residences for reimbursement of expenditures made for their benefit",
+  "summary" : "Eliminates the state's recourse to public assistance recipients' or their relatives' residences, one, two or three family dwelling and the primary residence, including manufactured homes for reimbursement of expenditures made for their benefit. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A8883-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barron",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to exempting certain real and personal property from certain social services enforcement of support provisions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101228.T144833.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293565713306
+}

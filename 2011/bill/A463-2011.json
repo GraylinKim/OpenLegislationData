@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A463-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A463-2011-1294203600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits state borrowing where such borrowing would aid in the relocation of businesses from economically challenged neighborhoods",
+  "summary" : "Prohibits state borrowing where such borrowing would aid in the relocation of businesses from economically challenged neighborhoods; defines terms. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : [ "A8874-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the state finance law, in relation to restricting state borrowing where the purpose or effect of such borrowing would aid in the relocation of any enterprise, business or similar activity from an economically challenged neighborhood ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101228.T144833.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293565713310
+}
