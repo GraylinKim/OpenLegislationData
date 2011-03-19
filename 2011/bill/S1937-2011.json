@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "GRIFFO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to hazing, serving alcohol to minors and illegal drug offenses ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T112923.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110114.T152500.TXT", "SOBI.D110120.T180923.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110131.T105154.TXT", "SOBI.D110114.T112923.TXT", "SOBI.D110114.T152500.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110120.T180923.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295564963700
+  "luceneModified" : 1296489114016
 }

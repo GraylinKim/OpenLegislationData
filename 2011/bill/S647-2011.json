@@ -34,6 +34,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "GRIFFO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to creating adult day services respite demonstration programs ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T153340.TXT", "SOBI.D101228.T152837.TXT", "SOBI.D101228.T115322.TXT", "SOBI.D101228.T114822.TXT", "SOBI.D101228.T114322.TXT", "SOBI.D101228.T112820.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T153340.TXT", "SOBI.D110131.T105154.TXT", "SOBI.D101228.T152837.TXT", "SOBI.D101228.T115322.TXT", "SOBI.D101228.T114822.TXT", "SOBI.D101228.T114322.TXT", "SOBI.D101228.T112820.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293568420046
+  "luceneModified" : 1296489114022
 }

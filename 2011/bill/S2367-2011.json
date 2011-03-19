@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "GRIFFO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "HANNON",
     "branch" : null,
     "contactInfo" : null,
@@ -88,7 +95,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to the purchase of fishing licenses via the internet ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T142840.TXT", "SOBI.D110119.T143307.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110125.T113906.TXT", "SOBI.D110119.T164326.TXT", "SOBI.D110119.T153822.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T105154.TXT", "SOBI.D110119.T142840.TXT", "SOBI.D110119.T143307.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110125.T113906.TXT", "SOBI.D110119.T164326.TXT", "SOBI.D110119.T153822.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295999090100
+  "luceneModified" : 1296489114010
 }

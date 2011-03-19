@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "GRIFFO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to eliminating term limits for regional fish and wildlife management boards ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T142840.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110119.T151326.TXT", "SOBI.D110119.T153822.TXT", "SOBI.D110119.T163826.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T105154.TXT", "SOBI.D110119.T142840.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110119.T151326.TXT", "SOBI.D110119.T163826.TXT", "SOBI.D110119.T153822.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295999090095
+  "luceneModified" : 1296489114011
 }
