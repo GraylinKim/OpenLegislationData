@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S160-2011",
+  "senateBillNo" : "S161-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S160-2011-1294203600000-REFERRED+TO+INSURANCE",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S161-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes procedures for the collection of overpayments from health care providers",
+  "title" : "Makes provisions relating to the allocation of hydroelectric power within the area of the Niagara project",
   "summary" : null,
-  "currentCommittee" : "INSURANCE",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T152704.TXT", "SOBI.D101210.T153204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T153204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292013124674
+  "luceneModified" : 1292013124679
 }
