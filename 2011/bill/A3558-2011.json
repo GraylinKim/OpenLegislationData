@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3558-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to banks",
+    "billEventId" : "A3558-2011-1295931600000-referred+to+banks",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Miller J",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that every banking institution maintaining checking accounts for customers shall pay checks in the order received within account balance",
+  "summary" : "Provides that every banking institution which maintains checking accounts for customers shall pay checks in the order received within account balance; provides such banks may dishonor check for insufficient funds, but then must honor smaller checks within amounts on deposit in the subject account. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1195",
+  "lawSection" : "Banking Law",
+  "previousVersions" : [ "A6685-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the banking law, in relation to the order in which a payor bank shall pay checks ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T152940.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295987380598
+}

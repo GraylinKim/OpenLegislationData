@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3553-2011",
+  "senateBillNo" : "A3568-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to election law",
-    "billEventId" : "A3553-2011-1295931600000-referred+to+election+law",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3568-2011-1295931600000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,63 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Pretlow",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to removing certain requirements for absentee voting; repealer",
-  "summary" : null,
+  "title" : "Requires a driver approaching stationary emergency vehicles, tow or recovery trucks, or highway maintenance vehicles to switch lanes or reduce the speed of a motor vehicle",
+  "summary" : "Requires a driver approaching stationary emergency vehicles, tow or recovery trucks, or highway maintenance vehicles displaying flashing lights to switch lanes or reduce the speed of the driver's vehicle, and be prepared to stop the vehicle. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A7423-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Crouch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Benedetto",
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Hoyt",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Sayward",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the election law, in relation to removing certain requirements for absentee voting and to repeal certain provisions of such law relating thereto ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T152940.TXT", "SOBI.D110125.T152439.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T152940.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987380650
+  "luceneModified" : 1295987380665
 }

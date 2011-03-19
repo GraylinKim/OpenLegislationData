@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3551-2011",
+  "senateBillNo" : "A3563-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to health",
-    "billEventId" : "A3551-2011-1295931600000-referred+to+health",
+    "eventText" : "referred to tourism, arts and sports development",
+    "billEventId" : "A3563-2011-1295931600000-referred+to+tourism%2C+arts+and+sports+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Morelle",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to referrals of patients for health related items or services",
-  "summary" : "Relates to referrals of patients for health related items or services. ",
+  "title" : "Creates the New York state culture areas program",
+  "summary" : "Creates the New York State cultural development areas program; provides for the designation of cultural development areas; provides that capital improvements to qualified buildings within a cultural development area are eligible for real property tax exemptions; provides for a personal income tax credit for donations made to a qualifying capital project. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
-  "previousVersions" : [ "A9933-2009" ],
+  "lawSection" : "Arts and Cultural Affairs Law",
+  "previousVersions" : [ "A4837-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Weisenberg",
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Nolan",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,7 +55,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Abbate",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,28 +83,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lavine",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jaffee",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Montesano",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Magnarelli",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -85,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to referrals of patients for health or health related items or services ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T152940.TXT", "SOBI.D110125.T152439.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T152940.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987380634
+  "luceneModified" : 1295987380636
 }
