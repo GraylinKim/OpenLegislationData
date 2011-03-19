@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295964000000S598-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295964000000,
+    "ayes" : [ "Martins", "Ball", "Little", "McDonald", "Ritchie", "Stewart-Cousins", "Oppenheimer", "Klein" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Local Government",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -76,12 +89,12 @@
   } ],
   "pastCommittees" : [ "LOCAL GOVERNMENT" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          598\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by Sens. FUSCHILLO, DeFRANCISCO, LARKIN, MAZIARZ, RANZENHOF-\n         ER, VALESKY -- read twice and ordered printed, and when printed to  be\n         committed to the Committee on Local Government\n\n       AN  ACT  to  amend  the  real  property tax law, in relation to allowing\n         statements of taxes via electronic mail\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Paragraph (a) of subdivision 1 of section 922 of the real\n    2  property tax law, as amended by section 5 of part B of  chapter  389  of\n    3  the laws of 1997 and subparagraph (iii) as amended by chapter 256 of the\n    4  laws of 2005, is amended to read as follows:\n    5    (a)  Upon  receipt of the tax roll and warrant, the collecting officer\n    6  shall mail to each owner of real property at  the  tax  billing  address\n    7  listed  thereon a statement showing the amount of taxes due on the prop-\n    8  erty. SUCH STATEMENT SHALL BE  MAILED:  VIA  THE  UNITED  STATES  POSTAL\n    9  SERVICE;  VIA  AN  ELECTRONIC  STATEMENT  TO  AN ELECTRONIC MAIL ADDRESS\n   10  PROVIDED BY THE OWNER IF SUCH SERVICE  IS  PROVIDED  BY  THE  COLLECTING\n   11  OFFICER;  OR BOTH IF ELECTRONIC MAIL STATEMENTS ARE AVAILABLE. THE OWNER\n   12  OF REAL PROPERTY SHALL BE GIVEN THE OPPORTUNITY TO ELECT TO: CONTINUE TO\n   13  RECEIVE A PAPER STATEMENT; CONTINUE TO RECEIVE A PAPER STATEMENT AND  AN\n   14  ELECTRONIC  STATEMENT;  OR  RECEIVE  ONLY  AN  ELECTRONIC STATEMENT. The\n   15  statement must contain:\n   16    (i) the mailing address of the owner;\n   17    (ii) a description sufficient to effectively apprise the recipient  of\n   18  the identity and location of the parcel for which it is issued;\n   19    (iii)  the taxes due on such parcel and the data used to calculate the\n   20  amount due, including but not limited to: the full value of  the  parcel\n   21  as  determined by the assessor; the uniform percentage of value applica-\n   22  ble to the assessing unit (or, in a special assessing unit, the  uniform\n   23  percentage  of  value applicable to the class) pursuant to section three\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD00202-01-1\n\n       S. 598                              2\n\n    1  hundred five of this chapter; the total assessed value  of  the  parcel;\n    2  the  assessed  value  of  the exemptions applied to such parcel for each\n    3  taxing purpose and the full value which each such exemption  represents;\n    4  the  taxable  assessed  value of the parcel for each taxing purpose; and\n    5  the tax rate for each taxing purpose;\n    6    (iv) the total amount of taxes levied for each taxing purpose, and the\n    7  percentage increase or decrease in such amount relative to the preceding\n    8  levy;\n    9    (v) the period covered by the taxes;\n   10    (vi) the time, manner and  places  fixed  for  receiving  payments  of\n   11  taxes;\n   12    (vii) the name and address of the collecting officer;\n   13    (viii) the interest and penalties which shall accrue if payment is not\n   14  timely made;\n   15    (ix) a legend stating \"if you wish to receive a receipt for payment of\n   16  this tax bill, place an 'x' in this box { }\";\n   17    (x)  explanations  of any abbreviations or technical terms used in the\n   18  statement of taxes;\n   19    (xi) if school district taxes  are  included  on  the  statement,  the\n   20  school  district  code  established  by  the  department of taxation and\n   21  finance;\n   22    (xii) an explanation of the assessment review process;\n   23    (xiii) such other information as may be prescribed by law; [and]\n   24    (xiv) if, not later than ten days after the filing  of  the  preceding\n   25  tentative  assessment  roll,  the assessing unit mailed to each owner of\n   26  taxable real property a notice in a form prescribed by the  state  board\n   27  containing the information described by subparagraphs (iii) and (xii) of\n   28  this  paragraph  (excluding the taxes due on the parcel and the tax rate\n   29  for each taxing purpose), the statement of taxes need  not  include  the\n   30  information prescribed by subparagraph (xii) of this paragraph; AND\n   31    (XV)  IF SUCH SERVICE IS PROVIDED BY A COLLECTION OFFICER, A STATEMENT\n   32  ON A SEPARATE FORM NOTIFYING A HOMEOWNER THAT HE OR SHE MAY  PROVIDE  AN\n   33  ELECTRONIC  MAIL  ADDRESS  TO THE COLLECTING OFFICER, RECEIVE ELECTRONIC\n   34  STATEMENTS OF TAXES AND OPT OUT OF RECEIVING PAPER STATEMENTS.\n   35    S 2. This act shall take effect on the ninetieth day  after  it  shall\n   36  have  become  a  law; provided, however, that effective immediately, the\n   37  addition, amendment and/or repeal of any rule  or  regulation  necessary\n   38  for  the  implementation of this act on its effective date is authorized\n   39  and directed to be made and completed on or before such effective date.\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the real property tax law, in relation to allowing statements of taxes via electronic mail ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101227.T150103.TXT", "SOBI.D101222.T161351.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D110125.T150924.TXT", "SOBI.D101222.T155350.TXT", "SOBI.D110104.T134505.TXT", "SOBI.D110125.T135419.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101227.T150103.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D101222.T161351.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D101222.T155350.TXT", "SOBI.D110125.T150924.TXT", "SOBI.D110126.T115311.TXT-agenda-1.xml", "SOBI.D110104.T134505.TXT", "SOBI.D110125.T135419.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295986164679
+  "luceneModified" : 1296060791356
 }

@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295964000000S800-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295964000000,
+    "ayes" : [ "Martins", "Ball", "Little", "McDonald", "Ritchie", "Stewart-Cousins", "Oppenheimer", "Klein" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Local Government",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -62,12 +75,12 @@
   } ],
   "pastCommittees" : [ "LOCAL GOVERNMENT" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          800\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sens.  YOUNG,  BONACIC, DeFRANCISCO, RANZENHOFER -- read\n         twice and ordered printed, and when printed to  be  committed  to  the\n         Committee on Local Government\n\n       AN  ACT to amend the municipal home rule law, in relation to authorizing\n         the electronic transmission of proposed local laws  to  members  of  a\n         local legislative body\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Subdivision 4 of section 20 of the municipal home rule law,\n    2  as amended by chapter 45 of the laws of 1974,  is  amended  to  read  as\n    3  follows:\n    4    4.  A  proposed  local  law  may be introduced only by a member of the\n    5  legislative body at a meeting of  such  body  or  as  may  be  otherwise\n    6  prescribed  by  the  rules of procedure adopted by the legislative body.\n    7  No such local law shall be passed until it shall have been in its  final\n    8  form  and  either  (a)  upon  the desks or table of the members at least\n    9  seven calendar days, exclusive of Sunday, prior to its final passage, or\n   10  (b) mailed to each of them in postpaid properly addressed  and  securely\n   11  closed  envelopes or wrappers in a post box or post office of the United\n   12  States post office department within the local government at  least  ten\n   13  calendar  days,  exclusive of Sunday, prior to its final passage, OR (C)\n   14  E-MAILED TO THE E-MAIL IN-BOX OF EACH OF THEM IN THE  PORTABLE  DOCUMENT\n   15  FORMAT  (PDF)  AT LEAST TEN CALENDAR DAYS, EXCLUSIVE OF SUNDAY, PRIOR TO\n   16  ITS FINAL PASSAGE, PROVIDED THAT (I) THE LOCAL GOVERNMENT HAS DOCUMENTED\n   17  THAT EACH MEMBER OF THE LEGISLATIVE BODY HAS AN E-MAIL ADDRESS, (II) THE\n   18  LOCAL GOVERNMENT HAS PUBLISHED SUCH E-MAIL ADDRESS ON THE BULLETIN BOARD\n   19  OF THE LOCAL GOVERNMENT  CLERK,  AND  (III)  THE  LEGISLATIVE  BODY  HAS\n   20  ADOPTED  A  RESOLUTION  AUTHORIZING SUCH ELECTRONIC DELIVERY; unless the\n   21  elective or appointive chief executive officer,  if  there  be  one,  or\n   22  otherwise  the  chairman  of  the board of supervisors, in the case of a\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD02625-01-1\n\n       S. 800                              2\n\n    1  county, the mayor in the case of a city or village or the supervisor  in\n    2  the  case  of  a  town  shall have certified as to the necessity for its\n    3  immediate passage and such local law be passed by the  affirmative  vote\n    4  of two-thirds of the total voting power of the legislative body.\n    5    S 2. This act shall take effect immediately.\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the municipal home rule law, in relation to authorizing the electronic transmission of proposed local laws to members of a local legislative body ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T151257.TXT", "SOBI.D110111.T153721.TXT", "SOBI.D101230.T144741.TXT", "SOBI.D110125.T150924.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D110105.T104107.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T151257.TXT", "SOBI.D110111.T153721.TXT", "SOBI.D101230.T144741.TXT", "SOBI.D110125.T150924.TXT", "SOBI.D110126.T115311.TXT-agenda-1.xml", "SOBI.D110125.T135419.TXT", "SOBI.D110105.T104107.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295986164681
+  "luceneModified" : 1296060791359
 }

@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295964000000S1824-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295964000000,
+    "ayes" : [ "Martins", "Ball", "McDonald", "Stewart-Cousins", "Oppenheimer", "Klein" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Little", "Ritchie" ],
+    "description" : "Local Government",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -39,7 +52,7 @@
   "actClause" : "AN ACT to amend the general municipal law and the municipal home rule law, in relation to the requirements for consolidating or dissolving certain local government entities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T104403.TXT", "SOBI.D110125.T103903.TXT", "SOBI.D110113.T120318.TXT", "SOBI.D110113.T122820.TXT", "SOBI.D110114.T091402.TXT", "SOBI.D110113.T190432.TXT", "SOBI.D110113.T123820.TXT", "SOBI.D110113.T124320.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T103903.TXT", "SOBI.D110125.T104403.TXT", "SOBI.D110113.T120318.TXT", "SOBI.D110113.T122820.TXT", "SOBI.D110126.T115311.TXT-agenda-1.xml", "SOBI.D110113.T190432.TXT", "SOBI.D110114.T091402.TXT", "SOBI.D110113.T123820.TXT", "SOBI.D110113.T124320.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295970243867
+  "luceneModified" : 1296060791362
 }
