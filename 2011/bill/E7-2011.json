@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "E7-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "adopted",
+    "billEventId" : "E7-2011-1294203600000-adopted",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requiring the Speaker of the Assembly to appoint a two person committee to inform the Governor the Assembly is ready to proceed with business",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Assembly",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nASSEMBLY  RESOLUTION  establishing  a  committee of the Assembly to wait\nupon the Governor\n\nRESOLVED, That a committee of two be appointed by the  Speaker  to  wait\nupon  the  Governor  and inform him of the election of Sheldon Silver as\nSpeaker of the Assembly and that the Assembly is organized and ready  to\nproceed with business.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294250212256
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "R6-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "ADOPTED",
+    "billEventId" : "R6-2011-1294203600000-ADOPTED",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SKELOS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requiring the Temporary President of the Senate to appoint a two person committee to inform the Assembly the Senate is ready to proceed with business",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Legislative",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nSENATE  RESOLUTION  resolved  that  the  Temporary  President  appoint a\nCommittee of two to wait upon the Assembly and inform that body  of  the\nelection  of Dean G. Skelos as Temporary President of the Senate for the\nyears 2011-2012, and that the Senate is organized and ready  to  proceed\nwith business\n\nRESOLVED,  That  the  Temporary  President  appoint  a  Committee of two\ncomprised of Senator Mark Grisanti and Senator Gustavo  Rivera  for  the\npurpose  of  waiting  upon  the  Assembly and informing that body of the\nelection of Dean G. Skelos as Temporary President of the Senate for  the\nyears  2011-2012,  and that the Senate is organized and ready to proceed\nwith business.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294250212238
+}

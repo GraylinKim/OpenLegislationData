@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "R8-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "ADOPTED",
+    "billEventId" : "R8-2011-1294203600000-ADOPTED",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SKELOS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Providing for the hours of meeting by the Senate for the years 2011-2012",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Legislative",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nSENATE  RESOLUTION  providing for the hours of meeting by the Senate for\nthe years 2011-2012\n\nRESOLVED, That unless otherwise ordered, the hours  of  meeting  of  the\nSenate  shall  be as follows: Mondays and Tuesdays at 3:00 P.M., Wednes-\ndays and all other days at 11:00 A.M.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294250212250
+}

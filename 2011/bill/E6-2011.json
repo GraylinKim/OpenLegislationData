@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "E6-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "adopted",
+    "billEventId" : "E6-2011-1294203600000-adopted",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Providing for the adoption of the Rules of the Assembly for 2011-2012",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Assembly",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nASSEMBLY  RESOLUTION  providing  for  the  adoption  of the Rules of the\nAssembly for 2011-2012\n\nRESOLVED, That the Rules of the Assembly for  2008  and  2009,  as  last\namended, be adopted as the Rules of the Assembly for 2011 and 2012.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294250212253
+}

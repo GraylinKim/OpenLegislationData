@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "E8-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "adopted",
+    "billEventId" : "E8-2011-1294203600000-adopted",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Farrell",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requiring the Speaker of the Assembly to appoint a two person committee to inform the Senate of the election of Sheldon Silver as Speaker of the Assembly",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Assembly",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nASSEMBLY  RESOLUTION  establishing  a  committee of the Assembly to wait\nupon the Senate\n\nRESOLVED, That a committee of two be appointed by the  Speaker  to  wait\nupon  the  Senate and inform that body of the election of Sheldon Silver\nas Speaker of the Assembly and that the Assembly is organized and  ready\nto proceed with business.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294250212265
+}

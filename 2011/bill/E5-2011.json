@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "E5-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "adopted",
+    "billEventId" : "E5-2011-1294203600000-adopted",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Nolan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directing the Clerk of the Assembly to arrange seats for representatives of the press",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Assembly",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nASSEMBLY RESOLUTION directing the Clerk of the Assembly to arrange seats\nfor representatives of the press\n\nRESOLVED, That upon the approval of the Speaker, the Clerk of the Assem-\nbly  be and hereby is directed to arrange seats for the accommodation of\nthe representatives of the press.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294250212233
+}
