@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S791-2011",
+  "senateBillNo" : "S824-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGRICULTURE",
-    "billEventId" : "S791-2011-1294203600000-REFERRED+TO+AGRICULTURE",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S824-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "LITTLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Regulates farm pond dams",
+  "title" : "Relates to development of a permit system to provide disabled veterans access to certain restricted bodies of water through the use of float planes",
   "summary" : null,
-  "currentCommittee" : "AGRICULTURE",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Agriculture and Markets Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the agriculture and markets law and the environmental conservation law, in relation to farm pond dams ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T124729.TXT", "SOBI.D101230.T144741.TXT", "SOBI.D101230.T125229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T144741.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293738461293
+  "luceneModified" : 1293738461308
 }

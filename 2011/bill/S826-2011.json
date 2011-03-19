@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S826-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S826-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LAVALLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Sets forth the manner by which an owner of real property in the town of Southampton which is bisected by a school district boundary shall pay school taxes",
+  "summary" : null,
+  "currentCommittee" : "LOCAL GOVERNMENT",
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101230.T144741.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293738461333
+}

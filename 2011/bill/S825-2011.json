@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S825-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S825-2011-1294203600000-REFERRED+TO+HEALTH",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to payments for residential health care facilities in Essex county",
+  "summary" : null,
+  "currentCommittee" : "HEALTH",
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101230.T144741.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293738461330
+}
