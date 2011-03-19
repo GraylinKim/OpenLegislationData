@@ -36,6 +36,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "id" : "1295969400000S600-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295969400000,
+    "ayes" : [ "Saland", "DeFrancisco", "Flanagan", "Fuschillo", "Gallivan", "Golden", "Lanza", "Nozzolio", "O'Mara", "Huntley", "Perkins", "Squadron", "Espaillat" ],
+    "nays" : [ "Parker" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Gianaris", "Duane" ],
+    "description" : "Codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "sponsor" : {
     "id" : null,
@@ -94,7 +107,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to the definitions of the terms \"impaired\" and \"intoxication\" for the purposes of such law ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T121752.TXT", "SOBI.D110110.T155131.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D110104.T134505.TXT", "SOBI.D110126.T102743.TXT", "SOBI.D101227.T150103.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml-agenda-1.xml", "SOBI.D110120.T102826.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D101222.T160851.TXT", "SOBI.D101222.T153349.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T121752.TXT", "SOBI.D110110.T155131.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D110104.T134505.TXT", "SOBI.D110126.T102743.TXT", "SOBI.D101227.T150103.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml-agenda-1.xml", "SOBI.D110120.T102826.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D101222.T160851.TXT", "SOBI.D101222.T153349.TXT", "SOBI.D110126.T133258.TXT-agenda-1.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1296055663422
+  "luceneModified" : 1296066778043
 }

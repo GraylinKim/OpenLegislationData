@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295969400000S1746-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295969400000,
+    "ayes" : [ "Saland", "DeFrancisco", "Flanagan", "Fuschillo", "Gallivan", "Golden", "Lanza", "Nozzolio", "O'Mara", "Gianaris", "Huntley", "Espaillat" ],
+    "nays" : [ "Parker" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Duane", "Perkins", "Squadron" ],
+    "description" : "Codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -60,7 +73,7 @@
   "actClause" : "AN ACT to amend the civil rights law, in relation to prohibiting certain felons from changing their names ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T145515.TXT", "SOBI.D110112.T103956.TXT", "SOBI.D110120.T122901.TXT", "SOBI.D110112.T111958.TXT", "SOBI.D110112.T101455.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D110118.T181704.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T145515.TXT", "SOBI.D110120.T122901.TXT", "SOBI.D110112.T103956.TXT", "SOBI.D110112.T101455.TXT", "SOBI.D110112.T111958.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D110126.T133258.TXT-agenda-1.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1295981659577
+  "luceneModified" : 1296066778058
 }

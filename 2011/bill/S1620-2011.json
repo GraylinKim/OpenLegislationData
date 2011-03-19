@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295969400000S1620-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295969400000,
+    "ayes" : [ "Saland", "DeFrancisco", "Flanagan", "Fuschillo", "Gallivan", "Golden", "Lanza", "Nozzolio", "Gianaris", "Huntley", "Parker", "Perkins", "Squadron", "Espaillat" ],
+    "nays" : [ "O'Mara", "Duane" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -46,7 +59,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to creating a hazard ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T173144.TXT", "SOBI.D110110.T170157.TXT", "SOBI.D110110.T154619.TXT", "SOBI.D110111.T154221.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110110.T162131.TXT", "SOBI.D110114.T181509.TXT", "SOBI.D110125.T135419.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T173144.TXT", "SOBI.D110110.T170157.TXT", "SOBI.D110110.T154619.TXT", "SOBI.D110111.T154221.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110110.T162131.TXT", "SOBI.D110114.T181509.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D110126.T133258.TXT-agenda-1.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1295999090943
+  "luceneModified" : 1296066778056
 }

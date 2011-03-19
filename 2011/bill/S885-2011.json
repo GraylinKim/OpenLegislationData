@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295969400000S885-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295969400000,
+    "ayes" : [ "Saland", "DeFrancisco", "Flanagan", "Fuschillo", "Gallivan", "Golden", "Lanza", "Nozzolio", "O'Mara", "Gianaris", "Duane", "Huntley", "Parker", "Perkins", "Squadron", "Espaillat" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -34,12 +47,12 @@
   "coSponsors" : null,
   "pastCommittees" : [ "CODES" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          885\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sen. KRUEGER -- read twice and ordered printed, and when\n         printed to be committed to the Committee on Codes\n\n       AN ACT to amend the criminal procedure law, in relation to expanding the\n         geographical jurisdiction for crimes attendant to  identify  theft  or\n         unlawful possession of personal identification information\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Section 20.10 of the criminal procedure law is  amended  by\n    2  adding a new subdivision 5 to read as follows:\n    3    5. \"CRIMINAL TRANSACTION.\" WHEN CONDUCT WHICH ESTABLISHES AT LEAST ONE\n    4  OFFENSE, AND WHICH IS COMPRISED OF TWO OR MORE OR A GROUP OF ACTS EITHER\n    5  (A)  SO  CLOSELY RELATED AND CONNECTED IN POINT OF TIME AND CIRCUMSTANCE\n    6  OF COMMISSION AS TO CONSTITUTE A SINGLE CRIMINAL  INCIDENT,  OR  (B)  SO\n    7  CLOSELY  RELATED  IN  CRIMINAL  PURPOSE  OR  OBJECTIVE  AS TO CONSTITUTE\n    8  ELEMENTS OR INTEGRAL PARTS OF A SINGLE CRIMINAL VENTURE.\n    9    S 2. Paragraph (l) of subdivision 4 of section 20.40 of  the  criminal\n   10  procedure law, as amended by chapter 346 of the laws of 2007, is amended\n   11  to read as follows:\n   12    (l)  [An]  NOTWITHSTANDING  ANY  PROVISION  OF THIS SUBDIVISION TO THE\n   13  CONTRARY, AN  offense  of  identity  theft  or  unlawful  possession  of\n   14  personal  identification  information [may], TOGETHER WITH AN ADDITIONAL\n   15  OFFENSE OR OFFENSES ARISING FROM THE SAME CRIMINAL TRANSACTION, SHALL be\n   16  prosecuted (i) in any county in which part of [the] SUCH IDENTITY  THEFT\n   17  ON  UNLAWFUL  POSSESSION  OF PERSONAL IDENTIFICATION INFORMATION offense\n   18  took place regardless of whether the defendant was actually  present  in\n   19  such  county,  or  (ii)  in  the  county in which the person who suffers\n   20  financial loss resided at the time of the commission of [the] SUCH IDEN-\n   21  TITY THEFT ON UNLAWFUL POSSESSION OF PERSONAL IDENTIFICATION INFORMATION\n   22  offense, or (iii) in the county where the person  whose  personal  iden-\n   23  tification information was used in the commission of [the] SUCH IDENTIFY\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD03869-01-1\n\n       S. 885                              2\n\n    1  THEFT  ON  UNLAWFUL  POSSESSION  OF  PERSONAL IDENTIFICATION INFORMATION\n    2  offense resided at the time of the commission of the  offense.  The  law\n    3  enforcement  agency of any such county shall take a police report of the\n    4  matter  and  provide  the  complainant  with a copy of such report at no\n    5  charge.\n    6    S 3. This act shall take effect on the one hundred eightieth day after\n    7  it shall have become a law.\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to expanding the geographical jurisdiction for crimes attendant to identify theft or unlawful possession of personal identification information ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T105353.TXT", "SOBI.D110103.T114901.TXT", "SOBI.D110103.T120903.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D110106.T111204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T105353.TXT", "SOBI.D110103.T114901.TXT", "SOBI.D110103.T120903.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D110126.T133258.TXT-agenda-1.xml", "SOBI.D110106.T111204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295981659563
+  "luceneModified" : 1296066778046
 }
