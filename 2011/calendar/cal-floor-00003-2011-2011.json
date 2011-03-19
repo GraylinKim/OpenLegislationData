@@ -1,0 +1,305 @@
+{
+  "id" : "cal-floor-00003-2011-2011",
+  "type" : "floor",
+  "year" : 2011,
+  "supplementals" : [ {
+    "id" : "cal-floor-00003-2011-2011-supp-",
+    "sections" : [ {
+      "name" : "BILLS ON ORDER OF FIRST REPORT",
+      "id" : "cal-floor-00003-2011-2011-supp--sect-BILLS ON ORDER OF FIRST REPORT",
+      "type" : "C",
+      "calendarEntries" : [ {
+        "id" : "cal-floor-00003-2011-2011-supp--sect-BILLS ON ORDER OF FIRST REPORT-0000000007",
+        "bill" : {
+          "year" : 2011,
+          "senateBillNo" : "S331-2011",
+          "billEvents" : null,
+          "votes" : null,
+          "sponsor" : {
+            "id" : null,
+            "position" : null,
+            "fullname" : "DIAZ",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          },
+          "title" : "Relates to matching funds for grants under the naturally occurring retirement community supportive service program",
+          "summary" : "Permits support from contiguous areas to provide required matching funds for grants under the naturally occurring retirement community supportive service program. ",
+          "currentCommittee" : null,
+          "sameAs" : "A395",
+          "lawSection" : "Elder Law",
+          "previousVersions" : [ "S7513-2009" ],
+          "coSponsors" : [ {
+            "id" : null,
+            "position" : null,
+            "fullname" : "MONTGOMERY",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          } ],
+          "pastCommittees" : [ "AGING" ],
+          "fulltext" : "",
+          "memo" : "",
+          "law" : null,
+          "actClause" : "AN ACT to amend the elder law, in relation to matching funds for grants under the naturally occurring retirement community supportive service program ",
+          "sortIndex" : -1,
+          "latestAmendment" : null,
+          "sobiReferenceList" : [ "SOBI.D101215.T121402.TXT", "SOBI.D110124.T145133.TXT", "SOBI.D101215.T120402.TXT", "SOBI.D101216.T102903.TXT", "SOBI.D110110.T161130.TXT", "SOBI.D101215.T121902.TXT", "SOBI.D101215.T115901.TXT", "SOBI.D101223.T143613.TXT" ],
+          "luceneActive" : true,
+          "luceneModified" : 1295898693397
+        },
+        "no" : "7",
+        "billHigh" : null,
+        "motionDate" : null,
+        "subBill" : null
+      }, {
+        "id" : "cal-floor-00003-2011-2011-supp--sect-BILLS ON ORDER OF FIRST REPORT-0000000008",
+        "bill" : {
+          "year" : 2011,
+          "senateBillNo" : "S638-2011",
+          "billEvents" : null,
+          "votes" : null,
+          "sponsor" : {
+            "id" : null,
+            "position" : null,
+            "fullname" : "GOLDEN",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          },
+          "title" : "Relating to assessment exemptions for living quarters for a parent or grandparent",
+          "summary" : "Relates to assessment exemptions for living quarters for a parent or grandparent. ",
+          "currentCommittee" : null,
+          "sameAs" : "A285",
+          "lawSection" : "Real Property Tax Law",
+          "previousVersions" : [ "S2746-2009" ],
+          "coSponsors" : null,
+          "pastCommittees" : [ "AGING" ],
+          "fulltext" : "",
+          "memo" : "",
+          "law" : null,
+          "actClause" : "AN ACT to amend the real property tax law, in relation to assessment exemptions for living quarters for a parent or grandparent ",
+          "sortIndex" : -1,
+          "latestAmendment" : null,
+          "sobiReferenceList" : [ "SOBI.D101228.T140830.TXT", "SOBI.D101228.T105318.TXT", "SOBI.D110124.T145133.TXT", "SOBI.D101228.T110820.TXT", "SOBI.D101228.T110319.TXT", "SOBI.D101228.T115822.TXT" ],
+          "luceneActive" : true,
+          "luceneModified" : 1295898693402
+        },
+        "no" : "8",
+        "billHigh" : null,
+        "motionDate" : null,
+        "subBill" : null
+      } ],
+      "cd" : "0150"
+    }, {
+      "name" : "BILLS ON ORDER OF SECOND REPORT",
+      "id" : "cal-floor-00003-2011-2011-supp--sect-BILLS ON ORDER OF SECOND REPORT",
+      "type" : "C",
+      "calendarEntries" : [ {
+        "id" : "cal-floor-00003-2011-2011-supp--sect-BILLS ON ORDER OF SECOND REPORT-0000000005",
+        "bill" : {
+          "year" : 2011,
+          "senateBillNo" : "S764-2011",
+          "billEvents" : null,
+          "votes" : [ {
+            "id" : "1295447400000S764-2011--1--1",
+            "voteType" : 2,
+            "voteDate" : 1295447400000,
+            "ayes" : [ "Fuschillo", "Johnson", "Lanza", "Larkin", "Maziarz", "McDonald", "Nozzolio", "Robach", "Young", "Zeldin", "Dilan", "Adams", "Addabbo", "Kennedy", "Perkins", "Smith", "Squadron", "Stavisky" ],
+            "nays" : [ "Diaz" ],
+            "abstains" : null,
+            "excused" : null,
+            "ayeswr" : null,
+            "description" : "Transportation",
+            "sobiReferenceList" : [ ],
+            "luceneActive" : true,
+            "luceneModified" : 0
+          } ],
+          "sponsor" : {
+            "id" : null,
+            "position" : null,
+            "fullname" : "YOUNG",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          },
+          "title" : "Permits two or more contiguous towns to jointly purchase highway equipment",
+          "summary" : "Permits two or more contiguous towns to jointly purchase highway equipment. ",
+          "currentCommittee" : null,
+          "sameAs" : null,
+          "lawSection" : "Highway Law",
+          "previousVersions" : [ "S3417-2009" ],
+          "coSponsors" : [ {
+            "id" : null,
+            "position" : null,
+            "fullname" : "BONACIC",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "DEFRANCISCO",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "JOHNSON",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "LARKIN",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "LITTLE",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "RANZENHOFER",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "SALAND",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          } ],
+          "pastCommittees" : [ "TRANSPORTATION" ],
+          "fulltext" : "",
+          "memo" : "",
+          "law" : null,
+          "actClause" : "AN ACT to amend the highway law, in relation to permitting two or more towns to jointly purchase highway equipment ",
+          "sortIndex" : -1,
+          "latestAmendment" : null,
+          "sobiReferenceList" : [ "SOBI.D110119.T121752.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T145243.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml-agenda-1.xml", "SOBI.D110124.T151135.TXT", "SOBI.D110105.T103608.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D101230.T123228.TXT" ],
+          "luceneActive" : true,
+          "luceneModified" : 1295899895075
+        },
+        "no" : "5",
+        "billHigh" : null,
+        "motionDate" : null,
+        "subBill" : null
+      }, {
+        "id" : "cal-floor-00003-2011-2011-supp--sect-BILLS ON ORDER OF SECOND REPORT-0000000006",
+        "bill" : {
+          "year" : 2011,
+          "senateBillNo" : "S1369-2011",
+          "billEvents" : null,
+          "votes" : [ {
+            "id" : "1295447400000S1369-2011--1--1",
+            "voteType" : 2,
+            "voteDate" : 1295447400000,
+            "ayes" : [ "Fuschillo", "Johnson", "Lanza", "Larkin", "Maziarz", "McDonald", "Nozzolio", "Robach", "Young", "Zeldin", "Dilan", "Adams", "Addabbo", "Kennedy", "Perkins", "Smith", "Squadron", "Stavisky" ],
+            "nays" : [ "Diaz" ],
+            "abstains" : null,
+            "excused" : null,
+            "ayeswr" : null,
+            "description" : "Transportation",
+            "sobiReferenceList" : [ ],
+            "luceneActive" : true,
+            "luceneModified" : 0
+          } ],
+          "sponsor" : {
+            "id" : null,
+            "position" : null,
+            "fullname" : "DILAN",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          },
+          "title" : "Authorizes county highway superintendents to rent road machinery from any city, town or village",
+          "summary" : "Authorizes county highway superintendents to rent road machinery from any city, town or village. ",
+          "currentCommittee" : null,
+          "sameAs" : null,
+          "lawSection" : "Highway Law",
+          "previousVersions" : [ "S5426-2009" ],
+          "coSponsors" : null,
+          "pastCommittees" : [ "TRANSPORTATION" ],
+          "fulltext" : "",
+          "memo" : "",
+          "law" : null,
+          "actClause" : "AN ACT to amend the highway law, in relation to authorizing county highway superintendents to rent road machinery from any city, town or village, and the authority of the town highway superintendent to contract with another municipality, district corporation, school district, community college or any unit of the state university to provide certain services and the use of town machinery, tools and equipment ",
+          "sortIndex" : -1,
+          "latestAmendment" : null,
+          "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110119.T121752.TXT", "SOBI.D110106.T163248.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml-agenda-1.xml", "SOBI.D110124.T151135.TXT", "SOBI.D110110.T163633.TXT", "SOBI.D110106.T162736.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D110111.T180730.TXT", "SOBI.D110106.T164249.TXT" ],
+          "luceneActive" : true,
+          "luceneModified" : 1295899895077
+        },
+        "no" : "6",
+        "billHigh" : null,
+        "motionDate" : null,
+        "subBill" : null
+      } ],
+      "cd" : "0200"
+    }, {
+      "name" : "BILLS ON THIRD READING",
+      "id" : "cal-floor-00003-2011-2011-supp--sect-BILLS ON THIRD READING",
+      "type" : "C",
+      "calendarEntries" : [ {
+        "id" : "cal-floor-00003-2011-2011-supp--sect-BILLS ON THIRD READING-0000000009",
+        "bill" : {
+          "year" : 2011,
+          "senateBillNo" : "S2026-2011",
+          "billEvents" : null,
+          "votes" : null,
+          "sponsor" : {
+            "id" : null,
+            "position" : null,
+            "fullname" : "FLANAGAN",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          },
+          "title" : "Relates to apportionment of state aid for libraries, teachers of tomorrow teacher recruitment and retention program and duties of school districts",
+          "summary" : "Relates to apportionment of state aid for libraries, teachers of tomorrow teacher recruitment and retention program and duties of school districts; provides for extending the effectiveness of certain chapters relating to educational programs. ",
+          "currentCommittee" : "RULES",
+          "sameAs" : "A2289",
+          "lawSection" : "Education Law",
+          "previousVersions" : null,
+          "coSponsors" : null,
+          "pastCommittees" : [ "FINANCE" ],
+          "fulltext" : "",
+          "memo" : "",
+          "law" : null,
+          "actClause" : "AN ACT to amend the education law, in relation to apportionment of state aid to libraries and library systems, teachers of tomorrow teacher recruitment and retention program and duties of school districts; to amend chapter 756 of the laws of 1992 relating to funding a program for work force education conducted by the consortium for worker education in New York city, in relation to effectiveness of such provisions; to amend chapter 425 of the laws of 2002, amending the education law relating to the provision of supplemental educational services, attendance at a safe public school and the suspension of pupils who bring a firearm to or possess a firearm at a school, in relation to the effectiveness of such chapter; to amend chapter 101 of the laws of 2003, amending the education law relating to implementation of the No Child Left Behind Act of 2001, in relation to the effectiveness thereof; to amend chapter 147 of the laws of 2001, amending the education law relating to conditional appointment of school district, charter school or BOCES employees, in relation to the effectiveness thereof; to amend chapter 57 of the laws of 2008 amending the education law relating to the universal pre-kindergarten program, in relation to extending the provisions thereof; to amend chapter 386 of the laws of 1996, amending the education law relating to providing for a waiver allowing state aid in certain circumstances, in relation to extending education, in relation to extending the provisions thereof; to amend chapter 169 of the laws of 1994 relating to certain provisions related to the 1994-95 state operations, aid to localities, capital projects and debt service budgets, in relation to the effectiveness thereof; and to amend chapter 82 of the laws of 1995, amending the education law and certain other laws relating to state aid to school districts and the appropriation of funds for the support of government, in relation to the effectiveness thereof ",
+          "sortIndex" : -1,
+          "latestAmendment" : null,
+          "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT", "SOBI.D110118.T092105.TXT", "SOBI.D110118.T193709.TXT", "SOBI.D110124.T163141.TXT", "SOBI.D110121.T185049.TXT", "SOBI.D110119.T091232.TXT", "SOBI.D110114.T175509.TXT", "SOBI.D110118.T090612.TXT", "SOBI.D110124.T144131.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110114.T180009.TXT" ],
+          "luceneActive" : true,
+          "luceneModified" : 1295904701135
+        },
+        "no" : "9",
+        "billHigh" : null,
+        "motionDate" : null,
+        "subBill" : null
+      } ],
+      "cd" : "0400"
+    } ],
+    "sequence" : null,
+    "calendarDate" : 1295931600000,
+    "releaseDateTime" : 1295905560000,
+    "supplementalId" : "",
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "sessionYear" : 2011,
+  "no" : 3,
+  "sobiReferenceList" : [ "SOBI.D110124.T164642.TXT-calendar-1.xml" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295905602875
+}
