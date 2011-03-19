@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2353-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S2353-2011-1295413200000-REFERRED+TO+TRANSPORTATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GRISANTI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the city of Buffalo to adjudicate traffic infractions similar to other cities having a population of less than two hundred thousand",
+  "summary" : null,
+  "currentCommittee" : "TRANSPORTATION",
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T124254.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295458974582
+}
