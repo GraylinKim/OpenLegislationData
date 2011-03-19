@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2182-2011",
+  "senateBillNo" : "S2183-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S2182-2011-1295326800000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO CITIES",
+    "billEventId" : "S2183-2011-1295326800000-REFERRED+TO+CITIES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the regulation of outdoor wood boilers",
+  "title" : "Establishes registry in New York city for residents who do not want circulars or other printed material or samples of a commercial nature left at residence",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "CITIES",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "New York City Administrative Code",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T113625.TXT", "SOBI.D110118.T113121.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T113625.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295368585728
+  "luceneModified" : 1295368585733
 }
