@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1317-2011",
+  "senateBillNo" : "S1324-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1317-2011-1294290000000-REFERRED+TO+ELECTIONS",
+    "eventText" : "REFERRED TO SOCIAL SERVICES",
+    "billEventId" : "S1324-2011-1294290000000-REFERRED+TO+SOCIAL+SERVICES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Repeals certain provisions of the election law and adds new section permitting a voter to vote by special ballot at the board of elections upon written statement and",
-  "summary" : "Repeals certain provisions of the election law and adds a new section to such law permitting a voter to vote by special ballot at the board of elections upon submission of a written statement and verification of specific qualifications of such voter. ",
-  "currentCommittee" : "ELECTIONS",
+  "title" : "Authorizes the assignment of social services recipients and applicants to accessible local offices",
+  "summary" : null,
+  "currentCommittee" : "SOCIAL SERVICES",
   "sameAs" : null,
-  "lawSection" : "Election Law",
-  "previousVersions" : [ "S1431-2009" ],
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110106.T152729.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345949030
+  "luceneModified" : 1294345949018
 }

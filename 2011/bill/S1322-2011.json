@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1317-2011",
+  "senateBillNo" : "S1322-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1317-2011-1294290000000-REFERRED+TO+ELECTIONS",
+    "billEventId" : "S1322-2011-1294290000000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Repeals certain provisions of the election law and adds new section permitting a voter to vote by special ballot at the board of elections upon written statement and",
-  "summary" : "Repeals certain provisions of the election law and adds a new section to such law permitting a voter to vote by special ballot at the board of elections upon submission of a written statement and verification of specific qualifications of such voter. ",
+  "title" : "Prohibits election commissioners and deputy commissioners from holding a publicly elected office",
+  "summary" : null,
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : [ "S1431-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110106.T152729.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345949030
+  "luceneModified" : 1294345949003
 }
