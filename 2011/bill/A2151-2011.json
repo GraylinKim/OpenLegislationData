@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the payment of winning lottery tickets",
-  "summary" : null,
+  "summary" : "Relates to the payment of winning lottery tickets. ",
   "currentCommittee" : null,
   "sameAs" : "S605",
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A11687-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to payment of winning lottery tickets ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT", "SOBI.D110114.T115425.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295022563338
+  "luceneModified" : 1295024065179
 }
