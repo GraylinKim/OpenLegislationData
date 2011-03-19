@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires a New York state legend to be located on all bell jar tickets sold in this state",
-  "summary" : null,
+  "summary" : "Requires a New York state legend to be located on all bell jar tickets sold in this state; excludes bell jar tickets that are banded single-sided single-tabbed, double-sided single-tabbed or folded bell jar tickets from the approved legend requirement. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "General Municipal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A2495-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the general municipal law, in relation to requiring a New York state legend on all bell jar tickets sold in New York State ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T110746.TXT", "SOBI.D110126.T104744.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T112247.TXT", "SOBI.D110126.T110746.TXT", "SOBI.D110126.T104744.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296058066700
+  "luceneModified" : 1296058967204
 }

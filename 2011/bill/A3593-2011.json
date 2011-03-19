@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Excludes certain animals from the definition of \"wildlife\"",
-  "summary" : null,
+  "summary" : "Excludes dogs, cats and any other domesticated animals from the definition of \"wildlife\"; defines the term feral dog or cat. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A2671-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to excluding certain animals from the definition of wildlife ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T111246.TXT", "SOBI.D110126.T104744.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T112247.TXT", "SOBI.D110126.T111246.TXT", "SOBI.D110126.T104744.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296058366857
+  "luceneModified" : 1296058967182
 }
