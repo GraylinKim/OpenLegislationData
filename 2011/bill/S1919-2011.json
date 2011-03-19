@@ -3,8 +3,8 @@
   "senateBillNo" : "S1919-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S1919-2011-1294981200000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1919-2011-1294981200000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -20,7 +20,7 @@
   },
   "title" : "Requires two-thirds vote of legislature for any change in tax rates, budget bills and appropriations",
   "summary" : "Requires approval by 2/3 vote of membership of the senate and assembly voting separately to increase or decrease any tax rate, impose a new state tax, extend or delete existing state tax. ",
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "FINANCE",
   "sameAs" : "A787",
   "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : [ "A1073-2009" ],
@@ -32,7 +32,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 14 of article 3 of the constitution, in relation to the procedure for voting increases in the rate of state taxes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T102913.TXT", "SOBI.D110114.T101910.TXT", "SOBI.D110114.T103413.TXT", "SOBI.D110114.T103913.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T114424.TXT", "SOBI.D110114.T102913.TXT", "SOBI.D110114.T103413.TXT", "SOBI.D110114.T101910.TXT", "SOBI.D110114.T103913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295019553172
+  "luceneModified" : 1295023464776
 }
