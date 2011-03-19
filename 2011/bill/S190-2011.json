@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S150-2011",
+  "senateBillNo" : "S190-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S150-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "billEventId" : "S190-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Eliminates the separate utility class in New York city",
-  "summary" : "Eliminates the separate utility class (class 3) in New York city. ",
+  "title" : "Authorizes the conveyance of certain parklands in the town of Hamlin in the county of Monroe to Sandy Creek Marina",
+  "summary" : null,
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
-  "previousVersions" : [ "S8023-2009" ],
+  "lawSection" : "Parks",
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T151703.TXT", "SOBI.D101210.T160705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T160705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015225168
+  "luceneModified" : 1292015225187
 }

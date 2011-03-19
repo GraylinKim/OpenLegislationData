@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S153-2011",
+  "senateBillNo" : "S188-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S153-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S188-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits the New York state department of tax and finance from charging a fee for applications for a certificate of registration pursuant to a re-registration program",
-  "summary" : "Prohibits the New York state department of tax and finance from charging a fee for applications for a certificate of registration pursuant to a re-registration program. ",
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "title" : "Relates to the disclosure of special care offered to persons with Alzheimer's disease or dementia",
+  "summary" : null,
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
-  "previousVersions" : [ "S7062-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -34,14 +34,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "FUSCHILLO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "GOLDEN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GRIFFO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,7 +69,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "SEWARD",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SKELOS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +88,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T152204.TXT", "SOBI.D101210.T151703.TXT", "SOBI.D101210.T160705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T160705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292015225177
+  "luceneModified" : 1292015225171
 }

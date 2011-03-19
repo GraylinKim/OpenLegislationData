@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to kidnapping in the first degree",
-  "summary" : null,
+  "summary" : "Provides that abducting a person under age of sixteen shall be kidnapping in the first degree. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7784-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T151703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T151703.TXT", "SOBI.D101210.T160705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292012223524
+  "luceneModified" : 1292015225181
 }
