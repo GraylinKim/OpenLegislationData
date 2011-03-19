@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to coverage for refills of prescription eye drops",
-  "summary" : null,
+  "summary" : "Requires coverage for the authorized refill of any prescription eye drop medication under certain circumstances when such refill is requested prior to expiration of the period of usage. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : "A1219",
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SB7001-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to prescription coverage for eye drops ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T105351.TXT", "SOBI.D110107.T113853.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T105351.TXT", "SOBI.D110107.T113853.TXT", "SOBI.D110107.T115354.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294418333380
+  "luceneModified" : 1294419234687
 }
