@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Exempts from sales and use tax any geothermal systems",
-  "summary" : null,
+  "summary" : "Exempts from sales and use tax any geothermal system. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A6934-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -99,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to exempting from sales and use taxes any geothermal systems ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT", "SOBI.D110112.T124520.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294850399585
+  "luceneModified" : 1294854320094
 }

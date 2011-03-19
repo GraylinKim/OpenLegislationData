@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1791-2011",
+  "senateBillNo" : "S1796-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
     "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S1791-2011-1294808400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "billEventId" : "S1796-2011-1294808400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,33 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Expands definition of place of public accommodation",
+  "title" : "Establishes a personal income tax credit for portion of residential real property taxes which exceeds a certain percentage of the household gross income",
   "summary" : null,
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to unlawful discriminatory practices ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T122001.TXT", "SOBI.D110112.T124520.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T124520.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294854320086
+  "luceneModified" : 1294854320069
 }
