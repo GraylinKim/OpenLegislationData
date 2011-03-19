@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S358-2011",
+  "senateBillNo" : "S361-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S358-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S361-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PERALTA",
+    "fullname" : "ROBACH",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the sanitization of every used mattress or bedding material transported, stored or sold in the state",
+  "title" : "Authorizes the New York state foundation for science, technology and innovation to establish a high-tech employment and training program",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T143935.TXT", "SOBI.D101216.T143458.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T143935.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292528375079
+  "luceneModified" : 1292528375093
 }

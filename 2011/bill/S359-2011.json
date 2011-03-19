@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S358-2011",
+  "senateBillNo" : "S359-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S358-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S359-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the sanitization of every used mattress or bedding material transported, stored or sold in the state",
+  "title" : "Authorizes credit unions to participate in the excelsior linked deposit program and raises the limit on the amount permitted to be on deposit at any given time",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "State Finance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T143935.TXT", "SOBI.D101216.T143458.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T143935.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292528375079
+  "luceneModified" : 1292528375084
 }
