@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2155-2011",
+  "senateBillNo" : "S2170-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S2155-2011-1295326800000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S2170-2011-1295326800000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MCDONALD",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizing the town of Malta to adopt a local law providing for a partial abatement of town taxes assessed for the funding of town emergency services",
+  "title" : "Relates to penalties for the illegal shipment of cigarettes",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Towns",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T112120.TXT", "SOBI.D110118.T111119.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T112120.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295367680340
+  "luceneModified" : 1295367680313
 }
