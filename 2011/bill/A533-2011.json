@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A533-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A533-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to removing the statute of limitations for sexual offenses",
+  "summary" : "Relates to removing the statute of limitations for sexual offenses committed against minors. ",
+  "currentCommittee" : null,
+  "sameAs" : "S530",
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : [ "A8988-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the criminal procedure law, in relation to removing the statute of limitations for sex offenses committed against minors ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T101350.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067630866
+}

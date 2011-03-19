@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A527-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A527-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Adds national estuary implementation projects as projects eligible for state funding pursuant to the environmental protection fund",
+  "summary" : "Makes state funding from the environmental protection fund available for national estuary implementation projects which would implement water quality improvement projects pursuant to an approved action or comprehensive conservation and management plan prepared under the national estuary program. ",
+  "currentCommittee" : null,
+  "sameAs" : "S807",
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A333-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to adding national estuary implementation projects as projects eligible for state funding pursuant to the environmental protection fund ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T101350.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067630848
+}

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A535-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A535-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Sayward",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Amends the definition of \"newspaper\"",
+  "summary" : "Amends the definition of \"newspaper\"; deletes provisions of law requiring \"newspaper\" to include paid circulation. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Limited Liability Company Law",
+  "previousVersions" : [ "A1157-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Duprey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the limited liability company law and the general construction law, in relation to the definition of \"newspaper\" ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T101350.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067630869
+}

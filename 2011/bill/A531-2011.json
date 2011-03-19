@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A531-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A531-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that a person may be guilty of the crime disorderly conduct when he makes unreasonable noise which is disturbing to one or more persons",
+  "summary" : "Provides that a person may be guilty of the crime disorderly conduct when he makes unreasonable noise which is disturbing to one or more persons. ",
+  "currentCommittee" : null,
+  "sameAs" : "S804",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A232-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to making unreasonable noise ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T101350.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067630863
+}

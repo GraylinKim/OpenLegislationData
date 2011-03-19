@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A529-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A529-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires a licensee's residential address to be printed on his or her driver's license",
+  "summary" : "Requires a licensee's residential address to be printed on his or her driver's license. ",
+  "currentCommittee" : null,
+  "sameAs" : "S805",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A340-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring a licensee's residential address to be printed on his or her driver's license ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T101350.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067630857
+}

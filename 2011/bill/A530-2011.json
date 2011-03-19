@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A530-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A530-2011-1294203600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Reduces a retired or disabled owner's no fault insurance premium by providing appropriate automobile insurance rates to reflect a reduced exposure to loss",
+  "summary" : "Reduces a retired or disabled owner's no fault insurance premium by providing appropriate automobile insurance rates to reflect a reduced exposure to loss due to situations where drivers either have no wages to lose or are covered for lost wages by another first payer insurance policy; defines \"retired\" and \"disabled\". ",
+  "currentCommittee" : null,
+  "sameAs" : "S803",
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A3485-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to automobile insurance rates for persons who are retired or disabled ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T101350.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067630861
+}
