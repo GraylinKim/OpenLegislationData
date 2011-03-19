@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S338-2011",
+  "senateBillNo" : "S340-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
-    "billEventId" : "S338-2011-1294203600000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S340-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "LITTLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to controlled substances and indeterminate sentences; to the expansion of merit time; repealer",
+  "title" : "Authorizes boards of cooperative educational services to engage in collective bargaining with component school district employees",
   "summary" : null,
-  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Correction Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T111415.TXT", "SOBI.D101216.T110914.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T111415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292516055979
+  "luceneModified" : 1292516055988
 }

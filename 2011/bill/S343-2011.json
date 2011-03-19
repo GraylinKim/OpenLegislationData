@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S338-2011",
+  "senateBillNo" : "S343-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
-    "billEventId" : "S338-2011-1294203600000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S343-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "LITTLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to controlled substances and indeterminate sentences; to the expansion of merit time; repealer",
+  "title" : "Eliminates requirement for consent of an authority having jurisdiction over state land in the Adirondack park when the location of a highway thereon is changed",
   "summary" : null,
-  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Correction Law",
+  "lawSection" : "Highway Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T111415.TXT", "SOBI.D101216.T110914.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T111415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292516055979
+  "luceneModified" : 1292516055993
 }
