@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295499600000,
+    "eventText" : "reference changed to consumer affairs and protection",
+    "billEventId" : "A1981-2011-1295499600000-reference+changed+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Pheffer (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -109,7 +116,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to prohibiting the retail sale and distribution of novelty lighters ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T160022.TXT", "SOBI.D110113.T115832.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T160022.TXT", "SOBI.D110113.T115832.TXT", "SOBI.D110120.T121853.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294937912639
+  "luceneModified" : 1295543933368
 }
