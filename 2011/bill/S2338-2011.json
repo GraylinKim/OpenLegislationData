@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for the inclusion of sales tax revenue shared by a county with the school district in the STAR savings calculation",
-  "summary" : null,
+  "summary" : "Provides for the inclusion of sales tax revenue shared by a county with the school district in the STAR savings calculation. ",
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2641-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to school tax relief program (STAR) savings calculation ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T093234.TXT", "SOBI.D110119.T095235.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T093234.TXT", "SOBI.D110119.T095736.TXT", "SOBI.D110119.T095235.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295448755091
+  "luceneModified" : 1295449056214
 }
