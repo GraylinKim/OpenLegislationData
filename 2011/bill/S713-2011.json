@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S709-2011",
+  "senateBillNo" : "S713-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S709-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S713-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for initiative and referendum in New York State for the People as electors to propose or reject laws and submit amendments to the state constitution",
+  "title" : "Establishes a notification of death hotline in the department of social services for purposes of timely ceasing public assistance payments",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T155253.TXT", "SOBI.D101229.T160747.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T160747.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293656867191
+  "luceneModified" : 1293656867208
 }
