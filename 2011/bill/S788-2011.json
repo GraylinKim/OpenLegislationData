@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S784-2011",
+  "senateBillNo" : "S788-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S784-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S788-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that excess investment tax credit amounts may be refundable to operators of a farm operation",
+  "title" : "Relates to excluding the value of trees for the purposes of real property tax assessments",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T124729.TXT", "SOBI.D101230.T124229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T124729.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293731249290
+  "luceneModified" : 1293731249303
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S784-2011",
+  "senateBillNo" : "S790-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S784-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S790-2011-1294203600000-REFERRED+TO+AGRICULTURE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that excess investment tax credit amounts may be refundable to operators of a farm operation",
+  "title" : "Creates a real property tax exemption for land of a farm operation which is in the process of being certified for the production of organic crops",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "AGRICULTURE",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Agriculture and Markets Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T124729.TXT", "SOBI.D101230.T124229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T124729.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293731249290
+  "luceneModified" : 1293731249307
 }
