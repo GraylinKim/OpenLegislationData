@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1092-2011",
+  "senateBillNo" : "S1093-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1092-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "billEventId" : "S1093-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the secretary of state to publish local laws on the department of state website and as a supplement to the session laws",
+  "title" : "Creates the sustainable energy loan program to assist homeowners in the installation of distributed generation renewable energy sources or energy efficiency improvements",
   "summary" : null,
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Municipal Home Rule Law",
+  "lawSection" : "General Municipal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T110112.TXT", "SOBI.D110105.T105611.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T110112.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294243272769
+  "luceneModified" : 1294243272772
 }
