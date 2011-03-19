@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Defines non-residents for the purpose of admission to a school district",
-  "summary" : null,
+  "summary" : "Redefines \"nonresidents of a school district\" to include persons over five and under twenty-one years of age who do not actually reside in the district or reside on real property in the district which is wholly exempt from real property taxes for school district purposes and students who reside on real property which is fifty percent or more exempt from taxation pursuant to the real property tax law and such property is the residence of ten or more students who attend a public school in the district. ",
   "currentCommittee" : "EDUCATION",
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6839-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to defining nonresidents of a district for purposes of admission ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T120909.TXT", "SOBI.D110125.T115409.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T115409.TXT", "SOBI.D110125.T120909.TXT", "SOBI.D110125.T121911.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295975349871
+  "luceneModified" : 1295975951265
 }
