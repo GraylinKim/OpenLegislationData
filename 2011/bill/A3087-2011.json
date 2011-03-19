@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3087-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A3087-2011-1295845200000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the release of sealed court records",
+  "summary" : "Relates to the release of sealed court records. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Officers Law",
+  "previousVersions" : [ "A11389-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public officers law, in relation to the release of sealed court records ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T121120.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295889080771
+}
