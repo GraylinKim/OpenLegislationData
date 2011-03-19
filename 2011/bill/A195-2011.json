@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A195-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A195-2011-1294203600000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires entities advertising for political purposes to disclose in such advertisements the source thereof",
+  "summary" : "Requires entities advertising for or against political candidates, ballot proposals, amendments, or such proceedings to disclose in such advertisements the source thereof; trade associations must disclose top 3 contributors; defines trade association. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "AA10976-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to the disclosure of sources for political advertisements ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101216.T124922.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292521762405
+}
