@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2162-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295326800000,
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S2162-2011-1295326800000-REFERRED+TO+AGING",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GOLDEN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the senior benefits card program to enable and encourage seniors to purchase healthy and appropriate foods at a discounted price",
+  "summary" : null,
+  "currentCommittee" : "AGING",
+  "sameAs" : null,
+  "lawSection" : "Elder Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LAVALLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110118.T111620.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295367380151
+}
