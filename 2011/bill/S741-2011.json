@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the appointment and qualifications of members of rent boards",
-  "summary" : null,
+  "summary" : "Relates to the appointment and qualifications of members of rent boards. ",
   "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
   "lawSection" : "New York City Administrative Code",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1731-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the administrative code of the city of New York and the emergency tenant protection act of nineteen seventy-four, in relation to the establishment of rent boards ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T100221.TXT", "SOBI.D101230.T094220.TXT", "SOBI.D101230.T095721.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T100221.TXT", "SOBI.D101230.T094220.TXT", "SOBI.D101230.T102222.TXT", "SOBI.D101230.T095721.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293721341991
+  "luceneModified" : 1293722542314
 }
