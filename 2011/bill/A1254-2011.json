@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1254-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A1254-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the issue of military deployment as a factor in the awarding of custody in marital actions",
+  "summary" : "Provides that the issue of military deployment shall not be considered as a factor in the awarding of custody in marital actions where a suitable child care plan is presented. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Domestic Relations Law",
+  "previousVersions" : [ "A4079-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the domestic relations law, in relation to determinations of child custody in matrimonial actions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T120855.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294420135935
+}
