@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1532-2011",
+  "senateBillNo" : "A1549-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "referred to health",
-    "billEventId" : "A1532-2011-1294635600000-referred+to+health",
+    "eventText" : "referred to education",
+    "billEventId" : "A1549-2011-1294635600000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Nolan",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to prohibiting smoking on public beaches and in public parks",
-  "summary" : "Prohibits smoking on public beaches and in public parks; excludes the Adirondack park and the Catskill park; permits state entity or municipality which operates a public beach, park or golf course to designate smoking areas. ",
+  "title" : "Relates to procurement by the board of education of the city school district of the city of New York and by the New York city school construction authority; repealer",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
-  "previousVersions" : [ "A1837-2009" ],
+  "lawSection" : "Education Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Mayersohn",
+    "fullname" : "Jacobs",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "O'Donnell",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Perry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to prohibiting smoking on public beaches and in public parks ",
+  "actClause" : "AN ACT to amend the education law and the public authorities law, in relation to procurement by the board of education of the city school district of the city of New York and by the New York city school construction authority; and to repeal subdivision 36 of section 2590-h of the education law relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T151618.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690900065
+  "luceneModified" : 1294690900021
 }

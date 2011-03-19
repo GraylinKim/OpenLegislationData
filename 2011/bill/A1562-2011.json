@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1545-2011",
+  "senateBillNo" : "A1562-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
     "eventText" : "referred to election law",
-    "billEventId" : "A1545-2011-1294635600000-referred+to+election+law",
+    "billEventId" : "A1562-2011-1294635600000-referred+to+election+law",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires state board of elections to publish on its website a brief statement relating to proposed constitutional amendments that will appear on the ballot",
+  "title" : "Eliminates run-off primary elections in primaries; repealer",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the election law, in relation to publication of constitutional amendments ",
+  "actClause" : "AN ACT to amend the election law, in relation to the determination of a winner of a primary election; and to repeal section 6-162 of the election law, subdivision 5 of section 3-705 and subdivision 6 of section 3-709 of the administrative code of the city of New York relating to run-off primary elections in the city of New York ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T151618.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690900012
+  "luceneModified" : 1294690900063
 }

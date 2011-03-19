@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1527-2011",
+  "senateBillNo" : "A1553-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "referred to education",
-    "billEventId" : "A1527-2011-1294635600000-referred+to+education",
+    "eventText" : "referred to social services",
+    "billEventId" : "A1553-2011-1294635600000-referred+to+social+services",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires a school nurse to be on the premises during school hours in any school having an enrollment of 100 pupils or more",
-  "summary" : "Requires a school nurse to be on the premises during school hours in any school having an enrollment of 100 pupils or more. ",
+  "title" : "Relates to medicaid eligibility for youth leaving court ordered placement",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A1526-2009" ],
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cymbrowitz",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to requiring nurses in public schools ",
+  "actClause" : "AN ACT to amend the social services law, in relation to medicaid eligibility for youth leaving court ordered placement ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T151618.TXT", "SOBI.D110110.T151117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690900062
+  "luceneModified" : 1294690900030
 }
