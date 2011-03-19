@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the state finance law and the legislative law, in relation to enacting a balanced budget requirement and creating the New York state governmental accounting review board ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T111322.TXT", "SOBI.D101221.T130615.TXT", "SOBI.D101220.T115324.TXT", "SOBI.D101220.T120825.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T111322.TXT", "SOBI.D110111.T125703.TXT", "SOBI.D101221.T130615.TXT", "SOBI.D101220.T115324.TXT", "SOBI.D101220.T120825.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292954775882
+  "luceneModified" : 1294768623995
 }
