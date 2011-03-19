@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1845-2011",
+  "senateBillNo" : "S1847-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S1845-2011-1294894800000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1847-2011-1294894800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides business tax credit for employer provided day care",
+  "title" : "Prohibits the use of official position for political fundraising",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Public Officers Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T150417.TXT", "SOBI.D110113.T145941.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T150417.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294949057753
+  "luceneModified" : 1294949057766
 }
