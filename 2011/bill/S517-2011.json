@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S516-2011",
+  "senateBillNo" : "S517-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S516-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S517-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes county clerks to retain a portion of fees collected for motor vehicle related services",
+  "title" : "Establishes an energy reserve fund for school districts and boards of cooperative educational services",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "RANZENHOFER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T112109.TXT", "SOBI.D101221.T111609.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T112109.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292948469184
+  "luceneModified" : 1292948469188
 }
