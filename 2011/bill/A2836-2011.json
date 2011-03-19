@@ -13,26 +13,40 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Morelle (MS)",
+    "fullname" : "Morelle",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Relates to knowingly possessing or harboring a hostile dog",
-  "summary" : null,
+  "summary" : "Relates to knowingly possessing or harboring a hostile dog which without justification attacks a person and causes serious physical injury or death or is not lawfully licensed, currently vaccinated for rabies and has a valid official identification tag affixed to its collar and cannot be restrained from chasing, worrying or attacking any person under the age of 16 in a manner capable of causing serious injury. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
-  "coSponsors" : null,
+  "previousVersions" : [ "A1761-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to knowingly possessing or harboring a hostile dog ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T155413.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T155413.TXT", "SOBI.D110120.T155914.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295556853402
+  "luceneModified" : 1295557154520
 }

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2838-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2838-2011-1295499600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for creation of a legislative budget office",
+  "summary" : "Provides for creation of a non-partisan legislative budget office to perform budget analysis to determine the funding levels necessary to the operation of governmental departments and programs and render anticipated revenue estimates for each fiscal year, examine and review all financial information of the state for the purpose of rendering revenue estimates used in determining whether the proposed state budget is balanced, be charged with the duty of rendering anticipated revenue forecast reports to the legislature and the governor for the purposes of facilitating passage of the state budget in a timely manner, provide assistance in determining the fiscal impact of proposed legislation, and submit to the state legislature written estimates of anticipated state revenues on January 15, April 15, July 15 and October 15 of each year. ",
+  "currentCommittee" : null,
+  "sameAs" : "S611",
+  "lawSection" : "Legislative Law",
+  "previousVersions" : [ "A1896-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the legislative law, in relation to creation of the legislative budget office ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T155914.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295557154525
+}
