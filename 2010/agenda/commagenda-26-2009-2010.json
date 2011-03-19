@@ -24,9 +24,31 @@
     "publicationDateTime" : 1291671546000,
     "weekOf" : "2010-12-06",
     "addendumId" : ""
+  }, {
+    "id" : "A-26-2009-2010",
+    "meetings" : [ {
+      "location" : "OFF THE FLOOR",
+      "id" : "meeting-Finance-26-2009-2010",
+      "bills" : [ ],
+      "votes" : null,
+      "meetingDateTime" : 1291698000000,
+      "committeeName" : "Finance",
+      "committee" : {
+        "name" : null,
+        "chair" : null
+      },
+      "meetday" : "Tuesday",
+      "notes" : "The committee will consider the following nominations.Alen M.Klinger, Member of the Board of Trustees of the New York StateHigher Education Services Corporation Charles G.Moerdler, Member of the Metropolitan Transportation Authority",
+      "committeeChair" : "Carl Kruger",
+      "luceneActive" : true,
+      "luceneModified" : 0
+    } ],
+    "publicationDateTime" : 1291747065000,
+    "weekOf" : "2010-12-06",
+    "addendumId" : "A"
   } ],
   "sessionYear" : 2009,
-  "sobiReferenceList" : [ "SOBI.D101206.T163922.TXT-agenda-1.xml" ],
+  "sobiReferenceList" : [ "SOBI.D101207.T134003.TXT-agenda-1.xml", "SOBI.D101206.T163922.TXT-agenda-1.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1291671562628
+  "luceneModified" : 1291747203307
 }
