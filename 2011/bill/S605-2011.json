@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S603-2011",
+  "senateBillNo" : "S605-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S603-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO RACING, GAMING AND WAGERING",
+    "billEventId" : "S605-2011-1294203600000-REFERRED+TO+RACING%2C+GAMING+AND+WAGERING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits more than one increase in the price of motor fuel in any twenty-four hour period",
+  "title" : "Relates to the payment of winning lottery tickets",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "RACING, GAMING AND WAGERING",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T153849.TXT", "SOBI.D101222.T153349.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T153849.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293050329133
+  "luceneModified" : 1293050329147
 }
