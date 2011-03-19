@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2069-2011",
+  "senateBillNo" : "S2102-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S2069-2011-1295326800000-REFERRED+TO+HEALTH",
+    "billEventId" : "S2102-2011-1295326800000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the commissioner of health to conduct a study relating to airline noise at and around John F. Kennedy International Airport",
+  "title" : "Prohibits the vending machine sale of tobacco products within 350 feet of a school, church, synagogue or other place of worship",
   "summary" : null,
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to authorizing the commissioner of health to conduct a study concerning noise caused by airline traffic at John F. Kennedy International Airport ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T102616.TXT", "SOBI.D110118.T094607.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T102616.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295364376497
+  "luceneModified" : 1295364376502
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2067-2011",
+  "senateBillNo" : "S2106-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
-    "billEventId" : "S2067-2011-1295326800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "billEventId" : "S2106-2011-1295326800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Limits sinking funds for reserves for retirement of stocks and debentures",
+  "title" : "Prohibits increase in maximum rents unless essential tenant services are maintained",
   "summary" : null,
   "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the private housing finance law, in relation to the reserves for the retirement of stocks and debentures ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T102616.TXT", "SOBI.D110118.T094607.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T102616.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295364376503
+  "luceneModified" : 1295364376561
 }

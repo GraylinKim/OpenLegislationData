@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2066-2011",
+  "senateBillNo" : "S2105-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2066-2011-1295326800000-REFERRED+TO+CODES",
+    "billEventId" : "S2105-2011-1295326800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Redefines felony of assault in the second degree to include intent to cause physical injury where such injury occurs and results in further serious injury or death",
+  "title" : "Makes the criminal penalty for persons who communicate a bomb threat to that for a class E felony",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to redefining assault in the second degree so as to include intent to cause physical injury where such injury results and in consequence of such injury further serious injury or death occurs ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T102616.TXT", "SOBI.D110118.T094607.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T102616.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295364376507
+  "luceneModified" : 1295364376557
 }
