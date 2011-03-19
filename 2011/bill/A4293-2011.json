@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2879-2011",
+  "senateBillNo" : "A4293-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S2879-2011-1296622800000-REFERRED+TO+HEALTH",
+    "eventText" : "referred to education",
+    "billEventId" : "A4293-2011-1296622800000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "GRISANTI",
+    "fullname" : "Scarborough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to payments for residential health care facilities in Erie county and Niagara county",
+  "title" : "Requires schools to accept credits for educational programs at OCFS facilities as transfer credits",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
-  "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "currentCommittee" : null,
+  "sameAs" : "S330",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KENNEDY",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the social services law, in relation to payments for residential health care facilities in Erie county and Niagara county ",
+  "actClause" : "AN ACT to amend the education law, in relation to credits for educational achievement in office of children and family services facilities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T144725.TXT", "SOBI.D110202.T145226.TXT", "SOBI.D110202.T145726.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T145726.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296676646870
+  "luceneModified" : 1296676646822
 }

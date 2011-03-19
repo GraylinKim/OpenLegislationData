@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A4285-2011",
+  "senateBillNo" : "A4249-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "referred to health",
-    "billEventId" : "A4285-2011-1296622800000-referred+to+health",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A4249-2011-1296622800000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera P",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes mental health parity in public health insurance plans",
-  "summary" : "Establishes mental health parity in public health insurance plans. ",
+  "title" : "Relates to court clerks providing information to victims regarding orders of protection against the individual who committed the crime once they are released",
+  "summary" : "Relates to court clerks providing information to victims regarding orders of protection against the individual who committed the crime once they are released. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
-  "previousVersions" : [ "A7888-2009" ],
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A6809-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Canestrari",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Zebrowski",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,49 +69,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Weisenberg",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Pheffer",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Englebright",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Scarborough",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jacobs",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "McEneny",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -111,21 +83,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kavanagh",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lupardo",
+    "fullname" : "Meng",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -134,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law and the social services law, in relation to establishing mental health parity in public health insurance plans ",
+  "actClause" : "AN ACT to amend the executive law, in relation to the fair treatment standards for crime victims ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T145226.TXT", "SOBI.D110202.T145726.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T145726.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296676646851
+  "luceneModified" : 1296676646853
 }
