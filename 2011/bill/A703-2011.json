@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A703-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A703-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Sayward",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits moneys appropriated to legal services organizations from being used for certain purposes",
+  "summary" : "Prohibits appropriation of state funds to be used by (non-profit) legal services providers to pursue cases and activities involving proactive political litigation, class action suits, lobbying and other attempts to influence political or governmental processes or to promote political philosophies or agendas; authorizes the citizen's policy and complaint review council to make determinations on the frivolity of class action suits by inmates of correctional facilities. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A1059-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Duprey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to appropriation of funds for legal services for inmate lawsuits and to amend the correction law, in relation to the functions, powers and duties of the citizen's policy and complaint review council ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T164434.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294091074473
+}

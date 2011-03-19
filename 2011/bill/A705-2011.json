@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A705-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A705-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the department of health from reducing reimbursement rates of the early intervention program",
+  "summary" : "Prohibits the department of health from reducing reimbursement rates of the early intervention program below those rates in effect on March 1, 2010. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Health",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to prohibit the New York state department of health from reducing the reimbursement rates for the early intervention program below the rates in effect as of March 1, 2010 ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T164434.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294091074491
+}
