@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2315-2011",
+  "senateBillNo" : "A2321-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "referred to correction",
-    "billEventId" : "A2315-2011-1295326800000-referred+to+correction",
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A2321-2011-1295326800000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Heastie",
+    "fullname" : "Pretlow",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a commission to study and develop a plan for improving education in state prisons",
+  "title" : "Relates to excavation of underground facilities; expands the definition of \"excavation\" for the purposes of the protection of underground facilities",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Correction Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T135141.TXT", "SOBI.D110118.T134639.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T135141.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295376701088
+  "luceneModified" : 1295376701119
 }

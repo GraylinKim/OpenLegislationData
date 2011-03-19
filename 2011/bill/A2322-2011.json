@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2223-2011",
+  "senateBillNo" : "A2322-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO BANKS",
-    "billEventId" : "S2223-2011-1295326800000-REFERRED+TO+BANKS",
+    "eventText" : "referred to economic development",
+    "billEventId" : "A2322-2011-1295326800000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "Pretlow",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes civil penalty for failure to accept certain checks for deposit",
+  "title" : "Requires all individuals pawning goods to present identification and for pawnbrokers to keep records of such person",
   "summary" : null,
-  "currentCommittee" : "BANKS",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Banking Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the banking law, in relation to acceptance of certain checks for deposit ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T135141.TXT", "SOBI.D110118.T132636.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T135141.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295376701093
+  "luceneModified" : 1295376701120
 }
