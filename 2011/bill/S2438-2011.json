@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2437-2011",
+  "senateBillNo" : "S2438-2011",
   "billEvents" : [ {
     "eventDate" : 1295586000000,
-    "eventText" : "REFERRED TO LABOR",
-    "billEventId" : "S2437-2011-1295586000000-REFERRED+TO+LABOR",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S2438-2011-1295586000000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Exempts injuries or occupational diseases sustained in perpetration of a felony or misdemeanor from workers' compensation coverage",
+  "title" : "Holds a person who willfully fails to collect, account for, and pay tax liable",
   "summary" : null,
-  "currentCommittee" : "LABOR",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Workers' Compensation Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T094012.TXT", "SOBI.D110121.T094513.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T094513.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295621113279
+  "luceneModified" : 1295621113284
 }
