@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that the board of elections shall transfer a registration and enrollment of a voter to wherever they move in the state, even if it's a new county",
-  "summary" : null,
+  "summary" : "Provides that the board of elections shall transfer a registration and enrollment of a voter to wherever they move in the state, even if the voter moves to a new county. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A7011-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -95,7 +95,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to a universal jurisdiction voting act ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T111351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231680
+  "luceneModified" : 1294416831965
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the supervision of certain limited profit housing companies",
-  "summary" : null,
+  "summary" : "Relates to the supervision of certain limited profit housing companies. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Private Housing Finance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A859-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -151,7 +151,7 @@
   "actClause" : "AN ACT to amend the private housing finance law, in relation to the supervision of certain limited profit housing companies ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T111351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231621
+  "luceneModified" : 1294416831951
 }

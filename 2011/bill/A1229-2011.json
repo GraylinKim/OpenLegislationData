@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that the board of elections shall accept voter registrations electronically through its website",
-  "summary" : null,
+  "summary" : "Provides that the board of elections shall accept voter registrations electronically through its website. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A4799-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -130,7 +130,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to authorizing electronic voter registration ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T111351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231673
+  "luceneModified" : 1294416831967
 }
