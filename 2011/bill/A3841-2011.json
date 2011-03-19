@@ -1,24 +1,122 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3841-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to education",
+    "billEventId" : "A3841-2011-1296190800000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Camara",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes requirement for the instruction of students, teachers and coaches regarding the use of anabolic steroids and human growth hormones",
+  "summary" : "Requires the instruction of students, teachers and coaches in the harmful use of anabolic steroids and human growth hormones by adolescents and provides for the testing of students suspected of using steroids or human growth hormones, upon parental consent. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
-  "coSponsors" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A3433-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cusick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Mayersohn",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3841\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A. CAMARA, CUSICK, GABRYSZAK, JEFFRIES, LANCMAN,\n         MAISEL, PEOPLES-STOKES, RAIA, P. RIVERA, WEISENBERG,  CASTRO,  JAFFEE,\n         MAYERSOHN  --  Multi-Sponsored  by -- M. of A. BOYLAND, BURLING, COOK,\n         HIKIND, McENENY, PERRY, PHEFFER, J. RIVERA, ROBINSON, THIELE,  TITONE,\n         TOWNS -- read once and referred to the Committee on Education\n\n       AN ACT to amend the education law, in relation to requiring the instruc-\n         tion  of students, teachers and coaches in the harmful use of anabolic\n         steroids and human growth hormones by adolescents  and  providing  for\n         the testing of students suspected of using steroids and hormones, upon\n         parental consent\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Subdivisions 3, 5, 6 and 7 of section 804 of the  education\n    2  law,  subdivision  3  as  amended by chapter 674 of the laws of 2004 and\n    3  subdivisions 5, 6 and 7 as added by chapter 982 of the laws of 1977, are\n    4  amended to read as follows:\n    5    3. Instruction regarding alcohol, tobacco,  ANABOLIC  STEROIDS,  HUMAN\n    6  GROWTH  HORMONES  and other drugs, in addition to continued health guid-\n    7  ance in the junior high school grades and the senior high schools, shall\n    8  be an integral part of a required health education  course  at  each  of\n    9  these  levels  in  the  secondary  schools curriculum. Students shall be\n   10  required to demonstrate knowledge in the subject area through the use of\n   11  a test, graded project or report, or any other means prescribed  by  the\n   12  school  authorities  regarding  alcohol, drugs, ANABOLIC STEROIDS, HUMAN\n   13  GROWTH HORMONES and tobacco. Any such course shall be taught by teachers\n   14  holding a certificate to teach health. Related courses in the  secondary\n   15  school  curriculum  shall  be  taught  in  a manner supportive of health\n   16  education regarding alcohol, tobacco, ANABOLIC  STEROIDS,  HUMAN  GROWTH\n   17  HORMONES and other drugs. In addition, instruction regarding the dangers\n   18  of  driving  while  under  the influence of alcohol or drugs shall be an\n   19  integral part of a required health education course in the  senior  high\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD03889-01-1\n\n       A. 3841                             2\n\n    1  schools.  Such  instruction shall be provided in all senior high schools\n    2  whether or not these schools also provide driver education courses.\n    3    5.  School  authorities shall provide the needed facilities, time, and\n    4  place for the instruction set forth herein and  shall  provide  learning\n    5  aids  and  curriculum  resource  materials which contribute to effective\n    6  teaching methods and learning in  health  education  regarding  alcohol,\n    7  tobacco, ANABOLIC STEROIDS, HUMAN GROWTH HORMONES and other drugs.\n    8    6.  All  pre-service  training  programs  in the state for elementary,\n    9  JUNIOR HIGH AND HIGH SCHOOL teachers shall include adequate  preparation\n   10  regarding  the instruction in alcohol, tobacco, ANABOLIC STEROIDS, HUMAN\n   11  GROWTH HORMONES and other drugs set forth herein, and no  teacher  shall\n   12  be  licensed  except upon satisfactory demonstration of the competencies\n   13  included in the institutional  proposals  approved  by  the  [education]\n   14  department.\n   15    7.  Nothing  contained  in this section shall be deemed to diminish or\n   16  impair the duties of the commissioner with  respect  to  the  continuing\n   17  program  for  critical  health  problems  established  by  chapter seven\n   18  hundred eighty-seven of the laws  of  nineteen  hundred  sixty-seven  as\n   19  amended. The commissioner shall coordinate actions taken under authority\n   20  of  this  section  with the provisions of said chapter as they relate to\n   21  health education in schools, [inservice] IN-SERVICE training and  train-\n   22  ing programs, and curriculum or syllabus development regarding the dele-\n   23  terious  effects  resulting  from the use, misuse, and abuse of alcohol,\n   24  tobacco, ANABOLIC STEROIDS, HUMAN GROWTH HORMONES and other drugs.\n   25    S 2. Paragraph a of subdivision 4 of section 804 of the education law,\n   26  as amended by chapter 181 of the laws of 2000, is  amended  to  read  as\n   27  follows:\n   28    a. The commissioner may prescribe in regulations such health education\n   29  courses  which  include instruction regarding alcohol, tobacco, ANABOLIC\n   30  STEROIDS, HUMAN GROWTH HORMONES and other drugs as the commissioner  may\n   31  deem  necessary and desirable for the welfare of pupils and the communi-\n   32  ty. The contents may be varied to meet the needs  of  particular  school\n   33  districts,  or  portions thereof, and need not be uniform throughout the\n   34  state, provided, however, that school districts shall utilize either the\n   35  curriculum for health education instruction regarding alcohol,  tobacco,\n   36  ANABOLIC  STEROIDS,  HUMAN  GROWN HORMONES and other drugs prescribed by\n   37  the commissioner or a course approved by the commissioner in  accordance\n   38  with criteria established by the commissioner.\n   39    S  3.  Subdivisions  1 and 2 of section 912-a of the education law, as\n   40  amended by chapter 477 of the laws of  2004,  are  amended  to  read  as\n   41  follows:\n   42    1. The school authorities of each school district within the state may\n   43  cause  all children attending grades seven through twelve, inclusive, in\n   44  the public and private schools located  within  such  districts,  to  be\n   45  separately and carefully examined in order to ascertain whether any such\n   46  children  are making use of dangerous drugs, INCLUDING ANABOLIC STEROIDS\n   47  AND HUMAN GROWTH HORMONES.\n   48    2. Such examination may be made  only  upon  the  written  request  or\n   49  consent of a parent of, or person in parental relation to, a child. Such\n   50  examination  shall  be  conducted  without notice to the child and shall\n   51  include the supervised taking of a urine sample which shall be  analyzed\n   52  for such drugs and in accordance with such standards as shall be accept-\n   53  able  to  the  New  York  state office of alcoholism and substance abuse\n   54  services, or its successor agency. The results of such examination shall\n   55  be promptly forwarded to the school authorities. If it should be  ascer-\n   56  tained,  upon  such test or examination, that any child is making use of\n\n       A. 3841                             3\n\n    1  dangerous drugs, INCLUDING ANABOLIC STEROIDS AND HUMAN GROWTH  HORMONES,\n    2  the  school authorities shall report same to the social services depart-\n    3  ment for the social services district wherein such school is located and\n    4  to the parent of, or person in parental relation to, such child together\n    5  with  a  statement  to  such parent or person in parental relation as to\n    6  available programs and facilities to combat such dangerous  drug  usage.\n    7  The local social services department shall be empowered, in an appropri-\n    8  ate  case, to take such action and offer such protective social services\n    9  as are prescribed by title six of article six  of  the  social  services\n   10  law.\n   11    S  4.  The  education law is amended by adding a new section 3001-e to\n   12  read as follows:\n   13    S 3001-E. INSTRUCTION MANDATORY  FOR  COACHES  OF  EXTRA-CLASS  SCHOOL\n   14  ATHLETIC  ACTIVITIES. 1.  IN ADDITION TO ANY PROVISION OF LAW OR RULE OR\n   15  REGULATION OF THE DEPARTMENT RELATED TO THE REQUIREMENTS  NECESSARY  FOR\n   16  TEACHERS IN PUBLIC SCHOOLS AND/OR TEACHERS IN NONPUBLIC SCHOOLS, WHETHER\n   17  CERTIFIED IN PHYSICAL EDUCATION OR NOT, TO COACH ANY EXTRA-CLASS ATHLET-\n   18  IC  ACTIVITY,  IT  SHALL  BE  REQUIRED  OF  ALL  SUCH TEACHERS THAT THEY\n   19  COMPLETE IN-SERVICE TRAINING IN THE DELETERIOUS EFFECTS  RESULTING  FROM\n   20  THE  USE,  MISUSE, AND ABUSE OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONES\n   21  AND PERFORMANCE-ENHANCING DIETARY SUPPLEMENTS BY ADOLESCENTS TO EXPEDITE\n   22  THE PHYSICAL DEVELOPMENT AND ENHANCE THE PERFORMANCE LEVEL OF  SECONDARY\n   23  SCHOOL ATHLETES.\n   24    2.  THROUGHOUT  THE  SPORTS  SEASON,  EACH  COACH  SHALL  INSTRUCT THE\n   25  STUDENTS HE OR SHE COACHES AS TO THE HARMFUL EFFECTS ASSOCIATED WITH THE\n   26  USE OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONES AND  PERFORMANCE-ENHANC-\n   27  ING  DIETARY  SUPPLEMENTS, SUCH INSTRUCTION TO BE IN A MANNER SUPPORTIVE\n   28  OF RELATED COURSES IN THE SECONDARY SCHOOL CURRICULUM INCLUDING  COURSES\n   29  IN  HEALTH  EDUCATION.  EACH COACH SHALL ENCOURAGE STUDENTS TO AVOID THE\n   30  USE OF ANABOLIC STEROIDS, HUMAN GROWTH HORMONES AND  PERFORMANCE-ENHANC-\n   31  ING  DIETARY  SUPPLEMENTS  AND  TO  ADOPT  PROPER NUTRITION AND TRAINING\n   32  PROGRAMS.\n   33    3. IN THE EVENT THAT A COACH BECOMES AWARE  OF  THE  USE  OF  ANABOLIC\n   34  STEROIDS  OR HUMAN GROWTH HORMONES BY A STUDENT, WHICH USE IS NOT PURSU-\n   35  ANT TO TREATMENT BY A LICENSED HEALTH CARE PRACTITIONER, THE COACH SHALL\n   36  REPORT SUCH USE TO THE SCHOOL AUTHORITIES, WHO SHALL IMMEDIATELY CONTACT\n   37  THE PARENT OF, OR PERSON IN PARENTAL RELATION TO, THE STUDENT.\n   38    4. EACH PUPIL PARTICIPATING  IN  INTERSCHOLASTIC  HIGH  SCHOOL  SPORTS\n   39  SHALL  SIGN  A  PLEDGE  NOT  TO  USE  ANABOLIC  STEROIDS OR HUMAN GROWTH\n   40  HORMONES, AS DEFINED IN SECTION 802 OF TITLE 21  OF  THE  UNITED  STATES\n   41  CODE, WITHOUT A PRESCRIPTION FROM A LICENSED HEALTH CARE PRACTITIONER.\n   42    S 5. This act shall take effect on the one hundred twentieth day after\n   43  it shall have become a law; provided, however, that effective immediate-\n   44  ly,  the  addition, amendment or repeal of any rule or regulation neces-\n   45  sary for the implementation of  this  act  on  its  effective  date  are\n   46  authorized  and  directed  to  be  made  and completed on or before such\n   47  effective date.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to requiring the instruction of students, teachers and coaches in the harmful use of anabolic steroids and human growth hormones by adolescents and providing for the testing of students suspected of using steroids and hormones, upon parental consent ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T135302.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T135302.TXT", "SOBI.D110131.T112203.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296240782000
+  "luceneModified" : 1296490923900
 }

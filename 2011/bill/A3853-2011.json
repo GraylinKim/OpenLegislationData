@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3853-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A3853-2011-1296190800000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the storage or pumping of water into the Lloyd Sands",
+  "summary" : "Prohibits the storage or pumping of water into the Lloyd Sands area of Long Island where chloride contamination does not result from seawater intrusion. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A1701-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3853\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Environmental Conservation\n\n       AN ACT to amend the  environmental  conservation  law,  in  relation  to\n         prohibiting  the storage or pumping of water into the Lloyd Sands area\n         of Long Island\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Section  15-1528 of the environmental conservation law is\n    2  amended by adding a new subdivision 5 to read as follows:\n    3    5. THE MORATORIUM PROVIDED FOR IN THIS SECTION SHALL  ALSO  INCLUDE  A\n    4  PROHIBITION ON:\n    5    (A)  THE GRANTING OF ANY NEW PERMITS TO DRILL ANY PUBLIC WATER SUPPLY,\n    6  PRIVATE WATER SUPPLY OR INDUSTRIAL WELLS IN ANY COASTAL COMMUNITY  WHERE\n    7  CHLORIDE CONTAMINATION DOES NOT RESULT FROM SEAWATER INTRUSION; AND\n    8    (B) THE GRANTING OF ANY EXEMPTION PURSUANT TO SUBDIVISION FOUR OF THIS\n    9  SECTION  UNTIL THE COMMISSIONER HAS COMPLETED SUFFICIENT RESEARCH NECES-\n   10  SARY TO ISSUE A DIRECTIVE TO LIFT SUCH MORATORIUM PURSUANT  TO  SUBDIVI-\n   11  SION THREE OF THIS SECTION.\n   12    S 2. This act shall take effect immediately.\n\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD05284-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to prohibiting the storage or pumping of water into the Lloyd Sands area of Long Island ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T135802.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112203.TXT", "SOBI.D110128.T135802.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241082177
+  "luceneModified" : 1296490923930
 }

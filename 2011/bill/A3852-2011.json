@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3852-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3852-2011-1296190800000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits transportation of animals in open areas of motor vehicle unless such animals are enclosed or restrained",
+  "summary" : "Prohibits the transportation of an animal in any open area of a motor vehicle which is intended for any load unless such area is fully enclosed or the animal is in a cage or container, or restrained so it's unable to leave or be thrown from the vehicle; imposes fines for the violation of the provisions thereof. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A1699-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3852\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Transportation\n\n       AN ACT to amend the vehicle and traffic law, in relation to  transporta-\n         tion of animals in a motor vehicle\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Legislative findings. The  legislature  hereby  finds  that\n    2  animals  riding unrestrained or inadequately restrained in open compart-\n    3  ments of motor vehicles are injured and killed when they  fall  or  jump\n    4  from  such  vehicles,  when  they are thrown from the vehicle and hit by\n    5  oncoming traffic, and when they are strangled  or  dragged  beneath  the\n    6  vehicle in which they were travelling. In addition to the obvious safety\n    7  threat  to  animals posed by this mode of transportation, animals riding\n    8  in this manner pose a substantial threat to the safety  of  drivers  and\n    9  passengers  in  other  vehicles,  as well as pedestrians. An animal that\n   10  jumps or is thrown from a motor vehicle creates a traffic  hazard  which\n   11  even  the most careful and astute driver may be unable to avoid. Drivers\n   12  and passengers can be injured or killed  when  an  animal  ejected  from\n   13  another  vehicle  hits  their  windshield  or forces them to drive in an\n   14  erratic fashion to avoid a collision. Pedestrians are at obvious risk as\n   15  well as vulnerable victims of these sorts of traffic disturbances.\n   16    S 2. The vehicle and traffic law is amended by adding  a  new  section\n   17  1222-a to read as follows:\n   18    S  1222-A.  TRANSPORTATION OF ANIMALS; ENCLOSURE AND RESTRAINT. 1.  NO\n   19  PERSON SHALL OPERATE A MOTOR VEHICLE ON A PUBLIC  HIGHWAY  WHILE  TRANS-\n   20  PORTING  AN  ANIMAL IN AN OPEN, UNCOVERED AREA OF SUCH VEHICLE WHEN SUCH\n   21  AREA IS INTENDED FOR ANY LOAD, UNLESS:\n   22    (A) SUCH AREA IS ENTIRELY ENCLOSED WITH  SIDE  AND  TAIL  RACKS  TO  A\n   23  HEIGHT  SUFFICIENT  TO  ENSURE THAT THE ANIMAL CANNOT FALL, BE THROWN OR\n   24  JUMP FROM THE MOTOR VEHICLE, BUT IN NO CASE SHALL SUCH RACK BE LESS THAN\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD05282-01-1\n\n       A. 3852                             2\n\n    1  FORTY-SIX INCHES EXTENDING VERTICALLY FROM THE FLOOR OF THE OPEN AREA TO\n    2  THE TOP OF THE RACKS; OR\n    3    (B) SUCH ANIMAL IS SECURED IN A CAGE OR OTHER CONTAINER WHICH PROVIDES\n    4  SUFFICIENT  VENTILATION, PROTECTION FROM THE ELEMENTS AND ADEQUATE SPACE\n    5  TO ENSURE THE SAFETY AND COMFORT OF THE ANIMAL, AND THAT  PREVENTS  SUCH\n    6  ANIMAL  FROM  BEING THROWN, FALLING FROM OR JUMPING FROM THE MOTOR VEHI-\n    7  CLE.  SUCH CAGE OR CONTAINER SHALL BE SECURED TO THE  MOTOR  VEHICLE  IN\n    8  SUCH  A  MANNER  AS TO PREVENT IT FROM FALLING FROM SUCH VEHICLE OR FROM\n    9  MOVING IN SUCH VEHICLE IN A MANNER WHICH CREATES A SUBSTANTIAL  RISK  OF\n   10  INJURY TO THE ANIMAL TRANSPORTED THEREIN.\n   11    2.  ANY  PERSON WHO VIOLATES THE PROVISIONS OF SUBDIVISION ONE OF THIS\n   12  SECTION SHALL BE PUNISHED BY A CIVIL FINE OF NOT LESS  THAN  TWENTY-FIVE\n   13  NOR MORE THAN SEVENTY-FIVE DOLLARS.\n   14    S 3. This act shall take effect on the first of November next succeed-\n   15  ing the date on which it shall have become a law.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to transportation of animals in a motor vehicle ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T135802.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112203.TXT", "SOBI.D110128.T135802.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241082175
+  "luceneModified" : 1296490923929
 }

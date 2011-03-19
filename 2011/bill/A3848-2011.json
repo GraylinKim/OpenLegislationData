@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3848-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A3848-2011-1296190800000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits rescinding certain real property tax exemptions on real property owned by siblings",
+  "summary" : "Provides for a real property tax exemption on real property owned by siblings, one of whom is over 65, once granted, shall not be rescinded solely because of the death of the older sibling as long as the surviving sibling owner is at least 62. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "sameAs" : "S223",
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A1365-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3848\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Real Property Taxation\n\n       AN ACT to amend the real property tax law, in relation to not rescinding\n         certain tax exemptions for real property owned by siblings\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Subparagraph  (iii)  of paragraph (a) of subdivision 4 of\n    2  section 425 of the real property tax law, as added by section 4 of  part\n    3  A of chapter 405 of the laws of 1999, is amended to read as follows:\n    4    (iii)  In  the  case  of  property  owned  by  husband  and wife OR BY\n    5  SIBLINGS, one of whom is sixty-five years of age or over, the exemption,\n    6  once granted, shall not be rescinded solely because of the death of  the\n    7  older  spouse  OR SIBLING, so long as the surviving spouse OR SIBLING is\n    8  at least sixty-two years of age as of the date specified in  this  para-\n    9  graph.\n   10    S 2. Paragraph (d) of subdivision 1 of section 467 of the real proper-\n   11  ty tax law, as amended by chapter 440 of the laws of 1985, is amended to\n   12  read as follows:\n   13    (d)  The real property tax exemption on real property owned by husband\n   14  and wife OR BY SIBLINGS, one of whom is sixty-five years of age or over,\n   15  once granted, shall not be rescinded by any municipal corporation solely\n   16  because  of  the  death  of  the  older spouse OR SIBLING so long as the\n   17  surviving spouse OR SIBLING is at least sixty-two years of age.\n   18    S 3. This act shall take effect immediately.\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD00270-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to not rescinding certain tax exemptions for real property owned by siblings ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T135802.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112203.TXT", "SOBI.D110128.T135802.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241082169
+  "luceneModified" : 1296490923921
 }

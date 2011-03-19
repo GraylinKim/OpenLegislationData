@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3839-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3839-2011-1296190800000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Butler",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Designates the Langheinrich fossil quarry as the official home of the New York state fossil",
+  "summary" : "Designates the Langheinrich Fossil Quarry as the official home of the New York state fossil. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "State Law",
+  "previousVersions" : [ "A5157-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3839\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced by M. of A. BUTLER -- read once and referred to the Committee\n         on Governmental Operations\n\n       AN  ACT to amend the state law, in relation to designating the Langhein-\n         rich Fossil Quarry as the home of the New York state fossil\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Section 83 of the state law, as added by chapter 279 of the\n    2  laws of 1984, is amended to read as follows:\n    3    S 83. State  fossil.  The  Eurypterus  remipes  shall  be the official\n    4  fossil of the state of New York,  AND  THE  LANGHEINRICH  FOSSIL  QUARRY\n    5  SHALL BE THE OFFICIAL HOME OF THE NEW YORK STATE FOSSIL.\n    6    S 2. This act shall take effect immediately.\n\n\n\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD08432-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the state law, in relation to designating the Langheinrich Fossil Quarry as the home of the New York state fossil ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T135302.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T135302.TXT", "SOBI.D110131.T112203.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296240782997
+  "luceneModified" : 1296490923892
 }

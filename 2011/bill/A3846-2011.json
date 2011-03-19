@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3846-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to correction",
+    "billEventId" : "A3846-2011-1296190800000-referred+to+correction",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires law enforcement agencies to generate a monthly report on community notification procedures for each sex offender",
+  "summary" : "Requires law enforcement agencies to generate a monthly report on community notification procedures for each sex offender. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Correction Law",
+  "previousVersions" : [ "A1394-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3846\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Correction\n\n       AN ACT to amend the correction law, in  relation  to  requiring  monthly\n         reports on community notification related to sex offenders\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Paragraphs (b) and (c) of subdivision 6 of section 168-l of\n    2  the correction law, paragraph (b) as amended by chapter 106 of the  laws\n    3  of  2006 and paragraph (c) as separately amended by chapters 318 and 680\n    4  of the laws of 2005, are amended to read as follows:\n    5    (b) If the risk of repeat offense is moderate, a level two designation\n    6  shall be given to such sex offender. In such case  the  law  enforcement\n    7  agency or agencies having jurisdiction and the law enforcement agency or\n    8  agencies  having  had  jurisdiction at the time of his or her conviction\n    9  shall be notified and may disseminate relevant information  which  shall\n   10  include  a  photograph  and  description  of  the offender and which may\n   11  include the exact name and any aliases used by the sex offender, approx-\n   12  imate address based on sex offender's zip code,  background  information\n   13  including the offender's crime of conviction, mode of operation, type of\n   14  victim  targeted,  the  name  and  address  of any institution of higher\n   15  education at which the sex offender is enrolled, attends, is employed or\n   16  resides and the description of special conditions imposed on the  offen-\n   17  der  to  any entity with vulnerable populations related to the nature of\n   18  the offense committed by such sex offender. Any entity receiving  infor-\n   19  mation on a sex offender may disclose or further disseminate such infor-\n   20  mation  at  its  discretion.  In addition, in such case, the information\n   21  described herein shall also be provided in the subdirectory  established\n   22  in  this  article  and  notwithstanding any other provision of law, such\n   23  information shall, upon request, be made available to the public.\n   24    Such law enforcement agencies shall compile,  maintain  and  update  a\n   25  listing  of  vulnerable organizational entities within its jurisdiction.\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD00182-01-1\n\n       A. 3846                             2\n\n    1  Such listing shall be utilized for notification of such organizations in\n    2  disseminating such information on level two sex  offenders  pursuant  to\n    3  this  paragraph.  Such  listing  shall  include  and  not be limited to:\n    4  superintendents  of  schools or chief school administrators, superinten-\n    5  dents of parks, public and private libraries, public and private  school\n    6  bus  transportation  companies,  day care centers, nursery schools, pre-\n    7  schools, neighborhood watch groups,  community  centers,  civic  associ-\n    8  ations, nursing homes, victim's advocacy groups and places of worship.\n    9    SUCH  LAW  ENFORCEMENT  AGENCIES SHALL GENERATE A MONTHLY REPORT WHICH\n   10  SHALL BE MADE AVAILABLE TO THE PUBLIC, IDENTIFYING THE COMMUNITY NOTIFI-\n   11  CATION PROCEDURES IMPLEMENTED FOR EACH OFFENDER. SUCH  REPORT  SHALL  BE\n   12  AVAILABLE  TO  THE  PUBLIC  UPON  REQUEST.  SUCH REPORT SHALL BE UPDATED\n   13  MONTHLY. SUCH REPORT WILL INCLUDE A LISTING OF  EACH  VULNERABLE  ENTITY\n   14  NOTIFICATION MADE, EXCLUDING THE VICTIM AND INDIVIDUAL RESIDENTS.\n   15    (c) If the risk of repeat offense is high and there exists a threat to\n   16  the  public  safety a level three designation shall be given to such sex\n   17  offender. In such case, the law enforcement agency  or  agencies  having\n   18  jurisdiction  and  the  law  enforcement  agency  or agencies having had\n   19  jurisdiction at the time of his or her conviction shall be notified  and\n   20  may  disseminate  relevant  information which shall include a photograph\n   21  and description of the offender and which may include the sex offender's\n   22  exact name and any aliases used by the offender, exact address,  address\n   23  of  the offender's place of employment, background information including\n   24  the offender's crime of conviction, mode of operation,  type  of  victim\n   25  targeted, the name and address of any institution of higher education at\n   26  which  the sex offender is enrolled, attends, is employed or resides and\n   27  the description of special conditions imposed on  the  offender  to  any\n   28  entity  with vulnerable populations related to the nature of the offense\n   29  committed by such sex offender. Any entity receiving  information  on  a\n   30  sex offender may disclose or further disseminate such information at its\n   31  discretion.  In addition, in such case, the information described herein\n   32  shall also be provided in the subdirectory established in  this  article\n   33  and  notwithstanding any other provision of law, such information shall,\n   34  upon request, be made available to the public.\n   35    Such law enforcement agencies shall compile,  maintain  and  update  a\n   36  listing  of  vulnerable organizational entities within its jurisdiction.\n   37  Such listing shall be utilized for notification of such organizations in\n   38  disseminating such information on level three sex offenders pursuant  to\n   39  this  paragraph.  Such  listing  shall  include  and  not be limited to:\n   40  superintendents of schools or chief school  administrators,  superinten-\n   41  dents  of parks, public and private libraries, public and private school\n   42  bus transportation companies, day care centers,  nursery  schools,  pre-\n   43  schools,  neighborhood  watch  groups,  community centers, civic associ-\n   44  ations, nursing homes, victim's advocacy groups and places of worship.\n   45    SUCH LAW ENFORCEMENT AGENCIES SHALL GENERATE A  MONTHLY  REPORT  WHICH\n   46  SHALL BE MADE AVAILABLE TO THE PUBLIC, IDENTIFYING THE COMMUNITY NOTIFI-\n   47  CATION  PROCEDURES  IMPLEMENTED  FOR EACH OFFENDER. SUCH REPORT SHALL BE\n   48  AVAILABLE TO THE PUBLIC UPON  REQUEST.  SUCH  REPORT  SHALL  BE  UPDATED\n   49  MONTHLY.  SUCH  REPORT  WILL INCLUDE A LISTING OF EACH VULNERABLE ENTITY\n   50  NOTIFICATION MADE, EXCLUDING THE VICTIM AND INDIVIDUAL RESIDENTS.\n   51    S 2. This act shall take effect on the first of November next succeed-\n   52  ing the date on which it shall have become a law.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the correction law, in relation to requiring monthly reports on community notification related to sex offenders ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T135302.TXT", "SOBI.D110128.T135802.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T135302.TXT", "SOBI.D110131.T112203.TXT", "SOBI.D110128.T135802.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241082163
+  "luceneModified" : 1296490923918
 }
