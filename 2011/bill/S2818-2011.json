@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to active self-insurers",
-  "summary" : null,
+  "summary" : "Relates to active self-insurers. ",
   "currentCommittee" : "LABOR",
   "sameAs" : null,
   "lawSection" : "Workers' Compensation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A11613-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the workers' compensation law, in relation to active self-insurers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT", "SOBI.D110202.T095703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT", "SOBI.D110202.T102204.TXT", "SOBI.D110202.T095703.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296659824126
+  "luceneModified" : 1296660124322
 }
