@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294635600000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A1251-2011-1294635600000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Hawley",
+    "fullname" : "Hawley (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -95,7 +102,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 5 of the constitution, relating to the filling of vacancies in the offices of comptroller and attorney-general ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T120358.TXT", "SOBI.D110110.T102050.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T164132.TXT", "SOBI.D110107.T120358.TXT", "SOBI.D110110.T102050.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294672850029
+  "luceneModified" : 1294695692281
 }
