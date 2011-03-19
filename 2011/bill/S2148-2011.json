@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Defines a bill of rights for persons with autism or autism spectrum disorders",
-  "summary" : null,
+  "summary" : "Defines a bill of rights for persons with autism or autism spectrum disorders. ",
   "currentCommittee" : "MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
   "sameAs" : "A1708",
   "lawSection" : "Mental Hygiene Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6732-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -137,7 +137,7 @@
   "actClause" : "AN ACT to amend the mental hygiene law, in relation to defining a bill of rights for persons with autism or autism spectrum disorders ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T114126.TXT", "SOBI.D110118.T110118.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T114126.TXT", "SOBI.D110118.T110118.TXT", "SOBI.D110118.T121130.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295368886899
+  "luceneModified" : 1295370690768
 }
