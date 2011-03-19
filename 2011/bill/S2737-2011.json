@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates the crime of unauthorized radio transmission, a class D felony, punishable by imprisonment and a fine in the amount of not less than $10,000.00",
-  "summary" : null,
+  "summary" : "Creates the crime of unauthorized radio transmission for those who broadcast radio transmissions without obtaining a license to do so from the FCC; makes it class D felony punishable by imprisonment and a fine. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6783-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T161219.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T161745.TXT", "SOBI.D110131.T161219.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296508339726
+  "luceneModified" : 1296508665934
 }
