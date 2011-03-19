@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A938-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to veterans' affairs",
+    "billEventId" : "A938-2011-1294203600000-referred+to+veterans%27+affairs",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants status of combat veteran to veterans who served in the armed forces during operation restore hope in Somalia for the purposes of obtaining certain benefits",
+  "summary" : "Grants status as a combat veteran to veterans who served in the armed forces in Somalia during Operation Restore Hope in Somalia for the purposes of obtaining any privileges and benefits that are available to combat veterans. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A7620-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castelli",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to veterans who participated in operation restore hope in Somalia ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T133158.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294252318175
+}

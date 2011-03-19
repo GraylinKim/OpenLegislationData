@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the public service commission to audit utility submetering orders, compare usage before submetering to usage after submetering orders, prepare report",
-  "summary" : null,
+  "summary" : "Requires the public service commission to audit previously approved utility submetering orders, to compare usage before submetering to usage after submetering orders were implemented, and to prepare a report concerning its findings. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Services",
-  "previousVersions" : null,
+  "previousVersions" : [ "A7814-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to require the public service commission to audit previously approved utility submetering orders, compare usage before submetering to usage after submetering orders were implemented, and prepare a report concerning its findings ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T131653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T133158.TXT", "SOBI.D110105.T131653.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251413725
+  "luceneModified" : 1294252318172
 }

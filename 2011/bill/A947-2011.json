@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A947-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A947-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates a permanent environmental justice advisory group",
+  "summary" : "Creates a permanent environmental justice advisory group; provides that the function of the group is to ensure that no group of people, including a racial, ethnic, or socioeconomic group, bears a disproportionate share of the negative environmental consequences resulting from industrial, municipal, and commercial operations or the execution of federal, state, local, and tribal programs and policies; provides that advisory group to adopt a model environmental justice policy applicable to state agencies, monitor agencies on compliance with such policies; specifies responsibilities of state agencies; establishes an environmental justice interagency coordinating council. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "AA8490-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to establishing a permanent environmental justice advisory group and an environmental justice interagency coordinating council ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T133158.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294252318204
+}

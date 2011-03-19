@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A946-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A946-2011-1294203600000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the payment of court costs and legal fees to government officers and employees removed from a position illegally and reinstated by court order",
+  "summary" : "Requires a civil service employer to reimburse, within thirty days, any employee or officer, reinstated pursuant to a court order, for court costs and reasonable attorney's fees. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : [ "A205-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil service law, in relation to the compensation of officers and employees reinstated by court order ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T133158.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294252318201
+}
