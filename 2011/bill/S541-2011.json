@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Enacts the \"Homeland Security peace officer status act\"",
-  "summary" : null,
+  "summary" : "Grants peace officer status to police officers, inspectors and special agents of the Federal Protective Service of the United States Department of Homeland Security. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA1870-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T163128.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T163629.TXT", "SOBI.D101221.T163128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292967088199
+  "luceneModified" : 1292967389268
 }

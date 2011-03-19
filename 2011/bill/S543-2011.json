@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes full-time college students to act as election inspectors and poll clerks in the election district where their colleges are located",
-  "summary" : null,
+  "summary" : "Authorizes, under certain circumstances, full-time college and university students to act as election inspectors and poll clerks in the election district where their college or university is located. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SB1837-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T163128.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T163629.TXT", "SOBI.D101221.T163128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292967088212
+  "luceneModified" : 1292967389260
 }

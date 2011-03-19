@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for the provision of voter registration forms to students by colleges, universities and public high schools",
-  "summary" : null,
+  "summary" : "Provides for the provision of voter registration forms to students by colleges, universities and public high schools. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SC1872-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -102,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T163128.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T163629.TXT", "SOBI.D101221.T163128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292967088206
+  "luceneModified" : 1292967389261
 }
