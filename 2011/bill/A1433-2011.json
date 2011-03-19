@@ -1,0 +1,87 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1433-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to cities",
+    "billEventId" : "A1433-2011-1294635600000-referred+to+cities",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brennan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the city council in N.Y. city to prevent a proposed new charter or amendments from being placed on the ballot and promotes representative charter commissions",
+  "summary" : "Authorizes the city council in cities with a population of one million or more from preventing a proposed new charter or amendments from being placed on the ballot for submission to electors and promotes representative charter commissions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Municipal Home Rule Law",
+  "previousVersions" : [ "A10165-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Benedetto",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barron",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the municipal home rule law, in relation to authorizing the city council in cities with a population of one million or more to prevent a proposed new charter or amendments from being placed on the ballot for submission to electors; and in relation to promoting representative charter revision commissions in cities of one million or more ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T132605.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294683965750
+}
