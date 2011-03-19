@@ -78,6 +78,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1291698002000,
+    "eventText" : "PASSED SENATE",
+    "billEventId" : "A42007-2009-1291698002000-PASSED+SENATE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291698003000,
+    "eventText" : "RETURNED TO ASSEMBLY",
+    "billEventId" : "A42007-2009-1291698003000-RETURNED+TO+ASSEMBLY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -102,7 +116,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101203.T174509.TXT", "SOBI.D101207.T150508.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101203.T174509.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101207.T150508.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291752308476
+  "luceneModified" : 1291753208782
 }
