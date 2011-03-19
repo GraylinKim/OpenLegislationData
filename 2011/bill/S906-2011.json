@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S905-2011",
+  "senateBillNo" : "S906-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S905-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S906-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits landlords from charging potential tenants application fees greater than the actual cost of a credit check or other related services paid by the landlord",
+  "title" : "Relates to renewal of a lease under the stabilization code promulgated by the real estate industry stabilization association",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Real Property Law",
+  "lawSection" : "New York City Administrative Code",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T120903.TXT", "SOBI.D110103.T121403.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T121403.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294074843014
+  "luceneModified" : 1294074843017
 }

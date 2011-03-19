@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S905-2011",
+  "senateBillNo" : "S912-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S905-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S912-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits landlords from charging potential tenants application fees greater than the actual cost of a credit check or other related services paid by the landlord",
+  "title" : "Creates the middle class circuit breaker tax credit and a tax reform study commission",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Real Property Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T120903.TXT", "SOBI.D110103.T121403.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T121403.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294074843014
+  "luceneModified" : 1294074843043
 }
