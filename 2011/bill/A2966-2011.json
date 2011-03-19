@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2966-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2966-2011-1295586000000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the suspension of public assistance to owners of privately owned residential housing in New York city who are in violation of certain housing standards",
+  "summary" : "Provides for the suspension of public assistance to owners of privately owned residential housing in NYC who are in violation of certain New York city department of housing preservation and development standards. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City",
+  "previousVersions" : [ "A1404-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT relating to payment of assistance to owners of privately owned residential housing within the city of New York ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T152034.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295641234454
+}

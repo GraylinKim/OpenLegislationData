@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2960-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A2960-2011-1295586000000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the ownership status of transit facilities",
+  "summary" : "Directs, upon conveyance of certain transit facilities, that the New York city transit authority shall be deemed the sole owner of such facilities with respect to all obligations and liabilities imposed by law on property owners. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1354",
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A1337-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to the ownership status of transit facilities ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T152034.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295641234441
+}

@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2969-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to education",
+    "billEventId" : "A2969-2011-1295586000000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the commissioner of education to require the education department to report on the number and percentage of N.Y. city high school students discharged to GED programs",
+  "summary" : "Authorizes the commissioner of education to require the education department to report on the number and percentage of NYC high school students discharged to GED programs and the number and percentage of successful completions of such programs. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A1302-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to GED program accountability ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T152034.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295641234463
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2961-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2961-2011-1295586000000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the home ownership assistance program",
+  "summary" : "Establishes the home ownership assistance program; allows qualified individuals to receive home ownership assistance payments when they purchase an eligible home; defines who is eligible for such assistance payments and how much those assistance payments will be. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1384",
+  "lawSection" : "Public Housing Law",
+  "previousVersions" : [ "A1433-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public housing law, in relation to creating a home ownership assistance program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T152034.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295641234444
+}

@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2965-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A2965-2011-1295586000000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Extends the period given to certain applicants for public assistance benefits to request a fair hearing",
+  "summary" : "Extends the period given to certain applicants for public assistance benefits to request a fair hearing on a determination of their ability to participate in work activities from ten days to sixty days or within sixty days of receipt of a work activity assignment. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A1306-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Glick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "O'Donnell",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to extending the period given to certain applicants for public assistance benefits to request a fair hearing ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T152034.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295641234449
+}
