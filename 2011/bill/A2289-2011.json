@@ -93,7 +93,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295931600000A2289-2011-59-2",
+    "voteType" : 1,
+    "voteDate" : 1295931600000,
+    "ayes" : [ "Adams", "Addabbo", "Alesi", "Avella", "Ball", "Bonacic", "Breslin", "Carlucci", "DeFrancisco", "Diaz", "Dilan", "Duane", "Espaillat", "Farley", "Flanagan", "Fuschillo", "Gallivan", "Gianaris", "Golden", "Griffo", "Grisanti", "Hannon", "Hassell-Thompson", "Huntley", "Johnson", "Kennedy", "Klein", "Krueger", "Kruger", "Lanza", "Larkin", "LaValle", "Libous", "Little", "Marcellino", "Martins", "Maziarz", "McDonald", "Montgomery", "Nozzolio", "O'Mara", "Oppenheimer", "Parker", "Peralta", "Ranzenhofer", "Ritchie", "Rivera", "Robach", "Saland", "Savino", "Serrano", "Seward", "Skelos", "Squadron", "Stavisky", "Stewart-Cousins", "Valesky", "Young", "Zeldin" ],
+    "nays" : [ "Perkins", "Sampson" ],
+    "abstains" : [ ],
+    "excused" : [ "Smith" ],
+    "ayeswr" : null,
+    "description" : null,
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -123,7 +136,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to apportionment of state aid to libraries and library systems, teachers of tomorrow teacher recruitment and retention program and duties of school districts; to amend chapter 756 of the laws of 1992 relating to funding a program for work force education conducted by the consortium for worker education in New York city, in relation to effectiveness of such provisions; to amend chapter 425 of the laws of 2002, amending the education law relating to the provision of supplemental educational services, attendance at a safe public school and the suspension of pupils who bring a firearm to or possess a firearm at a school, in relation to the effectiveness of such chapter; to amend chapter 101 of the laws of 2003, amending the education law relating to implementation of the No Child Left Behind Act of 2001, in relation to the effectiveness thereof; to amend chapter 147 of the laws of 2001, amending the education law relating to conditional appointment of school district, charter school or BOCES employees, in relation to the effectiveness thereof; to amend chapter 57 of the laws of 2008 amending the education law relating to the universal pre-kindergarten program, in relation to extending the provisions thereof; to amend chapter 386 of the laws of 1996, amending the education law relating to providing for a waiver allowing state aid in certain circumstances, in relation to extending education, in relation to extending the provisions thereof; to amend chapter 169 of the laws of 1994 relating to certain provisions related to the 1994-95 state operations, aid to localities, capital projects and debt service budgets, in relation to the effectiveness thereof; and to amend chapter 82 of the laws of 1995, amending the education law and certain other laws relating to state aid to school districts and the appropriation of funds for the support of government, in relation to the effectiveness thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT", "SOBI.D110125.T152439.TXT", "SOBI.D110125.T172946.TXT", "SOBI.D110118.T090612.TXT", "SOBI.D110114.T181509.TXT", "SOBI.D110124.T155137.TXT", "SOBI.D110119.T145826.TXT", "SOBI.D110124.T145633.TXT", "SOBI.D110124.T154637.TXT", "SOBI.D110124.T155644.TXT", "SOBI.D110121.T121522.TXT", "SOBI.D110118.T090104.TXT", "SOBI.D110121.T120521.TXT", "SOBI.D110114.T180009.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT", "SOBI.D110125.T152439.TXT", "SOBI.D110125.T172946.TXT", "SOBI.D110125.T173446.TXT", "SOBI.D110118.T090612.TXT", "SOBI.D110114.T181509.TXT", "SOBI.D110124.T155137.TXT", "SOBI.D110119.T145826.TXT", "SOBI.D110124.T145633.TXT", "SOBI.D110124.T154637.TXT", "SOBI.D110124.T155644.TXT", "SOBI.D110121.T121522.TXT", "SOBI.D110118.T090104.TXT", "SOBI.D110121.T120521.TXT", "SOBI.D110114.T180009.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295994586555
+  "luceneModified" : 1295994886756
 }
