@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1531-2011",
+  "senateBillNo" : "A1534-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "referred to election law",
-    "billEventId" : "A1531-2011-1294635600000-referred+to+election+law",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1534-2011-1294635600000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Gantt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to proceedings to challenge fraud or irregularity in general elections",
+  "title" : "Causes a person who engages in certain non-driving activities while driving to be guilty of inattentive driving",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Election Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Kavanagh",
+    "fullname" : "Latimer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the election law, in relation to proceedings to challenge fraud or irregularity in general elections ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to inattentive driving, and to amend the state finance law, in relation to creating the attentive driver education fund ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT", "SOBI.D110110.T151117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690578863
+  "luceneModified" : 1294690578851
 }

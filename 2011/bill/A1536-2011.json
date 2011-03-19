@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1525-2011",
+  "senateBillNo" : "A1536-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "referred to cities",
-    "billEventId" : "A1525-2011-1294635600000-referred+to+cities",
+    "eventText" : "referred to election law",
+    "billEventId" : "A1536-2011-1294635600000-referred+to+election+law",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,63 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides appointment process for members of a charter revision commission appointed by the mayor of N.Y. city for the submission of proposals",
+  "title" : "Requires paper ballots have a box, oval or other marking area that the voter may intentionally fill in to alert the voting system that any and all undervotes on the",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S412",
-  "lawSection" : "Municipal Home Rule Law",
+  "sameAs" : null,
+  "lawSection" : "Election Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Maisel",
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Lifton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the municipal home rule law, in relation to promoting representative charter revision commissions in cities of one million or more ",
+  "actClause" : "AN ACT to amend the election law, in relation to the form of paper ballots ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT", "SOBI.D110110.T151117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690578880
+  "luceneModified" : 1294690578860
 }

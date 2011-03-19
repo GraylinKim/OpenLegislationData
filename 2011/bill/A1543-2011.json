@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1530-2011",
+  "senateBillNo" : "A1543-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "referred to ways and means",
-    "billEventId" : "A1530-2011-1294635600000-referred+to+ways+and+means",
+    "eventText" : "referred to education",
+    "billEventId" : "A1543-2011-1294635600000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Crouch",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Exempts certain easements from the real estate transfer tax",
+  "title" : "Relates to the transitioning age of students with disabilities",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the tax law, in relation to exempting certain easements from the real estate transfer tax ",
+  "actClause" : "AN ACT to amend the education law, in relation to the transitioning age of students with disabilities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT", "SOBI.D110110.T151117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690578857
+  "luceneModified" : 1294690578896
 }

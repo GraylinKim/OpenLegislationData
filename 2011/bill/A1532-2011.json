@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1528-2011",
+  "senateBillNo" : "A1532-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "referred to cities",
-    "billEventId" : "A1528-2011-1294635600000-referred+to+cities",
+    "eventText" : "referred to health",
+    "billEventId" : "A1532-2011-1294635600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Grants cities authority to review and approve plans for the construction of structures proposed to be made within its boundaries",
+  "title" : "Relates to prohibiting smoking on public beaches and in public parks",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General City Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general city law, in relation to the review of construction plans by cities ",
+  "actClause" : "AN ACT to amend the public health law, in relation to prohibiting smoking on public beaches and in public parks ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT", "SOBI.D110110.T151117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690578869
+  "luceneModified" : 1294690578846
 }
