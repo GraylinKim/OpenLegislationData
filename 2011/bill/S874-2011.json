@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to adjustment of maximum allowable rent",
-  "summary" : null,
+  "summary" : "Relates to adjustment to the maximum allowable rent. ",
   "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
   "lawSection" : "New York City Administrative Code",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA5296-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the administrative code of the city of New York, the emergency tenant protection act of nineteen seventy-four, and the emergency housing rent control law, in relation to adjustment of maximum allowable rent ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T101851.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T101851.TXT", "SOBI.D110103.T120402.TXT", "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240830
+  "luceneModified" : 1294074242857
 }
