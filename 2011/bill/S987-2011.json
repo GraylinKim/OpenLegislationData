@@ -3,8 +3,8 @@
   "senateBillNo" : "S987-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S987-2011-1294203600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S987-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a biomedical research grants and working capital loan program within the urban development corporation",
+  "title" : "Prohibits the hiring of a level 2 or level 3 sex offender as a building superintendent or resident manager, provides that sexual harassment of a tenant is a violation",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "New York State Urban Development Corporation Act",
+  "lawSection" : "Multiple Dwelling Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T100936.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T100936.TXT", "SOBI.D110104.T102449.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294153776783
+  "luceneModified" : 1294154689990
 }
