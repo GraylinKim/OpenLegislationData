@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4112-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A4112-2011-1296536400000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Butler",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to requiring certain information to be provided as part of custody and support agreements",
+  "summary" : "Requires parents to provide certain information as part of a custody and support agreement for the purpose of permitting a child to apply for financial aid for post secondary education. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Domestic Relations Law",
+  "previousVersions" : [ "A4926-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the domestic relations law, in relation to requiring parents to provide certain information as part of custody and support agreements ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T162411.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296595451355
+}

@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4110-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A4110-2011-1296536400000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for adoption of previous year's budget in certain cases",
+  "summary" : "Provides for automatic adoption of previous year's state budget in cases when the legislature and governor have not timely enacted a current year's state budget. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "previousVersions" : [ "A10831-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing amendments to section 3 of article 7 of the constitution, in relation to implementing the budget of the previous fiscal year where a current fiscal year's budget is not enacted in a timely manner ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T162411.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296595451350
+}
