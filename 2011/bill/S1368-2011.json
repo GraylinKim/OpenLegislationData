@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1359-2011",
+  "senateBillNo" : "S1368-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S1359-2011-1294290000000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S1368-2011-1294290000000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the commissioner of health to report on the very high incidence of asthma in the state",
-  "summary" : "Directs the commissioner of health to study and report on the very high incidence of asthma in the state. ",
-  "currentCommittee" : "HEALTH",
+  "title" : "Relates to contracts for transportation of children",
+  "summary" : null,
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Health",
-  "previousVersions" : [ "S4477-2009" ],
+  "lawSection" : "Family Court Act",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -38,13 +38,6 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "KLEIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -53,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110106.T161735.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348955355
+  "luceneModified" : 1294348955352
 }

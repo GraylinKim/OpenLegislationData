@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1363-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294290000000,
+    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+    "billEventId" : "S1363-2011-1294290000000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires public authorities to negotiate with most qualified architectural and engineering professional firms before negotiating with other firms",
+  "summary" : "Requires public authorities and public benefit corporations to negotiate with professional firms providing architectural or engineering services in order from the most qualified to the least qualified with regard to the provision of services to the authority or corporation. ",
+  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "sameAs" : null,
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "SB3531-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294348955339
+}

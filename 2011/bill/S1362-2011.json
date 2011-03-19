@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Extends the maximum length of single vehicles to forty-five feet",
-  "summary" : null,
+  "summary" : "Extends the maximum length of single vehicles to forty-five feet. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7970-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T161735.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110106.T161735.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348655224
+  "luceneModified" : 1294348955329
 }

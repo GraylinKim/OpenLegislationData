@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1357-2011",
+  "senateBillNo" : "S1369-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1357-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S1369-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Defines the term electric assisted bicycle",
-  "summary" : "Defines the term \"electric assisted bicycle\" for purposes of the applicability of the vehicle and traffic law; requires persons sixteen years of age or younger to wear a helmet when operating an electric assisted bicycle. ",
+  "title" : "Authorizes county highway superintendents to rent road machinery from any city, town or village",
+  "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "S4014-2009" ],
+  "lawSection" : "Highway Law",
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110106.T161735.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348955333
+  "luceneModified" : 1294348955357
 }
