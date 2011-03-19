@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A450-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A450-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Permits commercial applicators of pesticides to apply pesticides in a dosage, concentration or frequency less than that specified on the labeling",
+  "summary" : "Permits commercial applicators of pesticides to apply pesticides in a dosage, concentration or frequency less than that specified on the labeling. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A7600-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to the use of pesticides by commercial applicators ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T162618.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293139578314
+}

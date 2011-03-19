@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A447-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A447-2011-1294203600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the state to assume all costs of basic quality education; repealer",
+  "summary" : "Makes provisions for the state to assume all costs of basic quality education and for the elimination of real property taxes for the support of education; requires board of regents to establish a schedule of mandatory basic services and costs thereof; provides that school districts shall submit an annual basic budget to the department of education for basic services; increases taxes on personal income and business; makes special provisions for reduction of tax in certain cities and for reduction in rent by tenants in such cities; provides for phased in methods of funding using a \"Basic Quality Education\" formula; repeals certain provisions of the tax law and real property tax law relating thereto. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A6009-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera N",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, the real property tax law and the tax law, in relation to abolishing certain school taxes, providing for alternative taxes and state distribution to school districts; and repealing certain provisions of the real property tax law and the tax law relating to certain taxes ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T162618.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293139578309
+}

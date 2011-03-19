@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A445-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A445-2011-1294203600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the county of Madison to impose an additional mortgage recording tax of twenty-five cents per one hundred dollars of debt",
+  "summary" : "Authorizes the county of Madison to impose an additional mortgage recording tax of twenty-five cents per one hundred dollars of debt. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A11327-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to authorizing the county of Madison to impose an additional mortgage recording tax and providing for the repeal of such provisions upon the expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T162618.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293139578307
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A438-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A438-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires police departments to electronically transmit to parking violations bureaus a copy of each stolen vehicle report prepared; use of electronic reports in defe",
+  "summary" : "Requires police departments to electronically transmit to parking violations bureaus a copy of each stolen vehicle report prepared (within 5 days of the completion thereof); provides that for the purposes of an owner asserting a defense to a charge of parking violation (that the motor vehicle had been reported stolen and had not been recovered by such time), it shall be a sufficient defense that a copy of the electronically transmitted police report is on file with the parking violations bureau. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A3713-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring police departments to electronically transmit to parking violations bureaus a copy of each report of stolen vehicle prepared ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T162618.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293139578295
+}
