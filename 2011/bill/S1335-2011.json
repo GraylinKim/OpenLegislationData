@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to computing the service payment paid to certain public transportation systems",
-  "summary" : null,
+  "summary" : "Relates to computing the service payment paid to certain public transportation systems. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Transportation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6475-2009", "A6475-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153730.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154732.TXT", "SOBI.D110106.T153730.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346250210
+  "luceneModified" : 1294346852538
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1334-2011",
+  "senateBillNo" : "S1339-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1334-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S1339-2011-1294290000000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires contract carriers of passengers by motor vehicle to provide federal SafeStat results to potential customers",
-  "summary" : "Requires contract carriers of passengers by motor vehicle to provide federal SafeStat results to potential customers. ",
-  "currentCommittee" : "TRANSPORTATION",
+  "title" : "Extends right to vote to aliens lawfully admitted for permanent residence in the U.S.",
+  "summary" : null,
+  "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
-  "lawSection" : "Transportation Law",
-  "previousVersions" : [ "S7191-2009" ],
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T154732.TXT", "SOBI.D110106.T153730.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154732.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346852534
+  "luceneModified" : 1294346852533
 }

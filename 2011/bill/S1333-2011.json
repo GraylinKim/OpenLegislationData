@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides early voting for a candidate in a general election no sooner than twenty days and no later than five days prior to election day at county board of elections",
-  "summary" : null,
+  "summary" : "Provides to any person early voting for a candidate for public office in a general election to take place no sooner than twenty days and no later than five days prior to election day, and for a special election to take place no sooner than eight days and no later than two days prior to election day; and such voting shall take place at such person's county board of elections. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1425-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153730.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154732.TXT", "SOBI.D110106.T153730.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294346250179
+  "luceneModified" : 1294346852523
 }
