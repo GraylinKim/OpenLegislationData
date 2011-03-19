@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2920-2011",
+  "senateBillNo" : "A2925-2011",
   "billEvents" : [ {
     "eventDate" : 1295586000000,
-    "eventText" : "referred to veterans' affairs",
-    "billEventId" : "A2920-2011-1295586000000-referred+to+veterans%27+affairs",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A2925-2011-1295586000000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Sweeney",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to use of personal confidential information received from veterans or family members of veterans receiving services from the state",
+  "title" : "Makes an appropriation to the Museum of African American Cinema, Inc. for the purchase of land, the operation of such facility and for an architectural study",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Appropriations",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Magnarelli",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T125024.TXT", "SOBI.D110121.T124523.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T125024.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295632224903
+  "luceneModified" : 1295632224915
 }
