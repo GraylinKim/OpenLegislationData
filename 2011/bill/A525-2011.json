@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A525-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A525-2011-1294203600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to a residential housing downpayment credit",
+  "summary" : "Relates to a residential housing downpayment credit; provides that such tax credit is in the amount of 10 percent of the purchase price, or twenty-five thousand dollars, whichever is less. ",
+  "currentCommittee" : null,
+  "sameAs" : "S809",
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A343-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to a residential housing downpayment credit against the tax on personal income ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T100850.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067330757
+}
