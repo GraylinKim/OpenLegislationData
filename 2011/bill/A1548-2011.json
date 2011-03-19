@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for early voting at presidential elections",
-  "summary" : null,
+  "summary" : "Provides for early voting at presidential elections. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Constitution, Concurrent Resolutions to Amend",
-  "previousVersions" : null,
+  "previousVersions" : [ "A203-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 9 of article 2 of the constitution, in relation to early voting for presidential elections ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T153118.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690900018
+  "luceneModified" : 1294691478385
 }

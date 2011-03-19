@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1550-2011",
+  "senateBillNo" : "A1569-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
     "eventText" : "referred to education",
-    "billEventId" : "A1550-2011-1294635600000-referred+to+education",
+    "billEventId" : "A1569-2011-1294635600000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Tedisco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that school district employees shall not knowingly sell, market, provide, distribute, endorse or recommend the use of certain dietary supplements",
-  "summary" : "Provides school district employees shall not knowingly sell, market, provide, distribute, endorse or recommend the use of certain dietary supplements. ",
+  "title" : "Creates the \"healthy kids act\" pilot program to encourage students to develop healthy eating habits at school; appropriation",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A7627-2009" ],
+  "lawSection" : "Education",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Robinson",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera J",
+    "fullname" : "Conte",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to dietary supplements ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T153118.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T153118.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294691478378
+  "luceneModified" : 1294691478351
 }

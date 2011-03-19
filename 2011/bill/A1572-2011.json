@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1553-2011",
+  "senateBillNo" : "A1572-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "referred to social services",
-    "billEventId" : "A1553-2011-1294635600000-referred+to+social+services",
+    "eventText" : "referred to correction",
+    "billEventId" : "A1572-2011-1294635600000-referred+to+correction",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Tedisco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to medicaid eligibility for youth leaving court ordered placement",
-  "summary" : "Relates to medicaid eligibility for youth leaving court ordered placement. ",
+  "title" : "Relates to information disseminated on level two sex offenders; relates to child abuse notification liability",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
-  "previousVersions" : [ "A11020-2009" ],
+  "lawSection" : "Correction Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gibson",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "McDonough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Molinaro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the social services law, in relation to medicaid eligibility for youth leaving court ordered placement ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T153118.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T153118.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294691478364
+  "luceneModified" : 1294691478366
 }

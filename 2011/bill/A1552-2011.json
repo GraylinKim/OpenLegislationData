@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Exempts textbooks required or recommended by college professors for use in a particular course from sales and compensating use taxes",
-  "summary" : null,
+  "summary" : "Exempts textbooks required or recommended by college professors for use in a particular course from sales and compensating use taxes; and also requires that students provide a course syllabus or form which identifies course materials as a requirement for such exemption. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A7584-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to exempting required or professor recommended college textbooks from sales and compensating use taxes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T153118.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690900028
+  "luceneModified" : 1294691478369
 }
