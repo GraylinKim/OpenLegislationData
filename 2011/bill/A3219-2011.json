@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the comptroller to transfer money into the environmental protection fund whenever such fund has insufficient money to meet its obligations",
-  "summary" : null,
+  "summary" : "Requires the comptroller to transfer money into the environmental protection fund whenever such fund has insufficient money to meet its obligations. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "State Finance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9835-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -179,7 +179,7 @@
   "actClause" : "AN ACT to amend the state finance law, in relation to the environmental protection fund ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT", "SOBI.D110124.T133625.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892684523
+  "luceneModified" : 1295894185323
 }
