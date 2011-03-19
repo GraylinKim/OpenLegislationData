@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1393-2011",
+  "senateBillNo" : "S1403-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S1393-2011-1294376400000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S1403-2011-1294376400000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "STEWART-COUSINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the public benefits for professional facilities act",
+  "title" : "Provides for inclusion of the school district's regional cost index in calculating the supplemental education improvement plan grant amount for Yonkers city schools",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T095848.TXT", "SOBI.D110107.T095347.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T095848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294412328103
+  "luceneModified" : 1294412328122
 }

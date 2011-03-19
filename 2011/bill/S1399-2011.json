@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1393-2011",
+  "senateBillNo" : "S1399-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S1393-2011-1294376400000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S1399-2011-1294376400000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the public benefits for professional facilities act",
+  "title" : "Provides for notification to utility customers of their right to direct access to public service commission complaint procedures without arbitration or court proceedings",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T095848.TXT", "SOBI.D110107.T095347.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T095848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294412328103
+  "luceneModified" : 1294412328116
 }
