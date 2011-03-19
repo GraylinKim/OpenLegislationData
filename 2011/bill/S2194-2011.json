@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2146-2011",
+  "senateBillNo" : "S2194-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2146-2011-1295326800000-REFERRED+TO+CODES",
+    "billEventId" : "S2194-2011-1295326800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "SALAND",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Includes possession of armor piercing, frangible or devastator ammunition as criminal possession of a weapon",
+  "title" : "Relates to authorizing child witnesses to testify by use of closed-circuit television in assault and endangering the welfare of a child proceedings",
   "summary" : null,
   "currentCommittee" : "CODES",
-  "sameAs" : "A2017",
-  "lawSection" : "Penal Law",
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to the possession of armor piercing, frangible or devastator ammunition ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T114126.TXT", "SOBI.D110118.T110118.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T114126.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295368886892
+  "luceneModified" : 1295368886885
 }

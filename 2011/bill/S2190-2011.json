@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2147-2011",
+  "senateBillNo" : "S2190-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S2147-2011-1295326800000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S2190-2011-1295326800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the sale or purchase of human body parts",
+  "title" : "Establishes the class E violent felony offense of unlawful violent recording for knowingly recording the commission or attempt of a violent felony offense",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -38,15 +38,29 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LAVALLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SALAND",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to sales and purchases of human organs ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T114126.TXT", "SOBI.D110118.T110118.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T114126.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295368886893
+  "luceneModified" : 1295368886874
 }
