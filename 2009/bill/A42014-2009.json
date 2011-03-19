@@ -100,7 +100,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1291698000000A42014-2009-55-0",
+    "voteType" : 1,
+    "voteDate" : 1291698000000,
+    "ayes" : [ "Adams", "Addabbo", "Alesi", "Aubertine", "Bonacic", "Breslin", "DeFrancisco", "Diaz", "Dilan", "Duane", "Farley", "Flanagan", "Foley", "Fuschillo", "Golden", "Griffo", "Hannon", "Hassell-Thompson", "Huntley", "Johnson", "Johnson C", "Klein", "Krueger", "Kruger", "Lanza", "LaValle", "Little", "Marcellino", "Maziarz", "McDonald", "Montgomery", "Nozzolio", "Onorato", "Oppenheimer", "Padavan", "Parker", "Peralta", "Perkins", "Ranzenhofer", "Robach", "Sampson", "Savino", "Schneiderman", "Serrano", "Seward", "Skelos", "Squadron", "Stachowski", "Stavisky", "Stewart-Cousins", "Thompson", "Valesky", "Volker", "Winner", "Young" ],
+    "nays" : [ ],
+    "abstains" : [ "Espada" ],
+    "excused" : [ "Larkin", "Libous", "Saland", "Smith" ],
+    "ayeswr" : null,
+    "description" : null,
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -123,7 +136,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101207.T165515.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101207.T151008.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101207.T165515.TXT", "SOBI.D101208.T092547.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101207.T151008.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291758915058
+  "luceneModified" : 1291818347254
 }
