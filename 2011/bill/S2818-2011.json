@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2817-2011",
+  "senateBillNo" : "S2818-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S2817-2011-1296622800000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S2818-2011-1296622800000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the reimbursement of out-of-network providers of clinical laboratory services",
+  "title" : "Relates to active self-insurers",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "LABOR",
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Workers' Compensation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T095204.TXT", "SOBI.D110202.T095703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T095703.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296658623355
+  "luceneModified" : 1296658623359
 }
