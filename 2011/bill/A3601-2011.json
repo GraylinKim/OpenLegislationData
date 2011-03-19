@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to voting and registration for voting by convicted felons",
-  "summary" : null,
+  "summary" : "Relates to voting and registration for voting by convicted felons; may vote if pardoned, such persons maximum sentence of imprisonment has expired, or such person is serving a term of parole, presumptive release, conditional release or post-release supervision. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A2445-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the election law and the executive law, in relation to voting by convicted felons ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T110746.TXT", "SOBI.D110126.T111246.TXT", "SOBI.D110126.T104744.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T111746.TXT", "SOBI.D110126.T110746.TXT", "SOBI.D110126.T111246.TXT", "SOBI.D110126.T104744.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296058366838
+  "luceneModified" : 1296058666026
 }

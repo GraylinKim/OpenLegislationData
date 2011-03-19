@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates a scratch off lottery ticket with an arts theme; proceeds from such lottery ticket shall be made available for the support of elementary and secondary arts education",
-  "summary" : null,
+  "summary" : "Requires the division of lottery to produce a scratch off lottery ticket with an arts theme; proceeds from such lottery ticket shall be made available for the support of elementary and secondary art education curriculums. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9374-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the tax law and the state finance law, in relation to creating arts themed lottery tickets with the proceeds given to elementary and secondary arts education curriculums ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T110746.TXT", "SOBI.D110126.T104245.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T111746.TXT", "SOBI.D110126.T110746.TXT", "SOBI.D110126.T104245.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296058066689
+  "luceneModified" : 1296058666013
 }
