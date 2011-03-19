@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A783-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294117200000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A783-2011-1294117200000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes a child care tax credit",
+  "summary" : "Establishes a child care tax credit; applicable to child care expenses for children under thirteen years of age or who are disabled. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A1352-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to a child care tax credit ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294160097360
+}

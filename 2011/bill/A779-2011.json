@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A779-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294117200000,
+    "eventText" : "referred to energy",
+    "billEventId" : "A779-2011-1294117200000-referred+to+energy",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rabbitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the E85 compatible pump matching grant program",
+  "summary" : "Establishes the E85 compatible pump matching grant program; provides that grants shall be made available to owners of service stations for up to seventy-five percent of the cost of purchasing new E85 compatible pumps or for the conversion of conventional gasoline pumps to E85 compatible pumps; defines the terms \"E85\" and \"service station\". ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A1820-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to establishing an E85 compatible pump matching grant program; and providing for the repeal of such provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294160097355
+}

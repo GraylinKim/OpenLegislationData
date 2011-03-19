@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A777-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294117200000,
+    "eventText" : "referred to education",
+    "billEventId" : "A777-2011-1294117200000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Latimer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes approval of certain transportation contracts of the Port Chester-Rye union free school district",
+  "summary" : "Authorizes approval of certain transportation contracts of the Port Chester-Rye union free school district for the 2007-2008 school year. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Transportation",
+  "previousVersions" : [ "AA9723-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to authorize approval of certain transportation contracts of the Port Chester-Rye union free school district ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294160097352
+}

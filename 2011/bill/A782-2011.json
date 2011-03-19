@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A782-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294117200000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A782-2011-1294117200000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rabbitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that certain tax apportionments for property located in two or more tax districts shall be based on the applicable equalization rate when mortgage recorded",
+  "summary" : "Provides that certain tax apportionments for property located in two or more tax districts shall be based on the most recent assessment and equalization rate in effect when the mortgage was recorded. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A1098-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to determination and apportionment by the commissioner of taxation and finance ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294160097359
+}

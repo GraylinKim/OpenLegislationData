@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A780-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294117200000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A780-2011-1294117200000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rabbitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides localities with the option to offer seniors the option of two previous income years instead of one to determine real property tax exemption eligibility",
+  "summary" : "Provides localities with the option to offer seniors the option of two previous income years instead of one to determine real property tax exemption income eligibility. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A1150-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McDonough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McKevitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to offering seniors the option of either of two preceding income tax years for real property tax exemption eligibility ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294160097356
+}

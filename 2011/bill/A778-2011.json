@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A778-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294117200000,
+    "eventText" : "referred to education",
+    "billEventId" : "A778-2011-1294117200000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rabbitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the suspending of pay of tenured teachers upon the conviction of a felony for possessing certain sexual performance materials",
+  "summary" : "Provides for the suspending of pay of tenured teachers upon conviction of a felony for possessing or promoting an obscene sexual performance by a child or using, possessing or promoting a sexual performance by a child as defined in article two hundred sixty-three of the penal law. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A1794-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McDonough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to suspending the pay of any tenured person upon the conviction of a felony for possession of sexual performance by a child ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294160097353
+}

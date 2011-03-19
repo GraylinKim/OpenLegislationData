@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A781-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294117200000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A781-2011-1294117200000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rabbitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for personal income taxpayers who are first-time home buyers a credit for interest paid on a purchase money loan/mortgage of 25% of the annual interest",
+  "summary" : "Provides for personal income taxpayers who are first-time home buyers a credit for interest paid on a purchase money loan/mortgage of 25% of the annual interest paid over the life of the loan; allows for carryover where the credit exceeds the tax due; provides for recapture if the property ceases to qualify during the first five years after acquisition; creates the mortgage credit certificate credit against personal income tax. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A1097-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McDonough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McKevitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to providing a credit against income tax in the form of a mortgage credit certificate for first-time home buyers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294160097357
+}
