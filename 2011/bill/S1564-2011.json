@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1562-2011",
+  "senateBillNo" : "S1564-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
     "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1562-2011-1294635600000-REFERRED+TO+ELECTIONS",
+    "billEventId" : "S1564-2011-1294635600000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires that judges receive proper certificates of authorization or be enrolled members of the party for which they are running in the primary election",
+  "title" : "Relates to the content of statements of campaign receipts, contributions, transfers and expenditures to and by political committees",
   "summary" : null,
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T125102.TXT", "SOBI.D110110.T125602.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T125602.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294682162123
+  "luceneModified" : 1294682162130
 }
