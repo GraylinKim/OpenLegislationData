@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1195-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1195-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Abbagail's law prohibits supervising drivers from acting under the influence of alcohol and/or drugs",
+  "summary" : "Enacts Abbagail's law prohibiting supervising drivers from acting under the influence of alcohol and/or drugs and subjects them to criminal charges. ",
+  "currentCommittee" : null,
+  "sameAs" : "S164",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A10780-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to acting as a supervising driver while under the influence of alcohol and/or drugs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T152230.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294345350688
+}
