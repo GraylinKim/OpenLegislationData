@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Grants a $3,000 personal income tax deduction to active members of the United States Coast Guard Auxiliary who have been active members for 5 or more years",
-  "summary" : null,
+  "summary" : "Grants a $3,000 personal income tax deduction to active members of the United States Coast Guard Auxiliary who have been active members for 5 or more years. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3447-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T160719.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T161219.TXT", "SOBI.D110131.T160719.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296508039498
+  "luceneModified" : 1296508339721
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to preferred source status for the purposes of procurement",
-  "summary" : null,
+  "summary" : "Provides referred source status for the purposes of procurement to New York based companies who meet certain criteria and which have at least one employee who resides full time in New York State and whose primary role is to conduct business in any capacity other than government relations. ",
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "State Finance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7743-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T160719.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T161219.TXT", "SOBI.D110131.T160719.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296508039494
+  "luceneModified" : 1296508339733
 }

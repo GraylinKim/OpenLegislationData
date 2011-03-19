@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes a blue alert system to aid in the apprehension of any individuals suspected of killing or seriously wounding any law enforcement officer",
-  "summary" : null,
+  "summary" : "Establishes a blue alert system to aid in the identification, location and apprehension of any individuals suspected of killing or seriously wounding any local, state or federal law enforcement officer. ",
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "Executive Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S8145-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T160219.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T161219.TXT", "SOBI.D110131.T160219.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296507739267
+  "luceneModified" : 1296508339723
 }

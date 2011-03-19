@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes an education investment tax credit",
-  "summary" : null,
+  "summary" : "Establishes an education investment tax credit. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA5146-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T160719.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T161219.TXT", "SOBI.D110131.T160719.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296508039487
+  "luceneModified" : 1296508339724
 }
