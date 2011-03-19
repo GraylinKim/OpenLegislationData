@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to state legislative ethics",
-  "summary" : null,
+  "summary" : "Relates to state legislative ethics. ",
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "Public Officers Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6160-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the public officers law, in relation to state legislative ethics ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T141841.TXT", "SOBI.D101222.T134339.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T141841.TXT", "SOBI.D101222.T142348.TXT", "SOBI.D101222.T134339.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293045521118
+  "luceneModified" : 1293045828183
 }

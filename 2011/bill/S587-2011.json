@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S585-2011",
+  "senateBillNo" : "S587-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S585-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S587-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,27 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires any community service sentence imposed for an offense involving graffiti to include graffiti removal as a portion of required service",
+  "title" : "Directs the chancellor of the city school district of city over 1 million to inventory and report on the outdoor schoolyards of such district",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "ADAMS",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "ADDABBO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
@@ -55,7 +41,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "HUNTLEY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -63,13 +63,6 @@
     "id" : null,
     "position" : null,
     "fullname" : "SAMPSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SAVINO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T141841.TXT", "SOBI.D101222.T142348.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T142348.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293045828167
+  "luceneModified" : 1293045828172
 }
