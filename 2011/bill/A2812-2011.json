@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2812-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A2812-2011-1295499600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the immunization against hepatitis B of minors capable of consent who are housed in a local or state correctional facility",
+  "summary" : "Authorizes the immunization against hepatitis B of minors capable of consent who are housed in a local or state correctional facility. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1408",
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A1311-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to administering the hepatitis B immunization to minors housed in a state or local correctional facility ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T141907.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295551147111
+}

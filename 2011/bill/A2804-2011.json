@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2804-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A2804-2011-1295499600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Increases permanent total disability benefits",
+  "summary" : "Increases permanent total disability benefits for volunteer firefighters and ambulance workers from four hundred dollars to four hundred fifty dollars. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1929",
+  "lawSection" : "Volunteer Firefighters' Benefit Law",
+  "previousVersions" : [ "A4612-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the volunteer firefighters' benefit law and the volunteer ambulance workers' benefit law, in relation to increasing permanent total disability benefits ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T141907.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295551147097
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2810-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A2810-2011-1295499600000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires persons assuming exempt class positions to demonstrate their competence for such position through education or professional training",
+  "summary" : "Requires persons assuming exempt non-competitive class civil service positions to demonstrate their competence for such position through education, substantive experience or professional training or examination as deemed appropriate by the civil service commission. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : [ "A3572-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil service law, in relation to providing competency standards for exempt and non-competitive class positions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T141907.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295551147108
+}

@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2805-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A2805-2011-1295499600000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires health insurers of workers' compensation claimants to make medical payment pending the outcome if otherwise covered",
+  "summary" : "Requires a workers' compensation claimant's health insurer to pay the claimant's medical expenses in the event such expenses normally covered, pending determination of the claim; requires the provider of medical services to file the appropriate form with the insurer to receive payment. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Workers' Compensation Law",
+  "previousVersions" : [ "A4657-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the workers' compensation law, in relation to payment of medical expenses of claimants by their health insurance carrier ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T141907.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295551147099
+}
