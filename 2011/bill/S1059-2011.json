@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1058-2011",
+  "senateBillNo" : "S1059-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1058-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S1059-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits the operation of N.Y. city transit authority subways or trains without a conductor on board",
+  "title" : "Requires passenger cabs be inspected for carbon monoxide levels and requires information on warning signs of such to be distributed with each operator's license",
   "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T163018.TXT", "SOBI.D110104.T163518.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T163518.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294176918265
+  "luceneModified" : 1294176918270
 }
