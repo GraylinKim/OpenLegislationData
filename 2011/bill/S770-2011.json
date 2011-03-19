@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S768-2011",
+  "senateBillNo" : "S770-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S768-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S770-2011-1294203600000-REFERRED+TO+AGRICULTURE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the regulation of aquaculture for the purpose of developing fish-farming businesses as an alternative cash crop for farms across the state; repealer",
+  "title" : "Includes game birds bred pursuant to a game bird license within the definition of \"crops, livestock and livestock products\" for purposes of agricultural districts",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "AGRICULTURE",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Agriculture and Markets Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T123746.TXT", "SOBI.D101230.T123228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T123746.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293730666161
+  "luceneModified" : 1293730666165
 }

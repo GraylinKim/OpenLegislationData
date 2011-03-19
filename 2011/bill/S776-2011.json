@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S768-2011",
+  "senateBillNo" : "S776-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S768-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S776-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the regulation of aquaculture for the purpose of developing fish-farming businesses as an alternative cash crop for farms across the state; repealer",
+  "title" : "Establishes a personal income tax credit for the cost of replacing concord grapevines by farmers",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T123746.TXT", "SOBI.D101230.T123228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T123746.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293730666161
+  "luceneModified" : 1293730666173
 }
