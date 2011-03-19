@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S144-2011",
+  "senateBillNo" : "S186-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S144-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "billEventId" : "S186-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Limits the amount held in mortgage escrow accounts to a one month reserve",
-  "summary" : "Limits the amount held in mortgage escrow accounts to a one month reserve. ",
+  "title" : "Provides for notice to municipalities of proposed planning or zoning actions by county planning agency or regional planning council",
+  "summary" : null,
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
-  "previousVersions" : [ "S7489-2009" ],
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T151203.TXT", "SOBI.D101210.T160212.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T160212.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292014932105
+  "luceneModified" : 1292014932108
 }
