@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to emergency rule with respect to the removal of vehicles from public streets and highways",
-  "summary" : null,
+  "summary" : "Relates to emergency rule with respect to the removal of vehicles from public streets and highways. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S5174-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110106.T162736.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348955347
+  "luceneModified" : 1294349256476
 }

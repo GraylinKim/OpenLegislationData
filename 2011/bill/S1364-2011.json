@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to reports on certain criminal offenses on public transportation",
-  "summary" : null,
+  "summary" : "Relates to reports on certain criminal offenses on public transportation. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7741-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110106.T162736.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348955344
+  "luceneModified" : 1294349256478
 }
