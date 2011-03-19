@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2115-2011",
+  "senateBillNo" : "S2121-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S2115-2011-1295326800000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+    "billEventId" : "S2121-2011-1295326800000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Expands out of state medical and dental school opportunities for N.Y. state residents to certain universities outside the country",
+  "title" : "Permits elimination of liability of directors of certain not-for-profit corporations to the corporation or its members",
   "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
+  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
   "sameAs" : null,
-  "lawSection" : "Education",
+  "lawSection" : "Not-for-Profit Corporation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T103117.TXT", "SOBI.D110118.T103616.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T103616.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295364976878
+  "luceneModified" : 1295364976913
 }

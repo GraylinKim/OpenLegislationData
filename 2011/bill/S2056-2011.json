@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows voters to express \"no confidence\"",
-  "summary" : null,
+  "summary" : "Provides for a space on an election ballot where a voter may express \"no confidence\" in presidential candidates, or candidate for U.S. senate or congress or members of the legislature. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2135-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to providing means whereby a voter may express no confidence in certain candidates for public office ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T094107.TXT", "SOBI.D110118.T102116.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T094107.TXT", "SOBI.D110118.T103616.TXT", "SOBI.D110118.T102116.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295364076307
+  "luceneModified" : 1295364976906
 }
