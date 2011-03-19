@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1052-2011",
+  "senateBillNo" : "S1057-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
-    "billEventId" : "S1052-2011-1294203600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S1057-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the independent office of the child advocate; repealer",
+  "title" : "Requires a holder of a class DJ or MJ learners permit, while operating a vehicle, to display a sign indicating that such vehicle is being driven by a new driver",
   "summary" : null,
-  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T163018.TXT", "SOBI.D110104.T162518.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T163018.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294176618191
+  "luceneModified" : 1294176618204
 }
