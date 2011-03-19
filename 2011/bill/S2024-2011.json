@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Directs that all ambulances' shall be equipped with epinephrine auto-injector devices",
-  "summary" : null,
+  "summary" : "Directs that all ambulances shall be equipped with epinephrine auto-injector devices. ",
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S5291-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to directing that all ambulances shall be equipped with epinephrine auto-injector devices ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T152500.TXT", "SOBI.D110114.T155501.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T161002.TXT", "SOBI.D110114.T152500.TXT", "SOBI.D110114.T155501.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295038501317
+  "luceneModified" : 1295039402661
 }
