@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Alters the composition of the state board of parole",
-  "summary" : null,
+  "summary" : "Alters the composition of the state board of parole to include members to be appointed upon the recommendation of the four legislative leaders. ",
   "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
   "lawSection" : "Executive Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA1268-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the executive law, in relation to altering the membership of the state board of parole ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101203.T101439.TXT", "SOBI.D101203.T094438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101203.T102940.TXT", "SOBI.D101203.T101439.TXT", "SOBI.D101203.T094438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291389279244
+  "luceneModified" : 1291390180313
 }
