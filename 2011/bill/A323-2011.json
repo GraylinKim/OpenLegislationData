@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A323-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A323-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a special-use permit for ambulatory veterinarians to use oversized or commercial vehicles on the Taconic state parkway",
+  "summary" : "Provides for a special-use permit for oversized or commercial vehicles on the Taconic state parkway; includes ambulatory veterinarians. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Transportation Law",
+  "previousVersions" : [ "A671-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the transportation law, in relation to providing special-use permits for certain commercial or oversized vehicles on certain special parkways ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T105821.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292860701659
+}

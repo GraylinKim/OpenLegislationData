@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S391-2011",
+  "senateBillNo" : "S399-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S391-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "billEventId" : "S399-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"diplomatic immunity notification act\"",
+  "title" : "Makes it a discriminatory practice to compensate employees of different sexes differently for work that is of comparable worth",
   "summary" : null,
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-  "sameAs" : "A291",
-  "lawSection" : "Law Enforcement Officers",
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT in relation to requiring notification to certain federal and state agencies when certain persons with diplomatic immunity violate the law ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T102817.TXT", "SOBI.D101220.T105821.TXT", "SOBI.D101220.T105320.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T105821.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292860701641
+  "luceneModified" : 1292860701678
 }
