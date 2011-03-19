@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a fine for a person responsible for a trailer or semitrailer parked or left unattended in New York city",
-  "summary" : null,
+  "summary" : "Provides a fine of one thousand dollars for a person responsible for a trailer or semitrailer parked or left unattended in a city with a population of one million or more. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1932-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to a fine for parked or unattended semitrailers or trailers on streets of a city with a population of one million or more ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T152651.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T153151.TXT", "SOBI.D110118.T152651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382411793
+  "luceneModified" : 1295382711980
 }

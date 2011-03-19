@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2212-2011",
+  "senateBillNo" : "A2386-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S2212-2011-1295326800000-REFERRED+TO+AGING",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2386-2011-1295326800000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,56 +13,56 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases maximum income eligibility levels for real property tax exemptions for seniors",
-  "summary" : "Increases maximum income eligibility levels for real property tax exemptions for seniors. ",
-  "currentCommittee" : "AGING",
-  "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
-  "previousVersions" : [ "S2022-2009" ],
+  "title" : "Provides for the issuance of distinctive license plates for members of the clergy",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S302",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the real property tax law, in relation to increasing maximum income eligibility levels for real property tax exemptions for seniors ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to providing for distinctive license plates for members of the clergy ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T122630.TXT", "SOBI.D110118.T115128.TXT", "SOBI.D110118.T153151.TXT", "SOBI.D110118.T123631.TXT", "SOBI.D110118.T115628.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T153151.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382711988
+  "luceneModified" : 1295382711974
 }

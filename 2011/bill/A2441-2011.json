@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2332-2011",
+  "senateBillNo" : "A2441-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S2332-2011-1295326800000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2441-2011-1295326800000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Castelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to eminent domain in N.Y. city",
+  "title" : "Relates to local disaster preparedness plans; appropriation",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Tedisco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Crouch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T153151.TXT", "SOBI.D110118.T152651.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T153151.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382711947
+  "luceneModified" : 1295382711007
 }

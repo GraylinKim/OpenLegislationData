@@ -31,6 +31,13 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the elder law, in relation to establishing small flexible funds accounts at the local level ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T122630.TXT", "SOBI.D110118.T115128.TXT", "SOBI.D110118.T123631.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T122630.TXT", "SOBI.D110118.T115128.TXT", "SOBI.D110118.T153151.TXT", "SOBI.D110118.T123631.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295372191323
+  "luceneModified" : 1295382711981
 }

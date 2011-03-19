@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to establishing the crimes of attempting to lure or entice a child ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T130634.TXT", "SOBI.D110118.T122630.TXT", "SOBI.D110118.T115128.TXT", "SOBI.D110118.T123631.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T122630.TXT", "SOBI.D110118.T130634.TXT", "SOBI.D110118.T115128.TXT", "SOBI.D110118.T153151.TXT", "SOBI.D110118.T123631.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295373994161
+  "luceneModified" : 1295382711968
 }

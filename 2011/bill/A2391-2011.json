@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2391-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295326800000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A2391-2011-1295326800000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes provisions for payment to peace officers employed by the division of parole for salary and medical expenses while subject to sickness",
+  "summary" : "Provides that peace officers employed by the division of parole who suffer an employment related illness shall receive their salary and medical expenses until disability has ceased; makes related provisions including provision for monitoring by state health authorities and for transfer of such peace officer to duties he or she can perform with consent. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : [ "A2340-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the state finance law, in relation to compensation and medical expenses of certain injured state employees ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110118.T153151.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295382711997
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2332-2011",
+  "senateBillNo" : "A2434-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S2332-2011-1295326800000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "referred to education",
+    "billEventId" : "A2434-2011-1295326800000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to eminent domain in N.Y. city",
+  "title" : "Requires schools to provide instruction on the history of the Ukrainian genocide-holodomor of 1932 through 1933",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cymbrowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weinstein",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T153151.TXT", "SOBI.D110118.T152651.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T153151.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382711947
+  "luceneModified" : 1295382711994
 }
