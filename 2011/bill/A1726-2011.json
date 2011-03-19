@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the MTA to hold hearings in each county that is allocated a voting member of the MTA before proposed changes in services or fares can take effect",
-  "summary" : null,
+  "summary" : "Requires the MTA to hold hearings in each county that is allocated a voting member of the MTA before proposed changes in services or fares can take effect and shall be limited to one hearing per calendar day. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Authorities Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA10303-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -137,7 +137,7 @@
   "actClause" : "AN ACT to amend the public authorities law, in relation to requiring the metropolitan transportation authority to hold hearings in each county that is allocated a voting member of the metropolitan transportation authority on separate days before any proposed changes in services or fares are implemented ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T144215.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T144715.TXT", "SOBI.D110111.T144215.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294774935208
+  "luceneModified" : 1294775235426
 }

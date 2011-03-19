@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows clinical labs to provide biological data analysis services",
-  "summary" : null,
+  "summary" : "Allows clinical labs to provide biological data analysis services upon the request of the person on whom the service is to be performed for personal genomics or biological data collection. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A7820-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to clinical laboratories and biological data analysis ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T144215.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T144715.TXT", "SOBI.D110111.T144215.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294774935213
+  "luceneModified" : 1294775235407
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes shareholders to attend meetings via remote communication and to be deemed present for voting purposes",
-  "summary" : null,
+  "summary" : "Requires certain corporations to permit shareholders to attend meetings via remote communication and to be deemed present for voting purposes. ",
   "currentCommittee" : null,
   "sameAs" : "S447",
   "lawSection" : "Business Corporation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1567-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the business corporation law, in relation to attendance of a meeting of shareholders by remote communication ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T143714.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T144715.TXT", "SOBI.D110111.T143714.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294774634011
+  "luceneModified" : 1294775235411
 }
