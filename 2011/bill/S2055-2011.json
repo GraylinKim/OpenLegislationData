@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2054-2011",
+  "senateBillNo" : "S2055-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2054-2011-1295326800000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S2055-2011-1295326800000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to recredentialing of certain physician specialties and requires malpractice insurance",
+  "title" : "Relates to informing members of the community with regard to the presence of a convicted sex offender within their community",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T093106.TXT", "SOBI.D110118.T093606.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T093606.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295361366021
+  "luceneModified" : 1295361366025
 }
