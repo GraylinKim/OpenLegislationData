@@ -1,0 +1,115 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S8379A-2009",
+  "billEvents" : [ {
+    "eventDate" : 1277611200000,
+    "eventText" : "REFERRED TO RULES",
+    "billEventId" : "S8379A-2009-1277611200000-REFERRED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277697600000,
+    "eventText" : "AMEND AND RECOMMIT TO RULES",
+    "billEventId" : "S8379A-2009-1277697600000-AMEND+AND+RECOMMIT+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277697601000,
+    "eventText" : "PRINT NUMBER 8379A",
+    "billEventId" : "S8379A-2009-1277697601000-PRINT+NUMBER+8379A",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277784000000,
+    "eventText" : "ORDERED TO THIRD READING CAL.1371",
+    "billEventId" : "S8379A-2009-1277784000000-ORDERED+TO+THIRD+READING+CAL.1371",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956800000,
+    "eventText" : "PASSED SENATE",
+    "billEventId" : "S8379A-2009-1277956800000-PASSED+SENATE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956801000,
+    "eventText" : "DELIVERED TO ASSEMBLY",
+    "billEventId" : "S8379A-2009-1277956801000-DELIVERED+TO+ASSEMBLY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956802000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "S8379A-2009-1277956802000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956803000,
+    "eventText" : "substituted for a10257d",
+    "billEventId" : "S8379A-2009-1277956803000-substituted+for+a10257d",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956804000,
+    "eventText" : "ordered to third reading rules cal.533",
+    "billEventId" : "S8379A-2009-1277956804000-ordered+to+third+reading+rules+cal.533",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956805000,
+    "eventText" : "passed assembly",
+    "billEventId" : "S8379A-2009-1277956805000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956806000,
+    "eventText" : "returned to senate",
+    "billEventId" : "S8379A-2009-1277956806000-returned+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1292389200000,
+    "eventText" : "DELIVERED TO GOVERNOR",
+    "billEventId" : "S8379A-2009-1292389200000-DELIVERED+TO+GOVERNOR",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SCHNEIDERMAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Broadens scope of prevailing wage requirements for service employees and establishes criminal penalties for violations",
+  "summary" : null,
+  "currentCommittee" : "RULES",
+  "sameAs" : "a10257d",
+  "lawSection" : "Labor Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "RULES" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101215.T120402.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292432642493
+}

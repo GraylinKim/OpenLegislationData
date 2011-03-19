@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S331-2011",
+  "senateBillNo" : "S334-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S331-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S334-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to matching funds for grants under the naturally occurring retirement community supportive service program",
+  "title" : "Relates to the disciplinary hearings and procedures for teachers in the city district of the city of New York",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Elder Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101215.T120402.TXT", "SOBI.D101215.T115901.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101215.T120402.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292432642475
+  "luceneModified" : 1292432642485
 }

@@ -1,0 +1,129 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S7034A-2009",
+  "billEvents" : [ {
+    "eventDate" : 1268110800000,
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S7034A-2009-1268110800000-REFERRED+TO+CODES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1268625600000,
+    "eventText" : "AMEND AND RECOMMIT TO CODES",
+    "billEventId" : "S7034A-2009-1268625600000-AMEND+AND+RECOMMIT+TO+CODES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1268625601000,
+    "eventText" : "PRINT NUMBER 7034A",
+    "billEventId" : "S7034A-2009-1268625601000-PRINT+NUMBER+7034A",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1271131200000,
+    "eventText" : "1ST REPORT CAL.380",
+    "billEventId" : "S7034A-2009-1271131200000-1ST+REPORT+CAL.380",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1271217600000,
+    "eventText" : "2ND REPORT CAL.",
+    "billEventId" : "S7034A-2009-1271217600000-2ND+REPORT+CAL.",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1271649600000,
+    "eventText" : "ADVANCED TO THIRD READING",
+    "billEventId" : "S7034A-2009-1271649600000-ADVANCED+TO+THIRD+READING",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277265600000,
+    "eventText" : "PASSED SENATE",
+    "billEventId" : "S7034A-2009-1277265600000-PASSED+SENATE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277265601000,
+    "eventText" : "DELIVERED TO ASSEMBLY",
+    "billEventId" : "S7034A-2009-1277265601000-DELIVERED+TO+ASSEMBLY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277265602000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "S7034A-2009-1277265602000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956800000,
+    "eventText" : "substituted for a8735a",
+    "billEventId" : "S7034A-2009-1277956800000-substituted+for+a8735a",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956801000,
+    "eventText" : "ordered to third reading cal.663",
+    "billEventId" : "S7034A-2009-1277956801000-ordered+to+third+reading+cal.663",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956802000,
+    "eventText" : "passed assembly",
+    "billEventId" : "S7034A-2009-1277956802000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1277956803000,
+    "eventText" : "returned to senate",
+    "billEventId" : "S7034A-2009-1277956803000-returned+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1292389200000,
+    "eventText" : "DELIVERED TO GOVERNOR",
+    "billEventId" : "S7034A-2009-1292389200000-DELIVERED+TO+GOVERNOR",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SCHNEIDERMAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Increases the amount of exemptions in bankruptcy proceedings and money judgments; provides a choice between state and federal exemptions",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "a8735a",
+  "lawSection" : "Civil Practice Law and Rules",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "CODES" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101215.T120402.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292432642487
+}
