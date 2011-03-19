@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A231-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A231-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the commissioners of the Port Authority of New York and New Jersey",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Port Authority of New York and New Jersey",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend chapter 154 of the laws of 1921, relating to the port authority of New York and New Jersey, in relation to the commissioners of such authority ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T144950.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292615390425
+}

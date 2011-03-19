@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A230-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A230-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires nursing homes to provide potential residents with policy on granting physician privileges prior to executing agreement",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to prior notice of physician privileges in nursing home residency agreements ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T144950.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292615390420
+}
