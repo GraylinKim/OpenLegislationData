@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A631-2011",
+  "senateBillNo" : "A684-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to insurance",
-    "billEventId" : "A631-2011-1294203600000-referred+to+insurance",
+    "billEventId" : "A684-2011-1294203600000-referred+to+insurance",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,63 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires all motor vehicle insurers to file annual detailed financial and claim data statements with the superintendent of insurance",
-  "summary" : "Requires all motor vehicle insurers to file annual detailed financial and claim data statements with the superintendent of insurance; all such statements shall be made available to the public. ",
+  "title" : "Provides for annual chlamydia screenings",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : [ "A10738-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Peoples-Stokes",
+    "fullname" : "Glick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Mayersohn",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to requiring all motor vehicle insurers to file annual financial statements and detailed claim data with the superintendent of insurance ",
+  "actClause" : "AN ACT to amend the insurance law, in relation to coverage of annual chlamydia screenings ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T113902.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T113902.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072742318
+  "luceneModified" : 1294072742309
 }

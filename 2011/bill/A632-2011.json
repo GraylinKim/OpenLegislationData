@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Defines the kind of assistance required to be included as part of medicaid personal care services",
-  "summary" : null,
+  "summary" : "Defines the kind of assistance required for a recipient to obtain medicaid personal care services, as assistance with health and safety needs including hands-on assistance, supervision and cuing to ensure safe performance of activities of daily living and instrumental activities of daily living for persons with physical or cognitive impairments. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Social Services Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A7898-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to defining the kind of assistance required for a recipient to obtain medicaid personal care services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T113902.TXT", "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541941
+  "luceneModified" : 1294072742317
 }

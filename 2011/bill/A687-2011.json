@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A604-2011",
+  "senateBillNo" : "A687-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to education",
-    "billEventId" : "A604-2011-1294203600000-referred+to+education",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A687-2011-1294203600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Magnarelli",
+    "fullname" : "Sayward",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the apportionment of certain school aid commencing on and after July 1, 2011",
-  "summary" : "Provides for the apportionment of certain school aid commencing on and after July 1, 2011. ",
+  "title" : "Establishes a personal income tax credit for a cap on real property tax based off of a household's gross income",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A3839-2009" ],
+  "lawSection" : "Tax Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Reilich",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Magee",
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lifton",
+    "fullname" : "Thiele",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to the apportionment of state assistance to school districts for school years commencing on or after July 1, 2011 ",
+  "actClause" : "AN ACT to amend the tax law, in relation to establishing a personal income tax credit for a cap on real property tax based off of a household's gross income ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T113902.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T113902.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072742326
+  "luceneModified" : 1294072742314
 }

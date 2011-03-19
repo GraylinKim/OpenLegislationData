@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A604-2011",
+  "senateBillNo" : "A681-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to education",
-    "billEventId" : "A604-2011-1294203600000-referred+to+education",
+    "eventText" : "referred to insurance",
+    "billEventId" : "A681-2011-1294203600000-referred+to+insurance",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,37 +18,44 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the apportionment of certain school aid commencing on and after July 1, 2011",
-  "summary" : "Provides for the apportionment of certain school aid commencing on and after July 1, 2011. ",
+  "title" : "Provides for the enforcement of prompt settlement and payment of claims for health care services; and makes notice and documentation requirements of insurers",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A3839-2009" ],
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Magee",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lifton",
+    "fullname" : "Markey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to the apportionment of state assistance to school districts for school years commencing on or after July 1, 2011 ",
+  "actClause" : "AN ACT to amend the insurance law, in relation to prompt settlement of claims for health care and payments for health care services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T113902.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T113902.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072742326
+  "luceneModified" : 1294072742300
 }
