@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2545-2011",
+  "senateBillNo" : "S2548-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S2545-2011-1295931600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2548-2011-1295931600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the exemption from taxation for non-profit organizations",
+  "title" : "Relates to additional financial disclosure by the temporary president of the senate and the speaker of the assembly",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
+  "lawSection" : "Public Officers Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T114910.TXT", "SOBI.D110125.T115409.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T115409.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295974449319
+  "luceneModified" : 1295974449327
 }

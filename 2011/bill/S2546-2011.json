@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2545-2011",
+  "senateBillNo" : "S2546-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
     "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S2545-2011-1295931600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "billEventId" : "S2546-2011-1295931600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the exemption from taxation for non-profit organizations",
+  "title" : "Relates to the discretion in granting real property tax exemptions for certain corporations or associations; repealer",
   "summary" : null,
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T114910.TXT", "SOBI.D110125.T115409.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T115409.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295974449319
+  "luceneModified" : 1295974449323
 }
