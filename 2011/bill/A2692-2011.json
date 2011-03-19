@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires local boards of elections to verify the number of enrolled members of a party in an election district",
-  "summary" : null,
+  "summary" : "Requires local boards of elections to verify the number of enrolled members of a party in an election district and reject all petitions where there are no enrolled members of a party in such district. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3321-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to requiring the local boards of election to verify the number of enrolled members of a party in such districts and reject all petitions where there are no enrolled members of a party in such districts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T111858.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T112845.TXT", "SOBI.D110120.T111858.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295540338695
+  "luceneModified" : 1295540925084
 }
