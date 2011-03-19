@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S457-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S457-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes it shall be unlawful for a person to have his or her application to rent or lease a residence to be denied due to prior housing court proceedings",
+  "summary" : null,
+  "currentCommittee" : "JUDICIARY",
+  "sameAs" : null,
+  "lawSection" : "Real Property Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DUANE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HUNTLEY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SERRANO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T123327.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292866407818
+}

@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S456-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S456-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a transfer fee of 75% of the fair market value in dissolution or sales of a rental project or mutual company",
+  "summary" : null,
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+  "sameAs" : null,
+  "lawSection" : "Private Housing Finance Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DUANE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HUNTLEY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T123327.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292866407814
+}
