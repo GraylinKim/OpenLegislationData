@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Increases the penalties for driving with a suspended or revoked license",
-  "summary" : null,
+  "summary" : "Increases the penalties for driving with a suspended or revoked license. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6460-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to increasing the penalties for driving with a suspended or revoked license ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T122716.TXT", "SOBI.D110106.T125217.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T122716.TXT", "SOBI.D110106.T131218.TXT", "SOBI.D110106.T125217.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294336337318
+  "luceneModified" : 1294337538805
 }
