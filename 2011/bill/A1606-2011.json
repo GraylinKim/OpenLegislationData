@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1606-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to tourism, arts and sports development",
+    "billEventId" : "A1606-2011-1294722000000-referred+to+tourism%2C+arts+and+sports+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes an appropriation for the rehabilitation of the Soldiers and Sailors museum",
+  "summary" : "Makes an appropriation for the rehabilitation of the Soldiers and Sailors museum. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Appropriations",
+  "previousVersions" : [ "A7529-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Abbate",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT making an appropriation for the rehabilitation of the Soldiers and Sailors Museum ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T120657.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294765617298
+}

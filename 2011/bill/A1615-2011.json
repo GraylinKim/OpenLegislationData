@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1615-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1615-2011-1294722000000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Imposes a penalty of one day's salary for governor, lieutenant governor, comptroller and members of the legislature for late budget",
+  "summary" : "Imposes a penalty equal to one day's salary upon members of the legislature, the governor, the lieutenant governor and the comptroller for each day the budget is delayed beyond April first of each year. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Legislative Law",
+  "previousVersions" : [ "A10354-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the legislative law and the executive law, in relation to the forfeiture of salary by members of the legislature, the governor, the lieutenant governor, and the comptroller upon failure to enact a state budget by April first ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T120657.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294765617311
+}

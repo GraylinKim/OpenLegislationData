@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1617-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to education",
+    "billEventId" : "A1617-2011-1294722000000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires parents to submit proof of age and nature of parental relation upon enrolling child in school",
+  "summary" : "Requires persons in parental relation to an individual or a person required to attend school to submit proof of age and parental relation to school in which individual is enrolled; requires school superintendent to make inquiry of statewide central register for missing children if such information is not provided and the individual may be a missing child; requires records of age and parental relation to be maintained by schools pursuant to regulations of the commissioner of education; requires transfer of such records upon transfer of minor to another school; requires notification of law enforcement if there is an appearance of custodial interference. ",
+  "currentCommittee" : null,
+  "sameAs" : "S180",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A10545-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to information concerning minor school children enrolling in and transferring to schools ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T120657.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294765617314
+}
