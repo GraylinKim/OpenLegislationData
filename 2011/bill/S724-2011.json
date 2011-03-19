@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S702-2011",
+  "senateBillNo" : "S724-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S702-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S724-2011-1294203600000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "ROBACH",
+    "fullname" : "PERALTA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the crime of environmental damage of property",
+  "title" : "Requires the payment of prevailing wages on certain state university of New York construction projects",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "LABOR",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Labor Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to creating the crime of environmental damage of property ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT", "SOBI.D101229.T163249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T163249.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293658369418
+  "luceneModified" : 1293658369396
 }

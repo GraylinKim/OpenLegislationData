@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S702-2011",
+  "senateBillNo" : "S726-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S702-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S726-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the crime of environmental damage of property",
+  "title" : "Allows individuals to register their telefacsimile telephone numbers with the consumer protection board as part of the \"do not call\" statewide registry",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to creating the crime of environmental damage of property ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T154746.TXT", "SOBI.D101229.T163249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T163249.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293658369418
+  "luceneModified" : 1293658369435
 }
