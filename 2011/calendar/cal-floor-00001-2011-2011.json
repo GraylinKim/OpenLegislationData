@@ -2,95 +2,10 @@
   "id" : "cal-floor-00001-2011-2011",
   "type" : "floor",
   "year" : 2011,
-  "supplementals" : [ {
-    "id" : "cal-floor-00001-2011-2011-supp-",
-    "sections" : [ {
-      "name" : "BILLS ON THIRD READING",
-      "id" : "cal-floor-00001-2011-2011-supp--sect-BILLS ON THIRD READING",
-      "type" : "C",
-      "calendarEntries" : [ {
-        "id" : "cal-floor-00001-2011-2011-supp--sect-BILLS ON THIRD READING-0000000001",
-        "bill" : {
-          "year" : 2011,
-          "senateBillNo" : "S1198-2011",
-          "billEvents" : null,
-          "votes" : [ {
-            "id" : "1295366400000S1198-2011--1--1",
-            "voteType" : 2,
-            "voteDate" : 1295366400000,
-            "ayes" : [ "Skelos", "Libous", "Alesi", "Farley", "Hannon", "Johnson", "Larkin", "LaValle", "Marcellino", "Maziarz", "Nozzolio", "Saland", "Seward", "Sampson", "Breslin", "Stewart-Cousins" ],
-            "nays" : [ "Dilan", "Hassell-Thompson", "Krueger", "Parker", "Perkins" ],
-            "abstains" : null,
-            "excused" : null,
-            "ayeswr" : [ "Duane", "Montgomery", "Smith" ],
-            "description" : "Rules",
-            "sobiReferenceList" : [ ],
-            "luceneActive" : true,
-            "luceneModified" : 0
-          }, {
-            "id" : "1295326800000S1198-2011--1--1",
-            "voteType" : 2,
-            "voteDate" : 1295326800000,
-            "ayes" : [ "DeFrancisco", "Johnson", "Alesi", "Farley", "Flanagan", "Fuschillo", "Golden", "Hannon", "Larkin", "LaValle", "Little", "Marcellino", "Nozzolio", "Robach", "Saland", "Seward", "Young", "Diaz", "Rivera", "Gianaris", "Breslin", "Stavisky", "Stewart-Cousins" ],
-            "nays" : [ "Kruger", "Dilan", "Krueger", "Oppenheimer", "Parker", "Peralta", "Perkins" ],
-            "abstains" : null,
-            "excused" : [ "Bonacic" ],
-            "ayeswr" : [ "Duane", "Montgomery" ],
-            "description" : "Finance",
-            "sobiReferenceList" : [ ],
-            "luceneActive" : true,
-            "luceneModified" : 0
-          } ],
-          "sponsor" : {
-            "id" : null,
-            "position" : null,
-            "fullname" : "GOLDEN",
-            "branch" : null,
-            "contactInfo" : null,
-            "guid" : null
-          },
-          "title" : "Relates to increasing property values which are exempt from the satisfaction of a money judgement",
-          "summary" : "Relates to increasing property values which are exempt from the satisfaction of a money judgement and increases the exemptions in bankruptcy. ",
-          "currentCommittee" : "RULES",
-          "sameAs" : "A851",
-          "lawSection" : "Civil Practice Law and Rules",
-          "previousVersions" : [ "S8451-2009" ],
-          "coSponsors" : [ {
-            "id" : null,
-            "position" : null,
-            "fullname" : "O'MARA",
-            "branch" : null,
-            "contactInfo" : null,
-            "guid" : null
-          } ],
-          "pastCommittees" : [ "FINANCE" ],
-          "fulltext" : "",
-          "memo" : "",
-          "law" : null,
-          "actClause" : "AN ACT to amend the civil practice law and rules, in relation to increasing the property values which are exempt from the satisfaction of a money judgment ",
-          "sortIndex" : -1,
-          "latestAmendment" : null,
-          "sobiReferenceList" : [ "SOBI.D110119.T121752.TXT", "SOBI.D110119.T112241.TXT", "SOBI.D110119.T115252.TXT", "SOBI.D110106.T150728.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110105.T153729.TXT", "SOBI.D110105.T142658.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110107.T111351.TXT", "SOBI.D110105.T141157.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110119.T141812.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110119.T115750.TXT", "SOBI.D110105.T153205.TXT" ],
-          "luceneActive" : true,
-          "luceneModified" : 1295464692854
-        },
-        "no" : "1",
-        "billHigh" : null,
-        "motionDate" : null,
-        "subBill" : null
-      } ],
-      "cd" : "0400"
-    } ],
-    "sequence" : null,
-    "calendarDate" : 1295413200000,
-    "releaseDateTime" : 1295528760000,
-    "supplementalId" : "",
-    "luceneActive" : true,
-    "luceneModified" : 0
-  } ],
+  "supplementals" : [ ],
   "sessionYear" : 2011,
   "no" : 1,
-  "sobiReferenceList" : [ "SOBI.D110120.T080800.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110118.T163657.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T182330.TXT-calendar-1.xml", "SOBI.D110118.T163657.TXT-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110119.T181330.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181330.TXT-calendar-3.xml", "SOBI.D110120.T075800.TXT-calendar-1.xml", "SOBI.D110120.T080800.TXT-calendar-3.xml", "SOBI.D110119.T184331.TXT-calendar-3.xml", "SOBI.D110120.T075800.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T183831.TXT-calendar-3.xml", "SOBI.D110119.T181830.TXT-calendar-1.xml", "SOBI.D110120.T080800.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110120.T080300.TXT-calendar-1.xml", "SOBI.D110120.T080800.TXT-calendar-1.xml", "SOBI.D110119.T182330.TXT-calendar-3.xml", "SOBI.D110119.T181330.TXT-calendar-1.xml", "SOBI.D110120.T075800.TXT-calendar-3.xml", "SOBI.D110119.T183831.TXT-calendar-1.xml", "SOBI.D110120.T080300.TXT-calendar-3.xml", "SOBI.D110119.T181330.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-3.xml", "SOBI.D110119.T184331.TXT-calendar-1.xml" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T080800.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110118.T163657.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110120.T081300.TXT-calendar-1.xml", "SOBI.D110119.T182330.TXT-calendar-1.xml", "SOBI.D110118.T163657.TXT-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110119.T181330.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181330.TXT-calendar-3.xml", "SOBI.D110120.T075800.TXT-calendar-1.xml", "SOBI.D110120.T080800.TXT-calendar-3.xml", "SOBI.D110119.T184331.TXT-calendar-3.xml", "SOBI.D110120.T075800.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T183831.TXT-calendar-3.xml", "SOBI.D110119.T181830.TXT-calendar-1.xml", "SOBI.D110120.T080800.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110120.T080300.TXT-calendar-1.xml", "SOBI.D110120.T080800.TXT-calendar-1.xml", "SOBI.D110119.T182330.TXT-calendar-3.xml", "SOBI.D110119.T181330.TXT-calendar-1.xml", "SOBI.D110120.T075800.TXT-calendar-3.xml", "SOBI.D110119.T183831.TXT-calendar-1.xml", "SOBI.D110120.T080300.TXT-calendar-3.xml", "SOBI.D110119.T181330.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-3.xml", "SOBI.D110119.T184331.TXT-calendar-1.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1295528880214
+  "luceneModified" : 1295529180298
 }
