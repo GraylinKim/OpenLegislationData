@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to pre-existing condition provisions for group and blanket disability policies",
-  "summary" : null,
+  "summary" : "Relates to pre-existing condition provisions for group and blanket disability policies which excludes coverage under the policy for a disability commencing during the twelve months following the effective date of coverage for the covered person. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4770-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T154940.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T154940.TXT", "SOBI.D110125.T160441.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295988580420
+  "luceneModified" : 1295989481240
 }
