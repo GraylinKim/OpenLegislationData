@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates a facilitator center for private and parochial schools",
-  "summary" : null,
+  "summary" : "Creates a facilitator center for private and parochial schools. ",
   "currentCommittee" : "EDUCATION",
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S5415-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to establishment of a facilitator center for private and parochial schools ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T141611.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T145615.TXT", "SOBI.D110110.T141611.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294686971058
+  "luceneModified" : 1294689375342
 }
