@@ -24,7 +24,14 @@
   "sameAs" : null,
   "lawSection" : "Public Officers Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SQUADRON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T102817.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T102817.TXT", "SOBI.D101220.T103318.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292858897464
+  "luceneModified" : 1292859198505
 }
