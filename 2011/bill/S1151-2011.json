@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1149-2011",
+  "senateBillNo" : "S1151-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S1149-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "billEventId" : "S1151-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to net energy metering for micro-hydroelectric generating equipment",
+  "title" : "Relates to energy conservation and water temperature management",
   "summary" : null,
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Public Service Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T121147.TXT", "SOBI.D110105.T120651.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T121147.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294247507097
+  "luceneModified" : 1294247507110
 }
