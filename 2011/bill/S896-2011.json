@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S893-2011",
+  "senateBillNo" : "S896-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S893-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "billEventId" : "S896-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the natural gas exploration and extraction liability act of 2011",
+  "title" : "Enacts the climate change solutions program act",
   "summary" : null,
   "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T105854.TXT", "SOBI.D110103.T105353.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T105854.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294070334503
+  "luceneModified" : 1294070334508
 }
