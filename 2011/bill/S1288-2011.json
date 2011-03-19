@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1274-2011",
+  "senateBillNo" : "S1288-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1274-2011-1294290000000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO BANKS",
+    "billEventId" : "S1288-2011-1294290000000-REFERRED+TO+BANKS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires police identification line-ups to be conducted sequentially",
+  "title" : "Requires ATMs to use both audio and visual systems of relaying messages to its customers",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "BANKS",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Banking Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the criminal procedure law, in relation to requiring a police identification line-up to be conducted sequentially ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T122716.TXT", "SOBI.D110106.T125217.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T125217.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294336337307
+  "luceneModified" : 1294336337279
 }
