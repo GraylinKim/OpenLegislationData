@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A898-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A898-2011-1294203600000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that remaining campaign accounts be transferred to the state treasury after death of a candidate",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S1163",
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to providing that campaign accounts be transferred to the state treasury upon death of a candidate ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T131153.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294251113599
+}

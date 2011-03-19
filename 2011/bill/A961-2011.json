@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A961-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A961-2011-1294203600000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to a medical assistance information and payment system",
+  "summary" : "Relates to a medical assistance information and payment system; directs the department of health to issue a request for proposal for the purpose of providing the system within 90 days. ",
+  "currentCommittee" : null,
+  "sameAs" : "S379",
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A8909-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to a medical assistance information and payment system ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T131153.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294251113590
+}

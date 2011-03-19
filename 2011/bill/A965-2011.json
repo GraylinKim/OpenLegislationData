@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A965-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A965-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Expands application of provisions relating to access to medical records to agents of health care providers and sets fees for reproduction of such records",
+  "summary" : "Expands the application of the provisions of law relating to access to patient medical records to include restrictions on the agents of health care providers; includes pharmacists and midwives within the definition of health care provider for purposes of medical records; broadens the definition of a qualified person and allows such person to request medical records; changes the fees which may be imposed for the provision of medical records and provides for annual adjustments to such fees. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A1748-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, the mental hygiene law and the civil practice law and rules, in relation to access to patient information, medical records and clinical records ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T131153.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294251113597
+}
