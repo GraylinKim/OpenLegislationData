@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1398-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1398-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the exemption of disabled veterans of the armed forces of the United States from New York state thruway tolls",
+  "summary" : "Provides for the exemption of disabled veterans of the armed forces of the United States from New York State Thruway tolls. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "AA11269-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law and the vehicle and traffic law, in relation to the exemption of disabled veterans from tolls collected by the New York state thruway authority ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T145410.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294430050749
+}
