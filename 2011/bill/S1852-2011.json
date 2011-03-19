@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1849-2011",
+  "senateBillNo" : "S1852-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S1849-2011-1294894800000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1852-2011-1294894800000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Amends provisions regarding prescriptions for and supervision over student housing and safety by councils of SUNY state-operated institutions",
+  "title" : "Makes provisions to protect indoor air quality including indoor air quality plans by building owners and air quality standards and investigations",
   "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T150417.TXT", "SOBI.D110113.T150917.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T150917.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294949357869
+  "luceneModified" : 1294949357883
 }

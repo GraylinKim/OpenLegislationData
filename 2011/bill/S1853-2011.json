@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1849-2011",
+  "senateBillNo" : "S1853-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S1849-2011-1294894800000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S1853-2011-1294894800000-REFERRED+TO+AGRICULTURE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Amends provisions regarding prescriptions for and supervision over student housing and safety by councils of SUNY state-operated institutions",
+  "title" : "Increases the penalty for multiple convictions of torturing or failing to provide sustenance to a companion animal",
   "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
+  "currentCommittee" : "AGRICULTURE",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Agriculture and Markets Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T150417.TXT", "SOBI.D110113.T150917.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T150917.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294949357869
+  "luceneModified" : 1294949357885
 }
