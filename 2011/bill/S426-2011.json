@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S422-2011",
+  "senateBillNo" : "S426-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S422-2011-1294203600000-REFERRED+TO+ELECTIONS",
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S426-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a pilot program to provide for an instant runoff voting method to be used in up to ten local governments for two years provides for repeal of provisions",
+  "title" : "Provides for a prohibition on the use of certain disposable food service ware",
   "summary" : null,
-  "currentCommittee" : "ELECTIONS",
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
-  "lawSection" : "Elections",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DUANE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "HASSELL-THOMPSON",
@@ -34,14 +41,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -49,6 +49,13 @@
     "id" : null,
     "position" : null,
     "fullname" : "SQUADRON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STEWART-COUSINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -60,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T112823.TXT", "SOBI.D101220.T112323.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T112823.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292862503101
+  "luceneModified" : 1292862503109
 }
