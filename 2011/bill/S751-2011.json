@@ -62,6 +62,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "O'MARA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -74,7 +81,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to permitting at the discretion of the court certain family members of a victim who is deceased to read statements in court during the sentencing of a defendant ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T143240.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D110104.T170048.TXT", "SOBI.D101230.T121727.TXT", "SOBI.D101230.T122228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T143240.TXT", "SOBI.D110126.T130756.TXT", "SOBI.D110104.T170048.TXT", "SOBI.D101230.T121727.TXT", "SOBI.D101230.T122228.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294178448671
+  "luceneModified" : 1296065276529
 }

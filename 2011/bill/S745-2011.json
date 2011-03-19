@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "O'MARA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the penal law, the criminal procedure law and the correction law, in relation to criminalizing the reckless transmission of HIV/AIDS and to require testing for AIDS and HIV for certain persons ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T144012.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D110104.T154014.TXT", "SOBI.D101230.T121227.TXT", "SOBI.D101230.T143740.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T131731.TXT", "SOBI.D110112.T144012.TXT", "SOBI.D110104.T154014.TXT", "SOBI.D110126.T130756.TXT", "SOBI.D101230.T121227.TXT", "SOBI.D101230.T143740.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294861212788
+  "luceneModified" : 1296065276528
 }
