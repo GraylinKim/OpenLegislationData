@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows the use of the individual tax identification number when a legal immigrant applies for a driver's license or a renewal of a driver's license",
-  "summary" : null,
+  "summary" : "Allows the use of the individual tax identification number when a legal immigrant applies for a driver's license or a renewal of a driver's license. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A4236-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -95,7 +95,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to certain requirements for obtaining a driver's license ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T132153.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T135156.TXT", "SOBI.D110105.T132153.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251713920
+  "luceneModified" : 1294253516618
 }

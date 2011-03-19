@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows dental hygienists to perform anesthesia",
-  "summary" : null,
+  "summary" : "Allows dental hygienists to perform anesthesia; requires a dental hygienist to be certified and supervised before performing anesthesia. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA5704-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to allowing dental hygienists to perform anesthesia ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T131653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T135156.TXT", "SOBI.D110105.T131653.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251413792
+  "luceneModified" : 1294253516634
 }
