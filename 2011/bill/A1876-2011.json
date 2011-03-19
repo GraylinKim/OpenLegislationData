@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1876-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A1876-2011-1294808400000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Restricts certain access to records kept by the surrogate's court",
+  "summary" : "Restricts access to records kept by the surrogate's court for business or commercial purposes; makes certain exceptions; and requires any person seeking access to books or records of the court to complete a form which shall disclose such person's name, address, telephone number and purpose of such access. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1213",
+  "lawSection" : "Surrogate's Court Procedure Act",
+  "previousVersions" : [ "A2317-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the surrogate's court procedure act, in relation to restricting certain access to records kept by the court ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T150016.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294862416169
+}
