@@ -24,7 +24,14 @@
   "sameAs" : null,
   "lawSection" : "Correction Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101203.T094938.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101203.T095438.TXT", "SOBI.D101203.T094938.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291387778152
+  "luceneModified" : 1291388078189
 }
