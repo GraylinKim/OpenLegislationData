@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A200-2011",
+  "senateBillNo" : "A202-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to cities",
-    "billEventId" : "A200-2011-1294203600000-referred+to+cities",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A202-2011-1294203600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"lawn litter law act\"",
+  "title" : "Enacts the \"bad loan escape act\"",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law, in relation to enacting the \"lawn litter law act\" ",
+  "actClause" : "AN ACT to amend the tax law, in relation to enacting the \"bad loan escape act\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T124922.TXT", "SOBI.D101216.T125423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T125423.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292522063459
+  "luceneModified" : 1292522063469
 }

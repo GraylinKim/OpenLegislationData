@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A200-2011",
+  "senateBillNo" : "A203-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to cities",
-    "billEventId" : "A200-2011-1294203600000-referred+to+cities",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A203-2011-1294203600000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"lawn litter law act\"",
+  "title" : "Enacts the \"politician self-immortalization prevention act\"",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Public Officers Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law, in relation to enacting the \"lawn litter law act\" ",
+  "actClause" : "AN ACT to amend the public officers law, in relation to enacting the \"politician self-immortalization prevention act\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T124922.TXT", "SOBI.D101216.T125423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T125423.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292522063459
+  "luceneModified" : 1292522063473
 }
