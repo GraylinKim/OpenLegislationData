@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Expands the products which may be purchased for public use",
-  "summary" : null,
+  "summary" : "Expands the products which may be purchased for public use by including renewable energy resources; further increases the cost premium percentage of a product deemed reasonably competitive. ",
   "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1000-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T160413.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T160413.TXT", "SOBI.D110127.T160913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296162253501
+  "luceneModified" : 1296162553654
 }

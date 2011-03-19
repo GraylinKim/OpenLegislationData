@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2646-2011",
+  "senateBillNo" : "S2649-2011",
   "billEvents" : [ {
     "eventDate" : 1296104400000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S2646-2011-1296104400000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S2649-2011-1296104400000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides electronic toll collection discounts for certain fuel efficient vehicles",
-  "summary" : "Provides electronic toll collection discounts for certain fuel efficient vehicles. ",
+  "title" : "Establishes a distinctive \"New York recycles\" license plate, with the proceeds therefrom deposited into the solid waste account of the environmental protection fund",
+  "summary" : "Establishes a distinctive \"New York recycles\" license plate, with the proceeds from the additional $25 annual service charge therefor to be deposited into the solid waste account of the environmental protection fund for municipal waste reduction or recycling projects. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "S857-2009" ],
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "S852-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T160413.TXT", "SOBI.D110127.T160913.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T160913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296162553645
+  "luceneModified" : 1296162553643
 }

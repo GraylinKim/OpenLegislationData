@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2643-2011",
+  "senateBillNo" : "S2651-2011",
   "billEvents" : [ {
     "eventDate" : 1296104400000,
     "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S2643-2011-1296104400000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "billEventId" : "S2651-2011-1296104400000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the placement of one recycling receptacle for drink containers for every four waste receptacles on state owned property",
-  "summary" : "Requires the placement of one recycling receptacle for drink containers for every four waste receptacles on state owned property. ",
+  "title" : "Provides that diesel fuel that contains a concentration of sulfur that is less than or equal to 15 parts per million shall not be sold unless it includes biodiesel",
+  "summary" : null,
   "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : [ "S1108-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T160413.TXT", "SOBI.D110127.T155911.TXT", "SOBI.D110127.T160913.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T160913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296162553647
+  "luceneModified" : 1296162553655
 }
