@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Makes technical corrections to provisions of law pertaining to the qualification and cancellation of voter registration; and the investigation surrounding such issue",
-  "summary" : null,
+  "summary" : "Makes technical corrections to provisions of law pertaining to the qualification and cancellation of voter registration; and the investigation surrounding such issues. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S5398-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T141907.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T141907.TXT", "SOBI.D110120.T145937.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295551147095
+  "luceneModified" : 1295553577332
 }

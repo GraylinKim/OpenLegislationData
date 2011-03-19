@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to identifying the sources of campaign telephone canvasses or \"push polls\"",
-  "summary" : null,
+  "summary" : "Relates to identifying the sources of campaign telephone canvasses or \"push polls\". ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3863-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T142407.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T145937.TXT", "SOBI.D110120.T142407.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295551447256
+  "luceneModified" : 1295553577325
 }
