@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1730-2011",
+  "senateBillNo" : "S1732-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
     "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1730-2011-1294722000000-REFERRED+TO+ELECTIONS",
+    "billEventId" : "S1732-2011-1294722000000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to requiring voter approval for the abolition or modification of term limits for certain elected offices",
+  "title" : "Provides for the re-enfranchisement of voters with felony convictions; repealer",
   "summary" : null,
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
@@ -27,14 +27,42 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DUANE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T162724.TXT", "SOBI.D110111.T162223.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T162724.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294781244120
+  "luceneModified" : 1294781244133
 }

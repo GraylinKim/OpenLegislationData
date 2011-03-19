@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1730-2011",
+  "senateBillNo" : "S1733-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1730-2011-1294722000000-REFERRED+TO+ELECTIONS",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1733-2011-1294722000000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,44 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to requiring voter approval for the abolition or modification of term limits for certain elected offices",
+  "title" : "Enacts the \"access to public services for non-English speakers act\"",
   "summary" : null,
-  "currentCommittee" : "ELECTIONS",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Election Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "ADAMS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DUANE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T162724.TXT", "SOBI.D110111.T162223.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T162724.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294781244120
+  "luceneModified" : 1294781244141
 }
