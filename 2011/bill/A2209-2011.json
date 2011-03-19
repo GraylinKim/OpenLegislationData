@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Extends the period in which a defective equipment violation may be corrected from one to two days",
-  "summary" : null,
+  "summary" : "Extends the period in which a defective equipment violation may be corrected from one to two days. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9212-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to extending the period in which a defective equipment violation may be corrected from one to two days ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T122438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T132943.TXT", "SOBI.D110114.T122438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025878383
+  "luceneModified" : 1295029783113
 }

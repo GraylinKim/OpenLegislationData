@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Eliminates sales tax on clothing and footwear regardless of cost",
-  "summary" : null,
+  "summary" : "Eliminates sales tax on clothing and footwear regardless of cost. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2196-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to eliminating sales tax on all clothing and footwear ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T130440.TXT", "SOBI.D110114.T121438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T130440.TXT", "SOBI.D110114.T132943.TXT", "SOBI.D110114.T121438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295028280372
+  "luceneModified" : 1295029783123
 }
