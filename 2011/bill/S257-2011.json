@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Imposes certain limits, requirements and prohibitions regarding the seeking of refunds by certain insurers, organizations or corporations from health care providers",
-  "summary" : null,
+  "summary" : "Imposes certain limits, requirements and prohibitions regarding the seeking of refunds by certain insurers, organizations or corporations (i.e., those licensed or certified pursuant to article 43 of the insurance law or article 44 of the public health law) from health care providers: imposes time limit of 180 days after making payment to a health care provider for requesting a refund or partial refund; requires requests for refunds and partial refunds to be accompanied by written notice containing certain specified elements (including an explanation of the reasons for the request); prohibits an insurer, organization or corporation from attempting to recover a refund or partial refund by withholding or reducing another payment that is owed to the health care provider. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1399-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to imposing certain limits, requirements and prohibitions regarding the seeking of refunds by certain insurers, organizations or corporations from health care providers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT", "SOBI.D101213.T112305.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT", "SOBI.D101213.T121308.TXT", "SOBI.D101213.T112305.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292259186819
+  "luceneModified" : 1292260388114
 }
