@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2078-2011",
+  "senateBillNo" : "S2101-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2078-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2101-2011-1295326800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts \"personalized gun safety provisions\" to establish safety standards and ensure that firearms can only be fired by authorized users",
+  "title" : "Requires criminal history check of persons seeking out of country employment or out of country adoption",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to personalized gun safety ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T095113.TXT", "SOBI.D110118.T102116.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T102116.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295364076326
+  "luceneModified" : 1295364076348
 }
