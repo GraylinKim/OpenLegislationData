@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1200-2011",
+  "senateBillNo" : "S1204-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S1200-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S1204-2011-1294203600000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a biodiesel fuel tax exemption",
+  "title" : "Authorizes the state university of New York institute of technology to lease certain lands",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Education",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T150203.TXT", "SOBI.D110105.T145703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T150203.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294257723667
+  "luceneModified" : 1294257723683
 }
