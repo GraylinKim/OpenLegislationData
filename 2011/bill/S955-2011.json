@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S947-2011",
+  "senateBillNo" : "S955-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S947-2011-1294203600000-REFERRED+TO+CODES",
+    "billEventId" : "S955-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,25 +13,18 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MARCELLINO",
+    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Allows a court to preclude disclosure of jurors' names and addresses; repealer",
+  "title" : "Relates to venue for certain civil actions arising out of certain violations of the lien law and the vehicle and traffic law",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Civil Practice Law and Rules",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "LARKIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -39,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T142412.TXT", "SOBI.D110103.T142912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T142912.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294082952162
+  "luceneModified" : 1294082952189
 }
