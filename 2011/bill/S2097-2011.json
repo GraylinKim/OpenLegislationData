@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2088-2011",
+  "senateBillNo" : "S2097-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S2088-2011-1295326800000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S2097-2011-1295326800000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires school districts in N.Y. city to investigate and report on the status of PCBs in school buildings",
+  "title" : "Prohibits exclusive multichannel video programming from entering into exclusive marketing agreements with the owner or manager of a residential multiple dwelling unit",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T100114.TXT", "SOBI.D110118.T095613.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T100114.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295362874767
+  "luceneModified" : 1295362874796
 }

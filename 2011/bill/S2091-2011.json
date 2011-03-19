@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2088-2011",
+  "senateBillNo" : "S2091-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S2088-2011-1295326800000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S2091-2011-1295326800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires school districts in N.Y. city to investigate and report on the status of PCBs in school buildings",
+  "title" : "Provides omnibus co-op or condominium conversion requirements, including existing tenants right to purchase and capital replacement reserve fund",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T100114.TXT", "SOBI.D110118.T095613.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T100114.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295362874767
+  "luceneModified" : 1295362874780
 }

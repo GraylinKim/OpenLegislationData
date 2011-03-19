@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2088-2011",
+  "senateBillNo" : "S2092-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S2088-2011-1295326800000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+    "billEventId" : "S2092-2011-1295326800000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires school districts in N.Y. city to investigate and report on the status of PCBs in school buildings",
+  "title" : "Provides for exemptions for veterans of military operations in Lebanon, Grenada, Panama, and the Persian Gulf",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T100114.TXT", "SOBI.D110118.T095613.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T100114.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295362874767
+  "luceneModified" : 1295362874784
 }
