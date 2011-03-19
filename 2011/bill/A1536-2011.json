@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Galef (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires paper ballots have a box, oval or other marking area that the voter may intentionally fill in to alert the voting system that any and all undervotes on the",
+  "title" : "Requires paper ballots have a box, oval or other marking area that the voter may intentionally fill in to alert the voting system that any and all undervotes on the ballot have been done so",
   "summary" : "Requires paper ballots have a box, oval or other marking area that the voter may intentionally fill in to alert the voting system that any and all undervotes on the ballot have been done so intentionally; allows the system to cast the ballot without returning an \"undervote error message\" to the voter. ",
   "currentCommittee" : null,
   "sameAs" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to the form of paper ballots ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT", "SOBI.D110110.T151618.TXT", "SOBI.D110111.T135211.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT", "SOBI.D110110.T151618.TXT", "SOBI.D110112.T095453.TXT", "SOBI.D110111.T135211.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294771931261
+  "luceneModified" : 1294844093075
 }
