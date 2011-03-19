@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296104400000,
+    "eventText" : "reference changed to codes",
+    "billEventId" : "A3042-2011-1296104400000-reference+changed+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Morelle",
+    "fullname" : "Morelle (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to cemetery desecration and cemetery desecration of a veteran ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T114617.TXT", "SOBI.D110121.T161538.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T114617.TXT", "SOBI.D110127.T115853.TXT", "SOBI.D110121.T161538.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295887577938
+  "luceneModified" : 1296147533427
 }
