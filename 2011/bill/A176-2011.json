@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A176-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A176-2011-1294203600000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes and directs the workers' compensation board to redetermine the award of volunteer firefighter disability benefits to William DuBois of New Paltz, New York",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Workers' Compensation Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to authorize and direct the workers' compensation board to redetermine the award of volunteer firefighter benefits to William DuBois of New Paltz, New York who was injured in the line of duty ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101216.T124448.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292521488290
+}
