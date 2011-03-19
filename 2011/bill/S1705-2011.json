@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1699-2011",
+  "senateBillNo" : "S1705-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO BANKS",
-    "billEventId" : "S1699-2011-1294722000000-REFERRED+TO+BANKS",
+    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+    "billEventId" : "S1705-2011-1294722000000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the mortgage bill of rights pamphlet on residential mortgages",
+  "title" : "Exempts veterans of World War II from any additional fees when they order license plates stating \"World War II Veteran\"",
   "summary" : null,
-  "currentCommittee" : "BANKS",
+  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
   "sameAs" : null,
-  "lawSection" : "Banking Law",
+  "lawSection" : "Motor Vehicles, Commissioner of",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T142713.TXT", "SOBI.D110111.T142213.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T142713.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294774033618
+  "luceneModified" : 1294774033658
 }
