@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A4206-2011",
+  "senateBillNo" : "A4211-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A4206-2011-1296622800000-referred+to+insurance",
+    "eventText" : "referred to codes",
+    "billEventId" : "A4211-2011-1296622800000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,65 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires health insurers to provide full coverage for the prevention, early detection, diagnosis and treatment of autism spectrum disorder",
-  "summary" : "Requires health insurers to provide full coverage for the prevention, early detection, diagnosis and treatment of autism spectrum disorder; establishes an advisory panel on health insurance coverage for autism spectrum disorder to annually compile a list of treatments and therapy options for which health insurers will be required to provide coverage; establishes a toll-free, 24 hour a day, autism and health insurance coverage hotline to receive and act upon complaints and questions from families with autistic children, relating to insurance coverage for autism spectrum disorder. ",
+  "title" : "Establishes the class D felony of criminal street gang recruitment on school grounds",
+  "summary" : "Establishes the class D felony of criminal street gang recruitment on school grounds; authorizes municipalities to place gang free school zone signs on highways passing through school grounds. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
-  "previousVersions" : [ "A2759-2009" ],
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A4578-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "McEneny",
+    "fullname" : "Scarborough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lopez V",
+    "fullname" : "Brook-Krasny",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lifton",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Weisenberg",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Clark",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Spano",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Mayersohn",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -90,28 +55,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera J",
+    "fullname" : "Weisenberg",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Thiele",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -125,14 +90,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -146,7 +111,21 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "Hevesi",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tobacco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -155,10 +134,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to requiring health insurers to provide full coverage for the prevention, early detection, diagnosis and treatment of autism spectrum disorder ",
+  "actClause" : "AN ACT to amend the penal law, in relation to criminal street gang recruitment on school grounds; and to amend the highway law, in relation to authorizing the placement of gang free school zone signs ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T131716.TXT", "SOBI.D110202.T132216.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T132216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296670936092
+  "luceneModified" : 1296670936118
 }

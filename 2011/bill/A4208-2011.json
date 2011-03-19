@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4208-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to health",
+    "billEventId" : "A4208-2011-1296622800000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs department of health to contract with community organizations for distribution of information on health care services and benefits available to immigrants",
+  "summary" : "Directs the department of health to contract with community-based organizations and not-for-profit corporations for the provision of outreach, information and educational services to immigrants on the availability of health care services, medical assistance, emergency medical assistance, the family health plus program and the child health insurance plan. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1158",
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A5144-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brook-Krasny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to directing the department of health to contract with community-based and not-for-profit organizations for the provision of information on health care services and benefits available to immigrants ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T132216.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296670936105
+}
