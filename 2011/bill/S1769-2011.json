@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that qualified persons who are not registered to vote may register on a day of election at their polling places",
-  "summary" : null,
+  "summary" : "Provides that qualified persons who have never previously registered to vote may register on any day, including a day of election, that the board of elections is open for business; requires establishment of a procedure to enable such registrants to cast their votes at the appropriate polling places. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA5059-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to allowing for polling place voter registration for any qualified person who is not registered to vote ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T125003.TXT", "SOBI.D110112.T120000.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T131505.TXT", "SOBI.D110112.T125003.TXT", "SOBI.D110112.T120000.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294854603324
+  "luceneModified" : 1294856105946
 }

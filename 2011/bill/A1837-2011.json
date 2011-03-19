@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires builders to include the school district on the building permit application",
-  "summary" : null,
+  "summary" : "Requires builders to include, on any building permit application, the name of the community school district in which the proposed dwelling or dwelling units will be located, the number of families that will occupy the dwelling or dwelling units, and an estimate of the number of child occupants of compulsory school age. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "New York City Administrative Code",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA10369-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to requirements on the construction of new housing for school district purposes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT", "SOBI.D110112.T131505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294855204547
+  "luceneModified" : 1294856105957
 }

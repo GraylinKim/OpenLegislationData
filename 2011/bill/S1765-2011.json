@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires utility corporations and entities to submit an annual report to the public service commission, the legislature, the executive and the chairman of the state",
-  "summary" : null,
+  "summary" : "Requires utility corporations and entities to submit an annual report to the public service commission, legislature, the executive, and the chairman of the state energy planning board detailing energy metering production, including the number of customer-generators, the type of power producing the energy and the amount of output from each customer-generator. ",
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
   "lawSection" : "Public Service Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA1660-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the public service law, in relation to requiring utility corporations and entities to submit an annual report to the public service commission, the legislature, the executive and the chairman of the state energy planning board detailing energy metering production ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T115500.TXT", "SOBI.D110112.T125003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T115500.TXT", "SOBI.D110112.T131505.TXT", "SOBI.D110112.T125003.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294854603328
+  "luceneModified" : 1294856105961
 }

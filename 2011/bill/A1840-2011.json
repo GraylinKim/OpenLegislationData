@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires written notification to parents of infants whose DNA or blood spots are retained",
-  "summary" : null,
+  "summary" : "Requires written notification to parents of infant's whose DNA or blood spots are retained. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA9936-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to parental notification of newborn DNA storage ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT", "SOBI.D110112.T131505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294855204554
+  "luceneModified" : 1294856105942
 }

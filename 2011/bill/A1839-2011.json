@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits fuel pass-along rental adjustment to tenant of New York city rent controlled housing accommodations",
-  "summary" : null,
+  "summary" : "Provides that no tenant of housing accommodations which are subject to rent control shall be subject to a fuel adjustment or pass-along increase in rent; provides that any such increase to such tenant shall be null and void. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "New York City Administrative Code",
-  "previousVersions" : null,
+  "previousVersions" : [ "A6904-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to eliminating fuel pass-along charges for occupants of rent controlled housing accommodations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T130004.TXT", "SOBI.D110112.T131505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294855204553
+  "luceneModified" : 1294856105950
 }
