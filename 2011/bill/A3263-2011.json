@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3263-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3263-2011-1295845200000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Increases project size for which separate contracts on public work are required; repealer",
+  "summary" : "Raises the threshold total project cost dollar amount under the Wicks Law (requiring separate contracts for the plumbing, heating and HVAC components of public construction projects) requirements both within and without cities with a population of one million or more: would increase the existing threshold to $1,000,000 (outside of cities having a population in excess of one million) and $2,000,000 in cities having a population in excess of one million. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "AA4342-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, the state finance law, the public housing law, the education law, the public authorities law, chapter 892 of the laws of 1971, amending the public authorities law relating to construction by the dormitory authority, and chapter 560 of the laws of 1980, relating to authorizing the city of New York to adopt a waste management law, in relation to project size over which separate contracts on public work are required; and to repeal certain provisions of the general municipal law relating thereto ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T153140.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295901100745
+}

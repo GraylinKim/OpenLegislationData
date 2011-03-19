@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3242-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A3242-2011-1295845200000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to filing and investigation of reports alleging educational neglect",
+  "summary" : "Relates to filing and investigation of reports alleging educational neglect; requires a hearing prior to filing a report with the local social services department and requires that the report be expunged where the report is determined to be unfounded. ",
+  "currentCommittee" : null,
+  "sameAs" : "S362",
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "S5974-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to reports of educational neglect by school districts ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T153140.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295901100760
+}

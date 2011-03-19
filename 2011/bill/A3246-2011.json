@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3246-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A3246-2011-1295845200000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes commissioner of agriculture and markets to seek injunctive relief for violations concerning kosher foods",
+  "summary" : "Authorizes the commissioner of agriculture and markets to institute an action in law or equity to enforce certain kosher food laws and specifically enumerates such violations subject to enforcement and penalties. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2278",
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A7982-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to the enforcement of kosher food laws ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T153140.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295901100769
+}

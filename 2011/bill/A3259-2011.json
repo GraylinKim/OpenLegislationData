@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3259-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to tourism, arts and sports development",
+    "billEventId" : "A3259-2011-1295845200000-referred+to+tourism%2C+arts+and+sports+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows cities with a population of 150,000 or more to impose a twenty-five cent fee on sporting event tickets and to use the money collected for sport programs",
+  "summary" : "Authorizes cities with a population of one hundred fifty thousand or more to impose an additional twenty-five cent fee upon the ticket price of four dollars or more for any sporting event held within such city; moneys collected shall be used for sport and recreation programs in such cities; creates a NYC sports and recreation advisory committee to determine how the money shall be spent in NYC; outside NYC the respective school boards shall administer funds. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A3565-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to creating the New York schools sports and recreation program and establishing the New York city schools sports and recreation advisory committee; and to amend the state finance law, in relation to establishing the New York schools sports and recreation fund ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T153140.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295901100734
+}
