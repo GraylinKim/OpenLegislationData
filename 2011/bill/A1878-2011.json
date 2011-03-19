@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294894800000,
+    "eventText" : "reference changed to agriculture",
+    "billEventId" : "A1878-2011-1294894800000-reference+changed+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "McEneny",
+    "fullname" : "McEneny (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the agriculture and markets law, in relation to abandonment of animals and repealing section 355 of such law relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T161027.TXT", "SOBI.D110112.T150016.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T161027.TXT", "SOBI.D110112.T150016.TXT", "SOBI.D110113.T124821.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294866627924
+  "luceneModified" : 1294940901989
 }
