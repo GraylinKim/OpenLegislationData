@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2409-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S2409-2011-1295499600000-REFERRED+TO+AGRICULTURE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GRISANTI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the training, examination and certification of dog control officers",
+  "summary" : null,
+  "currentCommittee" : "AGRICULTURE",
+  "sameAs" : null,
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T095811.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295535491735
+}
