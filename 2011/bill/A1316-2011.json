@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1316-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1316-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the confidentiality of certain personnel records maintained by the department of taxation and finance",
+  "summary" : "Provides for the confidentiality of personnel records maintained by the department of taxation and finance for individuals defined as police and peace officers. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Rights Law",
+  "previousVersions" : [ "A5177-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil rights law, in relation to the confidentiality of certain personnel records maintained by the department of taxation and finance ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T133904.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294425544054
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1314-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1314-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes certain cities to implement a pilot truck weight photo-monitoring system at certain intersections throughout the city",
+  "summary" : "Authorizes certain cities to implement a pilot truck weight photo-monitoring system at certain intersections throughout the city; requires owners of trucks to be monetarily liable when an operator of their truck drives the truck on a public highway in violation of a posted \"No Truck\" zone; establishes certain affirmative defenses. ",
+  "currentCommittee" : null,
+  "sameAs" : "S875",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A5174-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to truck weight photo-monitoring systems in cities with a population of one million or more ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T133904.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294425544047
+}
