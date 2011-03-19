@@ -2,19 +2,10 @@
   "id" : "cal-floor-00001-2011-2011",
   "type" : "floor",
   "year" : 2011,
-  "supplementals" : [ {
-    "id" : "cal-floor-00001-2011-2011-supp-",
-    "sections" : null,
-    "sequence" : null,
-    "calendarDate" : 1295413200000,
-    "releaseDateTime" : 1295528280000,
-    "supplementalId" : "",
-    "luceneActive" : true,
-    "luceneModified" : 0
-  } ],
+  "supplementals" : [ ],
   "sessionYear" : 2011,
   "no" : 1,
-  "sobiReferenceList" : [ "SOBI.D110119.T181830.TXT-calendar-1.xml", "SOBI.D110118.T163657.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110120.T080300.TXT-calendar-1.xml", "SOBI.D110119.T182330.TXT-calendar-1.xml", "SOBI.D110118.T163657.TXT-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110119.T182330.TXT-calendar-3.xml", "SOBI.D110119.T181330.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181330.TXT-calendar-3.xml", "SOBI.D110119.T181330.TXT-calendar-1.xml", "SOBI.D110120.T075800.TXT-calendar-1.xml", "SOBI.D110120.T075800.TXT-calendar-3.xml", "SOBI.D110119.T184331.TXT-calendar-3.xml", "SOBI.D110120.T080300.TXT-calendar-3.xml", "SOBI.D110119.T183831.TXT-calendar-1.xml", "SOBI.D110120.T075800.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181330.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110119.T183831.TXT-calendar-3.xml", "SOBI.D110119.T181830.TXT-calendar-3.xml", "SOBI.D110119.T184331.TXT-calendar-1.xml" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T181830.TXT-calendar-1.xml", "SOBI.D110118.T163657.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110120.T080300.TXT-calendar-1.xml", "SOBI.D110119.T182330.TXT-calendar-1.xml", "SOBI.D110120.T080800.TXT-calendar-1.xml", "SOBI.D110118.T163657.TXT-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110119.T182330.TXT-calendar-3.xml", "SOBI.D110119.T181330.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181330.TXT-calendar-3.xml", "SOBI.D110119.T181330.TXT-calendar-1.xml", "SOBI.D110120.T075800.TXT-calendar-1.xml", "SOBI.D110120.T075800.TXT-calendar-3.xml", "SOBI.D110119.T184331.TXT-calendar-3.xml", "SOBI.D110119.T183831.TXT-calendar-1.xml", "SOBI.D110120.T080300.TXT-calendar-3.xml", "SOBI.D110120.T075800.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181830.TXT-calendar-1.xml-calendar-1.xml", "SOBI.D110119.T181330.TXT-calendar-3.xml-calendar-1.xml", "SOBI.D110119.T183831.TXT-calendar-3.xml", "SOBI.D110119.T181830.TXT-calendar-3.xml", "SOBI.D110119.T184331.TXT-calendar-1.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1295528580039
+  "luceneModified" : 1295528880584
 }
