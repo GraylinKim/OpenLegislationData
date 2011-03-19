@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S426-2011",
+  "senateBillNo" : "S431-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S426-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "billEventId" : "S431-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for a prohibition on the use of certain disposable food service ware",
+  "title" : "Relates to food service waste reduction",
   "summary" : null,
   "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
@@ -27,35 +27,7 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SERRANO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "SQUADRON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STEWART-COUSINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T112823.TXT", "SOBI.D101220.T113323.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T113323.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292862803153
+  "luceneModified" : 1292862803172
 }

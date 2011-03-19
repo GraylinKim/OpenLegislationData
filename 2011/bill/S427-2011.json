@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S426-2011",
+  "senateBillNo" : "S427-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S426-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S427-2011-1294203600000-REFERRED+TO+AGRICULTURE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,27 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for a prohibition on the use of certain disposable food service ware",
+  "title" : "Prohibits any person from transporting or selling a nonambulatory animal unless such animal is humanely euthanized",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "AGRICULTURE",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Agriculture and Markets Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ADAMS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ADDABBO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "DUANE",
@@ -34,28 +48,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SERRANO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SQUADRON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STEWART-COUSINS",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T112823.TXT", "SOBI.D101220.T113323.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T113323.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292862803153
+  "luceneModified" : 1292862803157
 }

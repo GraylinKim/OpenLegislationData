@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S426-2011",
+  "senateBillNo" : "S428-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S426-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S428-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for a prohibition on the use of certain disposable food service ware",
+  "title" : "Relates to the right of tenant association to have the first option to purchase a housing unit",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,28 +34,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "HUNTLEY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SERRANO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SQUADRON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STEWART-COUSINS",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T112823.TXT", "SOBI.D101220.T113323.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T113323.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292862803153
+  "luceneModified" : 1292862803161
 }
