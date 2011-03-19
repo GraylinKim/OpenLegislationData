@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S482A-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S482A-2011-1294203600000-REFERRED+TO+AGING",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1294894800000,
+    "eventText" : "AMEND AND RECOMMIT TO AGING",
+    "billEventId" : "S482A-2011-1294894800000-AMEND+AND+RECOMMIT+TO+AGING",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1294894801000,
+    "eventText" : "PRINT NUMBER 482A",
+    "billEventId" : "S482A-2011-1294894801000-PRINT+NUMBER+482A",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to requiring renewal notices for applications under the SCRIE program",
+  "summary" : null,
+  "currentCommittee" : "AGING",
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "AGING" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T125321.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294941201091
+}
