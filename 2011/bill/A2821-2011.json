@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2821-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A2821-2011-1295499600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to when a person is guilty of obstructing firefighting operations",
+  "summary" : "Establishes a person who intentionally obstructs the efforts of any firefighter performing emergency medical care on a sick or injured person is guilty of the crime of obstructing firefighting operations. ",
+  "currentCommittee" : null,
+  "sameAs" : "S241",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A4610-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to the crime of obstructing firefighting operations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T142407.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295551447272
+}

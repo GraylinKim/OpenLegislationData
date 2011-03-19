@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2816-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A2816-2011-1295499600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires that the board of education or trustees of each school district and board of cooperative educational services develop an asthma management program",
+  "summary" : "Requires that the board of education or trustees of each school district and board of cooperative educational services to develop for each school within such district an asthma management program to include policies and procedures for the administration of medication and the use of diagnostic and treatment devices for students diagnosed by a physician as having asthma; requires a specific plan of action for school personnel to follow in the event of an acute asthmatic episode. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A374-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to pupils afflicted with asthma ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T142407.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295551447258
+}
