@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A4006-2011",
+  "senateBillNo" : "A4012-2011",
   "billEvents" : [ {
     "eventDate" : 1296536400000,
     "eventText" : "referred to ways and means",
-    "billEventId" : "A4006-2011-1296536400000-referred+to+ways+and+means",
+    "billEventId" : "A4012-2011-1296536400000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,10 +18,10 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the deficiency budget for the 2010-2011 state fiscal year",
+  "title" : "Enacts into law major components of legislation necessary to implement the state fiscal plan for the 2011-2012 state fiscal year",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S2806",
+  "sameAs" : null,
   "lawSection" : "Budget Bills",
   "previousVersions" : null,
   "coSponsors" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend chapters 50, 54, 55 and 108 of the laws of 2010, making appropriations for the support of government ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T181919.TXT", "SOBI.D110201.T184419.TXT", "SOBI.D110201.T183419.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T184419.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296603859337
+  "luceneModified" : 1296603859329
 }
