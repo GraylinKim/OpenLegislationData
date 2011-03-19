@@ -1,0 +1,175 @@
+{
+  "id" : "cal-floor-00002-2011-2011",
+  "type" : "floor",
+  "year" : 2011,
+  "supplementals" : [ {
+    "id" : "cal-floor-00002-2011-2011-supp-",
+    "sections" : [ {
+      "name" : "BILLS ON ORDER OF FIRST REPORT",
+      "id" : "cal-floor-00002-2011-2011-supp--sect-BILLS ON ORDER OF FIRST REPORT",
+      "type" : "C",
+      "calendarEntries" : [ {
+        "id" : "cal-floor-00002-2011-2011-supp--sect-BILLS ON ORDER OF FIRST REPORT-0000000005",
+        "bill" : {
+          "year" : 2011,
+          "senateBillNo" : "S764-2011",
+          "billEvents" : null,
+          "votes" : [ {
+            "id" : "1295447400000S764-2011--1--1",
+            "voteType" : 2,
+            "voteDate" : 1295447400000,
+            "ayes" : [ "Fuschillo", "Johnson", "Lanza", "Larkin", "Maziarz", "McDonald", "Nozzolio", "Robach", "Young", "Zeldin", "Dilan", "Adams", "Addabbo", "Kennedy", "Perkins", "Smith", "Squadron", "Stavisky" ],
+            "nays" : [ "Diaz" ],
+            "abstains" : null,
+            "excused" : null,
+            "ayeswr" : null,
+            "description" : "Transportation",
+            "sobiReferenceList" : [ ],
+            "luceneActive" : true,
+            "luceneModified" : 0
+          } ],
+          "sponsor" : {
+            "id" : null,
+            "position" : null,
+            "fullname" : "YOUNG",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          },
+          "title" : "Permits two or more contiguous towns to jointly purchase highway equipment",
+          "summary" : "Permits two or more contiguous towns to jointly purchase highway equipment. ",
+          "currentCommittee" : null,
+          "sameAs" : null,
+          "lawSection" : "Highway Law",
+          "previousVersions" : [ "S3417-2009" ],
+          "coSponsors" : [ {
+            "id" : null,
+            "position" : null,
+            "fullname" : "BONACIC",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "DEFRANCISCO",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "JOHNSON",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "LARKIN",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "LITTLE",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "RANZENHOFER",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          }, {
+            "id" : null,
+            "position" : null,
+            "fullname" : "SALAND",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          } ],
+          "pastCommittees" : [ "TRANSPORTATION" ],
+          "fulltext" : "",
+          "memo" : "",
+          "law" : null,
+          "actClause" : "AN ACT to amend the highway law, in relation to permitting two or more towns to jointly purchase highway equipment ",
+          "sortIndex" : -1,
+          "latestAmendment" : null,
+          "sobiReferenceList" : [ "SOBI.D101230.T131731.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D110119.T121752.TXT", "SOBI.D101230.T145243.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml-agenda-1.xml", "SOBI.D110105.T103608.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D101230.T123228.TXT" ],
+          "luceneActive" : true,
+          "luceneModified" : 1295468894530
+        },
+        "no" : "5",
+        "billHigh" : null,
+        "motionDate" : null,
+        "subBill" : null
+      }, {
+        "id" : "cal-floor-00002-2011-2011-supp--sect-BILLS ON ORDER OF FIRST REPORT-0000000006",
+        "bill" : {
+          "year" : 2011,
+          "senateBillNo" : "S1369-2011",
+          "billEvents" : null,
+          "votes" : [ {
+            "id" : "1295447400000S1369-2011--1--1",
+            "voteType" : 2,
+            "voteDate" : 1295447400000,
+            "ayes" : [ "Fuschillo", "Johnson", "Lanza", "Larkin", "Maziarz", "McDonald", "Nozzolio", "Robach", "Young", "Zeldin", "Dilan", "Adams", "Addabbo", "Kennedy", "Perkins", "Smith", "Squadron", "Stavisky" ],
+            "nays" : [ "Diaz" ],
+            "abstains" : null,
+            "excused" : null,
+            "ayeswr" : null,
+            "description" : "Transportation",
+            "sobiReferenceList" : [ ],
+            "luceneActive" : true,
+            "luceneModified" : 0
+          } ],
+          "sponsor" : {
+            "id" : null,
+            "position" : null,
+            "fullname" : "DILAN",
+            "branch" : null,
+            "contactInfo" : null,
+            "guid" : null
+          },
+          "title" : "Authorizes county highway superintendents to rent road machinery from any city, town or village",
+          "summary" : "Authorizes county highway superintendents to rent road machinery from any city, town or village. ",
+          "currentCommittee" : null,
+          "sameAs" : null,
+          "lawSection" : "Highway Law",
+          "previousVersions" : [ "S5426-2009" ],
+          "coSponsors" : null,
+          "pastCommittees" : [ "TRANSPORTATION" ],
+          "fulltext" : "",
+          "memo" : "",
+          "law" : null,
+          "actClause" : "AN ACT to amend the highway law, in relation to authorizing county highway superintendents to rent road machinery from any city, town or village, and the authority of the town highway superintendent to contract with another municipality, district corporation, school district, community college or any unit of the state university to provide certain services and the use of town machinery, tools and equipment ",
+          "sortIndex" : -1,
+          "latestAmendment" : null,
+          "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110106.T163248.TXT", "SOBI.D110119.T121752.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml-agenda-1.xml", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D110106.T162736.TXT", "SOBI.D110110.T163633.TXT", "SOBI.D110111.T180730.TXT", "SOBI.D110106.T164249.TXT" ],
+          "luceneActive" : true,
+          "luceneModified" : 1295468894535
+        },
+        "no" : "6",
+        "billHigh" : null,
+        "motionDate" : null,
+        "subBill" : null
+      } ],
+      "cd" : "0150"
+    } ],
+    "sequence" : null,
+    "calendarDate" : 1295845200000,
+    "releaseDateTime" : 1295553600000,
+    "supplementalId" : "",
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "sessionYear" : 2011,
+  "no" : 2,
+  "sobiReferenceList" : [ "SOBI.D110120.T150410.TXT-calendar-1.xml" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295553850608
+}
