@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S550-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S550-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the commissioner of taxation and finance to promulgate a uniform assessment code",
+  "summary" : null,
+  "currentCommittee" : "LOCAL GOVERNMENT",
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101222.T091319.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293027199640
+}
