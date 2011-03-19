@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires that school district officers have a high school diploma or GED certificate",
-  "summary" : null,
+  "summary" : "Requires that school district officers have a high school diploma or GED certificate and that any candidate for school district officer or board of education member shall make available to voters an explanation of qualifications. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10565-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T154004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T155004.TXT", "SOBI.D101217.T154004.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618404111
+  "luceneModified" : 1292619004286
 }

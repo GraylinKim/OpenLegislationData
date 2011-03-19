@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes the establishment of a caregiver support program for grandparents and other older adult relative caregivers",
-  "summary" : null,
+  "summary" : "Creates a caregiver support program for grandparents and other older adult relative caregivers who are providing primary care for children aged 18 and under either formally or informally to provide technical assistance, counseling and other resources. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Elder Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1840-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -95,7 +95,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T155004.TXT", "SOBI.D101217.T153505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618105009
+  "luceneModified" : 1292619004284
 }
