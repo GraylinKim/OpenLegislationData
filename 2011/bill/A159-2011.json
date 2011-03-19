@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates commissions to interview and recommend trustee candidates to the state university, CUNY and the community colleges",
-  "summary" : null,
+  "summary" : "Creates independent commissions to interview and recommend trustee candidates to the state university, CUNY and the community colleges. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A565-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to trustees of the state university of New York, city university of New York, and community colleges ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T110914.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T113916.TXT", "SOBI.D101216.T110914.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515754893
+  "luceneModified" : 1292517556391
 }

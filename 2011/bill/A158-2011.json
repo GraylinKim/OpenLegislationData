@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to access to recorded personal medical information by individuals",
-  "summary" : null,
+  "summary" : "Relates to access to recorded personal medical information by individuals; allows individuals access to their recorded personal medical records and limits any insurance institution, agent or insurance-support organization from charging more than one dollar per page to cover the costs incurred in providing a copy of such information to the individual. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A685-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to access to recorded personal medical information ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T110914.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T113916.TXT", "SOBI.D101216.T110914.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515754891
+  "luceneModified" : 1292517556387
 }
