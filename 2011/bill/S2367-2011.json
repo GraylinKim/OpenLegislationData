@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2358-2011",
+  "senateBillNo" : "S2367-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2358-2011-1295413200000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S2367-2011-1295413200000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Clarifies the definitions of \"physical injury\" and \"serious physical injury\"",
+  "title" : "Directs department of environmental conservation to establish a program to permit purchase of fishing licenses through the internet",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "LARKIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -39,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T142840.TXT", "SOBI.D110119.T142306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T142840.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295465320223
+  "luceneModified" : 1295465320238
 }

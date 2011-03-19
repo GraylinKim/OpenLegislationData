@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2358-2011",
+  "senateBillNo" : "S2361-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2358-2011-1295413200000-REFERRED+TO+CODES",
+    "billEventId" : "S2361-2011-1295413200000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Clarifies the definitions of \"physical injury\" and \"serious physical injury\"",
+  "title" : "Provides that restrictions regarding the carrying of concealed weapons and licenses therefor shall be by statute only",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
@@ -27,7 +27,28 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "O'MARA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T142840.TXT", "SOBI.D110119.T142306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T142840.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295465320223
+  "luceneModified" : 1295465320230
 }
