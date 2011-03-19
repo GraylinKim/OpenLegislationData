@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1659-2011",
+  "senateBillNo" : "S1679-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1659-2011-1294722000000-REFERRED+TO+CODES",
+    "billEventId" : "S1679-2011-1294722000000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "KLEIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Decreases amounts of payments wrongfully received for health care fraud",
-  "summary" : "Decreases certain for health care fraud. ",
+  "title" : "Includes within the class A misdemeanor of criminal possession of a weapon in the fourth degree, the possession of a weapon, outside the home, while intoxicated",
+  "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : [ "S111-2009" ],
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to health care fraud ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T103650.TXT", "SOBI.D110111.T112654.TXT", "SOBI.D110111.T111153.TXT", "SOBI.D110111.T114156.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T114156.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294764116674
+  "luceneModified" : 1294764116678
 }
