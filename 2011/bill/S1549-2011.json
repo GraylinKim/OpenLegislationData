@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1548-2011",
+  "senateBillNo" : "S1549-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S1548-2011-1294635600000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1549-2011-1294635600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the New York state community health care investment fund act",
+  "title" : "Provides for the payment of interest on prejudgment arrears child support and combined child and spousal support pursuant to a court order",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "State Finance Law",
+  "lawSection" : "Civil Practice Law and Rules",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T122101.TXT", "SOBI.D110110.T121601.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T122101.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294680061568
+  "luceneModified" : 1294680061571
 }

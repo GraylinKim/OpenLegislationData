@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1548-2011",
+  "senateBillNo" : "S1550-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S1548-2011-1294635600000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO SOCIAL SERVICES",
+    "billEventId" : "S1550-2011-1294635600000-REFERRED+TO+SOCIAL+SERVICES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the New York state community health care investment fund act",
+  "title" : "Authorizes a pilot program for enhanced prior approval of high cost diagnostic radiology services",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "SOCIAL SERVICES",
   "sameAs" : null,
-  "lawSection" : "State Finance Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T122101.TXT", "SOBI.D110110.T121601.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T122101.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294680061568
+  "luceneModified" : 1294680061575
 }
