@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S494-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S494-2011-1294203600000-REFERRED+TO+CODES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ROBACH",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Adds additional objects which a person would be guilty of criminally using drug paraphernalia in the 2nd degree if he or she knowingly possesses or sells such object",
+  "summary" : null,
+  "currentCommittee" : "CODES",
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T145856.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292875136029
+}

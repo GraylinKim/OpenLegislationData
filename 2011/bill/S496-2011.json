@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S496-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S496-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ROBACH",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the establishment of a joint budget committee on conference to resolve differences between legislation passed by the senate and assembly",
+  "summary" : null,
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "sameAs" : null,
+  "lawSection" : "Legislative Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T145856.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292875136036
+}
