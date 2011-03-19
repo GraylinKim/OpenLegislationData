@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1066-2011",
+  "senateBillNo" : "S1067-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S1066-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "billEventId" : "S1067-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the Energy Research and Development Authority to do a study as to a comprehensive energy plan for the downstate region of the state",
+  "title" : "Requires alternative fuels to be available along the thruway",
   "summary" : null,
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Energy Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "BONACIC",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "DILAN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,20 +55,6 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "MONTGOMERY",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "PERKINS",
     "branch" : null,
     "contactInfo" : null,
@@ -76,14 +62,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -95,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T091556.TXT", "SOBI.D110105.T091055.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T091556.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294236956981
+  "luceneModified" : 1294236956986
 }
