@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2900-2011",
+  "senateBillNo" : "A2920-2011",
   "billEvents" : [ {
     "eventDate" : 1295586000000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A2900-2011-1295586000000-referred+to+codes",
+    "eventText" : "referred to veterans' affairs",
+    "billEventId" : "A2920-2011-1295586000000-referred+to+veterans%27+affairs",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cymbrowitz",
+    "fullname" : "Sweeney",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the crime of unauthorized use of a motor vehicle",
+  "title" : "Relates to use of personal confidential information received from veterans or family members of veterans receiving services from the state",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "Magnarelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DenDekker",
+    "fullname" : "Lavine",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T124523.TXT", "SOBI.D110121.T124023.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T124523.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295631923754
+  "luceneModified" : 1295631923789
 }
