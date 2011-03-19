@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to granting a sales and compensating use tax exemption for goods sold at school book fairs ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T125718.TXT", "SOBI.D110106.T120215.TXT", "SOBI.D110106.T123717.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T122924.TXT", "SOBI.D110106.T125718.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110106.T120215.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294336638421
+  "luceneModified" : 1294421364323
 }
