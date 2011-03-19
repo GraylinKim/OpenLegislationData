@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3448-2011",
+  "senateBillNo" : "A3491-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A3448-2011-1295931600000-referred+to+governmental+operations",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A3491-2011-1295931600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to preventing housing discrimination against victims of domestic violence; repealer",
-  "summary" : "Prevents housing discrimination against victims of domestic violence. ",
+  "title" : "Authorizes the creation of the veteran assistance lottery game and the establishment of the veterans' assistance fund",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
-  "previousVersions" : [ "AA9020-2009" ],
+  "lawSection" : "Tax Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Abbate",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -52,29 +59,15 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Gibson",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to preventing housing discrimination against victims of domestic violence; and to repeal certain provisions of such law relating thereto ",
+  "actClause" : "AN ACT to amend the tax law, in relation to authorizing the creation of the veteran assistance lottery game and to amend the state finance law, in relation to establishing the veterans' assistance fund ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T132416.TXT", "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T132416.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979856487
+  "luceneModified" : 1295979856478
 }

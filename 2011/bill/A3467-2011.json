@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3448-2011",
+  "senateBillNo" : "A3467-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A3448-2011-1295931600000-referred+to+governmental+operations",
+    "eventText" : "referred to economic development",
+    "billEventId" : "A3467-2011-1295931600000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,56 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Glick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to preventing housing discrimination against victims of domestic violence; repealer",
-  "summary" : "Prevents housing discrimination against victims of domestic violence. ",
+  "title" : "Provides for notice to the community board upon an application for renewal of a license and requires the liquor authority to create a form for comment by such board",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
-  "previousVersions" : [ "AA9020-2009" ],
+  "lawSection" : "Alcoholic Beverage Control Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Miller M",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gibson",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to preventing housing discrimination against victims of domestic violence; and to repeal certain provisions of such law relating thereto ",
+  "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to renewals of licenses and permits ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T132416.TXT", "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T132416.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979856487
+  "luceneModified" : 1295979856454
 }
