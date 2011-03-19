@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S746-2011",
+  "senateBillNo" : "S751-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S746-2011-1294203600000-REFERRED+TO+CODES",
+    "billEventId" : "S751-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the offenses of promoting and possessing a sex offense against a child",
+  "title" : "Permits at the discretion of the court certain members of the victim's family to read statements in court during the sentencing of a defendant",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Criminal Procedure Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "JOHNSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
@@ -48,28 +55,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "NOZZOLIO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "RANZENHOFER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SALAND",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T121227.TXT", "SOBI.D101230.T121727.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T121727.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293729447775
+  "luceneModified" : 1293729447786
 }
