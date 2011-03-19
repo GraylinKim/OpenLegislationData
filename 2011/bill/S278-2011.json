@@ -3,8 +3,8 @@
   "senateBillNo" : "S278-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
-    "billEventId" : "S278-2011-1294203600000-REFERRED+TO+CULTURAL+AFFAIRS%2C+TOURISM%2C+PARKS+AND+RECREATION",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S278-2011-1294203600000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -20,7 +20,7 @@
   },
   "title" : "Directs the commissioner of parks, recreation and historic preservation to establish a program of free parking for senior citizens",
   "summary" : null,
-  "currentCommittee" : "CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
   "lawSection" : "Parks, Recreation and Historic Preservation Law",
   "previousVersions" : null,
@@ -67,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T122822.TXT", "SOBI.D101213.T115306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292259186778
+  "luceneModified" : 1292261302233
 }
