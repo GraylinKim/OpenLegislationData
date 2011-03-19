@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Specifies auction requirements",
-  "summary" : null,
+  "summary" : "Specifies requirements for auctions; holds the auctioneer responsible for truth of statements in catalogues, announcements, etc. ",
   "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SD4313-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to auction requirements ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T091823.TXT", "SOBI.D101222.T093824.TXT", "SOBI.D101222.T092323.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T091823.TXT", "SOBI.D101222.T093824.TXT", "SOBI.D101222.T092323.TXT", "SOBI.D101222.T094824.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293028704931
+  "luceneModified" : 1293029304061
 }
