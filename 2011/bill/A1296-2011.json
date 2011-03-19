@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1296-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1296-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the driver of a vehicle involved in an accident involving no personal injury or death to move the vehicle to a safe location",
+  "summary" : "Requires the driver of a vehicle involved in an accident involving no personal injury or death to move the vehicle to a safe location in the vicinity of the incident. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1350",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A10097-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to removing vehicles from traffic following an accident ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T132903.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294424943815
+}

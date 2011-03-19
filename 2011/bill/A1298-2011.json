@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1298-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1298-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes provisions with respect to the disposition of fine money imposed for infractions by the holder of a conditional license",
+  "summary" : "Requires a fine for violation of the conditions of a conditional license, issued after conviction of driving while under the influence of drugs or alcohol, to be paid to the county where such violation occurred if such county has a special traffic options program for driving while intoxicated; relates to the distribution of the mandatory surcharge for certain alcohol-related convictions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A972-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to the disposition of fine money imposed for infractions relating to the operation of a motor vehicle by the holder of a conditional license; and to amend the vehicle and traffic law and the penal law, in relation to the distribution of the mandatory surcharge for certain alcohol-related convictions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T132903.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294424943818
+}
