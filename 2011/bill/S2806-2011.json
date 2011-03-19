@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2805-2011",
+  "senateBillNo" : "S2806-2011",
   "billEvents" : [ {
     "eventDate" : 1296536400000,
     "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2805-2011-1296536400000-REFERRED+TO+FINANCE",
+    "billEventId" : "S2806-2011-1296536400000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,8 +18,8 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the transfer of certain monies",
-  "summary" : "Relates to the transfer of certain monies. ",
+  "title" : "Enacts the deficiency budget for the 2010-2011 state fiscal year",
+  "summary" : null,
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "Budget Bills",
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T180417.TXT", "SOBI.D110201.T180917.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T180917.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296601757237
+  "luceneModified" : 1296601757241
 }
