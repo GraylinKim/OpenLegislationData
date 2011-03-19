@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for community service as one of the punishments for the violation of a local law in a municipality",
-  "summary" : null,
+  "summary" : "Provides for community service as one of the punishments for the violation of a local law in a municipality. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Municipal Home Rule Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A216-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the municipal home rule law, in relation to punishment for the violation of a local law ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T131653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T132654.TXT", "SOBI.D110105.T131653.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251413754
+  "luceneModified" : 1294252014076
 }

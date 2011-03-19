@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A935-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A935-2011-1294203600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes boards of education or trustees of school districts to allow certain pupils diagnosed with respiratory illnesses to carry a prescribed inhaler",
+  "summary" : "Authorizes boards of education or trustees of school districts to allow certain pupils diagnosed with asthma or other potentially life-threatening respiratory illnesses to carry and use a prescribed inhaler; provides for establishment of asthma action plans for such pupils. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A4269-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to the use of inhalers and nebulizers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T132654.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294252014084
+}

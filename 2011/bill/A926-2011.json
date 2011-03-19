@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A926-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A926-2011-1294203600000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Increases compensation of election inspectors to $300 and coordinators to $400 in New York city",
+  "summary" : "Increases compensation of election inspectors to $300 and coordinators to $400 in New York city. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "A1521-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to the compensation of election inspectors and coordinators ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T132654.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294252014063
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A933-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A933-2011-1294203600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes a class action law suit in anti-trust actions",
+  "summary" : "Authorizes a class action lawsuit in anti-trust actions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A3271-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to authorizing a class action law suit in the state anti-trust law ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T132654.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294252014079
+}

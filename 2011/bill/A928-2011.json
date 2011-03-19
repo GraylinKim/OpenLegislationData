@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A928-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A928-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Exempts state and public corporations from liability for injury to property or personal injury",
+  "summary" : "Exempts state and public corporations from liability for injury to property or personal injury, including death, of persons using public beaches when lifeguards are not on duty. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Obligations Law",
+  "previousVersions" : [ "A4238-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general obligations law, in relation to exemption of the state and public corporations from liability for injury to property or personal injury, including death, of persons who use public beaches for fishing, surfboarding or scuba diving when lifeguards are not on duty ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T132654.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294252014068
+}

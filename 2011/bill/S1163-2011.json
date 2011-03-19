@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that remaining campaign accounts be transferred to the state treasury after death of a candidate",
-  "summary" : null,
+  "summary" : "Provides that upon the death of a candidate, former candidate or holder of elective office, remaining campaign accounts be transferred to the state treasury unless a charitable organization has been designated to receive such moneys. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : "A898",
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6259-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to providing that campaign accounts be transferred to the state treasury upon death of a candidate ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT", "SOBI.D110105.T121648.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT", "SOBI.D110105.T132654.TXT", "SOBI.D110105.T121648.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294250212246
+  "luceneModified" : 1294252014093
 }

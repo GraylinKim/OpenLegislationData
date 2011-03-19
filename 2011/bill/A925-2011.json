@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A925-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A925-2011-1294203600000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Compels the board of elections to notify voters whenever a polling place location is to be changed or moved",
+  "summary" : "Compels the board of elections to notify voters whenever a polling place location is to be changed or moved. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "A8546-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to compelling the board of elections to notify voters whenever a polling place location is to be changed or moved ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T132654.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294252014055
+}
