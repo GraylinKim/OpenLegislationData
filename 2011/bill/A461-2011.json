@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A461-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A461-2011-1294203600000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires applicants for public assistance to be fully informed that they may be liable to reimburse the state for benefits received",
+  "summary" : "Requires applicants for public assistance to be fully informed, orally and in writing, that they may be liable to reimburse the state for benefits received; requires an informed acknowledgment form to be signed by the applicant and kept in the applicant's file. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "AA8873-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to providing notice to applicants of potential liability for public assistance benefits ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101228.T144333.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293565413243
+}
