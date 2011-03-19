@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1778-2011",
+  "senateBillNo" : "S1779-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S1778-2011-1294808400000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S1779-2011-1294808400000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the purchase of security services",
+  "title" : "Provides for the lawful sale of scrap copper and other metals by junk dealers",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "State Finance Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T120501.TXT", "SOBI.D110112.T121001.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T121001.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294852201284
+  "luceneModified" : 1294852201290
 }
