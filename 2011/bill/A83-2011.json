@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A44-2011",
+  "senateBillNo" : "A83-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to environmental conservation",
-    "billEventId" : "A44-2011-1294203600000-referred+to+environmental+conservation",
+    "eventText" : "referred to health",
+    "billEventId" : "A83-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,56 +13,56 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the New York state flood mitigation grant act and makes an appropriation therefor",
-  "summary" : "Enacts the New York state flood mitigation grant act and makes an appropriation therefor. ",
+  "title" : "Provides restroom access to persons with certain medical conditions",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : [ "A198-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Markey",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimel",
+    "fullname" : "Kellner",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Hevesi",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the environmental conservation law, in relation to enacting the New York state comprehensive flood mitigation grant act; making an appropriation therefor and providing for the repeal of such provisions upon expiration thereof ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T103912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515153494
+  "luceneModified" : 1292515153458
 }

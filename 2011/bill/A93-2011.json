@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A68-2011",
+  "senateBillNo" : "A93-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A68-2011-1294203600000-referred+to+governmental+operations",
+    "eventText" : "referred to health",
+    "billEventId" : "A93-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Limits the time state agencies would have to appeal article 78 supreme court judgments against them for violations of freedom of information laws",
-  "summary" : "Limits the time state agencies would have to appeal article 78 supreme court judgments against them for violations of freedom of information laws. ",
+  "title" : "Requires the commissioner of health to develop and implement a system for uniform patient safety",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
-  "previousVersions" : [ "AA6484-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Paulin",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jaffee",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Spano",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -76,21 +48,42 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
+    "fullname" : "Markey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Miller M",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Montesano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Saladino",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -99,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public officers law, in relation to limiting the amount of time to appeal certain judgments regarding freedom of information violations ",
+  "actClause" : "AN ACT to amend the public health law, in relation to requiring the commissioner of health to develop and implement a system for uniform patient safety ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T102403.TXT", "SOBI.D101216.T103411.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515153472
+  "luceneModified" : 1292515153541
 }

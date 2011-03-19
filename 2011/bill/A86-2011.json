@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A68-2011",
+  "senateBillNo" : "A86-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A68-2011-1294203600000-referred+to+governmental+operations",
+    "eventText" : "referred to codes",
+    "billEventId" : "A86-2011-1294203600000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Limits the time state agencies would have to appeal article 78 supreme court judgments against them for violations of freedom of information laws",
-  "summary" : "Limits the time state agencies would have to appeal article 78 supreme court judgments against them for violations of freedom of information laws. ",
+  "title" : "Expands the definition of sexual contact with regard to sex offenses",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
-  "previousVersions" : [ "AA6484-2009" ],
+  "lawSection" : "Penal Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Zebrowski",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,21 +62,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Colton",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -76,21 +76,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Millman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -99,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public officers law, in relation to limiting the amount of time to appeal certain judgments regarding freedom of information violations ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T102403.TXT", "SOBI.D101216.T103411.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515153472
+  "luceneModified" : 1292515153482
 }

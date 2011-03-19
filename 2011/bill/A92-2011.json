@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A110-2011",
+  "senateBillNo" : "A92-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to environmental conservation",
-    "billEventId" : "A110-2011-1294203600000-referred+to+environmental+conservation",
+    "eventText" : "referred to insurance",
+    "billEventId" : "A92-2011-1294203600000-referred+to+insurance",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Grants a director of a municipality the power to enforce the redemption of beverage containers at redemption centers",
+  "title" : "Authorizes superintendent of insurance to promulgate rules and regulations necessary to prohibit retroactive charge-backs of health insurance rates",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Insurance Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Towns",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the environmental conservation law, in relation to granting the director of a municipality the power to enforce the redemption of beverage containers at redemption centers ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT", "SOBI.D101216.T105913.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515153441
+  "luceneModified" : 1292515153531
 }

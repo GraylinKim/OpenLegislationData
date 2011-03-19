@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A109-2011",
+  "senateBillNo" : "A91-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to governmental employees",
-    "billEventId" : "A109-2011-1294203600000-referred+to+governmental+employees",
+    "eventText" : "referred to labor",
+    "billEventId" : "A91-2011-1294203600000-referred+to+labor",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"state workforce injury reduction act\"",
+  "title" : "Provides for a task force and demonstration program on teleworking to study the benefits and other impacts thereof",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Civil Service Law",
+  "lawSection" : "State Employees",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the civil service law, in relation to enacting the \"state workforce injury reduction act\" ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT", "SOBI.D101216.T105913.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515153492
+  "luceneModified" : 1292515153524
 }
