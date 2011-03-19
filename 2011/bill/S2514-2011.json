@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires all hospitals to establish, utilize and complete a checklist for each intensive care medical procedure performed in the hospital",
-  "summary" : null,
+  "summary" : "Requires all hospitals to establish, utilize and complete a checklist for each intensive care medical procedure performed in the hospital. ",
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10494-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T154637.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T154637.TXT", "SOBI.D110124.T155137.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295901997356
+  "luceneModified" : 1295902297558
 }
