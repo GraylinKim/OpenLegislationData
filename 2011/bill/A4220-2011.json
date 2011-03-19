@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4220-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to veterans' affairs",
+    "billEventId" : "A4220-2011-1296622800000-referred+to+veterans%27+affairs",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the division of veterans' affairs to establish and distribute a veterans' bill of rights, and to contract with veterans' services outreach programs",
+  "summary" : "Directs the division of veterans' affairs to establish and distribute a veterans' bill of rights, and to contract with veterans' services outreach programs. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A11662-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to establishing a \"veterans' bill of rights\" directing the division of veterans' affairs to provide for the establishment and certification of veterans' services outreach programs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T132718.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296671238286
+}

@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4213-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to children and families",
+    "billEventId" : "A4213-2011-1296622800000-referred+to+children+and+families",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Scarborough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to notification procedures for the transfer of a child from one foster home to another",
+  "summary" : "Relates to notification procedures for the transfer of a child from one foster home to another; permits transfer without prior notice in certain circumstances. ",
+  "currentCommittee" : null,
+  "sameAs" : "S373",
+  "lawSection" : "Family Court Act",
+  "previousVersions" : [ "A8418-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DenDekker",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the family court act and the social services law, in relation to notification of the court, the parties and the attorney for the child, when a child protective or foster care agency transfers a child from one foster home or other foster care placement to another ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T132718.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296671238267
+}
