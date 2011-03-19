@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Designates the dog control officer of the city of Salamanca as a peace officer",
-  "summary" : null,
+  "summary" : "Designates the dog control officer of the city of Salamanca as a peace officer for purposes of enforcing article 26 of the agriculture and markets law and issuing appearance tickets pursuant to article 7 of such law. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2260-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T101704.TXT", "SOBI.D110202.T105206.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296659824111
+  "luceneModified" : 1296661926508
 }

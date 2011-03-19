@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prevents withdrawal or reduction of community projects grants upon departure of sponsoring members and prevents such members from randomly distributing such funds",
-  "summary" : null,
+  "summary" : "Prevents the withdrawal or reduction of grants for community projects upon departure of the original sponsoring member and prohibits such a member from distributing such funds for purposes other than the financing or implementation of such projects. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Legislative Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S5118-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the legislative law, in relation to prohibiting the withdrawal or reduction of promised funds for community projects after the departure of the original sponsoring member ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T104706.TXT", "SOBI.D110202.T100203.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T100203.TXT", "SOBI.D110202.T104706.TXT", "SOBI.D110202.T105206.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296661626262
+  "luceneModified" : 1296661926492
 }

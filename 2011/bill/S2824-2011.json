@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes a maximum temperature in school buildings and indoor facilities",
-  "summary" : null,
+  "summary" : "Establishes a maximum temperature in school buildings and indoor facilities. ",
   "currentCommittee" : "EDUCATION",
   "sameAs" : "A2344",
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SD3324-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -95,7 +95,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to establishing a maximum temperature in school buildings and indoor facilities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T104706.TXT", "SOBI.D110202.T100203.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T100203.TXT", "SOBI.D110202.T104706.TXT", "SOBI.D110202.T105206.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296661626260
+  "luceneModified" : 1296661926489
 }
