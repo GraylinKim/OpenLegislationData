@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S760-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+    "billEventId" : "S760-2011-1294203600000-REFERRED+TO+CULTURAL+AFFAIRS%2C+TOURISM%2C+PARKS+AND+RECREATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "YOUNG",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes a historic preservation revolving loan program to provide interest free loans to municipalities for historic preservation projects",
+  "summary" : null,
+  "currentCommittee" : "CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+  "sameAs" : null,
+  "lawSection" : "Parks, Recreation and Historic Preservation Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101230.T122728.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293730048037
+}

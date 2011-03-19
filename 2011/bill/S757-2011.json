@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S755-2011",
+  "senateBillNo" : "S757-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
-    "billEventId" : "S755-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "billEventId" : "S757-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Includes mixed residential and commercial property within the affordable home ownership program",
+  "title" : "Expands the New York state low income housing tax credit program to certain one to four family residences",
   "summary" : null,
   "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Private Housing Finance Law",
+  "lawSection" : "Public Housing Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T122728.TXT", "SOBI.D101230.T122228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T122728.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293730048017
+  "luceneModified" : 1293730048026
 }
