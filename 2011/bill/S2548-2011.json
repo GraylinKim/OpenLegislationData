@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "OPPENHEIMER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the public officers law, in relation to financial disclosure by the temporary president of the senate and the speaker of the assembly ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T181922.TXT", "SOBI.D110125.T115409.TXT", "SOBI.D110125.T120909.TXT", "SOBI.D110125.T121911.TXT", "SOBI.D110125.T170945.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T181922.TXT", "SOBI.D110201.T153407.TXT", "SOBI.D110125.T120909.TXT", "SOBI.D110125.T115409.TXT", "SOBI.D110125.T170945.TXT", "SOBI.D110125.T121911.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296170362849
+  "luceneModified" : 1296592447594
 }
