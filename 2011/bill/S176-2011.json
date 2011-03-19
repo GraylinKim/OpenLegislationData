@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S139-2011",
+  "senateBillNo" : "S176-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO INSURANCE",
-    "billEventId" : "S139-2011-1294203600000-REFERRED+TO+INSURANCE",
+    "billEventId" : "S176-2011-1294203600000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires insurance coverage for craniofacial disorders",
-  "summary" : "Requires insurance coverage under health insurance plans for diagnosis and treatment of craniofacial disorder; provides a referral from a health care provider under contract with the policy may be required. ",
+  "title" : "Provides that health insurance coverage may not deny reimbursements because the registered laboratory providing laboratory services has not been approved",
+  "summary" : null,
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : [ "S6996-2009" ],
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T155205.TXT", "SOBI.D101210.T150229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T155205.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292014325910
+  "luceneModified" : 1292014325927
 }
