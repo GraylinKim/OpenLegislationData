@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides school tax exemption relief (STAR) to small business with 20 or fewer employees",
-  "summary" : null,
+  "summary" : "Provides school tax exemption relief (STAR) to small business with 20 or fewer employees. ",
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3055-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T144309.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T152324.TXT", "SOBI.D110119.T144309.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466189632
+  "luceneModified" : 1295468604947
 }

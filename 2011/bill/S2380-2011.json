@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Makes certain persons who are eligible for or receiving social security disability insurance benefits eligible for elderly pharmaceutical insurance coverage",
-  "summary" : null,
+  "summary" : "Makes certain persons (meeting certain income requirements) who are eligible for or receiving social security disability insurance (SSDI) benefits eligible for elderly pharmaceutical insurance coverage. ",
   "currentCommittee" : "AGING",
   "sameAs" : null,
   "lawSection" : "Elder Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA3056-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -102,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T144309.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T152324.TXT", "SOBI.D110119.T144309.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466189659
+  "luceneModified" : 1295468604938
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for the issuance of a multiple event caterer's permit",
-  "summary" : null,
+  "summary" : "Authorizes the state liquor authority to issue multiple event caterer's permits. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Alcoholic Beverage Control Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3058-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T144309.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T152324.TXT", "SOBI.D110119.T144309.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466189652
+  "luceneModified" : 1295468604942
 }

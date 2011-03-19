@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes peace officers designated by the superintendent of insurance to execute arrest and search warrants",
-  "summary" : null,
+  "summary" : "Authorizes peace officers designated by the superintendent of insurance to execute arrest warrants; authorizes peace officers designated by the superintendent of insurance to execute search warrants. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3054-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T144309.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T152324.TXT", "SOBI.D110119.T144309.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466189642
+  "luceneModified" : 1295468604945
 }
