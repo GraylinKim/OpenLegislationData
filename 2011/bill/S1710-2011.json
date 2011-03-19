@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1710-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S1710-2011-1294722000000-REFERRED+TO+INSURANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits insurers from refusing to issue or renew, cancel, or charge or impose an increased premium for certain policies based on the breed of a dog owned",
+  "summary" : null,
+  "currentCommittee" : "INSURANCE",
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T143214.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294774334834
+}
