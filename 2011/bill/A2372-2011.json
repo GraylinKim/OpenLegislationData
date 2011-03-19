@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Excludes voter registration lists from the sources of names for prospective jurors to be selected at random by commissioners of jurors",
-  "summary" : null,
+  "summary" : "Excludes voter registration lists from the sources of names for prospective jurors to be selected at random by commissioners of jurors. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Judiciary Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A5106-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the judiciary law, in relation to excluding voter registration lists from the sources of names for jurors ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T152214.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T164157.TXT", "SOBI.D110118.T152214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382134618
+  "luceneModified" : 1295386917820
 }

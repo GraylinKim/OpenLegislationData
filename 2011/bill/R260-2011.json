@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "R260-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295326800000,
+    "eventText" : "ADOPTED",
+    "billEventId" : "R260-2011-1295326800000-ADOPTED",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SKELOS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Providing for the adoption of the Rules of the Senate for a certain period of time",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Legislative",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nSENATE  RESOLUTION providing for the adoption of the Rules of the Senate\nfor a certain period of time\n\nRESOLVED, That the Rules of the Senate, as adopted  pursuant  to  Senate\nResolution  7,  on January 5, 2011, are hereby adopted for the period of\nJanuary 5, 2011 through February 1, 2011.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110118.T164157.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295386917815
+}
