@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A628-2011",
+  "senateBillNo" : "A633-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A628-2011-1294203600000-referred+to+governmental+operations",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A633-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes an address confidentiality program in the office of the secretary of state for domestic violence victims who need to maintain secrecy of their location",
+  "title" : "Enacts the \"consumer credit fairness act\"",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "sameAs" : "S677",
+  "lawSection" : "Civil Practice Law and Rules",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Clark",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Glick",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,21 +41,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Titus",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to authorizing the secretary of state to accept service of process and receipt of mail on behalf of victims of domestic violence for the purpose of maintaining the confidentiality of the location of such victims ",
+  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to consumer credit transactions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110354.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240846
+  "luceneModified" : 1294071240798
 }

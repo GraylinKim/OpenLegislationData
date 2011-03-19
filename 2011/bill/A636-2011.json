@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S696-2011",
+  "senateBillNo" : "A636-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S696-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A636-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,18 +13,32 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "Weinstein",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Authorizes the mortgagee or lienor of an abandoned multiple dwelling to apply for the appointment of a receiver to bring the building into compliance",
-  "summary" : "Authorizes the mortgagee or lienor of an abandoned multiple dwelling to apply for the appointment of a receiver to bring the building into compliance. ",
-  "currentCommittee" : "JUDICIARY",
-  "sameAs" : "A636",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S696",
   "lawSection" : "Real Property Actions and Proceedings Law",
-  "previousVersions" : [ "SA8100-2009" ],
-  "coSponsors" : null,
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +46,7 @@
   "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to title to an abandoned multiple dwelling in a city, town or village ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T144745.TXT", "SOBI.D101229.T151308.TXT", "SOBI.D110103.T111400.TXT", "SOBI.D101229.T150242.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240797
+  "luceneModified" : 1294071240817
 }

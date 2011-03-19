@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A628-2011",
+  "senateBillNo" : "A602-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to governmental operations",
-    "billEventId" : "A628-2011-1294203600000-referred+to+governmental+operations",
+    "billEventId" : "A602-2011-1294203600000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "Magnarelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes an address confidentiality program in the office of the secretary of state for domestic violence victims who need to maintain secrecy of their location",
+  "title" : "Requires a study and report on methods to modernize information collection, retention and dissemination in the state",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "State Technology",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Glick",
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,21 +62,35 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Schimel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to authorizing the secretary of state to accept service of process and receipt of mail on behalf of victims of domestic violence for the purpose of maintaining the confidentiality of the location of such victims ",
+  "actClause" : "AN ACT in relation to requiring a study and report on methods to modernize information collection, retention and dissemination practices in the state; and providing for the repeal of such provisions upon expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110354.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240846
+  "luceneModified" : 1294071240785
 }

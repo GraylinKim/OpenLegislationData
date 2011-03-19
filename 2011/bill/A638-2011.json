@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A629-2011",
+  "senateBillNo" : "A638-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to judiciary",
-    "billEventId" : "A629-2011-1294203600000-referred+to+judiciary",
+    "billEventId" : "A638-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,15 +13,15 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that only the owner and holder of a mortgage and note, or its agent, shall have standing to commence a mortgage foreclosure action",
+  "title" : "Imposes fines on landlords who make false monetary claims in non-payment proceedings and requires dismissal of the proceeding",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S697",
+  "sameAs" : null,
   "lawSection" : "Real Property Actions and Proceedings Law",
   "previousVersions" : null,
   "coSponsors" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to standing to commence an action to foreclose a mortgage ",
+  "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to imposing penalties for false rent claims ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240782
+  "luceneModified" : 1294071240838
 }
