@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2727-2011",
+  "senateBillNo" : "A2792-2011",
   "billEvents" : [ {
     "eventDate" : 1295499600000,
     "eventText" : "referred to ways and means",
-    "billEventId" : "A2727-2011-1295499600000-referred+to+ways+and+means",
+    "billEventId" : "A2792-2011-1295499600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to large capital projects to be financed in whole or in part with public funds",
-  "summary" : "Relates to large capital projects to be financed in whole or in part with public funds or to be supported by tax and other public incentives and the disclosure of such projects. ",
+  "title" : "Changes state fiscal year; commencing 2012 fiscal year will end April 30 and every year thereafter will commence May 1 and end April 30",
+  "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S390",
-  "lawSection" : "New York City",
-  "previousVersions" : [ "AA1346-2009" ],
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -41,7 +41,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT relating to large capital projects to be financed in whole or in part with public funds and the disclosure of such projects ",
+  "actClause" : "AN ACT to amend the state finance law, in relation to the fiscal year ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT", "SOBI.D110120.T124859.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295546367397
+  "luceneModified" : 1295546367379
 }

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2758-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A2758-2011-1295499600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires county clerks to designate one newspaper for the publication of judicial proceedings in the county",
+  "summary" : "Requires county clerks to designate one newspaper or journal for the publication of every notice and advertisement of judicial proceedings in the county. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "County Law",
+  "previousVersions" : [ "A3415-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the county law, in relation to the publication of judicial proceedings ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295546367360
+}

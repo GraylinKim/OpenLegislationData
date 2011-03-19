@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2730-2011",
+  "senateBillNo" : "A2759-2011",
   "billEvents" : [ {
     "eventDate" : 1295499600000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A2730-2011-1295499600000-referred+to+codes",
+    "eventText" : "referred to banks",
+    "billEventId" : "A2759-2011-1295499600000-referred+to+banks",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Crouch",
+    "fullname" : "Pretlow",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Clarifies that licenses for handguns may be issued to non-resident individuals",
-  "summary" : "Clarifies that licenses for handguns may be issued to non-resident individuals. ",
+  "title" : "Prohibits banks from holding for deposit state issued check",
+  "summary" : "Prohibits banks from holding for deposit the funds from checks issued by the state. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : [ "A3344-2009" ],
+  "lawSection" : "Banking Law",
+  "previousVersions" : [ "A3414-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Calhoun",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "McDonough",
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to licenses to carry firearms by non-resident individuals ",
+  "actClause" : "AN ACT to amend the banking law, in relation to the deposit of state issued checks ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT", "SOBI.D110120.T124859.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T125927.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295546367382
+  "luceneModified" : 1295546367369
 }
