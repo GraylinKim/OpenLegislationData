@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "STEWART-COUSINS",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to the typeface to be used on paper ballots ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101227.T154105.TXT", "SOBI.D101223.T120603.TXT", "SOBI.D110110.T134108.TXT", "SOBI.D110111.T144715.TXT", "SOBI.D101223.T124604.TXT", "SOBI.D110110.T141111.TXT", "SOBI.D101223.T125105.TXT", "SOBI.D101223.T123104.TXT", "SOBI.D101223.T121103.TXT", "SOBI.D101223.T122103.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101227.T154105.TXT", "SOBI.D101223.T120603.TXT", "SOBI.D110110.T134108.TXT", "SOBI.D110110.T141111.TXT", "SOBI.D101223.T124604.TXT", "SOBI.D110111.T144715.TXT", "SOBI.D110120.T102826.TXT", "SOBI.D101223.T125105.TXT", "SOBI.D101223.T122103.TXT", "SOBI.D101223.T121103.TXT", "SOBI.D101223.T123104.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294775235435
+  "luceneModified" : 1295537306697
 }
