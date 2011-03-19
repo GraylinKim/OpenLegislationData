@@ -1,0 +1,94 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S8454-2009",
+  "billEvents" : [ {
+    "eventDate" : 1280203200000,
+    "eventText" : "REFERRED TO RULES",
+    "billEventId" : "S8454-2009-1280203200000-REFERRED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1280808000000,
+    "eventText" : "ORDERED TO THIRD READING CAL.1437",
+    "billEventId" : "S8454-2009-1280808000000-ORDERED+TO+THIRD+READING+CAL.1437",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1280808001000,
+    "eventText" : "PASSED SENATE",
+    "billEventId" : "S8454-2009-1280808001000-PASSED+SENATE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1280808002000,
+    "eventText" : "DELIVERED TO ASSEMBLY",
+    "billEventId" : "S8454-2009-1280808002000-DELIVERED+TO+ASSEMBLY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1280894400000,
+    "eventText" : "referred to labor",
+    "billEventId" : "S8454-2009-1280894400000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093200000,
+    "eventText" : "substituted for a11672",
+    "billEventId" : "S8454-2009-1291093200000-substituted+for+a11672",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093201000,
+    "eventText" : "ordered to third reading rules cal.581",
+    "billEventId" : "S8454-2009-1291093201000-ordered+to+third+reading+rules+cal.581",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093202000,
+    "eventText" : "passed assembly",
+    "billEventId" : "S8454-2009-1291093202000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093203000,
+    "eventText" : "returned to senate",
+    "billEventId" : "S8454-2009-1291093203000-returned+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SCHNEIDERMAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to prevailing wages for service workers; repealer",
+  "summary" : null,
+  "currentCommittee" : "RULES",
+  "sameAs" : "a11672",
+  "lawSection" : "Labor Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101202.T144552.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291319152189
+}

@@ -1,0 +1,52 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "A11672-2009",
+  "billEvents" : [ {
+    "eventDate" : 1280462400000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A11672-2009-1280462400000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006800000,
+    "eventText" : "reported referred to rules",
+    "billEventId" : "A11672-2009-1291006800000-reported+referred+to+rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291093200000,
+    "eventText" : "substituted by s8454",
+    "billEventId" : "A11672-2009-1291093200000-substituted+by+s8454",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rules (Gianaris)",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to prevailing wages for service workers; repealer",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "s8454",
+  "lawSection" : "Labor Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101202.T144552.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291319152196
+}
