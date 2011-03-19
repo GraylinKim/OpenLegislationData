@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires all employers to provide paid sick leave to employees",
-  "summary" : null,
+  "summary" : "Requires all employers to provide paid sick leave to employees. ",
   "currentCommittee" : "LABOR",
   "sameAs" : null,
   "lawSection" : "Labor Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2666-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the labor law, in relation to enacting the \"paid sick leave act\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T153916.TXT", "SOBI.D110107.T160417.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T153916.TXT", "SOBI.D110107.T161417.TXT", "SOBI.D110107.T160417.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294434257347
+  "luceneModified" : 1294434857656
 }

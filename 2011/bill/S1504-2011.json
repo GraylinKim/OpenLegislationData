@@ -24,7 +24,14 @@
   "sameAs" : null,
   "lawSection" : "General Business Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ADDABBO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T160917.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T160917.TXT", "SOBI.D110107.T161417.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294434557551
+  "luceneModified" : 1294434857653
 }
