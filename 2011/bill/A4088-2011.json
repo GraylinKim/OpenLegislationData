@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4088-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A4088-2011-1296536400000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to requiring parking garages to install and operate pedestrian warning devices where vehicles exiting such garage cross a pedestrian sidewalk",
+  "summary" : "Relates to requiring commercial parking garages to install and operate pedestrian warning devices where vehicles exiting such garage cross a pedestrian sidewalk; requires both visual and audible warning signals. ",
+  "currentCommittee" : null,
+  "sameAs" : "S454",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A10968-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to pedestrian warning devices for parking garages ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T160909.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296594549758
+}

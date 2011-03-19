@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4087-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A4087-2011-1296536400000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires notice to the local housing agency when construction is halted on a project for which an application for a certain tax exemption has been made",
+  "summary" : "Requires notification to be given to the New York City Department of Housing Preservation in the event that construction on a project for which an application for a certain tax exemption has been made ceases for a period exceeding one hundred twenty days. ",
+  "currentCommittee" : null,
+  "sameAs" : "S41",
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "AA8125-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to requiring notification to be given to the local housing agency in the event that cessation of construction on a project for which an application for a certain tax exemption has been made equals or exceeds one hundred twenty days ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T160909.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296594549754
+}
