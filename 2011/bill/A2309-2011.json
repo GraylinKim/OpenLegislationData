@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates a small business electric energy tax credit",
-  "summary" : null,
+  "summary" : "Creates a small business electric energy tax credit; specifies that the amount of credit shall be equal to the product of $0.02 per kilowatt hour; sets limit of no more than 19 full-time employees in New York State; determines that if the business is located at the primary residence of a sole proprietor, the business is not eligible for the tax credit. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A902-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -102,7 +102,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to a small business electric energy tax credit ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T141642.TXT", "SOBI.D110118.T134639.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T143645.TXT", "SOBI.D110118.T141642.TXT", "SOBI.D110118.T134639.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295378202945
+  "luceneModified" : 1295379405607
 }

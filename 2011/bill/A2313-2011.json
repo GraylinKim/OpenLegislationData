@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires timely payments and interest in the event that payments are untimely to contractors",
-  "summary" : null,
+  "summary" : "Requires timely payments and interest in the event that payments are untimely to contractors. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A4326-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to requiring timely payments and interest owed to contractors ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T141642.TXT", "SOBI.D110118.T134639.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T143645.TXT", "SOBI.D110118.T141642.TXT", "SOBI.D110118.T134639.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295378202953
+  "luceneModified" : 1295379405616
 }

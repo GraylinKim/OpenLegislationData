@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides public and private employees right to review personnel file",
-  "summary" : null,
+  "summary" : "Provides public and private employees right to review personnel file. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Labor Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA4350-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the labor law and the civil service law, in relation to employees' right to review personnel records ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T141642.TXT", "SOBI.D110118.T134639.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T143645.TXT", "SOBI.D110118.T141642.TXT", "SOBI.D110118.T134639.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295378202955
+  "luceneModified" : 1295379405612
 }
