@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A2154-2011-1295931600000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Dinowitz (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +74,7 @@
   "actClause" : "AN ACT to amend the elder law, in relation to creating and distributing a drug guide for senior consumers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T120629.TXT", "SOBI.D110114.T132943.TXT", "SOBI.D110114.T124441.TXT", "SOBI.D110114.T120437.TXT", "SOBI.D110114.T162503.TXT", "SOBI.D110114.T123938.TXT", "SOBI.D110114.T121937.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T120629.TXT", "SOBI.D110125.T112908.TXT", "SOBI.D110114.T132943.TXT", "SOBI.D110114.T124441.TXT", "SOBI.D110114.T162503.TXT", "SOBI.D110114.T120437.TXT", "SOBI.D110114.T123938.TXT", "SOBI.D110114.T121937.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295370389600
+  "luceneModified" : 1295972948457
 }
