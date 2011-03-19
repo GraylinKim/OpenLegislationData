@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1247-2011",
+  "senateBillNo" : "S1250-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO LABOR",
-    "billEventId" : "S1247-2011-1294290000000-REFERRED+TO+LABOR",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S1250-2011-1294290000000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes sex offender employment act; prohibits sex offenders from working with children",
+  "title" : "Provides certain information regarding level one sex offenders to the offices of local village, town, city, county or state law enforcement agencies",
   "summary" : null,
-  "currentCommittee" : "LABOR",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Labor Law",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T114713.TXT", "SOBI.D110106.T114214.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T114713.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294332433634
+  "luceneModified" : 1294332433642
 }

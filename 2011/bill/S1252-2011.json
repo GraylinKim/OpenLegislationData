@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1247-2011",
+  "senateBillNo" : "S1252-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO LABOR",
-    "billEventId" : "S1247-2011-1294290000000-REFERRED+TO+LABOR",
+    "billEventId" : "S1252-2011-1294290000000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes sex offender employment act; prohibits sex offenders from working with children",
+  "title" : "Provides workers' comp benefits for family care",
   "summary" : null,
   "currentCommittee" : "LABOR",
   "sameAs" : null,
-  "lawSection" : "Labor Law",
+  "lawSection" : "Workers' Compensation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T114713.TXT", "SOBI.D110106.T114214.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T114713.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294332433634
+  "luceneModified" : 1294332433646
 }
