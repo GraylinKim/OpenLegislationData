@@ -30,7 +30,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296496800000S2339A-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296496800000,
+    "ayes" : [ "O'Mara", "Gallivan", "Ball", "Nozzolio", "Addabbo", "Dilan", "Carlucci" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Griffo" ],
+    "description" : "Elections",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -53,7 +66,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to authorizing village, special district, improvement district and library district elections to be conducted on mechanical lever voting machines or paper ballots; and to amend the town law, in relation to authorizing the use of mechanical lever voting machines or paper ballots at fire district elections; and providing for the repeal of such provisions upon expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T155719.TXT", "SOBI.D110125.T164944.TXT", "SOBI.D110125.T161942.TXT", "SOBI.D110126.T142803.TXT", "SOBI.D110125.T170450.TXT", "SOBI.D110131.T113700.TXT", "SOBI.D110125.T170010.TXT", "SOBI.D110126.T181321.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T155719.TXT", "SOBI.D110125.T164944.TXT", "SOBI.D110125.T161942.TXT", "SOBI.D110126.T142803.TXT", "SOBI.D110131.T113700.TXT", "SOBI.D110125.T170450.TXT", "SOBI.D110125.T170010.TXT", "SOBI.D110126.T181321.TXT", "SOBI.D110201.T112844.TXT-agenda-1.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1296507439046
+  "luceneModified" : 1296577724181
 }
