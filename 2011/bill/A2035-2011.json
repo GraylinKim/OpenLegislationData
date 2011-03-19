@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2035-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A2035-2011-1294894800000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilich",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the sale of gift baskets containing alcoholic beverages packaged with New York grown agricultural products",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Alcoholic Beverage Control Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294937912626
+}

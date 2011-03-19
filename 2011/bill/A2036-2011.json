@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2021-2011",
+  "senateBillNo" : "A2036-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "referred to environmental conservation",
-    "billEventId" : "A2021-2011-1294894800000-referred+to+environmental+conservation",
+    "eventText" : "referred to economic development",
+    "billEventId" : "A2036-2011-1294894800000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Reilich",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Reduces the required minimum age for obtaining a junior archery license",
+  "title" : "Authorizes the development and implementation of an online tracking system for loans and grants",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S177",
-  "lawSection" : "Environmental Conservation Law",
+  "sameAs" : null,
+  "lawSection" : "Economic Development Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Magee",
+    "fullname" : "Conte",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Sayward",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "McKevitt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Russell",
+    "fullname" : "Duprey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the environmental conservation law, in relation to reducing the required minimum age for obtaining a junior archery license ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT", "SOBI.D110113.T115318.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294937912649
+  "luceneModified" : 1294937912629
 }

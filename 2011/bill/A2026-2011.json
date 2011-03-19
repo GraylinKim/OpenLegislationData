@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2026-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A2026-2011-1294894800000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilich",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates and defines the new crime of aggressive driving as a class E felony; establishes minimum one year sentence when court imposes alternative definite sentence",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to the crime of aggressive driving ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294937912601
+}

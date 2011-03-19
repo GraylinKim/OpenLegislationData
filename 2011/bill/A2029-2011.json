@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2029-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A2029-2011-1294894800000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilich",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows an additional personal exemption for resident individuals of $650 for each dependent 65 years or older with income limitations",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294937912615
+}

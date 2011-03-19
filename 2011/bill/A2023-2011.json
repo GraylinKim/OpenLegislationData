@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2020-2011",
+  "senateBillNo" : "A2023-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A2020-2011-1294894800000-referred+to+codes",
+    "eventText" : "referred to health",
+    "billEventId" : "A2023-2011-1294894800000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,58 +18,79 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Exempts parties liable for failure to obey or enforce domestic violence orders of protection or temporary orders of protection from limited liability provisions",
+  "title" : "Requires any hospital that provides birthing services to provide written, educational material containing information about premature, newborn infants",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Glick",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Miller M",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Meng",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to exempting parties liable for failure to obey or enforce certain orders of protection or temporary orders of protection in domestic violence or domestic relations matters from the provisions of article sixteen of such law, entitled \"limited liability of persons jointly liable\" ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT", "SOBI.D110113.T115318.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294937912646
+  "luceneModified" : 1294937912592
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1822-2011",
+  "senateBillNo" : "A2032-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S1822-2011-1294894800000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A2032-2011-1294894800000-referred+to+consumer+affairs+and+protection",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,14 +13,14 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "Reilich",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to provisions concerning debt collection procedures",
+  "title" : "Relates to automobile manufacturers' warranty adjustment programs",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "General Business Law",
   "previousVersions" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law, in relation to debt collection procedures ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT", "SOBI.D110113.T113315.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294937912630
+  "luceneModified" : 1294937912621
 }
