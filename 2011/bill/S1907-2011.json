@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1904-2011",
+  "senateBillNo" : "S1907-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1904-2011-1294981200000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S1907-2011-1294981200000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalties for sexual performances by a child and provides for consecutive sentencing upon certain multiple convictions",
+  "title" : "Disqualifies candidates who fail to comply with financial disclosure filing requirements of the public officers law",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Election Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T094405.TXT", "SOBI.D110114.T094906.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T094906.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295016546710
+  "luceneModified" : 1295016546720
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1904-2011",
+  "senateBillNo" : "S1905-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1904-2011-1294981200000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S1905-2011-1294981200000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalties for sexual performances by a child and provides for consecutive sentencing upon certain multiple convictions",
+  "title" : "Allows a small claims proceeding where an aggrieved owner is not timely notified of the results of a properly filed grievance",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T094405.TXT", "SOBI.D110114.T094906.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T094906.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295016546710
+  "luceneModified" : 1295016546712
 }

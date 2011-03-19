@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1904-2011",
+  "senateBillNo" : "S1909-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1904-2011-1294981200000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1909-2011-1294981200000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalties for sexual performances by a child and provides for consecutive sentencing upon certain multiple convictions",
+  "title" : "Relates to farm and commercial wineries",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T094405.TXT", "SOBI.D110114.T094906.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T094906.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295016546710
+  "luceneModified" : 1295016546728
 }

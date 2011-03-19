@@ -1,17 +1,17 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S45-2011",
+  "senateBillNo" : "S46-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S45-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "billEventId" : "S46-2011-1294203600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
   }, {
     "eventDate" : 1294981200000,
     "eventText" : "TO ATTORNEY-GENERAL FOR OPINION",
-    "billEventId" : "S45-2011-1294981200000-TO+ATTORNEY-GENERAL+FOR+OPINION",
+    "billEventId" : "S46-2011-1294981200000-TO+ATTORNEY-GENERAL+FOR+OPINION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -25,10 +25,10 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for payment of bonuses to veterans of the Korean war",
+  "title" : "Requires no budget bill shall be passed unless it shall have been upon the desks of the members for at least ten days",
   "summary" : null,
   "currentCommittee" : "JUDICIARY",
-  "sameAs" : "A36",
+  "sameAs" : null,
   "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : null,
   "coSponsors" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T104412.TXT", "SOBI.D110114.T094906.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T094906.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295016546723
+  "luceneModified" : 1295016546727
 }
