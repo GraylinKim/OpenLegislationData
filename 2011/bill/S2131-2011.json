@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2125-2011",
+  "senateBillNo" : "S2131-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S2125-2011-1295326800000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S2131-2011-1295326800000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "SKELOS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits restaurants in certain cities from serving water except upon request",
+  "title" : "Authorizes Bay Park fire district to refund and pay a portion of the existing funds in its capital reserve account to the taxpayers of the district",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Nassau County",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T103616.TXT", "SOBI.D110118.T104117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T104117.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295365277039
+  "luceneModified" : 1295365277060
 }

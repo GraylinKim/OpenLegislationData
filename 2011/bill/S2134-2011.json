@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2125-2011",
+  "senateBillNo" : "S2134-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S2125-2011-1295326800000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S2134-2011-1295326800000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits restaurants in certain cities from serving water except upon request",
+  "title" : "Restricts termination of a tenant's residential utility service during cold weather periods",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T103616.TXT", "SOBI.D110118.T104117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T104117.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295365277039
+  "luceneModified" : 1295365277074
 }

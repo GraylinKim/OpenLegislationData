@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2125-2011",
+  "senateBillNo" : "S2129-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S2125-2011-1295326800000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S2129-2011-1295326800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits restaurants in certain cities from serving water except upon request",
+  "title" : "Excludes veterans' disability benefits from probable aggregate annual income",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Public Housing Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T103616.TXT", "SOBI.D110118.T104117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T104117.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295365277039
+  "luceneModified" : 1295365277051
 }
