@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1464-2011",
+  "senateBillNo" : "S1460-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1464-2011-1294376400000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S1460-2011-1294376400000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the crime of aggravated murder involving certain business owners",
+  "title" : "Provides that the maximum deductible allowed on policies for windstorms shall not be greater than $1,500",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Insurance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T141907.TXT", "SOBI.D110107.T141407.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T141907.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294427947589
+  "luceneModified" : 1294427947594
 }
