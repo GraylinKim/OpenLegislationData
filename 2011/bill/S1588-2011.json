@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1583-2011",
+  "senateBillNo" : "S1588-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
     "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1583-2011-1294635600000-REFERRED+TO+EDUCATION",
+    "billEventId" : "S1588-2011-1294635600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,27 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits contracts with out-of-state school districts in relation to aidable shared service",
+  "title" : "Relates to teachers' rights",
   "summary" : null,
   "currentCommittee" : "EDUCATION",
   "sameAs" : null,
   "lawSection" : "Education Law",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "DIAZ",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "KLEIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -46,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T141111.TXT", "SOBI.D110110.T141611.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T141611.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294686971054
+  "luceneModified" : 1294686971072
 }

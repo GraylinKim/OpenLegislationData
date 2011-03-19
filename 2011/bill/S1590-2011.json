@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1583-2011",
+  "senateBillNo" : "S1590-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1583-2011-1294635600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S1590-2011-1294635600000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits contracts with out-of-state school districts in relation to aidable shared service",
+  "title" : "Authorizes establishment of school district and board of cooperative educational services reserve funds for contributions to the state teachers' retirement system",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "General Municipal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,7 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T141111.TXT", "SOBI.D110110.T141611.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T141611.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294686971054
+  "luceneModified" : 1294686971076
 }
