@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4077-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A4077-2011-1296536400000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brennan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the \"minimum standards for subsidized jobs act\"",
+  "summary" : "Establishes the \"minimum standards for subsidized jobs act\"; defines terms; restricts persons, associations, corporations or other entities from being eligible to receive any economic development subsidies unless such entities pay all of their employees a minimum wage that is at least one dollar per hour higher than the state's minimum wage; provides health insurance benefits for which the employer pays a minimum of eighty percent of the monthly premium; employs twenty percent of its workers who will participate in the state worker training program, and have not been adjudicated to be in violation of any federal, state or local laws for at least the previous five years. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Labor Law",
+  "previousVersions" : [ "A10733-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the labor law, in relation to establishing the \"minimum standards for subsidized jobs act\" ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T160409.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296594249575
+}

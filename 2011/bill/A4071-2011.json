@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4071-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A4071-2011-1296536400000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for mandatory imprisonment and plea restrictions for offenses victimizing the elderly and physically disabled",
+  "summary" : "Defines the felonies of victimizing the elderly or physically disabled in the 3rd degree, 2nd degree and 1st degree and provides that a sentence of imprisonment must be imposed upon conviction of certain offenses against the elderly or physically disabled; provides that a juvenile offender shall include a person 14 or 15 years old who is criminally responsible for victimizing the elderly or physically disabled; includes within the category, \"eligible youth\" for youthful offender treatment, one who has been convicted of victimizing the elderly or the physically disabled in the 1st degree; provides certain plea restrictions and sentencing structure for persons convicted of such crimes. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A3971-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law and the criminal procedure law, in relation to mandatory imprisonment and plea restrictions for offenses victimizing the elderly and physically disabled ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T160409.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296594249554
+}
