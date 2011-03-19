@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2267-2011",
+  "senateBillNo" : "S2269-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S2267-2011-1295326800000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S2269-2011-1295326800000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Allows health club joiners to terminate within 14 days and members to cancel automatic renewal within 60 days of the date thereof",
+  "title" : "Establishes public policy that no antenuptial agreement shall become binding for 30 days during which period either party thereto may withdraw upon notice to other",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "General Obligations Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T141142.TXT", "SOBI.D110118.T140653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T141142.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295377902751
+  "luceneModified" : 1295377902761
 }

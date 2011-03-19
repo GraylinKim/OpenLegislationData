@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2267-2011",
+  "senateBillNo" : "S2268-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S2267-2011-1295326800000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S2268-2011-1295326800000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Allows health club joiners to terminate within 14 days and members to cancel automatic renewal within 60 days of the date thereof",
+  "title" : "Prohibits certain makers of graffiti from obtaining a driver's license until such person reaches eighteen years of age",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T141142.TXT", "SOBI.D110118.T140653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T141142.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295377902751
+  "luceneModified" : 1295377902758
 }
