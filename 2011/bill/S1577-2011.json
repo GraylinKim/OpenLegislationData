@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1570-2011",
+  "senateBillNo" : "S1577-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1570-2011-1294635600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1577-2011-1294635600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,9 +18,9 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"Place a Child in Every School Seat Act of 2011\" for the purposes of awareness of and incentives to improve school attendance",
+  "title" : "Relates to requiring instruction on organ donor awareness in all senior high schools as part of the health education curriculum",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Education Law",
   "previousVersions" : null,
@@ -28,6 +28,13 @@
     "id" : null,
     "position" : null,
     "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T133607.TXT", "SOBI.D110110.T133106.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T133607.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294684567017
+  "luceneModified" : 1294684567080
 }

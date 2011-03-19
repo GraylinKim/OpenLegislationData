@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1450-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A1450-2011-1294635600000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that the ballots of deceased military personnel shall be counted toward the election for which they were cast",
+  "summary" : "Provides that the ballots of deceased military personnel shall be counted toward the election for which they were cast. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Military Law",
+  "previousVersions" : [ "A8077-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the military law and the election law, in relation to the counting of ballots of deceased military personnel ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T133607.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294684567028
+}

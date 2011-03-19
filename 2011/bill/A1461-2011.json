@@ -1,0 +1,73 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1461-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1461-2011-1294635600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Permits tenants heat repair expense to be set off against rent",
+  "summary" : "Allows tenants the right to offset rent with payments made for the repair or service maintenance of an oil fired or other heating device where reasonable efforts were made to notify the landlord of the heating failure, the agency used is reasonably engaged in the business of making such repairs and an itemized bill for such service is provided. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Multiple Dwelling Law",
+  "previousVersions" : [ "A4510-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez V",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brook-Krasny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Boyland",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the multiple dwelling law, the multiple residence law and the real property law, in relation to tenant's right to set off against rent for payments made due to landlord's failure to supply heat in certain cases ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T133607.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294684567082
+}

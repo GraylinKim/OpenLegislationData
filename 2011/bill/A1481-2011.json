@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1481-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to mental health",
+    "billEventId" : "A1481-2011-1294635600000-referred+to+mental+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires a specific recommendation by a certified psychologist or a certified nurse practitioner of the type of residence in which a patient is to live upon release",
+  "summary" : "Requires a specific recommendation by a certified psychologist or a certified nurse practitioner of the type of residence in which a patient is to live upon release into the community. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1277",
+  "lawSection" : "Mental Hygiene Law",
+  "previousVersions" : [ "A11084-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the mental hygiene law, in relation to the discharge and release of patients into the community ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T133607.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294684567052
+}
