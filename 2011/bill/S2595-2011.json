@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2593-2011",
+  "senateBillNo" : "S2595-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "REFERRED TO MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
-    "billEventId" : "S2593-2011-1296018000000-REFERRED+TO+MENTAL+HEALTH+AND+DEVELOPMENTAL+DISABILITIES",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S2595-2011-1296018000000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for disclosure of sexual offender information related to a patient or client",
+  "title" : "Sets forth procedures to be followed in the event a sex offender fails to mail a signed verification within twenty calendar days of mailing by DCJS",
   "summary" : null,
-  "currentCommittee" : "MENTAL HEALTH AND DEVELOPMENTAL DISABILITIES",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Mental Hygiene Law",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T115311.TXT", "SOBI.D110126.T115751.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T115751.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296061071524
+  "luceneModified" : 1296061071528
 }
