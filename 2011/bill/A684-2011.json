@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for annual chlamydia screenings",
-  "summary" : null,
+  "summary" : "Provides for annual chlamydia screenings. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A2227-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to coverage of annual chlamydia screenings ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T113902.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T114901.TXT", "SOBI.D110103.T113902.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072742309
+  "luceneModified" : 1294073341526
 }

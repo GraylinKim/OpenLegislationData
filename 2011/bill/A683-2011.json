@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to prohibiting retained asset accounts",
-  "summary" : null,
+  "summary" : "Prohibits insurers from using retained asset accounts to hold proceeds from death benefits. ",
   "currentCommittee" : null,
   "sameAs" : "S504",
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S8469-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to prohibiting retained-asset accounts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T113902.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T114901.TXT", "SOBI.D110103.T113902.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072742306
+  "luceneModified" : 1294073341522
 }

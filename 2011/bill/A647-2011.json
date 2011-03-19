@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to pharmaceutical reimbursement under the EPIC program and Medicaid for certain small pharmacies",
-  "summary" : null,
+  "summary" : "Relates to pharmaceutical reimbursement under the EPIC program and Medicaid for pharmacies that it is determined dispense on average under two hundred scripts a day. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Elder Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A8858-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -95,7 +95,7 @@
   "actClause" : "AN ACT to amend the elder law and the social services law, in relation to pharmaceutical reimbursement under the EPIC program and Medicaid for certain pharmacies ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T114901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541969
+  "luceneModified" : 1294073341532
 }

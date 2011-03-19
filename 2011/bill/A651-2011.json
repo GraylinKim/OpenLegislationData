@@ -23,7 +23,7 @@
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Environmental Conservation",
-  "previousVersions" : null,
+  "previousVersions" : [ "A8118-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT in relation to creating the farmland preservation advisory board; and providing for the repeal of such provisions upon the expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T114901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541975
+  "luceneModified" : 1294073341517
 }
