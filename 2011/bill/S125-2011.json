@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S124-2011",
+  "senateBillNo" : "S125-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S124-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S125-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases allowable maximum income of persons occupying rental units otherwise eligible for tax abatement in certain cases",
+  "title" : "Relates to the use of environmentally-sensitive cleaning and maintenance products in nursing homes and adult homes",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101208.T123558.TXT", "SOBI.D101208.T124058.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101208.T124058.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291830058478
+  "luceneModified" : 1291830058485
 }
