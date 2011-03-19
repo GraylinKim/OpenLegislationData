@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Phases out the franchise tax on business corporations which are manufacturers over a two-year period",
-  "summary" : null,
+  "summary" : "Phases out the franchise tax on business corporations that are manufacturers over a two-year period; defines terms \"manufacturer\" and \"principally engaged\". ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA2813-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to phasing out the franchise tax on business corporations that are manufacturers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T123413.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T124413.TXT", "SOBI.D110125.T123413.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295976853805
+  "luceneModified" : 1295977453113
 }
