@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3348-2011",
+  "senateBillNo" : "A3371-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
     "eventText" : "referred to governmental operations",
-    "billEventId" : "A3348-2011-1295931600000-referred+to+governmental+operations",
+    "billEventId" : "A3371-2011-1295931600000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Calhoun",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the residency requirements for certain officers in the village of Cornwall-on-Hudson",
+  "title" : "Removes constitutional provision that the lieutenant-governor shall act as governor when the governor is absent from the state",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public officers law and the village law, in relation to the residency requirements for certain officers in the village of Cornwall-on-Hudson ",
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 4 of the constitution, relating to the lieutenant-governor acting as governor ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T102403.TXT", "SOBI.D110125.T105904.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T105904.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295971144417
+  "luceneModified" : 1295971144379
 }

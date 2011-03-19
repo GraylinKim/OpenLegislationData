@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3358-2011",
+  "senateBillNo" : "A3370-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A3358-2011-1295931600000-referred+to+codes",
+    "eventText" : "referred to economic development",
+    "billEventId" : "A3370-2011-1295931600000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the unlawful sale of tobacco products to and the unlawful purchase of tobacco products by children under the age of eighteen",
+  "title" : "Relates to the powers of the chairman and the members of the authority; repealer",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Alcoholic Beverage Control Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Maisel",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Robinson",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to the unlawful sale to a child and unlawful purchase of tobacco products by a child ",
+  "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to the powers of the chairman and the members of the authority; and to repeal certain provisions of such law relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T102902.TXT", "SOBI.D110125.T105904.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T105904.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295971144394
+  "luceneModified" : 1295971144374
 }
