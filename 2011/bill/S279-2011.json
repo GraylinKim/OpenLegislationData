@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the packaging on prescribed drugs to include a label which lists the country of origin of the prescribed drug",
-  "summary" : null,
+  "summary" : "Requires the packaging on prescribed drugs to include a label which lists the country of origin of the prescribed drug. ",
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3213-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the public health law and the education law, in relation to required labeling on prescription drugs ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T115306.TXT", "SOBI.D101213.T124810.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T132318.TXT", "SOBI.D101213.T115306.TXT", "SOBI.D101213.T124810.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292262490329
+  "luceneModified" : 1292264598543
 }
