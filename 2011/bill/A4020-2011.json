@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4020-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A4020-2011-1296536400000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits any person from interfering with any official traffic control device or railroad sign or signal",
+  "summary" : "Prohibits any person from attempting to or to in fact alter, deface, injure, knock down, cover, remove or otherwise interfere with any traffic control device or railroad sign or signal; provides an affirmative defense therefor that operator can show he or she was not aware of the device. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2754",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A7508-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to prohibiting the use of any device which affects the operation of a traffic-control signal ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T135359.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296586439955
+}

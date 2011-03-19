@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LANZA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the penal law and the criminal procedure law, in relation to sentence for persistent misdemeanor offenders ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T143833.TXT", "SOBI.D101228.T115322.TXT", "SOBI.D101228.T114322.TXT", "SOBI.D101228.T112320.TXT", "SOBI.D101228.T112820.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T143833.TXT", "SOBI.D101228.T115322.TXT", "SOBI.D110201.T135359.TXT", "SOBI.D101228.T112320.TXT", "SOBI.D101228.T114322.TXT", "SOBI.D101228.T112820.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293565113155
+  "luceneModified" : 1296586439958
 }
