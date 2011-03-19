@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to plea bargains in felony sex offenses ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T113306.TXT", "SOBI.D101213.T102802.TXT", "SOBI.D101214.T141642.TXT", "SOBI.D101213.T111304.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T113306.TXT", "SOBI.D101213.T102802.TXT", "SOBI.D101213.T111304.TXT", "SOBI.D101214.T141642.TXT", "SOBI.D101216.T122920.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292354202399
+  "luceneModified" : 1292520560135
 }
