@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1113-2011",
+  "senateBillNo" : "S1115-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S1113-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S1115-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to facilities of refuge",
+  "title" : "Creates a permanent environmental justice advisory group",
   "summary" : null,
-  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
-  "lawSection" : "Energy Law",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T112622.TXT", "SOBI.D110105.T113122.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T113122.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294245082296
+  "luceneModified" : 1294245082308
 }
