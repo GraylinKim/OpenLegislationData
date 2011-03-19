@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1348-2011",
+  "senateBillNo" : "S1360-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1348-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S1360-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the distribution of certain mandatory surcharges imposed for alcohol-related traffic convictions",
-  "summary" : "Relates to the distribution of certain mandatory surcharges imposed for alcohol-related traffic convictions. ",
+  "title" : "Defines offenses of trespasses on and damage to railroad property",
+  "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "S7951-2009" ],
+  "lawSection" : "Railroad Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -38,13 +38,6 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "PARKER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -53,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT", "SOBI.D110106.T161735.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T161735.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348655204
+  "luceneModified" : 1294348655220
 }

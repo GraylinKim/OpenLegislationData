@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to driving while using a portable electronic device",
-  "summary" : null,
+  "summary" : "Relates to driving while using a portable electronic device; removes the requirement that there be reasonable cause a person using the device has committed a violation to issue a summons. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6992-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT", "SOBI.D110106.T161735.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348086007
+  "luceneModified" : 1294348655197
 }

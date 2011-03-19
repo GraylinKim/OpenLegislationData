@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes distinctive license plates to be issued to Hispanic and African-American veterans",
-  "summary" : null,
+  "summary" : "Authorizes distinctive license plates to be issued to Hispanic and African-American veterans. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4379-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T161233.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T161735.TXT", "SOBI.D110106.T161233.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348353109
+  "luceneModified" : 1294348655211
 }

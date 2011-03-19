@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1348-2011",
+  "senateBillNo" : "S1359-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1348-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1359-2011-1294290000000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the distribution of certain mandatory surcharges imposed for alcohol-related traffic convictions",
-  "summary" : "Relates to the distribution of certain mandatory surcharges imposed for alcohol-related traffic convictions. ",
-  "currentCommittee" : "TRANSPORTATION",
+  "title" : "Directs the commissioner of health to report on the very high incidence of asthma in the state",
+  "summary" : null,
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "S7951-2009" ],
+  "lawSection" : "Health",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -41,7 +41,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "KLEIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT", "SOBI.D110106.T161735.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T161735.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348655204
+  "luceneModified" : 1294348655215
 }

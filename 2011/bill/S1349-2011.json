@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to coterminous consumer electronics warranties",
-  "summary" : null,
+  "summary" : "Relates to coterminous consumer electronics warranties; ensures that consumer electronics warranties are meaningful to the extent that the duration of coverage on all parts are coterminous and warrantors must prove negligence on the part of the consumer before denying coverage. ",
   "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1081-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT", "SOBI.D110106.T161735.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348086002
+  "luceneModified" : 1294348655218
 }

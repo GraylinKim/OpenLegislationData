@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1352-2011",
+  "senateBillNo" : "S1357-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1352-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S1357-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to signs on school buses",
-  "summary" : "Relates to signs on school buses; authorizes the commissioner of motor vehicles to promulgate any necessary rules and regulations. ",
+  "title" : "Defines the term electric assisted bicycle",
+  "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "S8213-2009" ],
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "DIAZ",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "previousVersions" : null,
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -39,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT", "SOBI.D110106.T161735.TXT", "SOBI.D110106.T161233.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T161735.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348655209
+  "luceneModified" : 1294348655212
 }
