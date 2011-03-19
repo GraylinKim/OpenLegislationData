@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2650-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to correction",
+    "billEventId" : "A2650-2011-1295413200000-referred+to+correction",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to providing necessary medication to persons committed to the custody of the department of correctional services",
+  "summary" : "Relates to providing necessary medication to persons committed to the custody of the departments; authorizes and directs the commissioner to establish a system to ensure that all necessary medications, are given to incarcerated persons in a timely manner while in the custody of the department. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Correction Law",
+  "previousVersions" : [ "A8860-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the correction law, in relation to providing necessary medicine to persons committed to the custody of the department of correctional services ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T154823.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295470103326
+}

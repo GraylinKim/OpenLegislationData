@@ -1,0 +1,94 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2647-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2647-2011-1295413200000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates a state commission to investigate patterns and practices of unlawful or inappropriate conduct on the part of members of the New York state police",
+  "summary" : "Creates a state commission to investigate patterns and practices of unlawful or inappropriate conduct on the part of member of the New York State police; commission shall consist of 9 members including 5 former judges and 4 members appointed by legislative leaders. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Commissions",
+  "previousVersions" : [ "A10199-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Camara",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McDonough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera N",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lifton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT creating a state commission to investigate patterns and practices of unlawful or inappropriate conduct on the part of members of the New York state police; and providing for the repeal of such provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T154823.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295470103316
+}

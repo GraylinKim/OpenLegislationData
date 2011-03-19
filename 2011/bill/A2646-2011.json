@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2646-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2646-2011-1295413200000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the registration of oversize and overweight vehicles",
+  "summary" : "Relates to the registration of oversize and overweight vehicles. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A8567-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to registration of oversize and overweight vehicles ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T154823.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295470103312
+}
