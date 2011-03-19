@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2410-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S2410-2011-1295499600000-REFERRED+TO+HIGHER+EDUCATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LAVALLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Increases the membership of the board of trustees of the state university of New York from seventeen to eighteen members",
+  "summary" : null,
+  "currentCommittee" : "HIGHER EDUCATION",
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T104833.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295538513125
+}
