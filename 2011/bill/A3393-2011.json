@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3393-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A3393-2011-1295931600000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants a tax deferment for persons sixty-five years of age or older who own and occupy real property in N.Y. city",
+  "summary" : "Grants a tax deferment for persons sixty-five years or over who own and occupy real property in a city having a population of one million or more persons. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A5323-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to granting a tax deferment for persons sixty-five years of age or older who reside in a city having a population of one million or more persons ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T123413.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295976853762
+}

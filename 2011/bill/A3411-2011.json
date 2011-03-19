@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3411-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A3411-2011-1295931600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants the state liquor authority general rule making privileges for the purpose of effectuating the alcoholic beverage control law",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Alcoholic Beverage Control Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Bing",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to the authority of the state liquor authority to promulgate rules and regulations; and providing for the repeal of such provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T123413.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295976853797
+}

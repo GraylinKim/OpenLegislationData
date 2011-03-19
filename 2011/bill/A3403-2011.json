@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3403-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3403-2011-1295931600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the county of Westchester to issue serial bonds to finance certain payments over a period of five years",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S2374",
+  "lawSection" : "Westchester County",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to authorize the county of Westchester to issue serial bonds to finance certain payments over a period of five years ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T123413.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295976853780
+}

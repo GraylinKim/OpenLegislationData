@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to recycling rechargeable batteries",
-  "summary" : null,
+  "summary" : "Relates to recycling rechargeable batteries. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A11483-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to recycling rechargeable batteries ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T122912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T122912.TXT", "SOBI.D110125.T123413.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295976552614
+  "luceneModified" : 1295976853775
 }

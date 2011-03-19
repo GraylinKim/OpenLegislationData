@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3395-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A3395-2011-1295931600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires health insurance coverage for lymphedema",
+  "summary" : "Requires health insurance policies and contracts shall provide coverage for the diagnosis and treatment of lymphedema; and requires such coverage shall include benefits for equipment, supplies, devices, complex decongestive therapy and out-patient self management training and education for the treatment of lymphedema. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A5324-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to requiring certain health insurance coverage for lymphedema ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T123413.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295976853765
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3396-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A3396-2011-1295931600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Limits tax on refinanced mortgages to the difference between the indebtedness secured by the new mortgage and the remaining indebtedness secured on the former mortgage",
+  "summary" : "Limits the tax imposed on refinanced mortgages to the difference between the total indebtedness secured by the new mortgage and the remaining indebtedness, which had been secured on the former mortgage. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A5389-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to limiting the tax imposed on refinanced mortgages to the difference between the total indebtedness secured by the new mortgage and the remaining indebtedness secured by the former mortgage ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T123413.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295976853766
+}
