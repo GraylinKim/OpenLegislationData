@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1661-2011",
+  "senateBillNo" : "S1662-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1661-2011-1294722000000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
+    "billEventId" : "S1662-2011-1294722000000-REFERRED+TO+CULTURAL+AFFAIRS%2C+TOURISM%2C+PARKS+AND+RECREATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibiting retirement agreements between teachers accused of misconduct and school districts",
+  "title" : "Dedicates community gardens in the state of New York as parkland",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Parks",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T103650.TXT", "SOBI.D110111.T104151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T104151.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294760511982
+  "luceneModified" : 1294760511987
 }

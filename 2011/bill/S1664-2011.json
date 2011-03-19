@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1661-2011",
+  "senateBillNo" : "S1664-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1661-2011-1294722000000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1664-2011-1294722000000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibiting retirement agreements between teachers accused of misconduct and school districts",
+  "title" : "Provides that the division of criminal justice services provide statistics as to witnesses in court proceedings that have been threatened, attacked or killed",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T103650.TXT", "SOBI.D110111.T104151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T104151.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294760511982
+  "luceneModified" : 1294760511994
 }

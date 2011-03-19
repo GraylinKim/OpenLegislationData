@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1661-2011",
+  "senateBillNo" : "S1665-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1661-2011-1294722000000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S1665-2011-1294722000000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibiting retirement agreements between teachers accused of misconduct and school districts",
+  "title" : "Provides tax abatement related to the removal of lead paint",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T103650.TXT", "SOBI.D110111.T104151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T104151.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294760511982
+  "luceneModified" : 1294760511997
 }

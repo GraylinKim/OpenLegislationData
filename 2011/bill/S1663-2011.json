@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1661-2011",
+  "senateBillNo" : "S1663-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1661-2011-1294722000000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1663-2011-1294722000000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibiting retirement agreements between teachers accused of misconduct and school districts",
+  "title" : "Provides for a tax credit for providing shelter to a homeless person 62 years of age or older",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T103650.TXT", "SOBI.D110111.T104151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T104151.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294760511982
+  "luceneModified" : 1294760511991
 }
