@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "GRIFFO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
@@ -81,7 +88,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to increasing maximum income eligibility levels for real property tax exemptions for seniors ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T114910.TXT", "SOBI.D110118.T122630.TXT", "SOBI.D110118.T115128.TXT", "SOBI.D110124.T222157.TXT", "SOBI.D110118.T153151.TXT", "SOBI.D110118.T123631.TXT", "SOBI.D110119.T104251.TXT", "SOBI.D110127.T114403.TXT", "SOBI.D110118.T115628.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T114910.TXT", "SOBI.D110118.T122630.TXT", "SOBI.D110131.T104653.TXT", "SOBI.D110118.T115128.TXT", "SOBI.D110124.T222157.TXT", "SOBI.D110118.T153151.TXT", "SOBI.D110119.T104251.TXT", "SOBI.D110118.T123631.TXT", "SOBI.D110118.T115628.TXT", "SOBI.D110127.T114403.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296146643923
+  "luceneModified" : 1296488813830
 }
