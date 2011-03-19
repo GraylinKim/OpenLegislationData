@@ -37,7 +37,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296450000000S2707-2011-42-20",
+    "voteType" : 1,
+    "voteDate" : 1296450000000,
+    "ayes" : [ "Adams", "Addabbo", "Alesi", "Ball", "Bonacic", "Breslin", "Carlucci", "DeFrancisco", "Farley", "Flanagan", "Fuschillo", "Gallivan", "Golden", "Griffo", "Grisanti", "Hannon", "Huntley", "Johnson", "Kennedy", "Klein", "Lanza", "Larkin", "LaValle", "Libous", "Little", "Marcellino", "Martins", "Maziarz", "McDonald", "Nozzolio", "O'Mara", "Oppenheimer", "Ranzenhofer", "Ritchie", "Robach", "Saland", "Savino", "Seward", "Skelos", "Valesky", "Young", "Zeldin" ],
+    "nays" : [ "Avella", "Diaz", "Dilan", "Duane", "Espaillat", "Gianaris", "Hassell-Thompson", "Krueger", "Kruger", "Montgomery", "Parker", "Peralta", "Perkins", "Rivera", "Sampson", "Serrano", "Smith", "Squadron", "Stavisky", "Stewart-Cousins" ],
+    "abstains" : [ ],
+    "excused" : [ ],
+    "ayeswr" : null,
+    "description" : null,
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -284,7 +297,7 @@
   "actClause" : "AN ACT to amend the general municipal law and the education law, in relation to requiring the state to fund certain programs mandated for municipal corporations and school districts; and to amend the education law, in relation to the effect of mandates on school districts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T163722.TXT", "SOBI.D110131.T181728.TXT", "SOBI.D110131.T095649.TXT", "SOBI.D110131.T115201.TXT", "SOBI.D110131.T174726.TXT", "SOBI.D110131.T175227.TXT", "SOBI.D110128.T234341.TXT", "SOBI.D110131.T180227.TXT", "SOBI.D110131.T155719.TXT", "SOBI.D110131.T165223.TXT", "SOBI.D110129.T003343.TXT", "SOBI.D110131.T180727.TXT", "SOBI.D110131.T094648.TXT", "SOBI.D110131.T164222.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T163722.TXT", "SOBI.D110131.T181728.TXT", "SOBI.D110131.T095649.TXT", "SOBI.D110131.T115201.TXT", "SOBI.D110131.T182229.TXT", "SOBI.D110131.T174726.TXT", "SOBI.D110131.T175227.TXT", "SOBI.D110128.T234341.TXT", "SOBI.D110131.T180227.TXT", "SOBI.D110131.T155719.TXT", "SOBI.D110131.T165223.TXT", "SOBI.D110129.T003343.TXT", "SOBI.D110131.T180727.TXT", "SOBI.D110131.T094648.TXT", "SOBI.D110131.T164222.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296515848290
+  "luceneModified" : 1296516149487
 }
