@@ -3,8 +3,8 @@
   "senateBillNo" : "S1239-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S1239-2011-1294290000000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S1239-2011-1294290000000-REFERRED+TO+AGRICULTURE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -20,7 +20,7 @@
   },
   "title" : "Provides that no dog shall be restrained by a tethering device attached to a fixed point or to a running cable trolley system for more than six hours per day",
   "summary" : "Provides that no dog shall be restrained by a tethering device attached to a fixed point or to a running cable trolley system for more than six hours per day. ",
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "AGRICULTURE",
   "sameAs" : null,
   "lawSection" : "Agriculture and Markets Law",
   "previousVersions" : [ "S7147-2009" ],
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the agriculture and markets law, in relation to the tethering of dogs ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T124717.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110106.T113706.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T124717.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110110.T143614.TXT", "SOBI.D110106.T113706.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294336037194
+  "luceneModified" : 1294688174768
 }

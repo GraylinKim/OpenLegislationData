@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1521-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1521-2011-1294635600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires department of motor vehicles to provide police officers with information on level 3 sex offenders based on license or registration inquiry",
+  "summary" : "Directs the commissioner of criminal justice services to provide the department of motor vehicles with information on level sex offenders; requires the department of motor vehicles to maintain and update such information and provide the information to a police officer or peace officer upon inquiry related to a driver's license or non-driver identification card. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A10532-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law and the correction law, in relation to requiring the department of motor vehicles to provide certain information on level three sex offenders to police officers and peace officers making an inquiry relating to a driver's license, non-driver identification card or motor vehicle registration ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T143614.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294688174767
+}

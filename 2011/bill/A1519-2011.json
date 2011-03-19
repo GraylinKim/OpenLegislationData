@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1519-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A1519-2011-1294635600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits certain public officers from also serving as a delegate to a constitutional convention and authorizes limited conventions",
+  "summary" : "Prohibits certain public officers (governor, lieutenant governor, comptroller, legislator, congress, judge) from also serving as a delegate to a constitutional convention and authorizes limited conventions to consider amendments involving the limited topics herein contained (Art. 3, legislature; Art. 4, governor; Art. 7, state finances). ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "previousVersions" : [ "A10827-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 19 of the constitution, in relation to a constitutional convention ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T143614.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294688174762
+}
