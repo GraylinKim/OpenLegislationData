@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1383-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A1383-2011-1294203600000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows livestock owners to directly purchase killed rabies vaccine for the purpose of vaccinating livestock owned by such livestock owner",
+  "summary" : "Allows livestock owners to purchase and possess rabies vaccine and to vaccinate their livestock against rabies during emergency rabies outbreak situations as determined by the commissioner of health; provides for the expiration and repeal of such provisions after two years; defines livestock for the purpose of this section. ",
+  "currentCommittee" : null,
+  "sameAs" : "S782",
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A2165-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to the administration of rabies vaccine to livestock and providing for the repeal of such provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294429750535
+}

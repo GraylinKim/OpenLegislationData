@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1463-2011",
+  "senateBillNo" : "A1366-2011",
   "billEvents" : [ {
-    "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S1463-2011-1294376400000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1366-2011-1294203600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,98 +13,84 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Jeffries",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the award of scholarships and loan forgiveness for nurses on the same terms as physicians",
-  "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
-  "sameAs" : "A1416",
-  "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "title" : "Establishes a re-entry employment incentive tax credit",
+  "summary" : "Establishes a re-entry employment incentive tax credit for employers who hire individuals who have been released from correctional facilities in this state for full-time employment at a rate that is 140% of the state minimum wage. ",
+  "currentCommittee" : null,
+  "sameAs" : "S310",
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "AA330-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADAMS",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Aubry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Camara",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SMITH",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -113,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to regents professional education scholarships, health care professional opportunity scholarships and loan forgiveness for nurses ",
+  "actClause" : "AN ACT to amend the tax law, in relation to providing a re-entry employment incentive tax credit; and providing for the repeal of such provisions upon expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT", "SOBI.D110107.T141407.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294429750522
+  "luceneModified" : 1294429750528
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1463-2011",
+  "senateBillNo" : "A1368-2011",
   "billEvents" : [ {
-    "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S1463-2011-1294376400000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A1368-2011-1294203600000-referred+to+labor",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,98 +13,105 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Jeffries",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the award of scholarships and loan forgiveness for nurses on the same terms as physicians",
-  "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
-  "sameAs" : "A1416",
-  "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "title" : "Provides mandatory leave of absence for employees in private business who are organ or bone marrow donors and insurance reimbursement to employers for wages",
+  "summary" : "Provides mandatory leave of absence for employees in private business who are organ or bone marrow donors and insurance reimbursement to employers for wages or salary paid on such leave of absence; defines terms; authorizes a thirty day unpaid leave of absence to allow such employee to serve as an organ donor or bone marrow donor. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Labor Law",
+  "previousVersions" : [ "A214-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADAMS",
+    "fullname" : "Lavine",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SMITH",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -113,10 +120,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to regents professional education scholarships, health care professional opportunity scholarships and loan forgiveness for nurses ",
+  "actClause" : "AN ACT to amend the labor law and the insurance law, in relation to a leave of absence for employees during testing for, donation of and recovery from organ donation and providing insurance coverage to employers who give a paid leave of absence ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT", "SOBI.D110107.T141407.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294429750522
+  "luceneModified" : 1294429750542
 }

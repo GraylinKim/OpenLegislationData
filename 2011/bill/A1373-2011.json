@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1373-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1373-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates new law on recording interrogations",
+  "summary" : "Provides that, as a general rule, any statement made during a custodial interrogation is inadmissible unless such interrogation was electronically recorded; provides exceptions as to when a statement will be admissible even if the custodial interrogation was not recorded. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1400",
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : [ "AA5213-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the criminal procedure law, in relation to the electronic recording of interrogations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294429750574
+}

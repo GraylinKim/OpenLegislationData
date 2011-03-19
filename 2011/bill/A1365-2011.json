@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1463-2011",
+  "senateBillNo" : "A1365-2011",
   "billEvents" : [ {
-    "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S1463-2011-1294376400000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to banks",
+    "billEventId" : "A1365-2011-1294203600000-referred+to+banks",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,98 +13,91 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Jeffries",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the award of scholarships and loan forgiveness for nurses on the same terms as physicians",
-  "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
-  "sameAs" : "A1416",
-  "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "title" : "Requires mortgage lenders and brokers to provide consumer with mortgage bill of rights pamphlet which must be signed by the consumer prior to mortgage application",
+  "summary" : "Requires mortgage lenders and brokers to provide consumers with a mortgage bill of rights pamphlet which must be read and signed by the consumer prior to applying for a mortgage. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Banking Law",
+  "previousVersions" : [ "A10502-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADAMS",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Weisenberg",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Kellner",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SMITH",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Markey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -113,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to regents professional education scholarships, health care professional opportunity scholarships and loan forgiveness for nurses ",
+  "actClause" : "AN ACT to amend the banking law, in relation to directing licensed mortgage bankers and authorized mortgage loan originators to provide mortgage applicants with a mortgage bill of rights pamphlet on residential mortgages ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT", "SOBI.D110107.T141407.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294429750522
+  "luceneModified" : 1294429750519
 }

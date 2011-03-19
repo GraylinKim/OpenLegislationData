@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1468-2011",
+  "senateBillNo" : "S1470-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
     "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S1468-2011-1294376400000-REFERRED+TO+CONSUMER+PROTECTION",
+    "billEventId" : "S1470-2011-1294376400000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires credit reporting agencies to furnish proof of identity theft to creditors upon debtor's request",
+  "title" : "Prohibits persons or business entities from filing unnecessary personal identifying information with an agency",
   "summary" : null,
   "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT", "SOBI.D110107.T144409.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T144910.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294429750490
+  "luceneModified" : 1294429750537
 }
