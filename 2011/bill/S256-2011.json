@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S249-2011",
+  "senateBillNo" : "S256-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S249-2011-1294203600000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S256-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the sexual assault forensic examiner grant program",
+  "title" : "Defines the crime of surreptitious surveillance; rebuttable presumption that such surveillance under certain conditions is for no legitimate purpose",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T111805.TXT", "SOBI.D101213.T111304.TXT", "SOBI.D101213.T110815.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T111805.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292257085196
+  "luceneModified" : 1292257085257
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S249-2011",
+  "senateBillNo" : "S250-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S249-2011-1294203600000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S250-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the sexual assault forensic examiner grant program",
+  "title" : "Relates to requiring first consideration of persons defined in the federal workforce investment act programs for hiring for positions created as a result of economic",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Economic Development Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T111805.TXT", "SOBI.D101213.T111304.TXT", "SOBI.D101213.T110815.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T111805.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292257085196
+  "luceneModified" : 1292257085202
 }
