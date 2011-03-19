@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295965800000S215-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295965800000,
+    "ayes" : [ "Maziarz", "Alesi", "Ritchie", "O'Mara", "Ranzenhofer", "Robach", "Parker", "Gianaris", "Kennedy" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Fuschillo", "Adams", "Kruger" ],
+    "description" : "Energy and Telecommunications",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -34,12 +47,12 @@
   "coSponsors" : null,
   "pastCommittees" : [ "ENERGY AND TELECOMMUNICATIONS" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          215\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sen. MAZIARZ -- read twice and ordered printed, and when\n         printed to be committed to the Committee on  Energy  and  Telecommuni-\n         cations\n\n       AN ACT to amend the public authorities law, in relation to requiring the\n         New  York state energy research and development authority to establish\n         the energy efficiency portfolio standard and approving programs\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  The  public  authorities  law  is amended by adding a new\n    2  section 1873 to read as follows:\n    3    S 1873. EXAMINATION AND REPORTING OF ENERGY EFFICIENCY  GRANT  RECIPI-\n    4  ENTS; REQUIRED.  THE AUTHORITY SHALL SUBMIT TO THE GOVERNOR, THE SPEAKER\n    5  OF THE ASSEMBLY, THE TEMPORARY PRESIDENT OF THE SENATE, THE CHAIR OF THE\n    6  STATE ENERGY PLANNING BOARD, THE CHAIR OF THE ASSEMBLY ENERGY COMMITTEE,\n    7  THE  RANKING MINORITY MEMBER OF THE ASSEMBLY ENERGY COMMITTEE, THE CHAIR\n    8  OF THE SENATE  ENERGY  AND  TELECOMMUNICATIONS  COMMITTEE,  THE  RANKING\n    9  MINORITY  MEMBER  OF THE SENATE ENERGY AND TELECOMMUNICATIONS COMMITTEE,\n   10  THE CHAIR OF THE  ASSEMBLY  CORPORATIONS,  AUTHORITIES  AND  COMMISSIONS\n   11  COMMITTEE,  THE  RANKING  MINORITY  MEMBER OF THE ASSEMBLY CORPORATIONS,\n   12  AUTHORITIES AND COMMISSIONS COMMITTEE, THE CHAIR OF  THE  SENATE  CORPO-\n   13  RATIONS,  AUTHORITIES  AND  COMMISSIONS  COMMITTEE, THE RANKING MINORITY\n   14  MEMBER OF THE SENATE CORPORATIONS, AUTHORITIES AND COMMISSIONS COMMITTEE\n   15  AND THE CHAIR OF THE RENEWABLE ENERGY SUBCOMMITTEE  IN  THE  ASSEMBLY  A\n   16  COPY OF THE ANNUAL REPORT THE AUTHORITY IS REQUIRED TO PRODUCE TO COMPLY\n   17  WITH  THE  PUBLIC SERVICE COMMISSION ORDER ESTABLISHING THE ENERGY EFFI-\n   18  CIENCY PORTFOLIO STANDARD AND APPROVING PROGRAMS.\n   19    S 2. This act shall take effect immediately.\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD01220-01-1\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the public authorities law, in relation to requiring the New York state energy research and development authority to establish the energy efficiency portfolio standard and approving programs ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T140427.TXT", "SOBI.D101213.T112805.TXT", "SOBI.D101213.T100801.TXT", "SOBI.D101213.T111304.TXT", "SOBI.D101214.T095126.TXT", "SOBI.D101214.T094626.TXT", "SOBI.D101217.T161006.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T140427.TXT", "SOBI.D101213.T100801.TXT", "SOBI.D101213.T112805.TXT", "SOBI.D110126.T114750.TXT-agenda-1.xml", "SOBI.D101213.T111304.TXT", "SOBI.D101214.T095126.TXT", "SOBI.D101214.T094626.TXT", "SOBI.D101217.T161006.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295982267872
+  "luceneModified" : 1296060470745
 }
