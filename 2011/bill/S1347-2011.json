@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1316-2011",
+  "senateBillNo" : "S1347-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1316-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S1347-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the presence of official full or partial lane markings on roadway",
-  "summary" : "Relates to the presence of official full or partial barrier markings on roadways which prohibit crossing of such markings. ",
+  "title" : "Requires actual consent to participation in franchise programs",
+  "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "SB5175-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to roadway lane markings ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T153229.TXT", "SOBI.D110106.T152729.TXT", "SOBI.D110106.T160806.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348086986
+  "luceneModified" : 1294348086996
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1319-2011",
+  "senateBillNo" : "S1349-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S1319-2011-1294290000000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S1349-2011-1294290000000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to residency requirements for members of council",
-  "summary" : "Relates to residency requirements for members of council. ",
-  "currentCommittee" : "CITIES",
+  "title" : "Relates to coterminous consumer electronics warranties",
+  "summary" : null,
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "New York City Charter",
-  "previousVersions" : [ "S1430-2009" ],
+  "lawSection" : "General Business Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -38,15 +38,22 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STEWART-COUSINS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the New York city charter, in relation to the qualifications of council members ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T152729.TXT", "SOBI.D110106.T154231.TXT", "SOBI.D110106.T160806.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348086994
+  "luceneModified" : 1294348086002
 }

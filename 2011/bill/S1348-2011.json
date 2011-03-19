@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1321-2011",
+  "senateBillNo" : "S1348-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1321-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S1348-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that motor vehicles, with certain exceptions, shall not be operated with an accumulation of snow or ice on the surface thereof",
-  "summary" : "Provides that motor vehicles, with certain exceptions, shall not be operated with an accumulation of snow or ice on the surface thereof; establishes fines for violation of these provisions. ",
+  "title" : "Relates to the distribution of certain mandatory surcharges imposed for alcohol-related traffic convictions",
+  "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "SA5226-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -38,15 +38,22 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring surfaces of certain motor vehicles to be cleared of accumulated snow, sleet, or hail ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T152729.TXT", "SOBI.D110106.T154231.TXT", "SOBI.D110106.T160806.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348086999
+  "luceneModified" : 1294348086001
 }

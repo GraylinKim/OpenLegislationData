@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1319-2011",
+  "senateBillNo" : "S1345-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO CITIES",
-    "billEventId" : "S1319-2011-1294290000000-REFERRED+TO+CITIES",
+    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
+    "billEventId" : "S1345-2011-1294290000000-REFERRED+TO+CHILDREN+AND+FAMILIES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to residency requirements for members of council",
-  "summary" : "Relates to residency requirements for members of council. ",
-  "currentCommittee" : "CITIES",
+  "title" : "Provides for notification to the state when a foster home is decertified, not renewed or a child is removed; requires evaluation to determine if home be re-opened",
+  "summary" : null,
+  "currentCommittee" : "CHILDREN AND FAMILIES",
   "sameAs" : null,
-  "lawSection" : "New York City Charter",
-  "previousVersions" : [ "S1430-2009" ],
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the New York city charter, in relation to the qualifications of council members ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T152729.TXT", "SOBI.D110106.T154231.TXT", "SOBI.D110106.T160806.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294348086994
+  "luceneModified" : 1294348086976
 }
