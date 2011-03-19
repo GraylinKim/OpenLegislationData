@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296018000000,
+    "eventText" : "enacting clause stricken",
+    "billEventId" : "A2990-2011-1296018000000-enacting+clause+stricken",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cymbrowitz",
+    "fullname" : "Cymbrowitz (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to the establishment of a letter grading system to classify inspection results for certain public food service establishments ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T155537.TXT", "SOBI.D110124.T103110.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T093238.TXT", "SOBI.D110121.T155537.TXT", "SOBI.D110124.T103110.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295883070622
+  "luceneModified" : 1296052358085
 }

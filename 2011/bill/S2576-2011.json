@@ -2,9 +2,9 @@
   "year" : 2011,
   "senateBillNo" : "S2576-2011",
   "billEvents" : [ {
-    "eventDate" : 1295931600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S2576-2011-1295931600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventDate" : 1296018000000,
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S2576-2011-1296018000000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases penalties for manufacture or sale of liquor without a license",
+  "title" : "Makes provisions regarding recycling programs",
   "summary" : "Increases the penalties for the illegal sale of alcoholic beverages without the appropriate license or permit. ",
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Alcoholic Beverage Control Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : [ "S2144-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T155941.TXT", "SOBI.D110125.T160942.TXT", "SOBI.D110125.T163943.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T093238.TXT", "SOBI.D110125.T155941.TXT", "SOBI.D110125.T160942.TXT", "SOBI.D110125.T163943.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295991583352
+  "luceneModified" : 1296052358075
 }

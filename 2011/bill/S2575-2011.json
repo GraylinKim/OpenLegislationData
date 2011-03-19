@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2574-2011",
+  "senateBillNo" : "S2575-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S2574-2011-1296018000000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO CITIES",
+    "billEventId" : "S2575-2011-1296018000000-REFERRED+TO+CITIES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the honest use of refund and rebate forms act",
+  "title" : "Provides veterans' real property school tax exemption in cities with a population of a million or more",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "CITIES",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T093238.TXT", "SOBI.D110126.T092738.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T093238.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296052358068
+  "luceneModified" : 1296052358071
 }

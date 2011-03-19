@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2574-2011",
+  "senateBillNo" : "S2579-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S2574-2011-1296018000000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S2579-2011-1296018000000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the honest use of refund and rebate forms act",
+  "title" : "Enacts telecommunications privacy law containing provisions regulating the collection, use or disclosure of information by telecommunications carriers",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T093238.TXT", "SOBI.D110126.T092738.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T093238.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296052358068
+  "luceneModified" : 1296052358079
 }
