@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Grants a state personal income tax deduction for retirement plan distributions used to purchase long-term care insurance",
-  "summary" : null,
+  "summary" : "Grants a state personal income tax deduction for retirement plan distributions used to purchase long-term care insurance; exempts distributions from individual retirement accounts and individual retirement annuities from state personal taxation when such distributions are used to purchase long-term health care insurance. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1397-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to exempting distributions from individual retirement accounts and individual retirement annuities from state personal income taxation when such distributions are used to purchase long-term health care insurance ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T111304.TXT", "SOBI.D101213.T103802.TXT", "SOBI.D101213.T103302.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T113306.TXT", "SOBI.D101213.T111304.TXT", "SOBI.D101213.T103802.TXT", "SOBI.D101213.T103302.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292256784102
+  "luceneModified" : 1292257986499
 }
