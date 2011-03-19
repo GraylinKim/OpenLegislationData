@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2121-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to aging",
+    "billEventId" : "A2121-2011-1294894800000-referred+to+aging",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Limits cost-sharing responsibilities of participants in the elderly pharmaceutical insurance coverage program",
+  "summary" : "Limits cost-sharing responsibilities of participants in the elderly pharmaceutical insurance coverage program for both comprehensive and catastrophic coverages to no more than five percent of the eligible participant's gross income. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1221",
+  "lawSection" : "Elder Law",
+  "previousVersions" : [ "A6066-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the elder law, in relation to limiting the cost-sharing responsibilities of eligible participants in the elderly pharmaceutical insurance coverage program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T163924.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294954764150
+}
