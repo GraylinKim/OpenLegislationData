@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A379-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A379-2011-1294203600000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Excludes certain seasonal fair workers from the definition of employee for purposes of the minimum wage act",
+  "summary" : "Excludes certain seasonal fair workers from the definition of employee for purposes of the minimum wage act. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Labor Law",
+  "previousVersions" : [ "A10619-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the labor law, in relation to excluding certain seasonal fair workers from the definition of employee for purposes of the minimum wage act ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T154116.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293136876583
+}

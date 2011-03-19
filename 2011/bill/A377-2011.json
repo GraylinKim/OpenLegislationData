@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A377-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to energy",
+    "billEventId" : "A377-2011-1294203600000-referred+to+energy",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Implements the empire propane education and research act",
+  "summary" : "Implements the empire propane education and research act; authorizes the creation of certain propane education programs; requires the creation of an empire propane education and research council; enumerates the duties and purposes of the empire propane education and research council. ",
+  "currentCommittee" : null,
+  "sameAs" : "S151",
+  "lawSection" : "Energy Law",
+  "previousVersions" : [ "A7797-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the energy law, in relation to implementing the empire propane education and research act ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T154116.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293136876580
+}

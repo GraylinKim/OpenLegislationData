@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A376-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to mental health",
+    "billEventId" : "A376-2011-1294203600000-referred+to+mental+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes provisions regarding safety of certain employees of the office of mental health, including certain staffing ratios and filling of staff vacancies",
+  "summary" : "Makes provisions regarding safety of certain employees of the office of mental health: provides that the commissioner of the office of mental health shall direct that in outpatient programs no employee shall be required to enter the residence of a person with a serious mental illness unless said employee is accompanied by at least one other employee of the office of mental health; provides that the commissioner shall also direct that all such employees shall, when they are required to enter the residence of a recipient of services, be supplied with a wireless telephone or comparable device for the purposes of emergency communications; provides that the commissioner shall direct that employees serving as intensive case managers receive annual training in safety measures and violence prevention and that the commissioner shall insure the availability of such training; provides that funds appropriated for the operation of outpatient programs shall be expended to insure that there shall be at least one intensive case manager for each twelve persons receiving such services, and that there shall be no more than twelve persons receiving services from any one assertive case management team; directs the division of the budget to cause positions to be promptly filled in order to maintain said ratios. ",
+  "currentCommittee" : null,
+  "sameAs" : "S196",
+  "lawSection" : "Mental Hygiene Law",
+  "previousVersions" : [ "A7878-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the mental hygiene law, in relation to safety provisions for employees of the office of mental health ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T154116.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293136876578
+}
