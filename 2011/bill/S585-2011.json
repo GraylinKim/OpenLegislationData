@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S571-2011",
+  "senateBillNo" : "S585-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S571-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S585-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for state reimbursement to all elementary and secondary schools for the cost of metropolitan commuter transportation mobility tax payments",
+  "title" : "Requires any community service sentence imposed for an offense involving graffiti to include graffiti removal as a portion of required service",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ADAMS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "ADDABBO",
@@ -41,13 +48,6 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
@@ -55,14 +55,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LANZA",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "OPPENHEIMER",
+    "fullname" : "SAMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -73,22 +73,15 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STEWART-COUSINS",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend chapter 25 of the laws of 2009, amending the tax law and the administrative code of the city of New York relating to the metropolitan commuter transportation mobility tax, and the education law, in relation to the imposition of such tax upon and reimbursement thereof to public and private elementary and secondary schools ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T141841.TXT", "SOBI.D101222.T134339.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T141841.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293045521117
+  "luceneModified" : 1293045521128
 }
