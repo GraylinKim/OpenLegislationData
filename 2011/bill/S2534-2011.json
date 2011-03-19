@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2531-2011",
+  "senateBillNo" : "S2534-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2531-2011-1295931600000-REFERRED+TO+CODES",
+    "billEventId" : "S2534-2011-1295931600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a penalty and cause of action for intentional destruction of medical records by a party to a medical malpractice action, or by an agent thereof",
+  "title" : "Expands the definition of dangerous contraband to include telecommunications and electronic recording devices",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T093358.TXT", "SOBI.D110125.T092858.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T093358.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295966038927
+  "luceneModified" : 1295966038940
 }
