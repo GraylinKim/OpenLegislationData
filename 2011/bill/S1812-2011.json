@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1809-2011",
+  "senateBillNo" : "S1812-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S1809-2011-1294894800000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S1812-2011-1294894800000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Mandates attendance by members appointed by the governor at meetings of councils of state-operated institutions",
+  "title" : "Discludes overtime compensation in pension computation earned after March 31, 2012",
   "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "General Municipal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T102351.TXT", "SOBI.D110113.T101310.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T102351.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294932231649
+  "luceneModified" : 1294932231660
 }
