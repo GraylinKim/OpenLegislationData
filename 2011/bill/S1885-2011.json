@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires guidelines for setting minimum period of imprisonment to include any history of violence or abuse directed at sentenced person by the victim",
-  "summary" : null,
+  "summary" : "Requires the guidelines for determining the minimum period of imprisonment to be served prior to parole consideration to include any history of violence or abuse directed at the sentenced person by the victim of the offense. ",
   "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
   "lawSection" : "Executive Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3320-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T162923.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T162923.TXT", "SOBI.D110113.T163424.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294954163765
+  "luceneModified" : 1294954464981
 }

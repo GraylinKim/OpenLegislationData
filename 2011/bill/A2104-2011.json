@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2104-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A2104-2011-1294894800000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lavine",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the licensing of plumbers by Nassau county",
+  "summary" : "Authorizes the county of Nassau to establish a county board of plumbing examiners; establishes that the requirements for licensing plumbers in the county of Nassau shall be governed by local laws duly enacted by such county. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "County Law",
+  "previousVersions" : [ "A10393-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the county law, in relation to the power of the county of Nassau to establish a Nassau county board of plumbing examiners to provide for county-wide plumbing licensure ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T163424.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294954464991
+}

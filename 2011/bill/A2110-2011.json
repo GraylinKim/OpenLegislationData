@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2110-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A2110-2011-1294894800000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows certain disabled persons to fish without a license",
+  "summary" : "Allows persons having a medically determinable impairment of sufficient severity and duration to qualify for benefits under the federal social security act to take fish as if he or she held a fishing license. ",
+  "currentCommittee" : null,
+  "sameAs" : "S615",
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A2337-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to allowing certain disabled persons to take fish without a license ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T163424.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294954464007
+}
