@@ -34,6 +34,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "OPPENHEIMER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the highway law, in relation to authorizing the leasing of land adjacent to state and local highways for the purpose of the construction and operation of solar and wind electric generating systems; and to amend the public authorities law, in relation to granting such authorization to the metropolitan transportation authority ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T180730.TXT", "SOBI.D110106.T155732.TXT", "SOBI.D110106.T164249.TXT", "SOBI.D110106.T160233.TXT", "SOBI.D110110.T161630.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T134718.TXT", "SOBI.D110106.T155732.TXT", "SOBI.D110111.T180730.TXT", "SOBI.D110110.T161630.TXT", "SOBI.D110106.T160233.TXT", "SOBI.D110106.T164249.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294787250599
+  "luceneModified" : 1296672438613
 }
