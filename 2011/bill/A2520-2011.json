@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2520-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2520-2011-1295413200000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the establishment of the home equity protection insurance program",
+  "summary" : "Authorizes the establishment of the home equity protection insurance program directing the agency to issue a commitment to insure and insure the full value of certain residences which are owner-occupied by persons who meet certain income qualifications. ",
+  "currentCommittee" : null,
+  "sameAs" : "S763",
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A4521-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to establishing a home equity protection insurance program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T140301.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295463781409
+}

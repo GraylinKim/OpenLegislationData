@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2522-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A2522-2011-1295413200000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes towns, fire districts, and improvement districts to delegate conduct of certain elections to county boards of elections",
+  "summary" : "Authorizes towns to delegate the conduct of special town elections to their respective county boards of elections and authorizes fire districts and improvement districts to delegate the conduct of their elections to their respective county boards of elections; provides the procedure for doing so. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "A492-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, the county law, the town law, and the municipal home rule law, in relation to authorizing towns to delegate the conduct of special town elections to their respective county boards of elections and authorizing fire districts and improvement districts to delegate the conduct of their elections to their respective county boards of elections ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T140301.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295463781412
+}
