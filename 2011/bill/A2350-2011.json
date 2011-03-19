@@ -24,7 +24,14 @@
   "sameAs" : null,
   "lawSection" : "Civil Practice Law and Rules",
   "previousVersions" : [ "A5516-2009" ],
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the civil practice law and rules, in relation to exempting parties liable for failure to obey or enforce certain orders of protection or temporary orders of protection in domestic violence or domestic relations matters from the provisions of article sixteen of such law, entitled \"limited liability of persons jointly liable\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T145647.TXT", "SOBI.D110118.T145147.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T145647.TXT", "SOBI.D110118.T170700.TXT", "SOBI.D110118.T145147.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295380607333
+  "luceneModified" : 1295388420843
 }

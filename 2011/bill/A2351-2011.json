@@ -13,7 +13,7 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein (MS)",
+    "fullname" : "Weinstein",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -24,7 +24,14 @@
   "sameAs" : null,
   "lawSection" : "Public Health Law",
   "previousVersions" : [ "AA471-2009" ],
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the public health law and the executive law, in relation to establishing the sexual assault forensic examiner grant program ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T145647.TXT", "SOBI.D110118.T140141.TXT", "SOBI.D110118.T141642.TXT", "SOBI.D110118.T154152.TXT", "SOBI.D110118.T145147.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T145647.TXT", "SOBI.D110118.T140141.TXT", "SOBI.D110118.T170700.TXT", "SOBI.D110118.T141642.TXT", "SOBI.D110118.T154152.TXT", "SOBI.D110118.T145147.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295383312333
+  "luceneModified" : 1295388420845
 }
