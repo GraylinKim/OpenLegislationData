@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3348-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3348-2011-1295931600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the residency requirements for certain officers in the village of Cornwall-on-Hudson",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Officers Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T102403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295969043248
+}

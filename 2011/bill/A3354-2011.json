@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3354-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A3354-2011-1295931600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Precludes local criminal court from issuing a warrant of arrest based on any simplified information when the defendant has not been arraigned",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T102403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295969043267
+}

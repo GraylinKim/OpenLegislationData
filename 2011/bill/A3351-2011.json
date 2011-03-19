@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3351-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A3351-2011-1295931600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cymbrowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires major medical or similar comprehensive-type coverage insurance policies to cover cranial prostheses worn for certain permanent or temporary hair loss",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T102403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295969043261
+}

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3349-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A3349-2011-1295931600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes a matching economic development brochures grant program for localities",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Economic Development Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T102403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295969043250
+}
