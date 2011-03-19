@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "E1-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "adopted",
+    "billEventId" : "E1-2011-1294203600000-adopted",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for procedure for election of Speaker",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Assembly",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nASSEMBLY  RESOLUTION providing for the procedure for the election of the\nSpeaker\n\nRESOLVED, That the House do now proceed to the election of Speaker for a\nterm of two years, that the roll of the members be called by the  Acting\nClerk,  and  that  each  member,  as his/her name is called, openly name\nhis/her choice for such office.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T124650.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294249610882
+}

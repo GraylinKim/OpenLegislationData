@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1194-2011",
+  "senateBillNo" : "S1197-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
-    "billEventId" : "S1194-2011-1294203600000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
+    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
+    "billEventId" : "S1197-2011-1294203600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
+    "fullname" : "BRESLIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a definition of residence under the sex offender registry act",
+  "title" : "Requires a parent, law guardian or person legally responsible for a minor to be present during questioning by a peace or police officer",
   "summary" : null,
-  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
+  "currentCommittee" : "CHILDREN AND FAMILIES",
   "sameAs" : null,
-  "lawSection" : "Correction Law",
+  "lawSection" : "Family Court Act",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T124650.TXT", "SOBI.D110105.T124150.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T124650.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294249610871
+  "luceneModified" : 1294249610886
 }
