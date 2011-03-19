@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A1528-2011-1295413200000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Brennan (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the general city law, in relation to the review of construction plans by cities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T151618.TXT", "SOBI.D110111.T140211.TXT", "SOBI.D110110.T151117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T151618.TXT", "SOBI.D110110.T151117.TXT", "SOBI.D110111.T140211.TXT", "SOBI.D110119.T144808.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294772531618
+  "luceneModified" : 1295466488806
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2381-2011",
+  "senateBillNo" : "S2383-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2381-2011-1295413200000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S2383-2011-1295413200000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for legislative review of rules and regulations and allows the legislature to invalidate regulations that are not consistent with the legislative intent",
+  "title" : "Relates to a tax credit for the purchase of certain health insurance policies",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BONACIC",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "DEFRANCISCO",
@@ -41,6 +48,20 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "GRISANTI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HANNON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
@@ -48,14 +69,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "LANZA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -73,13 +94,6 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SALAND",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -88,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T144808.TXT", "SOBI.D110119.T144309.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T144808.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466488782
+  "luceneModified" : 1295466488789
 }

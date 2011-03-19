@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported",
+    "billEventId" : "A1432-2011-1295413200000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Brennan (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -109,7 +116,7 @@
   "actClause" : "AN ACT to amend the municipal home rule law, in relation to charter revision commissions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T132605.TXT", "SOBI.D110111.T125703.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T132605.TXT", "SOBI.D110111.T125703.TXT", "SOBI.D110119.T144808.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294768623997
+  "luceneModified" : 1295466488804
 }
