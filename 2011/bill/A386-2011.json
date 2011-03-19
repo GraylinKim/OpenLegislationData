@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A386-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A386-2011-1294203600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows certain members of public retirement systems to retire without a reduction of benefits due to early retirement upon age 55 and at least 25 years of service",
+  "summary" : "Provides that excess investment tax credit amounts may be refundable to operators of a farm operation. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Retirement and Social Security Law",
+  "previousVersions" : [ "AA1088-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to providing that excess investment tax credit amounts may be refundable to operators of a farm operation ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T154616.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293137176647
+}
