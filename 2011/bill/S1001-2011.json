@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S992-2011",
+  "senateBillNo" : "S1001-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S992-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S1001-2011-1294203600000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates first and second degree pet theft offenses",
+  "title" : "Requires institutions of higher education to disclose the average dollar amount of institutional aid awarded to students",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to theft of a companion animal or pet ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T101948.TXT", "SOBI.D110104.T110955.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T110955.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294157395594
+  "luceneModified" : 1294157395609
 }

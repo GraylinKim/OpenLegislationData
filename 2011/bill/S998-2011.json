@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S997-2011",
+  "senateBillNo" : "S998-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S997-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S998-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,63 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "MARCELLINO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the notification in writing of discharge or transfer of minors from attendance upon instruction and the reporting of such data to the legislature",
+  "title" : "Relates to the use of portable electronic devices while driving",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "LAVALLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to notification of discharge from attendance upon instruction ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T104452.TXT", "SOBI.D110104.T103952.TXT", "SOBI.D110104.T110955.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T110955.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294157395605
+  "luceneModified" : 1294157395598
 }
