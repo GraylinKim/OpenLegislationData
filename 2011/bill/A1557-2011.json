@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits the sale of alcoholic energy drinks",
-  "summary" : null,
+  "summary" : "Prohibits the sale of alcoholic energy drinks and provides definition thereof. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "General Business Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9901-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to prohibiting the sale of alcoholic energy drinks ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T152618.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690900042
+  "luceneModified" : 1294691178209
 }

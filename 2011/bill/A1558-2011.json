@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Limits contingent fees to attorneys in actions for property damage or personal injury, including death",
-  "summary" : null,
+  "summary" : "Limits contingent fees to attorneys in actions for property damage or personal injury, including death. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Judiciary Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10695-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the judiciary law in relation to contingent fees for attorneys ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T152140.TXT", "SOBI.D110110.T152618.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690900048
+  "luceneModified" : 1294691178206
 }

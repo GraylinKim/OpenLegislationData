@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to proceedings to challenge fraud or irregularity in general elections",
-  "summary" : null,
+  "summary" : "Permits a challenge for fraud or irregularity in general elections in supreme court. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1125-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to proceedings to challenge fraud or irregularity in general elections ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT", "SOBI.D110110.T151117.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T151618.TXT", "SOBI.D110110.T151117.TXT", "SOBI.D110110.T152618.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294690578863
+  "luceneModified" : 1294691178187
 }
