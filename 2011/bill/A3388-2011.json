@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3388-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3388-2011-1295931600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the New York state thruway authority to discontinue the collection of tolls at the Grand Island bridges in the Niagara section of the thruway",
+  "summary" : "Directs the New York state thruway authority to discontinue the collection of tolls at the Grand Island bridges in the Niagara section of the Governor Thomas E. Dewey Thruway. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Authorities",
+  "previousVersions" : [ "A11513-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT in relation to discontinuing the collection of tolls at the Grand Island bridges in the Niagara section of the New York state thruway ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T122912.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295976552608
+}
