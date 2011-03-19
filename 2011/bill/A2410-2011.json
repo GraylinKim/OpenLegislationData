@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Increases penalties for certain alcohol related driving convictions",
-  "summary" : null,
+  "summary" : "Increases penalties for repeat driving while ability impaired conviction committed within the preceding ten years or for a fourth conviction for a similar offense. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A867-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T152214.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T155153.TXT", "SOBI.D110118.T152214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382134570
+  "luceneModified" : 1295383913702
 }
