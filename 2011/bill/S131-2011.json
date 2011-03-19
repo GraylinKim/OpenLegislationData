@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S131-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S131-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERALTA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Regulates debt collection practices; repealer",
+  "summary" : null,
+  "currentCommittee" : "CONSUMER PROTECTION",
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101209.T111624.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291911384272
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S132-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO BANKS",
+    "billEventId" : "S132-2011-1294203600000-REFERRED+TO+BANKS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERALTA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires mortgage lenders and brokers to provide consumer with mortgage bill of rights pamphlet which must be signed by the consumer prior to mortgage application",
+  "summary" : null,
+  "currentCommittee" : "BANKS",
+  "sameAs" : null,
+  "lawSection" : "Banking Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101209.T111624.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291911384280
+}
