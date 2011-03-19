@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes the issuance of warrants and orders of protection in persons in need of supervision cases",
-  "summary" : null,
+  "summary" : "Authorizes the issuance of warrants and orders of protection in persons in need of supervision cases. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Family Court Act",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3085-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the family court act, in relation to warrants and orders of protection in persons in need of supervision cases ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T154501.TXT", "SOBI.D110114.T151959.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036399440
+  "luceneModified" : 1295037901199
 }
