@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2699-2011",
+  "senateBillNo" : "S2702-2011",
   "billEvents" : [ {
     "eventDate" : 1296190800000,
-    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
-    "billEventId" : "S2699-2011-1296190800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "eventText" : "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+    "billEventId" : "S2702-2011-1296190800000-REFERRED+TO+COMMERCE%2C+ECONOMIC+DEVELOPMENT+AND+SMALL+BUSINESS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to rent increases after vacancy of a housing accommodation; repealer",
+  "title" : "Enacts the New York State bicycle tourism promotion act",
   "summary" : null,
-  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+  "currentCommittee" : "COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
   "sameAs" : null,
-  "lawSection" : "New York City Administrative Code",
+  "lawSection" : "Economic Development Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "ADAMS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T152310.TXT", "SOBI.D110128.T151810.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T152310.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296246190930
+  "luceneModified" : 1296246190941
 }

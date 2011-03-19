@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2699-2011",
+  "senateBillNo" : "S2701-2011",
   "billEvents" : [ {
     "eventDate" : 1296190800000,
     "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
-    "billEventId" : "S2699-2011-1296190800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "billEventId" : "S2701-2011-1296190800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,27 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to rent increases after vacancy of a housing accommodation; repealer",
+  "title" : "Authorizes NYCHA survey of housing developments to determine the percentage of non-English proficient residents, requires language assistance programs",
   "summary" : null,
   "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "New York City Administrative Code",
+  "lawSection" : "Housing",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "KRUEGER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "PERKINS",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -46,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T152310.TXT", "SOBI.D110128.T151810.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T152310.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296246190930
+  "luceneModified" : 1296246190938
 }
