@@ -3,8 +3,8 @@
   "senateBillNo" : "S69-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S69-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S69-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a personal income tax check-off box for donations to the school-based health centers fund",
+  "title" : "Makes provision for the disposal of firearms, rifles and shotguns owned by the state and local governments",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
-  "pastCommittees" : null,
+  "pastCommittees" : [ "INVESTIGATIONS AND GOVERNMENT OPERATIONS" ],
   "fulltext" : null,
   "memo" : null,
   "law" : null,
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101202.T094530.TXT", "SOBI.D101202.T093528.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101202.T095030.TXT", "SOBI.D101202.T093528.TXT", "SOBI.D101202.T094530.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291301130139
+  "luceneModified" : 1291301430167
 }
