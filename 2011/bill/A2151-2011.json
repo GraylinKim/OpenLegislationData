@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2140-2011",
+  "senateBillNo" : "A2151-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to education",
-    "billEventId" : "A2140-2011-1294981200000-referred+to+education",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A2151-2011-1294981200000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Benedetto",
+    "fullname" : "DenDekker",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to establishing a head injury awareness act",
+  "title" : "Relates to the payment of winning lottery tickets",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S608",
-  "lawSection" : "Education Law",
+  "sameAs" : "S605",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to establishing the New York state head injury awareness and prevention act ",
+  "actClause" : "AN ACT to amend the tax law, in relation to payment of winning lottery tickets ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT", "SOBI.D110114.T112423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295022563272
+  "luceneModified" : 1295022563338
 }

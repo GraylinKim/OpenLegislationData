@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2140-2011",
+  "senateBillNo" : "A2141-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
     "eventText" : "referred to education",
-    "billEventId" : "A2140-2011-1294981200000-referred+to+education",
+    "billEventId" : "A2141-2011-1294981200000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,10 +18,10 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to establishing a head injury awareness act",
+  "title" : "Enacts the interstate compact on educational opportunity for military children",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S608",
+  "sameAs" : null,
   "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to establishing the New York state head injury awareness and prevention act ",
+  "actClause" : "AN ACT to amend the education law, in relation to enacting the interstate compact on educational opportunity for military children ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT", "SOBI.D110114.T112423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295022563272
+  "luceneModified" : 1295022563279
 }
