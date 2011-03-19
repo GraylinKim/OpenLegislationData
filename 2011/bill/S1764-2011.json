@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1763-2011",
+  "senateBillNo" : "S1764-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S1763-2011-1294808400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1764-2011-1294808400000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,27 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the legislature to convene daily if they do not timely pass a budget",
+  "title" : "Establishes the save our sight program and the save our sight fund to provide vision screening and educational information",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Legislative Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "DUANE",
@@ -48,6 +62,27 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "KRUGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MONTGOMERY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "OPPENHEIMER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
@@ -55,7 +90,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SERRANO",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T115500.TXT", "SOBI.D110112.T115000.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T115500.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294851300950
+  "luceneModified" : 1294851300954
 }
