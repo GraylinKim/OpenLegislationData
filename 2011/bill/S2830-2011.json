@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2825-2011",
+  "senateBillNo" : "S2830-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
-    "billEventId" : "S2825-2011-1296622800000-REFERRED+TO+COMMERCE%2C+ECONOMIC+DEVELOPMENT+AND+SMALL+BUSINESS",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2830-2011-1296622800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the micro business outreach center assistance program and micro business outreach center",
+  "title" : "Relates to performance and payment bonds",
   "summary" : null,
-  "currentCommittee" : "COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Economic Development Law",
+  "lawSection" : "State Finance Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ESPAILLAT",
+    "fullname" : "ADAMS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HANNON",
+    "fullname" : "HUNTLEY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,14 +48,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "OPPENHEIMER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SMITH",
+    "fullname" : "PERKINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T100203.TXT", "SOBI.D110202.T100704.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T100704.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296659224776
+  "luceneModified" : 1296659224784
 }
