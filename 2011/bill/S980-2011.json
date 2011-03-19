@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S977-2011",
+  "senateBillNo" : "S980-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
-    "billEventId" : "S977-2011-1294203600000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S980-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases access to substance abuse programming for prisoners whose first language is not English",
+  "title" : "Increases medicaid reimbursement payment aggregate for private duty nursing services and care",
   "summary" : null,
-  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Correction Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,7 +34,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "OPPENHEIMER",
+    "fullname" : "HUNTLEY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T161933.TXT", "SOBI.D110103.T162933.TXT", "SOBI.D110103.T161433.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T162933.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294090173285
+  "luceneModified" : 1294090173292
 }
