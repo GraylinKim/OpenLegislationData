@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A349-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A349-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Removes the Niagara section of the thruway from the control of the thruway authority and puts it under the department of transportation's control; repealer",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S236",
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law and the highway law, in relation to removing the Niagara section of the New York state thruway from the control of the thruway authority and to putting the Niagara section of the New York state thruway under the control of the department of transportation; and to repeal certain provisions of the public authorities law and the highway law relating thereto ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101222.T152348.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293049428891
+}

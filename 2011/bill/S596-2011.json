@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S590-2011",
+  "senateBillNo" : "S596-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S590-2011-1294203600000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+    "billEventId" : "S596-2011-1294203600000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "FUSCHILLO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the disclosure of monies received by members of the legislature for purposes of legal defense",
+  "title" : "Includes the war on terrorism within the definition of \"period of war\" for purposes of the veterans alternative property tax exemption",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "OPPENHEIMER",
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
+    "fullname" : "SALAND",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "VALESKY",
+    "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public officers law and the legislative law, in relation to the receipt of monies by members of the legislature for purposes of legal defense ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T150348.TXT", "SOBI.D101222.T145346.TXT", "SOBI.D101222.T152348.TXT", "SOBI.D101222.T145848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T152348.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293049428889
+  "luceneModified" : 1293049428893
 }

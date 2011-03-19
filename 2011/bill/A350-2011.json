@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S590-2011",
+  "senateBillNo" : "A350-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S590-2011-1294203600000-REFERRED+TO+FINANCE",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A350-2011-1294203600000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,56 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the disclosure of monies received by members of the legislature for purposes of legal defense",
+  "title" : "Provides that family members of paid professional firefighters who died in the line-of-duty may obtain a \"Survivor of the Bravest\" license plate",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "Abbate",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "OPPENHEIMER",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "VALESKY",
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public officers law and the legislative law, in relation to the receipt of monies by members of the legislature for purposes of legal defense ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to authorizing the issuance of distinctive license plates for family members of paid professional firefighters who died in the line-of-duty ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T150348.TXT", "SOBI.D101222.T145346.TXT", "SOBI.D101222.T152348.TXT", "SOBI.D101222.T145848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T152348.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293049428889
+  "luceneModified" : 1293049428894
 }
