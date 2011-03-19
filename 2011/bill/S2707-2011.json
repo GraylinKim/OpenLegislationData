@@ -57,6 +57,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "id" : "1296450000000S2707-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296450000000,
+    "ayes" : [ "DeFrancisco", "Johnson", "Alesi", "Bonacic", "Farley", "Flanagan", "Fuschillo", "Golden", "Hannon", "Larkin", "LaValle", "Little", "Marcellino", "Nozzolio", "Robach", "Saland", "Seward", "Young", "Breslin", "Oppenheimer", "Stavisky", "Stewart-Cousins" ],
+    "nays" : [ "Kruger", "Diaz", "Dilan", "Duane", "Rivera", "Gianaris", "Krueger", "Parker", "Peralta", "Perkins" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Montgomery" ],
+    "description" : "Finance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "sponsor" : {
     "id" : null,
@@ -304,7 +317,7 @@
   "actClause" : "AN ACT to amend the general municipal law and the education law, in relation to requiring the state to fund certain programs mandated for municipal corporations and school districts; and to amend the education law, in relation to the effect of mandates on school districts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T163722.TXT", "SOBI.D110131.T183230.TXT", "SOBI.D110131.T181728.TXT", "SOBI.D110131.T095649.TXT", "SOBI.D110131.T115201.TXT", "SOBI.D110131.T182229.TXT", "SOBI.D110131.T174726.TXT", "SOBI.D110131.T175227.TXT", "SOBI.D110128.T234341.TXT", "SOBI.D110131.T180227.TXT", "SOBI.D110131.T155719.TXT", "SOBI.D110131.T165223.TXT", "SOBI.D110131.T212240.TXT", "SOBI.D110129.T003343.TXT", "SOBI.D110131.T180727.TXT", "SOBI.D110131.T094648.TXT", "SOBI.D110131.T164222.TXT", "SOBI.D110201.T110342.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T163722.TXT", "SOBI.D110131.T183230.TXT", "SOBI.D110131.T181728.TXT", "SOBI.D110131.T095649.TXT", "SOBI.D110131.T115201.TXT", "SOBI.D110131.T182229.TXT", "SOBI.D110131.T174726.TXT", "SOBI.D110131.T175227.TXT", "SOBI.D110128.T234341.TXT", "SOBI.D110201.T112844.TXT-agenda-2.xml", "SOBI.D110131.T180227.TXT", "SOBI.D110131.T155719.TXT", "SOBI.D110131.T165223.TXT", "SOBI.D110131.T212240.TXT", "SOBI.D110131.T180727.TXT", "SOBI.D110129.T003343.TXT", "SOBI.D110131.T094648.TXT", "SOBI.D110131.T164222.TXT", "SOBI.D110201.T110342.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296576222021
+  "luceneModified" : 1296577724390
 }
