@@ -3,8 +3,8 @@
   "senateBillNo" : "S567-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S567-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S567-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "ROBACH",
+    "fullname" : "KLEIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires schools to provide supplemental instructional after school programs for pupils with autism spectrum disorder",
-  "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "title" : "Authorizes the denial of renewal of professional, business or trade licenses where a taxpayer has outstanding tax debt which the taxpayer has failed to settle",
+  "summary" : "Requires schools to provide supplemental instructional after school programs for pupils with autism spectrum disorder. ",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "S1199-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to providing supplemental instructional after school programs for pupils with autism spectrum disorder ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T133338.TXT", "SOBI.D101222.T123835.TXT", "SOBI.D101222.T131837.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T133338.TXT", "SOBI.D101222.T123835.TXT", "SOBI.D101222.T134339.TXT", "SOBI.D101222.T131837.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293042818459
+  "luceneModified" : 1293043419576
 }
