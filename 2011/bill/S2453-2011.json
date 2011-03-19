@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for initiative and referendum and recall",
-  "summary" : null,
+  "summary" : "Provides for initiative and referendum and recall; empowers the electors with the ability to propose statutes and amendments to the constitution, to approve or reject statutes or parts of statutes; and to remove elective officers. ",
   "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
   "lawSection" : "Constitution, Concurrent Resolutions to Amend",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6060-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing the addition of a new article 20 to the constitution, in relation to providing for initiative and referendum and recall ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T121522.TXT", "SOBI.D110121.T120521.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T122522.TXT", "SOBI.D110121.T121522.TXT", "SOBI.D110121.T120521.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295630122907
+  "luceneModified" : 1295630722201
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2456-2011",
+  "senateBillNo" : "S2458-2011",
   "billEvents" : [ {
     "eventDate" : 1295586000000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2456-2011-1295586000000-REFERRED+TO+CODES",
+    "billEventId" : "S2458-2011-1295586000000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that certain politically motivated activity shall constitute the crime of criminal mischief in the third degree",
+  "title" : "Relates to creating the crime of criminal destruction in the first and second degrees",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T122522.TXT", "SOBI.D110121.T122028.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T122522.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295630722180
+  "luceneModified" : 1295630722188
 }
