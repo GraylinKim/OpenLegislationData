@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates the New York Stem Cell Research Institute",
-  "summary" : null,
+  "summary" : "Creates the New York Stem Cell Research Institute; provides for the appointment of the New York state stem cell board, to be composed of nineteen members, to run the institute; establishes the powers, duties, procedures, and functions of the institute. ",
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Health",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1133-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T155908.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T155908.TXT", "SOBI.D110201.T161909.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296593948358
+  "luceneModified" : 1296595149156
 }

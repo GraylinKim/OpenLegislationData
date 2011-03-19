@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2795-2011",
+  "senateBillNo" : "S2796-2011",
   "billEvents" : [ {
     "eventDate" : 1296536400000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2795-2011-1296536400000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S2796-2011-1296536400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "CARLUCCI",
+    "fullname" : "KLEIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the designation of chief safety officers at mental health facilities and provides for their powers and duties",
+  "title" : "Authorizes the office of general services to sell certain state-owned land to the Montefiore Medical Center",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Real Property",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T161409.TXT", "SOBI.D110201.T161909.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T161909.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296595149146
+  "luceneModified" : 1296595149149
 }
