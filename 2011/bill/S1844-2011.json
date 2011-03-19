@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1840-2011",
+  "senateBillNo" : "S1844-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S1840-2011-1294894800000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S1844-2011-1294894800000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Allows a tax credit for general volunteer services",
+  "title" : "Requires registered nurses, licensed practical nurses, physicians, physicians assistants and specialist assistants to complete domestic violence training or course work",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SAMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T145415.TXT", "SOBI.D110113.T145941.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T145941.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294948781630
+  "luceneModified" : 1294948781648
 }

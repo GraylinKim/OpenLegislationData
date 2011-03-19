@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1840-2011",
+  "senateBillNo" : "S1841-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S1840-2011-1294894800000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+    "billEventId" : "S1841-2011-1294894800000-REFERRED+TO+COMMERCE%2C+ECONOMIC+DEVELOPMENT+AND+SMALL+BUSINESS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Allows a tax credit for general volunteer services",
+  "title" : "Enacts \"economic development program evaluation act\"; directs state agencies to conduct annual comprehensive evaluation of economic development activities",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Economic Development Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,7 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T145415.TXT", "SOBI.D110113.T145941.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T145941.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294948781630
+  "luceneModified" : 1294948781639
 }

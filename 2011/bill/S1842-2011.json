@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1840-2011",
+  "senateBillNo" : "S1842-2011",
   "billEvents" : [ {
     "eventDate" : 1294894800000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S1840-2011-1294894800000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1842-2011-1294894800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Allows a tax credit for general volunteer services",
+  "title" : "Includes bias-related graffiti in crime of aggravated harassment in the first degree",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T145415.TXT", "SOBI.D110113.T145941.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T145941.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294948781630
+  "luceneModified" : 1294948781642
 }
