@@ -3,8 +3,8 @@
   "senateBillNo" : "S1268-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S1268-2011-1294290000000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+    "billEventId" : "S1268-2011-1294290000000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -20,7 +20,7 @@
   },
   "title" : "Expands the veterans tuition awards program to include all veterans who were discharged under honorable conditions who served in the armed forces after 2-28-1961",
   "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
+  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
   "sameAs" : null,
   "lawSection" : "Education Law",
   "previousVersions" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T122216.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T123216.TXT", "SOBI.D110106.T122216.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294334536612
+  "luceneModified" : 1294335136794
 }
