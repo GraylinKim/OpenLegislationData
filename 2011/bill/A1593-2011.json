@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a tax credit for the purchase of a programmable thermostat",
-  "summary" : null,
+  "summary" : "Provides a tax credit for the purchase of a programmable thermostat; defines \"programmable thermostat\" to mean a device attached to the heating and cooling system of a residence designed to automatically adjust the temperature to conserve energy; such credit shall be in the amount of fifteen dollars or less. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A2717-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to a tax credit for the purchase of a programmable thermostat ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T115714.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T115714.TXT", "SOBI.D110111.T120157.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294765034574
+  "luceneModified" : 1294765317185
 }

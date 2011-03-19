@@ -1,0 +1,73 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1601-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to health",
+    "billEventId" : "A1601-2011-1294722000000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for annual school lead-copper tap water testing; publishing of reports of contamination and abatement of such contamination",
+  "summary" : "Provides for annual school lead-copper tap water testing; requires the publishing of reports of contamination and abatement of such contamination; requires school districts to provide potable water to school children attending affected schools; exempts those schools built without use of lead piping and those schools where a finding of no contamination has been made for three consecutive years. ",
+  "currentCommittee" : null,
+  "sameAs" : "S666",
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "AB2359-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law and the education law, in relation to the water dispensed within public schools ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T120157.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294765317189
+}

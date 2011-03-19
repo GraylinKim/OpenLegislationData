@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1599-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1599-2011-1294722000000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes an appropriation for the investigation and prosecution of public fraud and corruption",
+  "summary" : "Makes an appropriation for the investigation and prosecution of public fraud and corruption. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Appropriations",
+  "previousVersions" : [ "A1040-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT making an appropriation to the department of law for the purpose of investigating and prosecuting public fraud and corruption ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T120157.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294765317180
+}
