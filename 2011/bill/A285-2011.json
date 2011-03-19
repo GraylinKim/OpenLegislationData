@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A255-2011",
+  "senateBillNo" : "A285-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to aging",
-    "billEventId" : "A255-2011-1294203600000-referred+to+aging",
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A285-2011-1294203600000-referred+to+real+property+taxation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a senior dental services grant program",
-  "summary" : "Establishes a senior dental services grant program; authorizes the director to establish the program and, upon the availability of appropriations, provide grants to eligible elderly persons who are in need of such services. ",
+  "title" : "Relating to assessment exemptions for living quarters for a parent or grandparent",
+  "summary" : "Relates to assessment exemptions for living quarters for a parent or grandparent. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Elder Law",
-  "previousVersions" : [ "AB3733-2009" ],
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A960-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Miller J",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jacobs",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Paulin",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Benedetto",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -69,42 +41,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Abbate",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Brook-Krasny",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jaffee",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Mayersohn",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -118,21 +69,35 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lopez V",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Benedetto",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hikind",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -153,7 +118,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Barron",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -165,7 +130,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T155505.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292619305349
+  "luceneModified" : 1292619305366
 }

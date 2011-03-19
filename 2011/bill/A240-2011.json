@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows municipalities to lease naming rights of government owned property",
-  "summary" : null,
+  "summary" : "Allows municipalities to lease naming rights of government-owned property. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "General Municipal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9433-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT", "SOBI.D101217.T153003.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292617803867
+  "luceneModified" : 1292619305353
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A239-2011",
+  "senateBillNo" : "A286-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to economic development",
-    "billEventId" : "A239-2011-1294203600000-referred+to+economic+development",
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A286-2011-1294203600000-referred+to+agriculture",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the licensing and regulation of pet groomers; establishes standards of care, training and testing",
-  "summary" : "Provides for the licensing and regulation of pet groomers; establishes standards of care, training and testing; applicant must be at least sixteen years of age and have completed at least the tenth grade; current practitioners may continue but must be licensed within one year from effective date of legislation. ",
+  "title" : "Relates to penalties for pet dealers",
+  "summary" : "Relates to penalties and fees for pet dealers and their violations. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Business Law",
-  "previousVersions" : [ "A8822-2009" ],
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A10784-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cook",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,14 +48,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Mayersohn",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -74,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT", "SOBI.D101217.T153003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292619305367
+  "luceneModified" : 1292619305369
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that an elected official shall forfeit his or her retirement rights and benefits if he or she is convicted of or pleads to certain crimes",
-  "summary" : null,
+  "summary" : "Provides that an elected official shall forfeit his or her retirement rights and benefits if he or she is convicted of or pleads to certain crimes related to public employment. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Retirement and Social Security Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9401-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT", "SOBI.D101217.T153003.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292617803874
+  "luceneModified" : 1292619305358
 }

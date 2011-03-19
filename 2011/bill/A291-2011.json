@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A291-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A291-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"diplomatic immunity notification act\"",
+  "summary" : "Requires notification to certain federal and state agencies when certain persons with diplomatic immunity violate the law; requires a report by law enforcement or police agencies to include, but not be limited to, the name of the person protected by diplomatic immunity; the person's title, position and/or assignment in the United States; and the date, time, location and nature of the incident, including the potential penal law violations prompting such person having been arrested or who would have been arrested but for their diplomatic immunity. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Law Enforcement Officers",
+  "previousVersions" : [ "AA8051-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292619305381
+}

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires that individuals convicted of certain animal cruelty and animal fighting offenses reimburse the organizations caring for such animals",
-  "summary" : null,
+  "summary" : "Requires that individuals convicted of certain animal cruelty and animal fighting offenses reimburse the organizations caring for such animals. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Agriculture and Markets Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9400-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -116,7 +116,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T155505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292618105983
+  "luceneModified" : 1292619305351
 }

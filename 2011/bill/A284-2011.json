@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A248-2011",
+  "senateBillNo" : "A284-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to health",
-    "billEventId" : "A248-2011-1294203600000-referred+to+health",
+    "eventText" : "referred to children and families",
+    "billEventId" : "A284-2011-1294203600000-referred+to+children+and+families",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Montesano",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for quality standards for dental prosthetic devices and for disclosure of the manufacturing location of such devices",
-  "summary" : "Provides for quality standards for dental prosthetic devices and for disclosure of the manufacturing location of such devices. ",
+  "title" : "Creates a domestic abuse hotline for teens",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
-  "previousVersions" : [ "A10649-2009" ],
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Raia",
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "McKevitt",
+    "fullname" : "Aubry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Saladino",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT", "SOBI.D101217.T153003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292619305364
+  "luceneModified" : 1292619305363
 }

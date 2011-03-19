@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A238-2011",
+  "senateBillNo" : "A282-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A238-2011-1294203600000-referred+to+governmental+operations",
+    "eventText" : "referred to correction",
+    "billEventId" : "A282-2011-1294203600000-referred+to+correction",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Crouch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a New York state legislative research service",
-  "summary" : "Establishes a New York state legislative research service; provides for the appointment and compensation for the director of such service and specialists and senior specialists within such service; describes the duties of the director. ",
+  "title" : "Prohibits registered sex offenders from using or being within five hundred feet of any state or municipal-owned park",
+  "summary" : "Prohibits registered sex offenders from using or being within five hundred feet of any state or municipal-owned park. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Legislative Law",
-  "previousVersions" : [ "A897-2009" ],
+  "lawSection" : "Correction Law",
+  "previousVersions" : [ "A3599-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Finch",
+    "fullname" : "Giglio",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT", "SOBI.D101217.T153003.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T155505.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292619305362
+  "luceneModified" : 1292619305355
 }
