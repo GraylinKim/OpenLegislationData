@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires persons who commit crimes while on release to serve maximum sentence",
-  "summary" : null,
+  "summary" : "Requires a person on parole, conditional release, temporary release, post release supervision program or a parole supervision program who has been convicted of a felony committed on such parole or release, to be recommitted to serve the maximum term imposed by the court for the initial felony in addition to the minimum term imposed on the subsequent felony before reconsideration for parole, conditional release, temporary release, post release supervision program or a parole supervision program. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1880-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the penal law and the criminal procedure law, in relation to fixing sentences for persons committing crimes while on parole, conditional release, temporary release, participating in a post release supervision program or a parole supervision sentence ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T132917.TXT", "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979255998
+  "luceneModified" : 1295980157669
 }

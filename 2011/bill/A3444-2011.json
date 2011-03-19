@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Limits the amount which may be awarded for noneconomic damages",
-  "summary" : null,
+  "summary" : "Defines \"noneconomic damages\" and limits such damages in personal injury actions to the greater of $250,000, or the amount awarded in economic damages, or projected earnings as a function of the state average annual wage as determined by the department of taxation and finance; specifially defines such damages. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Civil Practice Law and Rules",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1883-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the civil practice law and rules, in relation to setting certain limits on noneconomic damage awards for personal injury and wrongful death actions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T132917.TXT", "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979255020
+  "luceneModified" : 1295980157662
 }

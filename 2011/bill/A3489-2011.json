@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits public broadcast of 911 calls over radio, television or internet",
-  "summary" : null,
+  "summary" : "Prohibits public broadcast of 911 calls over radio, television or internet. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "County Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10680-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the county law and the public officers law, in relation to prohibiting the broadcast of a 911 call ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T132416.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T132416.TXT", "SOBI.D110125.T132917.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979856457
+  "luceneModified" : 1295980157677
 }
