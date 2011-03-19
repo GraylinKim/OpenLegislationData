@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296570600000S2353-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296570600000,
+    "ayes" : [ "Fuschillo", "Johnson", "Lanza", "Larkin", "Maziarz", "McDonald", "Nozzolio", "Robach", "Young", "Zeldin", "Dilan", "Diaz", "Kennedy", "Perkins", "Smith", "Squadron", "Stavisky", "Valesky" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Adams" ],
+    "description" : "Transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -39,7 +52,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to directing the city of Buffalo to adjudicate traffic infractions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T154323.TXT", "SOBI.D110119.T131757.TXT", "SOBI.D110119.T133303.TXT", "SOBI.D110119.T124254.TXT", "SOBI.D110201.T100838.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110119.T125755.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T154323.TXT", "SOBI.D110119.T133303.TXT", "SOBI.D110119.T131757.TXT", "SOBI.D110119.T124254.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110201.T100838.TXT", "SOBI.D110119.T125755.TXT", "SOBI.D110201.T112844.TXT-agenda-4.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1296572918390
+  "luceneModified" : 1296577724081
 }

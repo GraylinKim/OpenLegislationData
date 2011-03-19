@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296570600000S2371-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296570600000,
+    "ayes" : [ "Fuschillo", "Johnson", "Lanza", "Larkin", "Maziarz", "McDonald", "Nozzolio", "Robach", "Young", "Zeldin", "Dilan", "Diaz", "Kennedy", "Perkins", "Smith", "Squadron", "Stavisky", "Valesky" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Adams" ],
+    "description" : "Transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -95,7 +108,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to affixing school district websites on school buses ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110131.T105154.TXT", "SOBI.D110119.T164826.TXT", "SOBI.D110201.T100838.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110119.T153822.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110131.T105154.TXT", "SOBI.D110119.T164826.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110125.T184450.TXT", "SOBI.D110201.T100838.TXT", "SOBI.D110201.T112844.TXT-agenda-4.xml", "SOBI.D110119.T153822.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296572918392
+  "luceneModified" : 1296577724083
 }

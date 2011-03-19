@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296570600000S939-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296570600000,
+    "ayes" : [ "Fuschillo", "Johnson", "Lanza", "Larkin", "Maziarz", "McDonald", "Nozzolio", "Robach", "Young", "Zeldin", "Dilan", "Perkins", "Smith", "Squadron", "Stavisky", "Valesky" ],
+    "nays" : [ "Diaz" ],
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : [ "Adams", "Kennedy" ],
+    "description" : "Transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -48,12 +61,12 @@
   } ],
   "pastCommittees" : [ "TRANSPORTATION" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          939\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced by Sens. MARCELLINO, GOLDEN, LARKIN -- read twice and ordered\n         printed,  and  when printed to be committed to the Committee on Trans-\n         portation\n\n       AN ACT to amend the vehicle and traffic law, in relation to the enforce-\n         ment of the offense of operating a  motor  vehicle  with  a  suspended\n         license when such operation occurs in a parking lot\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Paragraph (a) of subdivision 1 of section 511 of the  vehi-\n    2  cle  and  traffic law, as amended by chapter 173 of the laws of 1990, is\n    3  amended to read as follows:\n    4    (a) A person is guilty of the offense of aggravated unlicensed  opera-\n    5  tion  of a motor vehicle in the third degree when such person operates a\n    6  motor vehicle [upon a public highway] while knowing or having reason  to\n    7  know  that  such  person's  license or privilege of operating such motor\n    8  vehicle in this state or privilege of obtaining  a  license  to  operate\n    9  such  motor  vehicle issued by the commissioner is suspended, revoked or\n   10  otherwise withdrawn by the commissioner.\n   11    S 2. Section 511 of the vehicle and traffic law is amended by adding a\n   12  new subdivision 8 to read as follows:\n   13    8. WHERE APPLICABLE. THE PROVISIONS OF THIS SECTION SHALL  APPLY  UPON\n   14  PUBLIC  HIGHWAYS,  PRIVATE  ROADS  OPEN TO MOTOR VEHICLE TRAFFIC AND ANY\n   15  OTHER PARKING LOT. FOR THE PURPOSES OF THIS SECTION \"PARKING LOT\"  SHALL\n   16  MEAN  ANY  AREA OR AREAS OF PRIVATE PROPERTY, INCLUDING A DRIVEWAY, NEAR\n   17  OR CONTIGUOUS TO AND PROVIDED IN CONNECTION WITH PREMISES AND USED AS  A\n   18  MEANS OF ACCESS TO AND EGRESS FROM A PUBLIC HIGHWAY TO SUCH PREMISES AND\n   19  HAVING  A  CAPACITY  FOR THE PARKING OF FOUR OR MORE MOTOR VEHICLES. THE\n   20  PROVISIONS OF THIS SECTION SHALL NOT APPLY  TO  ANY  AREA  OR  AREAS  OF\n   21  PRIVATE PROPERTY COMPRISING ALL OR PART OF PROPERTY ON WHICH IS SITUATED\n   22  A ONE OR TWO FAMILY RESIDENCE.\n   23    S 3. This act shall take effect on the first of November next succeed-\n   24  ing the date on which it shall have become a law.\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD04191-01-1\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to the enforcement of the offense of operating a motor vehicle with a suspended license when such operation occurs in a parking lot ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT", "SOBI.D110103.T150921.TXT", "SOBI.D110103.T142412.TXT", "SOBI.D110201.T100838.TXT", "SOBI.D110103.T160427.TXT", "SOBI.D110103.T141911.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT", "SOBI.D110103.T150921.TXT", "SOBI.D110103.T142412.TXT", "SOBI.D110201.T100838.TXT", "SOBI.D110103.T160427.TXT", "SOBI.D110201.T112844.TXT-agenda-4.xml", "SOBI.D110103.T141911.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296572918384
+  "luceneModified" : 1296577724075
 }
