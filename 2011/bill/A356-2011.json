@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295931600000,
+    "eventText" : "reported referred to codes",
+    "billEventId" : "A356-2011-1295931600000-reported+referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Hoyt (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -102,7 +109,7 @@
   "actClause" : "AN ACT to amend the public authorities law, in relation to prohibiting officers and employees of the state to use the state thruway system without paying tolls during non-working hours ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101223.T152616.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D101222.T153849.TXT", "SOBI.D110120.T092805.TXT", "SOBI.D110103.T141911.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101223.T152616.TXT", "SOBI.D110125.T145924.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D101222.T153849.TXT", "SOBI.D110103.T141911.TXT", "SOBI.D110120.T092805.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295533685994
+  "luceneModified" : 1295985564249
 }

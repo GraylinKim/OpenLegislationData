@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3494-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A3494-2011-1295931600000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Repeals part NN of chapter 59 of the laws of 2009",
+  "summary" : "Repeals part NN of chapter 59 of the laws of 2009 amending the public service law relating to financing the operations of the department of public service, the public service commission, department support and energy management services provided by other state agencies, to increase the utility assessment cap and the minimum threshold for collection thereunder, and establishing a temporary state energy and utility service conservation assessment and providing for the collection thereof. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Services",
+  "previousVersions" : [ "A9091-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Burling",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Conte",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Amedore",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to repeal part NN of chapter 59 of the laws of 2009, amending the public service law relating to financing the operations of the department of public service, the public service commission, department support and energy management services provided by other state agencies, increasing the utility assessment cap and the minimum threshold for collection thereunder, and establishing a temporary state energy and utility service conservation assessment and providing for the collection thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T145924.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295985564227
+}

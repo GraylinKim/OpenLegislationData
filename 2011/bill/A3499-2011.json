@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3499-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A3499-2011-1295931600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes certain school districts to elect to withdraw excess monies from the employee benefit accrued liability reserve fund; repealer",
+  "summary" : "Authorizes certain school districts to elect to withdraw excess monies from the employee benefit accrued liability reserve fund and transfer such funds to the general fund of the school district. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1524",
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A10319-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Duprey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Zebrowski",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to authorize certain school districts to elect to withdraw excess monies from the employee benefit accrued liability reserve fund; and to repeal subdivision 3 of section 33 provisions of the general municipal law, relating to the examination of accounts ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T145924.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295985564236
+}

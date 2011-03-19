@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3503-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A3503-2011-1295931600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Glick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to limiting the use of economic development funds to certain corporations",
+  "summary" : "Relates to restricting the use of economic development funds to business entities where the CEO of such business entity earns a salary which is 25 times greater than that of the lowest paid employee. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Economic Development Law",
+  "previousVersions" : [ "A3099-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the economic development law and the New York state urban development corporation act, in relation to limiting the use of economic development funds to certain corporations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T145924.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295985564244
+}

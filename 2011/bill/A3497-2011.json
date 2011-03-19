@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3497-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to higher education",
+    "billEventId" : "A3497-2011-1295931600000-referred+to+higher+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Eliminates the use of income from pensions of New York state, local governments and the federal government from the calculation of income for the purposes of financial aid",
+  "summary" : "Eliminates the use of income from pensions of New York state, local governments and the federal government from the calculation of income for the purposes of financial aid. ",
+  "currentCommittee" : null,
+  "sameAs" : "S184",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A9890-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to eliminating the use of certain pensions in the determination of the amount of student financial aid ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T145924.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295985564231
+}
