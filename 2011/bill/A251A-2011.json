@@ -1,15 +1,43 @@
 {
   "year" : 2011,
   "senateBillNo" : "A251A-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A251A-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "amend and recommit to codes",
+    "billEventId" : "A251A-2011-1295413200000-amend+and+recommit+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413201000,
+    "eventText" : "print number 251a",
+    "billEventId" : "A251A-2011-1295413201000-print+number+251a",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin (MS)",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the court to consider certain factors when determining the issuance of an order for recognizance or bail",
+  "summary" : "Directs the court to consider certain factors when determining the issuance of an order for recognizance or bail where a principal is charged with a crime against a family or household member, in matters where the court has discretion; and directs the court to consider the danger of intimidation or injury by the principal to a witness. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : [ "A754-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -18,7 +46,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to the consideration of certain factors when determining the issuance of an order of recognizance or bail ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T155824.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T160324.TXT", "SOBI.D110119.T155824.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295470704642
+  "luceneModified" : 1295471004781
 }

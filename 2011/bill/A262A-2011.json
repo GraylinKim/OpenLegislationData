@@ -1,15 +1,43 @@
 {
   "year" : 2011,
   "senateBillNo" : "A262A-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A262A-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "amend and recommit to codes",
+    "billEventId" : "A262A-2011-1295413200000-amend+and+recommit+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413201000,
+    "eventText" : "print number 262a",
+    "billEventId" : "A262A-2011-1295413201000-print+number+262a",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin (MS)",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes penalties for failure to provide a DNA sample and failure to register or verify as a sex offender",
+  "summary" : "Establishes penalties for failure to provide a DNA sample and failure to register or verify as a sex offender; establishes the crimes of failure to provide a DNA sample in the first and second degree and failure to register or verify as a sex offender in the first and second degree. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A628-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -18,7 +46,7 @@
   "actClause" : "AN ACT to amend the penal law and the correction law, in relation to establishing penalties for failure to provide a DNA sample and failure to register or verify as a sex offender ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T155824.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T160324.TXT", "SOBI.D110119.T155824.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295470704650
+  "luceneModified" : 1295471004782
 }
