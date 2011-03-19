@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2673-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A2673-2011-1295413200000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that assessments of self-insurers for the special disability fund shall be based on 110%, rather than 150%, of total disbursements",
+  "summary" : "Provides that assessments of self-insurers, the state insurance fund, and all insurance carriers for the workers' compensation special disability fund shall be based on 110%, rather than 150%, of total disbursements from the fund during the preceding calendar year, less the amount of the fund's net assets as of December 31st of such preceding calendar year. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Workers' Compensation Law",
+  "previousVersions" : [ "A11205-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the workers' compensation law, in relation to the assessment upon self-insurers, the state insurance fund, and all insurance carriers to fund the special disability fund ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T155824.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295470704662
+}

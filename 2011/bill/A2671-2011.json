@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2671-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A2671-2011-1295413200000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to creating a temporary state commission to provide for the dissolution of the New York state thruway authority",
+  "summary" : "Creates a temporary state commission to provide for the dissolution of the New York state thruway authority and the reassignment of the powers and duties thereof; abolishes the New York state thruway authority; provides for the repeal of such provisions upon expiration thereof. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Authorities",
+  "previousVersions" : [ "A2066-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to create a temporary state commission to provide for the dissolution of the New York state thruway authority and the reassignment of the powers, obligations and duties thereof; abolishes the New York state thruway authority; and providing for the repeal of certain provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T155824.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295470704658
+}
