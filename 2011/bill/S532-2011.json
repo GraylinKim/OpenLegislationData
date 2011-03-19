@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S532-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S532-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KLEIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Bans the retail sale of aerosol spray paint to persons under the age of 18",
+  "summary" : null,
+  "currentCommittee" : "CONSUMER PROTECTION",
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292966187008
+}

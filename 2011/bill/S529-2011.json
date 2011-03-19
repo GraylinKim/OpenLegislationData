@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S526-2011",
+  "senateBillNo" : "S529-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S526-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S529-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to sanctions for driving while ability impaired while holding a conditional license",
+  "title" : "Enacts the \"anti-organized retail theft act\"",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "LITTLE",
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT", "SOBI.D101221.T161126.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292966187987
+  "luceneModified" : 1292966187000
 }
