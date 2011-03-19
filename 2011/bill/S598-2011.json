@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT", "SOBI.D101222.T155350.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293049728975
+  "luceneModified" : 1293051230362
 }
