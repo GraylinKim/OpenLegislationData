@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3013-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to mental health",
+    "billEventId" : "A3013-2011-1295586000000-referred+to+mental+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to final judgment in foreclosures by in rem proceedings in the city of Buffalo",
+  "summary" : "Relates to the disposition of surplus funds resulting from a tax lien foreclosure sales in the city of Buffalo; provides that a judgment may be entered, upon request of the tax district, without such district taking title to the property. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Taxation",
+  "previousVersions" : [ "A2097-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT relating to final judgment in foreclosures by in rem proceedings in the city of Buffalo ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T160537.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643937788
+}

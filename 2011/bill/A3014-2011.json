@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3014-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to banks",
+    "billEventId" : "A3014-2011-1295586000000-referred+to+banks",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Alters provisions with respect to the right of set off by banks with respect to social security or supplemental security income deposits",
+  "summary" : "Provides that a banking institution may claim the right of set off against a deposit account if notice of the set off together with the reasons for the set off are mailed to the depositor prior to such action; provides that failure to provide such notice shall result in the forfeiture of the right of set off against the depositor. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Banking Law",
+  "previousVersions" : [ "AA2304-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera J",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the banking law, in relation to the right of set off ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T160537.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295643937789
+}

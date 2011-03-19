@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Raises the minimum and maximum tuition assistance program award an eligible graduate student may receive per semester",
-  "summary" : null,
+  "summary" : "Raises the minimum tuition assistance program award an eligible graduate student may receive per year to five hundred dollars and the maximum tuition assistance award an eligible graduate student may receive per year to eight hundred dollars. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3376-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to increasing the minimum tuition assistance program award for eligible graduate students to five hundred dollars per year and increasing the maximum to eight hundred dollars per year ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T160037.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T160037.TXT", "SOBI.D110121.T160537.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295643637646
+  "luceneModified" : 1295643937790
 }

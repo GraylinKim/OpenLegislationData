@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires patient hospital admissions form allow patient to designate a domestic partner with the same privileges as a next-of-kin respecting authorizing surgery",
-  "summary" : null,
+  "summary" : "Requires that patient hospital admissions form allow patient to designate a domestic partner with the same privileges as a next-of-kin respecting visitation and the authorizing of surgery for a patient in the absence and unavailability of a next-of-kin or nearest relative where the patient has given no specific instructions and becomes unable to execute a health care proxy or make decisions about his/her health care. ",
   "currentCommittee" : null,
   "sameAs" : "S1143",
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3372-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to patient hospital admissions form and authorization for visitation and surgery to be made by domestic partners ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T160037.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T160037.TXT", "SOBI.D110121.T160537.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295643637654
+  "luceneModified" : 1295643937780
 }
