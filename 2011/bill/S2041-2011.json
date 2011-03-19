@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2032-2011",
+  "senateBillNo" : "S2041-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S2032-2011-1295326800000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S2041-2011-1295326800000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Mandates free transfers from subway line terminal to intersecting omnibus lines operated by New York city transit authority and vice versa",
+  "title" : "Makes provisions regarding the denial of applications for licenses and learner's permits",
   "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
-  "pastCommittees" : [ "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS" ],
+  "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT", "SOBI.D110118.T092105.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295360766733
+  "luceneModified" : 1295360766764
 }
