@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that a court may require that a new election be held when there is clear and convincing evidence that the wrong candidate was determined to be the winner",
-  "summary" : null,
+  "summary" : "Provides that a court may require that a new election be held when there is clear and convincing evidence that the wrong candidate was determined to be the winner. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9481-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to court proceedings involving disputed election results ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T144950.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T144950.TXT", "SOBI.D101217.T152507.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292615390412
+  "luceneModified" : 1292617507770
 }

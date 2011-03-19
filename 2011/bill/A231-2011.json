@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the commissioners of the Port Authority of New York and New Jersey",
-  "summary" : null,
+  "summary" : "Relates to the commissioners of the Port Authority of New York and New Jersey; requires that at least one of whom shall be a resident voter from either the county of Dutchess, Orange, Sullivan or Ulster. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Port Authority of New York and New Jersey",
-  "previousVersions" : null,
+  "previousVersions" : [ "A713-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend chapter 154 of the laws of 1921, relating to the port authority of New York and New Jersey, in relation to the commissioners of such authority ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T144950.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T144950.TXT", "SOBI.D101217.T152507.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292615390425
+  "luceneModified" : 1292617507776
 }
