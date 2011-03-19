@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that every banking institution maintaining checking accounts for customers shall pay checks in the order received within account balance",
-  "summary" : null,
+  "summary" : "Provides that every banking institution which maintains checking accounts for customers shall pay checks in the order received within account balance; provides such banks may dishonor check for insufficient funds, but then must honor smaller checks within amounts on deposit in the subject account. ",
   "currentCommittee" : "BANKS",
   "sameAs" : null,
   "lawSection" : "Banking Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S8146-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the banking law, in relation to the order in which a payor bank shall pay checks ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T124650.TXT", "SOBI.D110105.T131653.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T124650.TXT", "SOBI.D110105.T133654.TXT", "SOBI.D110105.T131653.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294251413741
+  "luceneModified" : 1294252614303
 }
