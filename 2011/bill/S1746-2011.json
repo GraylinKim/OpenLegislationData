@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that no person convicted of certain felonies may not file for change of name while incarcerated or under supervised release therefor",
-  "summary" : null,
+  "summary" : "Provides that no person convicted of certain felonies defined under specified laws of this state may file a petition for change of name while such person is incarcerated or under supervised release therefor. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Civil Rights Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2104-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the civil rights law, in relation to prohibiting certain felons from changing their names ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T103956.TXT", "SOBI.D110112.T101455.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T103956.TXT", "SOBI.D110112.T111958.TXT", "SOBI.D110112.T101455.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294846796292
+  "luceneModified" : 1294849198104
 }
