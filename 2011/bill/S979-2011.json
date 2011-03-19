@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "KRUGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "SAMPSON",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the economic development law, the New York state urban development corporation act and the executive law, in relation to small business crime prevention services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T164434.TXT", "SOBI.D110104.T090429.TXT", "SOBI.D110110.T180137.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110103.T162933.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T164434.TXT", "SOBI.D110104.T090429.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110110.T180137.TXT", "SOBI.D110131.T094648.TXT", "SOBI.D110103.T162933.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294700497372
+  "luceneModified" : 1296485208642
 }
