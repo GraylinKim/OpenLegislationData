@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2637-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A2637-2011-1295413200000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the purchase of construction mortgages by the state of New York mortgage agency",
+  "summary" : "Authorizes the state of New York mortgage agency to purchase construction mortgages from banks within the state during periods when there is an inadequate supply of credit available for new residential mortgages or available for such loans at carrying charges within the financial means of persons and families of low and moderate income. ",
+  "currentCommittee" : null,
+  "sameAs" : "S867",
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A4284-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McKevitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to authorizing the state of New York mortgage agency to purchase construction mortgages ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T154323.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295469803123
+}

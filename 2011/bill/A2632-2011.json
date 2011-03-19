@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2632-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2632-2011-1295413200000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the state mortgage agency to originate mortgages which are second liens on real property",
+  "summary" : "Authorizes the state of New York mortgage agency (SONYMA) to originate mortgages constituting a second lien and defines mortgage as a loan owed to a bank or to the agency secured by a second lien on a fee simple or leasehold estate in real property located in the state and improved by a residential structure whether or not insured by the US or any agency thereof; authorizes such agency to purchase rehabilitation mortgages from banks within the state. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A5787-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to the state of New York mortgage agency ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T154323.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295469803106
+}

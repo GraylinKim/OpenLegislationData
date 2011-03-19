@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2633-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2633-2011-1295413200000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides basis for determining primary residency",
+  "summary" : "Provides that non-payment of New York city taxes shall be a prima facie finding that a housing accommodation subject to the emergency housing rent control act is not a person's primary residence as claimed by the delinquent taxpayer and non-payment of NYS taxes shall be a prima facie finding that a housing accommodation subject to the emergency tenant protection act of 1974 is not a person's primary residence. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : [ "A4526-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McDonough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the administrative code of the city of New York and the emergency tenant protection act of nineteen seventy-four, in relation to determining primary residency; and to amend the tax law, in relation to verification of residence ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T154323.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295469803109
+}
