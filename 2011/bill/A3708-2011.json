@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296536400000,
+    "eventText" : "reference changed to racing and wagering",
+    "billEventId" : "A3708-2011-1296536400000-reference+changed+to+racing+and+wagering",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Pretlow",
+    "fullname" : "Pretlow (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to requiring lottery sales agents to return previously purchased lottery tickets to the person submitting them to such agent for verification of prizes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T115853.TXT", "SOBI.D110126.T155310.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T152906.TXT", "SOBI.D110127.T115853.TXT", "SOBI.D110126.T155310.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296147533425
+  "luceneModified" : 1296592146441
 }
