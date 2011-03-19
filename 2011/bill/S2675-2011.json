@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for submission to state board of elections the master ballot layout for statewide offices and issues by counties prior to printing of ballot",
-  "summary" : null,
+  "summary" : "Provides for submission to the state board of elections by the county boards of elections of the master ballot layout for all elections for statewide office, constitutional amendments and all questions provided by law to be submitted to a statewide vote. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S460-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to ballot proposals ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T123255.TXT", "SOBI.D110128.T120252.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T120252.TXT", "SOBI.D110128.T123255.TXT", "SOBI.D110128.T124256.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296235975195
+  "luceneModified" : 1296236576485
 }
