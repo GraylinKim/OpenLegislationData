@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "OPPENHEIMER",
     "branch" : null,
     "contactInfo" : null,
@@ -74,7 +81,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to applications for absentee ballots for school district elections ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T175532.TXT", "SOBI.D110110.T132106.TXT", "SOBI.D110111.T142713.TXT", "SOBI.D110119.T124812.TXT", "SOBI.D110110.T131104.TXT", "SOBI.D110110.T124102.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T175532.TXT", "SOBI.D110110.T132106.TXT", "SOBI.D110111.T142713.TXT", "SOBI.D110110.T131104.TXT", "SOBI.D110119.T124812.TXT", "SOBI.D110110.T124102.TXT", "SOBI.D110121.T093012.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295459292721
+  "luceneModified" : 1295620212224
 }
