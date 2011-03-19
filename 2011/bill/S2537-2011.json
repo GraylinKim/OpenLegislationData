@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2537-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S2537-2011-1295931600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to fishing license fees in the county of Onondaga",
+  "summary" : null,
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "VALESKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T100901.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295968141915
+}
