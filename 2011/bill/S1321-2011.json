@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "AVELLA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring surfaces of certain motor vehicles to be cleared of accumulated snow, sleet, or hail ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T154231.TXT", "SOBI.D110106.T152729.TXT", "SOBI.D110106.T160806.TXT", "SOBI.D110110.T144614.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T152729.TXT", "SOBI.D110106.T154231.TXT", "SOBI.D110111.T100648.TXT", "SOBI.D110106.T160806.TXT", "SOBI.D110110.T144614.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294688774075
+  "luceneModified" : 1294758408195
 }

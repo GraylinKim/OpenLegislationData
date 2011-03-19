@@ -1,24 +1,227 @@
 {
   "year" : 2011,
   "senateBillNo" : "A805-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A805-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the prescription drug discount program; repealer",
+  "summary" : "Establishes the prescription drug discount program; establishes that the purpose of the program is to provide access to prescription drugs to participants at a discounted price and to allow for the negotiating of rebates that are exempt from the \"best price\" rule of the federal social security act; provides for the distribution of rebate funds and repeals a certain provision of the public health law relating thereto. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
-  "coSponsors" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "AB2007-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Silver",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Mayersohn",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Bing",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cymbrowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera J",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magnarelli",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Zebrowski",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ramos",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          805\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  M. of A. GOTTFRIED, SILVER, PAULIN, MAYERSOHN, DINOWITZ,\n         CAHILL, PEOPLES-STOKES, BING, GALEF, GUNTHER,  CYMBROWITZ,  J. RIVERA,\n         ENGLEBRIGHT,   ORTIZ,  ROBINSON,  DESTITO,  HOOPER,  HOYT,  ROSENTHAL,\n         JAFFEE, MAGNARELLI, MAISEL, LANCMAN, CLARK, TITONE, ZEBROWSKI,  RAMOS,\n         COLTON  -- Multi-Sponsored by -- M. of A. BENEDETTO, BOYLAND, BRENNAN,\n         BROOK-KRASNY, FARRELL, GLICK, HEASTIE, HIKIND, JACOBS, KELLNER, LATIM-\n         ER, LAVINE, LIFTON, V. LOPEZ, LUPARDO, MAGEE, MARKEY, McENENY,  McKEV-\n         ITT,  MILLMAN,  MOLINARO,  PERRY, PHEFFER, PRETLOW, REILLY, P. RIVERA,\n         SCARBOROUGH, SPANO, SWEENEY, TITUS, WEISENBERG, WRIGHT  --  read  once\n         and referred to the Committee on Health\n\n       AN  ACT  to  amend  the  public  health law, in relation to creating the\n         prescription drug discount program and to repeal certain provisions of\n         the public health law relating thereto\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Legislative  findings  and declaration.   The legislature\n    2  hereby finds and declares that the high and rising cost of  prescription\n    3  drugs  limits  access to those of limited means. It makes it more likely\n    4  that they will become eligible for Medicaid, imposing increased costs on\n    5  Medicaid.\n    6    The legislature therefore declares that it is  an  appropriate  public\n    7  purpose  and  in the public interest for New York to exercise the powers\n    8  of the state to provide its residents with means and methods of reducing\n    9  the high cost of prescription drugs and avoid  increased  costs  to  the\n   10  Medicaid  program,  and  that  the  prescription drug assistance program\n   11  created by this act is consistent with these public purposes.\n   12    The legislature further declares that the purpose of this  act  is  to\n   13  help  reduce  the  cost  of and improve access to prescription drugs, by\n   14  providing a means to organize and thus maximize  the  market  purchasing\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD02361-01-1\n\n       A. 805                              2\n\n    1  power  of  consumers  to earn revenue from supplier rebates and use that\n    2  revenue to make prescription drugs more affordable.\n    3    The  legislature  further  declares  its intent that the program, as a\n    4  state prescription drug assistance program and  as  a  program  to  help\n    5  avoid  increased costs to the Medicaid program, shall be able to negoti-\n    6  ate rebates that are exempt from the \"best price\" rule of title  XIX  of\n    7  the federal social security act.\n    8    S  2. Sections 270 through 277 of article 2-A of the public health law\n    9  are designated title I and a new title  heading  is  added  to  read  as\n   10  follows:\n   11              PREFERRED DRUG AND CLINICAL DRUG REVIEW PROGRAMS\n   12    S  3.  Article 2-A of the public health law is amended by adding a new\n   13  title II to read as follows:\n   14                                   TITLE II\n   15                       PRESCRIPTION DRUG DISCOUNT CARD\n   16  SECTION 280.   DEFINITIONS.\n   17          280-A. PRESCRIPTION DRUG DISCOUNT PROGRAM.\n   18          280-B. CONTRACTS.\n   19          280-C. REBATES.\n   20          280-D. RETAIL DISCOUNT PRICES.\n   21          280-E. DISTRIBUTION OF REBATE FUNDS.\n   22          280-F. REGISTRATION OF PARTICIPANTS.\n   23          280-G. EDUCATION AND OUTREACH.\n   24    S 280. DEFINITIONS. FOR PURPOSES OF THIS TITLE,  THE  FOLLOWING  TERMS\n   25  SHALL  HAVE  THE  FOLLOWING MEANINGS, UNLESS THE CONTEXT REQUIRES OTHER-\n   26  WISE:\n   27    1. \"CONTRACTOR\" IS ANY PUBLIC, PRIVATE, OR NOT-FOR-PROFIT ENTITY  WITH\n   28  WHICH  THE  COMMISSIONER  CONTRACTS FOR THE PURPOSE OF ADMINISTERING ANY\n   29  ELEMENT OF THE PROGRAM OR PROVIDING TECHNICAL OR  CLINICAL  SUPPORT  FOR\n   30  THE PROGRAM. THERE MAY BE ONE OR MORE CONTRACTORS.\n   31    2.  \"COVERED DRUG\" MEANS A PRESCRIPTION DRUG THAT IS DESIGNATED BY THE\n   32  COMMISSIONER TO BE SUBJECT  TO  PURCHASE  BY  A  PARTICIPANT  UNDER  THE\n   33  PROGRAM UNDER SECTION TWO HUNDRED EIGHTY-C OF THIS TITLE.\n   34    3.  \"FIDUCIARY  RELATIONSHIP\" MEANS A RELATIONSHIP IN WHICH ONE PERSON\n   35  OR ENTITY IS UNDER A DUTY TO ACT FOR THE BENEFIT OF THE OTHER PERSON  OR\n   36  ENTITY  IN THE RELATIONSHIP ON MATTERS WITHIN THE SCOPE OF THE RELATION-\n   37  SHIP, AND OWES A DUTY OF GOOD FAITH, TRUST, CONFIDENCE,  AND  CANDOR  TO\n   38  THE OTHER PERSON OR ENTITY.\n   39    4.  \"MANUFACTURER\"  HAS  THE  SAME  MEANING  ASCRIBED  TO SUCH TERM IN\n   40  SECTION NINETEEN HUNDRED TWENTY-SEVEN OF  THE  FEDERAL  SOCIAL  SECURITY\n   41  ACT.\n   42    5.  \"PARTICIPANT\"  MEANS  A  NATURAL  PERSON WHO MEETS THE ELIGIBILITY\n   43  GUIDELINES ESTABLISHED IN SECTION TWO HUNDRED EIGHTY-F OF THIS TITLE AND\n   44  REGISTERS TO PARTICIPATE IN THE PROGRAM.\n   45    6.  \"PARTICIPATING  RETAILER\"  MEANS  ANY  PERSON  OR  ENTITY  SELLING\n   46  PRESCRIPTION  DRUGS AT RETAIL PRICES THAT IS REGISTERED AS A PARTICIPAT-\n   47  ING RETAILER IN THE PROGRAM.\n   48    7. \"PROGRAM\" MEANS THE PRESCRIPTION DRUG DISCOUNT PROGRAM  ESTABLISHED\n   49  BY THIS TITLE.\n   50    8.  \"REBATE AGREEMENT\" MEANS AN AGREEMENT EXECUTED WITH A MANUFACTURER\n   51  OR OTHER ENTITY TO PROVIDE REBATES  TO  THE  PROGRAM  PURSUANT  TO  THIS\n   52  TITLE.\n   53    S  280-A. PRESCRIPTION DRUG DISCOUNT PROGRAM. 1. THE PRESCRIPTION DRUG\n   54  DISCOUNT PROGRAM IS HEREBY ESTABLISHED IN THE  DEPARTMENT.  ITS  PURPOSE\n   55  SHALL  BE  TO  PROVIDE  ACCESS  TO PRESCRIPTION DRUGS TO PARTICIPANTS AT\n   56  DISCOUNTED COST, AND TO OBTAIN APPROPRIATE REBATES  FROM  MANUFACTURERS,\n\n       A. 805                              3\n\n    1  AS  AUTHORIZED  IN  THIS  TITLE. FOR THE PURPOSES OF MARKETING AND OTHER\n    2  PURPOSES, THE COMMISSIONER MAY CHOOSE  ANOTHER  NAME  FOR  THE  PROGRAM;\n    3  PROVIDED,  HOWEVER,  THAT  ANY  SUCH CHANGE OF NAME SHALL NOT AFFECT THE\n    4  LEGAL  DESCRIPTION  OR INTENT  OF THE PROGRAM, OR ITS EXEMPTION, IF ANY,\n    5  FROM THE \"BEST PRICE\" RULE OF TITLE XIX OF THE FEDERAL  SOCIAL  SECURITY\n    6  ACT.  THE  PROGRAM  SHALL  BE  ADMINISTERED  IN  A MANNER THAT MAXIMIZES\n    7  SAVINGS FOR THE PARTICIPANTS CONSISTENT WITH THIS TITLE WHILE MINIMIZING\n    8  ANY COST TO THE STATE,  INCLUDING  COORDINATING  OR  COMBINING  ADMINIS-\n    9  TRATION OF ANY ASPECT OF THE PROGRAM WITH MEDICAID OR EPIC TO THE EXTENT\n   10  CONSISTENT WITH THE INTERESTS OF THOSE PROGRAMS AND THEIR PARTICIPANTS.\n   11    2.  THE COMMISSIONER MAY REQUIRE EVERY MANUFACTURER PARTICIPATING IN A\n   12  REBATE AGREEMENT, EVERY PARTICIPANT AND EVERY PARTICIPATING RETAILER  TO\n   13  PROVIDE ANY INFORMATION, AND MAY CONDUCT SUCH AUDITS AND INVESTIGATIONS,\n   14  AS REASONABLY NECESSARY FOR EFFECTIVE ADMINISTRATION OF THE PROGRAM. ALL\n   15  INDIVIDUAL  IDENTIFYING  INFORMATION RELATING TO ANY PATIENT OR CONSUMER\n   16  ACQUIRED BY THE PROGRAM SHALL BE KEPT CONFIDENTIAL BY  THE  COMMISSIONER\n   17  AND  SHALL  BE USED SOLELY FOR THE PURPOSE OF ADMINISTERING THE PROGRAM.\n   18  ANY MATTER RELATING TO TRADE OR COMPETITIVE SECRETS OF MANUFACTURERS AND\n   19  PARTICIPATING RETAILERS, AND ANY MATTER CONCERNING PRICING  AND  PROFIT,\n   20  WHICH  IS  OBTAINED  PURSUANT  TO  THIS  SUBDIVISION, OR PURSUANT TO ANY\n   21  INVESTIGATION OR AUDIT AUTHORIZED PURSUANT TO THIS  TITLE,  OR  OBTAINED\n   22  INDIRECTLY  BY  ANY OTHER AUDITS OR INVESTIGATIONS, SHALL BE KEPT CONFI-\n   23  DENTIAL.\n   24    3. IF THE IMPLEMENTATION OF THE PROGRAM REQUIRES ANY FEDERAL  APPROVAL\n   25  OR WAIVER, THE COMMISSIONER SHALL EXPEDITIOUSLY APPLY FOR AND USE HIS OR\n   26  HER BEST EFFORTS TO OBTAIN SUCH APPROVAL OR WAIVER, CONSISTENT WITH THIS\n   27  TITLE AND ANY STATE LAW APPLICABLE TO MEDICAID OR EPIC.\n   28    4.  THE  COMMISSIONER  MAY  MAKE  REGULATIONS  AND ESTABLISH TERMS AND\n   29  CONDITIONS CONSISTENT WITH THIS TITLE  AND  OTHER  APPLICABLE  LAW,  FOR\n   30  IMPLEMENTATION OF THE PROGRAM.\n   31    S 280-B. CONTRACTS. 1. THE COMMISSIONER MAY CONTRACT WITH, OR AMEND AN\n   32  EXISTING  CONTRACT  WITH, ONE OR MORE PUBLIC, PRIVATE, OR NOT-FOR-PROFIT\n   33  ENTITIES TO ADMINISTER ANY AND ALL  COMPONENTS  OF  THE  PROGRAM  OR  TO\n   34  PROVIDE TECHNICAL OR CLINICAL SUPPORT FOR THE PROGRAM.\n   35    2.  (A)  EVERY CONTRACTOR SHALL HAVE A FIDUCIARY RELATIONSHIP WITH AND\n   36  OBLIGATION TO THE COMMISSIONER AND THE PROGRAM.\n   37    (B) ALL FUNDS RECEIVED BY ANY CONTRACTOR IN RELATION  TO  THE  PROGRAM\n   38  SHALL  BE RECEIVED BY THE CONTRACTOR SOLELY ON BEHALF OF THE PROGRAM FOR\n   39  USE OR DISTRIBUTION ONLY PURSUANT TO THIS TITLE, INCLUDING THE  CONTRAC-\n   40  TOR'S  CONTRACT  WITH THE COMMISSIONER; EXCEPT FOR ANY PAYMENT EXPRESSLY\n   41  PROVIDED FOR IN THE  CONTRACT  TO  COMPENSATE  THE  CONTRACTOR  FOR  ITS\n   42  SERVICES. THE CONTRACTOR SHALL ACCOUNT TO THE COMMISSIONER FOR ALL FUNDS\n   43  RECEIVED AND PROCESSED BY THE CONTRACTOR IN RELATION TO THE PROGRAM. THE\n   44  COMMISSIONER  AND  THE  COMPTROLLER  SHALL  HAVE ACCESS TO ALL BOOKS AND\n   45  RECORDS OF THE CONTRACTOR IN RELATION TO THE PROGRAM.\n   46    (C) THE CONTRACTOR SHALL DISCLOSE TO THE COMMISSIONER  AND  THE  COMP-\n   47  TROLLER  THE TERMS AND CONDITIONS OF ANY CONTRACT OR ARRANGEMENT BETWEEN\n   48  THE CONTRACTOR AND ANY PARTY RELATING TO THE PROGRAM.\n   49    S 280-C. REBATES. 1. THE COMMISSIONER SHALL ENTER INTO AGREEMENTS WITH\n   50  MANUFACTURERS TO ACHIEVE  REBATES  FROM  MANUFACTURERS  FOR  THEIR  DRUG\n   51  PRODUCTS PURCHASED BY PARTICIPANTS THROUGH THE PROGRAM.\n   52    2.  THE  COMMISSIONER  SHALL USE BEST EFFORTS TO MAXIMIZE THE LEVEL OF\n   53  REBATES OBTAINED FROM MANUFACTURERS TO THE EXTENT ALLOWABLE  BY  LAW  OR\n   54  REGULATION.  THE  COMMISSIONER  MAY  SEEK ANY FEDERAL APPROVAL NEEDED TO\n   55  ENSURE REBATES RECEIVED UNDER THIS PROGRAM ARE EXCLUDED FROM  THE  DEFI-\n\n       A. 805                              4\n\n    1  NITION  OF  \"BEST  PRICE\" UNDER SECTION NINETEEN HUNDRED TWENTY-SEVEN OF\n    2  THE FEDERAL SOCIAL SECURITY ACT.\n    3    3.  TO ADVANCE THE PURPOSES OF THE PROGRAM, THE COMMISSIONER MAY COOR-\n    4  DINATE NEGOTIATIONS UNDER THE PROGRAM WITH GOVERNMENTAL AND  NON-GOVERN-\n    5  MENTAL ENTITIES, IN THIS STATE OR ELSEWHERE.\n    6    4. THE COMMISSIONER SHALL DESIGNATE DRUGS TO BE SUBJECT TO PURCHASE BY\n    7  PARTICIPANTS  UNDER  THE PROGRAM. THE COMMISSIONER MAY LIMIT DESIGNATION\n    8  UNDER THE PROGRAM TO DRUGS COVERED BY A REBATE AGREEMENT.\n    9    5. THE COMMISSIONER MAY SEEK SUPPLEMENTAL REBATES  FROM  MANUFACTURERS\n   10  CONSISTENT WITH THOSE REBATES PROVIDED TO THE MEDICAID PROGRAM FOR DRUGS\n   11  ON  THE  PREFERRED  DRUG  LIST PURSUANT TO TITLE ONE OF THIS ARTICLE. IN\n   12  EXCHANGE FOR THE PROVISION OF SUCH REBATES, THE COMMISSIONER MAY  DESIG-\n   13  NATE  SUCH DRUGS AS PREFERRED DRUGS IN PROGRAM MARKETING AND EDUCATIONAL\n   14  ACTIVITIES AND  MATERIALS.  THE  COMMISSIONER  IS  AUTHORIZED  TO  LIMIT\n   15  PROGRAM  COVERAGE  OF  DRUGS  IN  THERAPEUTIC  CLASSES  INCLUDED  IN THE\n   16  PREFERRED DRUG PROGRAM TO THOSE ON THE PREFERRED DRUG LIST.\n   17    S 280-D. RETAIL DISCOUNT PRICES. 1. A PERSON OR ENTITY  MAY  BECOME  A\n   18  PARTICIPATING  RETAILER  BY  AGREEING  TO  THE  TERMS  AND CONDITIONS OF\n   19  PROGRAM PARTICIPATION, AND MEETING QUALIFICATIONS, AS ESTABLISHED BY THE\n   20  COMMISSIONER. THE COMMISSIONER MAY REQUIRE PERIODIC RE-REGISTRATION.\n   21    2. A PARTICIPATING RETAILER MAY NOT CHARGE A PARTICIPANT A PRICE FOR A\n   22  COVERED DRUG WHICH IS HIGHER  THAN  THE  AMOUNT  PAID  BY  THE  MEDICAID\n   23  PROGRAM  PURSUANT  TO  SECTION THREE HUNDRED SIXTY-SEVEN-A OF THE SOCIAL\n   24  SERVICES LAW, LESS THE APPLICABLE REBATE AMOUNT ADVANCED BY THE  PROGRAM\n   25  IN ACCORDANCE WITH SECTION TWO HUNDRED EIGHTY-E OF THIS TITLE.\n   26    S  280-E.  DISTRIBUTION OF REBATE FUNDS. 1. THE APPROPRIATE CONTRACTOR\n   27  SHALL EXPEDITIOUSLY MAKE PAYMENTS TO  PARTICIPATING  RETAILERS  FOR  THE\n   28  ESTIMATED REBATE AMOUNTS, RELATING TO COVERED DRUGS DISPENSED BY PARTIC-\n   29  IPATING  RETAILERS TO PROGRAM PARTICIPANTS, SUBJECT TO SUBSEQUENT RECON-\n   30  CILIATION AGAINST ACTUAL REBATES COLLECTED FROM MANUFACTURERS. RECONCIL-\n   31  IATION SHALL NOT REQUIRE RECOUPMENT FROM OR PAYMENTS TO PARTICIPANTS  OR\n   32  PARTICIPATING  RETAILERS  FOR  PREVIOUS PURCHASES UNDER THE PROGRAM, BUT\n   33  MAY INCLUDE, AS APPROPRIATE, PROVISION FOR ADJUSTMENT AGAINST  ESTIMATED\n   34  REBATE AMOUNTS FACTORED INTO FUTURE PRICES TO BE PAID BY PARTICIPANTS.\n   35    2.  THE COMMISSIONER MAY MAKE ARRANGEMENTS WITH MANUFACTURERS CONCERN-\n   36  ING THE TIMING OR STRUCTURE OF THE REBATE PAYMENTS  AS  IN  HIS  OR  HER\n   37  DETERMINATION SHALL BEST FACILITATE LOWER PRICES FOR PARTICIPANTS, EXPE-\n   38  DITIOUS PAYMENT OF REBATES AND EFFICIENT ADMINISTRATION OF THE PROGRAM.\n   39    S  280-F.  REGISTRATION  OF  PARTICIPANTS.  1.  TO BE ELIGIBLE TO BE A\n   40  PARTICIPANT, A PERSON SHALL BE A RESIDENT OF  NEW  YORK,  REGARDLESS  OF\n   41  AGE, WHO HAS A HOUSEHOLD INCOME EQUAL TO OR LESS THAN THE GREATER OF (A)\n   42  THREE HUNDRED FIFTY PERCENT OF THE FEDERAL POVERTY LEVEL FOR A HOUSEHOLD\n   43  OF  THAT SIZE (AS DEFINED AND UPDATED BY THE UNITED STATES DEPARTMENT OF\n   44  HEALTH AND HUMAN SERVICES); OR (B) THE INCOME ELIGIBILITY LEVELS  ESTAB-\n   45  LISHED  UNDER SUBDIVISION ONE OR TWO OF SECTION TWO HUNDRED FORTY-TWO OF\n   46  THE ELDER LAW, IS NOT IN RECEIPT  OF  MEDICAID,  AND  MEETS  SUCH  OTHER\n   47  REQUIREMENTS  AS  THE  COMMISSIONER  MAY  ESTABLISH CONSISTENT WITH THIS\n   48  TITLE. ANY PERSON ENROLLED IN THE  PRESCRIPTION  DRUG  DISCOUNT  PROGRAM\n   49  UNDER SECTION TWO HUNDRED EIGHTY-H OF THIS TITLE SHALL BE ELIGIBLE TO BE\n   50  A PARTICIPANT UNDER THIS PROGRAM.\n   51    2. ANY PERSON ELIGIBLE TO BE A PARTICIPANT MAY BECOME A PARTICIPANT IN\n   52  THE PROGRAM BY REGISTERING WITH THE PROGRAM.  ANY PERSON ENROLLED IN THE\n   53  PRESCRIPTION DRUG DISCOUNT PROGRAM UNDER SECTION TWO HUNDRED EIGHTY-H OF\n   54  THIS TITLE SHALL AUTOMATICALLY BE REGISTERED BY THE COMMISSIONER IN THIS\n   55  PROGRAM.\n\n       A. 805                              5\n\n    1    3.  THE COMMISSIONER SHALL ADVISE EACH APPLICANT THAT THE PROGRAM DOES\n    2  NOT APPLY TO ANY PRESCRIPTION DRUG PURCHASE FOR WHICH REIMBURSEMENT  (IN\n    3  WHOLE OR IN PART) IS PROVIDED BY ANY THIRD-PARTY PAYER. THE COMMISSIONER\n    4  MAY  REQUIRE PERIODIC RE-REGISTRATION AND MAY REQUIRE THE PARTICIPANT TO\n    5  INFORM  THE  PROGRAM  OF  ANY  CHANGE  IN  THE INFORMATION PROVIDED. THE\n    6  COMMISSIONER SHALL MAKE THE APPLICATION PROCESS AS SIMPLE AS  REASONABLY\n    7  POSSIBLE TO MAXIMIZE PARTICIPATION IN THE PROGRAM CONSISTENT WITH PROPER\n    8  ADMINISTRATION OF THIS TITLE.\n    9    4.  THE COMMISSIONER SHALL REVIEW ALL APPLICATIONS TO DETERMINE IF THE\n   10  APPLICANT APPEARS TO MEET THE ELIGIBILITY REQUIREMENTS  FOR  THE  FAMILY\n   11  HEALTH  PLUS  PROGRAM  UNDER  SECTION THREE HUNDRED SIXTY-NINE-EE OF THE\n   12  SOCIAL SERVICES LAW, THE CHILD HEALTH INSURANCE  PROGRAM  UNDER  SECTION\n   13  TWENTY-FIVE  HUNDRED TEN AND TWENTY-FIVE HUNDRED ELEVEN OF THIS CHAPTER,\n   14  OR MEDICAL ASSISTANCE UNDER ARTICLE FIVE OF THE SOCIAL SERVICES LAW.  IF\n   15  THE  APPLICANT  DOES  APPEAR TO MEET ELIGIBILITY REQUIREMENTS FOR ANY OF\n   16  THOSE PROGRAMS, THE COMMISSIONER SHALL, IN ADDITION TO ANY OTHER ACTIONS\n   17  TAKEN UNDER THIS TITLE,  PROVIDE  THE  APPLICANT  WITH  INFORMATION  AND\n   18  ENROLLMENT  MATERIAL ABOUT SUCH OTHER PROGRAM. HOWEVER, THE COMMISSIONER\n   19  SHALL REGISTER THE APPLICANT UNDER THIS  SECTION  IF  THE  APPLICANT  IS\n   20  OTHERWISE ELIGIBLE.\n   21    S 280-G. EDUCATION AND OUTREACH. THE COMMISSIONER SHALL CONDUCT EDUCA-\n   22  TION  AND  OUTREACH  TO  PROMOTE  THE  PROGRAM AND TO ENCOURAGE ELIGIBLE\n   23  PERSONS AND ENTITIES TO BECOME PARTICIPANTS AND PARTICIPATING RETAILERS.\n   24    S 4. Section 280 of the public health law, as added by section  75  of\n   25  part  C  of chapter 58 of the laws of 2008, is renumbered section 280-h,\n   26  and amended to read as follows:\n   27    S 280-h. Prescription drug discount program.  1. The prescription drug\n   28  discount program is hereby established in  the  department.    The  drug\n   29  discount  card  shall  be  available to any resident between the ages of\n   30  fifty and sixty-four, and any resident of any age who  has  been  deter-\n   31  mined  to  meet  the  disability  criteria in 20 C.F.R. S 404.1505, who:\n   32  meets the income eligibility levels established under subdivision one or\n   33  two of section two hundred forty-two of the elder law; is not in receipt\n   34  of medical assistance under title eleven of article five of  the  social\n   35  services  law.  The  drug  discount  card  shall offer discounts on drug\n   36  purchases which are not covered by other public or private  third  party\n   37  payment  sources.    Provided, however, that participation by a provider\n   38  pharmacy and drug manufacturers shall be voluntary and reimbursement  to\n   39  the  provider  pharmacy  under  the  drug discount card program shall be\n   40  adjudicated and paid within two business days for any rebates,  dispens-\n   41  ing  fees  and  drug  costs  not  paid by the resident eligible for such\n   42  program at the point of sale.\n   43    2. THE COMMISSIONER SHALL, AS EXPEDITIOUSLY AS POSSIBLE, INTEGRATE THE\n   44  OPERATION OF THE PRESCRIPTION DRUG DISCOUNT PROGRAM UNDER  THIS  SECTION\n   45  WITH  THE  PRESCRIPTION  DRUG DISCOUNT PROGRAM UNDER SECTION TWO HUNDRED\n   46  EIGHTY-A OF THIS TITLE. WHEN THE COMMISSIONER BEGINS REGISTERING PARTIC-\n   47  IPANTS UNDER SECTION TWO HUNDRED EIGHTY-A OF THIS TITLE, HE OR SHE SHALL\n   48  CEASE ENROLLING PARTICIPANTS UNDER THIS SECTION.  ANY PERSON ENROLLED IN\n   49  THE PROGRAM UNDER THIS SECTION SHALL BE AUTOMATICALLY REGISTERED BY  THE\n   50  COMMISSIONER  IN  THE PROGRAM UNDER SECTION TWO HUNDRED EIGHTY-A OF THIS\n   51  TITLE.\n   52    S 5. Section 280-h of the public health law,  as  amended  by  section\n   53  four of this act, is REPEALED.\n   54    S  6. Severability.   If any provision of this act, or any application\n   55  of any provision of this act, is held to be invalid,  or  ruled  by  any\n   56  federal agency to violate or be inconsistent with any applicable federal\n\n       A. 805                              6\n\n    1  law  or  regulation, that shall not affect the validity or effectiveness\n    2  of any other provision of this act, or of any other application  of  any\n    3  provision of this act.\n    4    S 7. This act shall take effect immediately; provided, however that:\n    5    (a)  the  amendments  to  article 2-A of the public health law made by\n    6  sections two and four of this act shall not affect the  repeal  of  such\n    7  article and shall be deemed repealed therewith;\n    8    (b)  section  five  of  this  act shall take effect on the one hundred\n    9  eightieth day after this act shall have become a law;\n   10    (c) any  rebate  payment  due  from  any  drug  manufacturer  and  any\n   11  reimbursement  due under section 280-h of the public health law shall be\n   12  paid notwithstanding the repeal of section 280-h made by section five of\n   13  this act; and\n   14    (d) the amendments to article 2-A of the public  health  law  made  by\n   15  section  three  of  this  act shall survive the expiration and repeal of\n   16  such article as provided in section 79 of part C of chapter  58  of  the\n   17  laws of 2005, as amended.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to creating the prescription drug discount program and to repeal certain provisions of the public health law relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T102050.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T100648.TXT", "SOBI.D110110.T102050.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294672850018
+  "luceneModified" : 1294758408199
 }
