@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1112-2011",
+  "senateBillNo" : "S1113-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S1112-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "billEventId" : "S1113-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes utility corporations, telegraph and telephone corporations, and cable television corporations to provide notice of bills to third parties",
+  "title" : "Relates to facilities of refuge",
   "summary" : null,
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "Public Service Law",
+  "lawSection" : "Energy Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "PERKINS",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SQUADRON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T112622.TXT", "SOBI.D110105.T112118.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T112622.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294244782244
+  "luceneModified" : 1294244782246
 }
