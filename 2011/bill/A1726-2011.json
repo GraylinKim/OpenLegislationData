@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1722-2011",
+  "senateBillNo" : "A1726-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
     "eventText" : "referred to corporations, authorities and commissions",
-    "billEventId" : "A1722-2011-1294722000000-referred+to+corporations%2C+authorities+and+commissions",
+    "billEventId" : "A1726-2011-1294722000000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,44 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Eliminates the MTA's exemption from environmental quality review standards established by article 8 of the environmental conservation law",
-  "summary" : "Eliminates the MTA's exemption from environmental quality review standards established by article 8 of the environmental conservation law. ",
+  "title" : "Requires the MTA to hold hearings in each county that is allocated a voting member of the MTA before proposed changes in services or fares can take effect",
+  "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S1386",
+  "sameAs" : null,
   "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "A3379-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Glick",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Gottfried",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Maisel",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Colton",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Brennan",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -69,42 +41,91 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Mayersohn",
+    "fullname" : "Meng",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Kellner",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Molinaro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -113,10 +134,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public authorities law, in relation to eliminating the metropolitan commuter transportation authority's environmental quality review exemption ",
+  "actClause" : "AN ACT to amend the public authorities law, in relation to requiring the metropolitan transportation authority to hold hearings in each county that is allocated a voting member of the metropolitan transportation authority on separate days before any proposed changes in services or fares are implemented ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T143714.TXT", "SOBI.D110111.T144215.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T144215.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294774935191
+  "luceneModified" : 1294774935208
 }

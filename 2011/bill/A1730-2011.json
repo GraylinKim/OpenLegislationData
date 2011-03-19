@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1722-2011",
+  "senateBillNo" : "A1730-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "referred to corporations, authorities and commissions",
-    "billEventId" : "A1722-2011-1294722000000-referred+to+corporations%2C+authorities+and+commissions",
+    "eventText" : "referred to codes",
+    "billEventId" : "A1730-2011-1294722000000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,58 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Eliminates the MTA's exemption from environmental quality review standards established by article 8 of the environmental conservation law",
-  "summary" : "Eliminates the MTA's exemption from environmental quality review standards established by article 8 of the environmental conservation law. ",
+  "title" : "Enacts provisions relating to the trafficking of weapons and for the firearm, rifle and shotgun ballistic identification bank",
+  "summary" : "Enacts provisions relating to the trafficking of weapons and for the firearm, rifle and shotgun ballistic identification bank; phases in reporting requirements for firearms and weapons. ",
   "currentCommittee" : null,
-  "sameAs" : "S1386",
-  "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "A3379-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A4618-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Glick",
+    "fullname" : "Camara",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Maisel",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Colton",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Millman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Dinowitz",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -83,28 +48,42 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Mayersohn",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Bing",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kellner",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -113,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public authorities law, in relation to eliminating the metropolitan commuter transportation authority's environmental quality review exemption ",
+  "actClause" : "AN ACT to amend the executive law and the general business law, in relation to gun trafficking and the firearm, rifle and shotgun ballistic identification databank ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T143714.TXT", "SOBI.D110111.T144215.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T144215.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294774935191
+  "luceneModified" : 1294774935221
 }

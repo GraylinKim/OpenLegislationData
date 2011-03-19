@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1732-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1732-2011-1294722000000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants legislative minority leaders the right to participate in budget negotiations",
+  "summary" : "Grants legislative minority leaders the right to participate in budget negotiations; defines budget negotiations as any formal or informal meetings conducted by or called at the request of the governor, the temporary president of the senate or the speaker of the assembly. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Legislative Law",
+  "previousVersions" : [ "A10352-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the legislative law, in relation to granting the minority leaders of the legislature the right to participate in budget negotiations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T144215.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294774935228
+}

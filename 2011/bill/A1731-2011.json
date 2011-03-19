@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1731-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A1731-2011-1294722000000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to regulation of pet dealers by municipalities",
+  "summary" : "Provides for regulation of pet dealers by municipalities; relates to preemption of local laws and pet dealers. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1262",
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "AB8162-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law and the general business law, in relation to local laws and the regulation of pet dealers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T144215.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294774935226
+}

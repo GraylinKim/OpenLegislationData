@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A541-2011-1294722000000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Dinowitz (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to a notice of exemption for senior citizens ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T101851.TXT", "SOBI.D110104.T104452.TXT", "SOBI.D110110.T152618.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T101851.TXT", "SOBI.D110104.T104452.TXT", "SOBI.D110110.T152618.TXT", "SOBI.D110111.T144215.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294691178197
+  "luceneModified" : 1294774935237
 }

@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1729-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1729-2011-1294722000000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Revises proceedings to recover possession to prevent avoidable eviction and resulting homelessness; requires improved notice to the respondent",
+  "summary" : "Revises proceedings to recover possession of premises located in a multiple dwelling; requires premises to be registered with the local agency responsible for code enforcement; petition shall be stated in plain language and include notice of the rights of the respondent and a statement of any outstanding code violations on the premises and whether rent payments from a public assistance office is being withheld therefor; provides civil penalties for willful misstatements on such petition. ",
+  "currentCommittee" : null,
+  "sameAs" : "S451",
+  "lawSection" : "Real Property Actions and Proceedings Law",
+  "previousVersions" : [ "A5676-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez V",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to proceedings to recover possession ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T144215.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294774935217
+}

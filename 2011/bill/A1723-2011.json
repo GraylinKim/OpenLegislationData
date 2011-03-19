@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1723-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A1723-2011-1294722000000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to unemployment insurance benefits for professional employment by certain educational institutions",
+  "summary" : "Provides that an offer of employment or assignment made to a part-time faculty employee by a higher education institution which is contingent on enrollment, funding, or programmatic changes shall not constitute reasonable assurance of continued employment. ",
+  "currentCommittee" : null,
+  "sameAs" : "S727",
+  "lawSection" : "Labor Law",
+  "previousVersions" : [ "AA613-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the labor law, in relation to unemployment insurance benefits for professional employment by certain education institutions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T144215.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294774935195
+}

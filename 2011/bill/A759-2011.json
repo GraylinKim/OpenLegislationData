@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported",
+    "billEventId" : "A759-2011-1294722000000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Dinowitz (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the elder law, in relation to the senior citizen energy packaging pilot program and making technical changes thereto; and to repeal section 221 of such law relating to the legislative intent underlying the senior citizen energy packaging pilot program ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T114957.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110110.T152618.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T114957.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110110.T152618.TXT", "SOBI.D110111.T144215.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294691178199
+  "luceneModified" : 1294774935240
 }
