@@ -1,0 +1,38 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S8519-2009",
+  "billEvents" : [ {
+    "eventDate" : 1291352400000,
+    "eventText" : "REFERRED TO RULES",
+    "billEventId" : "S8519-2009-1291352400000-REFERRED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BRESLIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows the superintendent of insurance to increase the $2000 threshold after which a motor vehicle accident report must be filed with the superintendent",
+  "summary" : null,
+  "currentCommittee" : "RULES",
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101203.T163505.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291412105058
+}
