@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S224-2011",
+  "senateBillNo" : "S259-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S224-2011-1294203600000-REFERRED+TO+CODES",
+    "billEventId" : "S259-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits level two or three sex offenders from voting at a school or facility for children",
-  "summary" : "Prohibits level two or three sex offenders from voting at a school or facility for children. ",
+  "title" : "Enacts \"Jilly's law\"; adds criteria for determining whether to issue an order of recognizance or bail",
+  "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : [ "S3212-2009" ],
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ALESI",
+    "fullname" : "FLANAGAN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SALAND",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, the election law, the education law and the correction law, in relation to voting by level two or level three sex offenders ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T112805.TXT", "SOBI.D101213.T102802.TXT", "SOBI.D101213.T111304.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T112805.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292257685426
+  "luceneModified" : 1292257685400
 }
