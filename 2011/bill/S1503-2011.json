@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1480-2011",
+  "senateBillNo" : "S1503-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S1480-2011-1294376400000-REFERRED+TO+CONSUMER+PROTECTION",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1503-2011-1294376400000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "GRIFFO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to residential wireless telephone service",
+  "title" : "Requires the state liquor authority to provide not-for-profit establishments at least 30 days on all billing related matters",
   "summary" : null,
-  "currentCommittee" : "CONSUMER PROTECTION",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Alcoholic Beverage Control",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law and the public service law, in relation to the provision of residential wireless telephone service ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T150413.TXT", "SOBI.D110107.T160917.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T160917.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294434557517
+  "luceneModified" : 1294434557542
 }

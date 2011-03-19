@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides criteria for membership in credit unions and permits the extension of certain services to nonmembers",
-  "summary" : null,
+  "summary" : "Provides criteria for membership in credit unions and permits the extension of certain services to nonmembers. ",
   "currentCommittee" : "BANKS",
   "sameAs" : null,
   "lawSection" : "Banking Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA1931-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the banking law, in relation to credit union memberships and general powers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T155916.TXT", "SOBI.D110107.T153415.TXT", "SOBI.D110107.T160417.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T160917.TXT", "SOBI.D110107.T155916.TXT", "SOBI.D110107.T153415.TXT", "SOBI.D110107.T160417.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294434257334
+  "luceneModified" : 1294434557534
 }

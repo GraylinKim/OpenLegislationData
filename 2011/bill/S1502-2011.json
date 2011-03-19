@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1424-2011",
+  "senateBillNo" : "S1502-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
-    "eventText" : "referred to health",
-    "billEventId" : "A1424-2011-1294376400000-referred+to+health",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S1502-2011-1294376400000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Castelli",
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the state to acquire from the federal government the Montrose VA",
+  "title" : "Relates to tuition increases, leasing, contracting, and the overall daily operation at the State University of New York at Buffalo",
   "summary" : null,
-  "currentCommittee" : null,
-  "sameAs" : "S1476",
-  "lawSection" : "Public Health Law",
+  "currentCommittee" : "HIGHER EDUCATION",
+  "sameAs" : null,
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Katz",
+    "fullname" : "GALLIVAN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "GRISANTI",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Saladino",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Finch",
+    "fullname" : "KENNEDY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to authorizing the state to acquire from the federal government the Franklin Delano Roosevelt campus of the department of veterans affairs Hudson Valley health care system at Montrose ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T160917.TXT", "SOBI.D110107.T153415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T160917.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294434557503
+  "luceneModified" : 1294434557533
 }
