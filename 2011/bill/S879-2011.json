@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "GALLIVAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the legislative law, in relation to establishing the New York state independent budget office ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T120715.TXT", "SOBI.D110103.T120402.TXT", "SOBI.D110103.T111400.TXT", "SOBI.D110113.T161922.TXT", "SOBI.D110103.T103852.TXT", "SOBI.D110103.T103352.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T151716.TXT", "SOBI.D110106.T120715.TXT", "SOBI.D110103.T120402.TXT", "SOBI.D110103.T111400.TXT", "SOBI.D110113.T161922.TXT", "SOBI.D110103.T103352.TXT", "SOBI.D110103.T103852.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294953562491
+  "luceneModified" : 1296505036563
 }

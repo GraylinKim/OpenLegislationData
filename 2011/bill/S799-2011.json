@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "GALLIVAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to the lease or conveyance of oil and gas rights in lands and grounds for increasing assessments ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T151257.TXT", "SOBI.D110126.T131256.TXT", "SOBI.D101230.T144741.TXT", "SOBI.D110126.T133258.TXT", "SOBI.D110105.T104107.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T151257.TXT", "SOBI.D110131.T151716.TXT", "SOBI.D110126.T131256.TXT", "SOBI.D101230.T144741.TXT", "SOBI.D110126.T133258.TXT", "SOBI.D110105.T104107.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296066778841
+  "luceneModified" : 1296505036569
 }
