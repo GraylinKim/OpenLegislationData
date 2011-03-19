@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S596-2011",
+  "senateBillNo" : "S598-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
-    "billEventId" : "S596-2011-1294203600000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S598-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,9 +18,9 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Includes the war on terrorism within the definition of \"period of war\" for purposes of the veterans alternative property tax exemption",
+  "title" : "Allows local tax collectors to send tax statements by electronic mail to an address provided by a homeowner and to opt out of receiving paper statements",
   "summary" : null,
-  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
@@ -48,14 +48,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT", "SOBI.D101222.T152348.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293049728954
+  "luceneModified" : 1293049728975
 }

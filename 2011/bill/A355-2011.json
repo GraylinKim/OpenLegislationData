@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S596-2011",
+  "senateBillNo" : "A355-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
-    "billEventId" : "S596-2011-1294203600000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
+    "eventText" : "referred to economic development",
+    "billEventId" : "A355-2011-1294203600000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Includes the war on terrorism within the definition of \"period of war\" for purposes of the veterans alternative property tax exemption",
+  "title" : "Provides a prohibition on the exchange of firearms, rifles or shotguns by second-hand dealers",
   "summary" : null,
-  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MAZIARZ",
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "Markey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SEWARD",
+    "fullname" : "Lavine",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to the exchange of firearms, rifles and shotguns by second-hand dealers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT", "SOBI.D101222.T152348.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293049728954
+  "luceneModified" : 1293049728991
 }
