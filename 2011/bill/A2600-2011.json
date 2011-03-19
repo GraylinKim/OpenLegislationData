@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2593-2011",
+  "senateBillNo" : "A2600-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A2593-2011-1295413200000-referred+to+housing",
+    "eventText" : "referred to veterans' affairs",
+    "billEventId" : "A2600-2011-1295413200000-referred+to+veterans%27+affairs",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,56 +13,63 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Lopez V",
+    "fullname" : "Rabbitt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Limits the amount of rent increase after the vacancy of a housing accommodation",
-  "summary" : "Limits the amount of rent increase after the vacancy of a housing accommodation. ",
+  "title" : "Extends real property partial tax exemptions for qualified veterans to include taxes for school purposes",
+  "summary" : "Extends real property partial tax exemptions for qualified veterans to include taxes for school purposes. ",
   "currentCommittee" : null,
-  "sameAs" : "S2341",
-  "lawSection" : "New York City Administrative Code",
-  "previousVersions" : [ "A1686-2009" ],
+  "sameAs" : "S1995",
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A2777-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kavanagh",
+    "fullname" : "Raia",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "McKevitt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "O'Donnell",
+    "fullname" : "Burling",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Tobacco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the administrative code of the city of New York and the emergency tenant protection act of nineteen seventy-four, in relation to limiting rent increase after vacancy of a housing accommodation ",
+  "actClause" : "AN ACT to amend the real property tax law, in relation to partial property tax exemptions of school taxes for qualified veterans ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T142306.TXT", "SOBI.D110119.T141812.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T142306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295464986038
+  "luceneModified" : 1295464986060
 }

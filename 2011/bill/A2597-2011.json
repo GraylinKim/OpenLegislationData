@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2597-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A2597-2011-1295413200000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows localities to exclude disability pension in determining eligibility level for partial exemption from real property tax",
+  "summary" : "Gives localities the option to exclude income from any disability pension or benefit in computation of income for purposes of determining eligibility for the partial real property tax exemption granted to persons 65 years of age or over. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A4448-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to qualifications of certain real property owners, sixty-five years of age or over, for partial exemption from real property taxation ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T142306.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295464986052
+}
