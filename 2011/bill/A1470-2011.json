@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1470-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A1470-2011-1294635600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the state diesel emissions reduction revolving loan fund",
+  "summary" : "Establishes the diesel emissions retrofit program and fund; fund supplements through federal diesel emission reduction act funds in addition to other state funds. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A8361-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law and the environmental conservation law, in relation to establishing the state diesel emissions reduction revolving loan fund ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T134611.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294685171323
+}

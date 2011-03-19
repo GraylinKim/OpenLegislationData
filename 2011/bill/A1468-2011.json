@@ -13,26 +13,75 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal (MS)",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Prohibits the sale of electronic cigarettes to minors and items not defined as a tobacco product or approved by the FDA as a tobacco use cessation or harm reduction",
-  "summary" : null,
+  "summary" : "Prohibits the sale of electronic cigarettes to minors; prohibits distribution or sale of any item containing or delivering nicotine that is not defined by law as a tobacco product or approved by the United States food and drug administration for sale as a tobacco use cessation or harm reduction product. ",
   "currentCommittee" : null,
-  "sameAs" : null,
+  "sameAs" : "S695",
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
-  "coSponsors" : null,
+  "previousVersions" : [ "A9529-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Miller M",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to prohibiting the sale of electronic cigarettes to minors and in relation to prohibiting the distribution or sale of any item containing or delivering nicotine that is not defined by law as a tobacco product or approved by the United States food and drug administration for sale as a tobacco use cessation or harm reduction product ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T134108.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T134611.TXT", "SOBI.D110110.T134108.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294684868234
+  "luceneModified" : 1294685171320
 }

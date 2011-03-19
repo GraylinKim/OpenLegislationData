@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1471-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A1471-2011-1294635600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the toxics information clearinghouse",
+  "summary" : "Creates the toxics information clearinghouse; substances hazardous to public health, safety or the environment that have been identified or listed as a hazardous waste in regulations promulgated pursuant to section 27-0903 or 71-2702 of the environmental conservation law; provide chemical hazard traits and environmental and toxicological end-point data. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A6292-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to the creation of the toxics information clearinghouse ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T134611.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294685171326
+}

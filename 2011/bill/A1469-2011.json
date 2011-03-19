@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1469-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A1469-2011-1294635600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides all blind and visually impaired patients with an audio recording of the discharge plan",
+  "summary" : "Provides that all blind and visually impaired patients with an audio recording of the discharge plan, to be made available according to the preference of such patient or such patient's representative. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "AB6671-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Boyland",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to providing all blind and visually impaired patients with an audio recording of the discharge plan ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T134611.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294685171322
+}
