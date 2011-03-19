@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A79-2011",
+  "senateBillNo" : "A104-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to labor",
-    "billEventId" : "A79-2011-1294203600000-referred+to+labor",
+    "billEventId" : "A104-2011-1294203600000-referred+to+labor",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Montesano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to eligibility for unemployment compensation benefits",
+  "title" : "Makes provisions for registration of apprenticeship programs and agreement and repeals related",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -27,21 +27,14 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Saladino",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the labor law, in relation to providing unemployment insurance benefits to certain part-time elected officials ",
+  "actClause" : "AN ACT to amend the labor law and the state finance law, in relation to apprenticeship training and to repeal article 23 of the labor law relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454635
+  "luceneModified" : 1292515454715
 }

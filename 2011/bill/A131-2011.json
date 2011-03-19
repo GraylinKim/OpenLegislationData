@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A80-2011",
+  "senateBillNo" : "A131-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to health",
-    "billEventId" : "A80-2011-1294203600000-referred+to+health",
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A131-2011-1294203600000-referred+to+real+property+taxation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,65 +18,44 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the living wage adjustment of personal care services workers",
+  "title" : "Provides alternative real property tax exemptions for active duty members of the armed forces",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "DenDekker",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Castelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jacobs",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Pretlow",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Cahill",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Cusick",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -90,28 +69,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Brook-Krasny",
+    "fullname" : "Lavine",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -122,15 +94,29 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Zebrowski",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the social services law and chapter 1 of the laws of 2002, amending the public health law, the social services law and the tax law relating to the Health Care Reform Act of 2000, in relation to the living wage adjustment for personal care services workers ",
+  "actClause" : "AN ACT to amend the real property tax law, in relation to alternative exemptions for active duty members of the armed forces ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454638
+  "luceneModified" : 1292515454644
 }

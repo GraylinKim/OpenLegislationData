@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A40-2011",
+  "senateBillNo" : "A101-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to election law",
-    "billEventId" : "A40-2011-1294203600000-referred+to+election+law",
+    "eventText" : "referred to insurance",
+    "billEventId" : "A101-2011-1294203600000-referred+to+insurance",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,63 +13,77 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Latimer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Restricts transfers by candidates' political committees to committees of other candidates to $500 and to any party committee or constituted committee to $1000",
-  "summary" : "Restricts transfers of funds by political committees of candidates to committees of other candidates to $500 annually; and to any party committee or constituted committee to $1000 annually; imposes a fine of at least $1000 but not more than $5000 for violations thereof. ",
+  "title" : "Requires insurance companies to disclose claims information to municipalities employing 400 or more employees",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Election Law",
-  "previousVersions" : [ "A5275-2009" ],
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Giglio",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Molinaro",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Thiele",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the election law, in relation to restricting transfers of campaign funds between candidates ",
+  "actClause" : "AN ACT to amend the insurance law, in relation to requiring insurance companies to disclose claims information to municipalities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T101902.TXT", "SOBI.D101216.T103411.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454714
+  "luceneModified" : 1292515454690
 }

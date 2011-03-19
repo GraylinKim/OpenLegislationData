@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A77-2011",
+  "senateBillNo" : "A95-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to agriculture",
-    "billEventId" : "A77-2011-1294203600000-referred+to+agriculture",
+    "eventText" : "referred to health",
+    "billEventId" : "A95-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to administrative hearings and processes for pet dealers",
-  "summary" : "Relates to administrative hearings and processes as they apply to pet dealers. ",
+  "title" : "Establishes the New York state brain donor registry",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Agriculture and Markets Law",
-  "previousVersions" : [ "A10906-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Markey",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Lavine",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,14 +41,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kavanagh",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -66,15 +59,22 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to administrative hearings and processes for pet dealers ",
+  "actClause" : "AN ACT to amend the public health law, the election law and the vehicle and traffic law, in relation to creating a state brain donor registry ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T101902.TXT", "SOBI.D101216.T103912.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454702
+  "luceneModified" : 1292515454625
 }

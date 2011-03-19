@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A79-2011",
+  "senateBillNo" : "A136-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to labor",
-    "billEventId" : "A79-2011-1294203600000-referred+to+labor",
+    "eventText" : "referred to social services",
+    "billEventId" : "A136-2011-1294203600000-referred+to+social+services",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  },
-  "title" : "Relates to eligibility for unemployment compensation benefits",
-  "summary" : null,
-  "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : "Labor Law",
-  "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
     "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
+  },
+  "title" : "Provides victims of world trade center attack and family members eligible for family health plus; except that employer does not receive additional subsidy",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the labor law, in relation to providing unemployment insurance benefits to certain part-time elected officials ",
+  "actClause" : "AN ACT to amend the social services law, in relation to providing the families of the world trade center victims with health benefits ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454635
+  "luceneModified" : 1292515454683
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A79-2011",
+  "senateBillNo" : "A103-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to labor",
-    "billEventId" : "A79-2011-1294203600000-referred+to+labor",
+    "billEventId" : "A103-2011-1294203600000-referred+to+labor",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Montesano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to eligibility for unemployment compensation benefits",
+  "title" : "Fines municipalities which fail to enforce prevailing wage paid by contractors on public works projects 10% of the project costs",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -27,21 +27,14 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Saladino",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the labor law, in relation to providing unemployment insurance benefits to certain part-time elected officials ",
+  "actClause" : "AN ACT to amend the labor law, in relation to municipalities which fail to enforce prevailing wage requirements of contractors on public works projects ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105412.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454635
+  "luceneModified" : 1292515454708
 }

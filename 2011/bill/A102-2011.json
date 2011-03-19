@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A84-2011",
+  "senateBillNo" : "A102-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to health",
-    "billEventId" : "A84-2011-1294203600000-referred+to+health",
+    "billEventId" : "A102-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Latimer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs commissioner of health to establish a uniform letter grading system to classify the result of an inspection of a food service establishment",
+  "title" : "Provides that the director of the office of professional medical conduct shall meet with complainants to review materials to be considered in charges of misconduct",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -27,21 +27,21 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cymbrowitz",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to the establishment of a letter grading system to classify inspection results for public food service establishments ",
+  "actClause" : "AN ACT to amend the public health law, in relation to investigations of professional medical conduct ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454654
+  "luceneModified" : 1292515454694
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A91-2011",
+  "senateBillNo" : "A137-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to labor",
-    "billEventId" : "A91-2011-1294203600000-referred+to+labor",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A137-2011-1294203600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for a task force and demonstration program on teleworking to study the benefits and other impacts thereof",
+  "title" : "Establishes a tax credit for businesses retrofitting heavy duty vehicles",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "State Employees",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to create a demonstration program and task force on teleworking ",
+  "actClause" : "AN ACT to amend the tax law, in relation to establishing a tax credit for businesses retrofitting heavy duty vehicles ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454709
+  "luceneModified" : 1292515454684
 }

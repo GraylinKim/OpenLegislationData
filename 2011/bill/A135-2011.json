@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A91-2011",
+  "senateBillNo" : "A135-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to labor",
-    "billEventId" : "A91-2011-1294203600000-referred+to+labor",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A135-2011-1294203600000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for a task force and demonstration program on teleworking to study the benefits and other impacts thereof",
+  "title" : "Enacts the \"motorcycle noise reduction compliance act\"",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "State Employees",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to create a demonstration program and task force on teleworking ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to enacting the \"motorcycle noise reduction compliance act\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454709
+  "luceneModified" : 1292515454671
 }

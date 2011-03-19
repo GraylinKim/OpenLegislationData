@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A77-2011",
+  "senateBillNo" : "A142-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to agriculture",
-    "billEventId" : "A77-2011-1294203600000-referred+to+agriculture",
+    "eventText" : "referred to local governments",
+    "billEventId" : "A142-2011-1294203600000-referred+to+local+governments",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,51 +18,51 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to administrative hearings and processes for pet dealers",
-  "summary" : "Relates to administrative hearings and processes as they apply to pet dealers. ",
+  "title" : "Provides no county shall supersede any state law which relates to the division of any county into districts for the purpose of apportionment",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Agriculture and Markets Law",
-  "previousVersions" : [ "A10906-2009" ],
+  "lawSection" : "Municipal Home Rule Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Markey",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Mayersohn",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kavanagh",
+    "fullname" : "McEneny",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to administrative hearings and processes for pet dealers ",
+  "actClause" : "AN ACT to amend the municipal home rule law, in relation to the division of a county into districts for the apportionment of members of its local legislative body ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T101902.TXT", "SOBI.D101216.T103912.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454702
+  "luceneModified" : 1292515454711
 }

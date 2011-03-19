@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A133-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A133-2011-1294203600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a personal income tax deduction for expenses incurred for services rendered pursuant to an individual plan for employment certified by a rehabilitation counselor",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to providing for a personal income tax deduction for certain vocational rehabilitation services expenses ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101216.T110414.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292515454653
+}
