@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1730-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S1730-2011-1294722000000-REFERRED+TO+ELECTIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to requiring voter approval for the abolition or modification of term limits for certain elected offices",
+  "summary" : null,
+  "currentCommittee" : "ELECTIONS",
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T162223.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294780943034
+}
