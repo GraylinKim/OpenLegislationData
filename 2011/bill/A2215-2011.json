@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires pleadings in actions arising from the conduct of a business required to be licensed by the state to set forth in the pleadings that the business was licensed",
-  "summary" : null,
+  "summary" : "Requires pleadings in actions arising from the conduct of a business required to be licensed by the state to set forth in the pleadings that the business was licensed at the time the cause of action arose. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Civil Practice Law and Rules",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10194-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : "AN ACT to amend the civil practice law and rules, in relation to requiring pleadings in actions arising from the conduct of a business required to be licensed by the state to set forth in the pleadings that the business was licensed at the time the cause of action arose ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T121438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295024385308
+  "luceneModified" : 1295025278930
 }

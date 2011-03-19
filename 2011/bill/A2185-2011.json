@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2214-2011",
+  "senateBillNo" : "A2185-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to corporations, authorities and commissions",
-    "billEventId" : "A2214-2011-1294981200000-referred+to+corporations%2C+authorities+and+commissions",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A2185-2011-1294981200000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,18 +13,32 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Reilich",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the commissioners of the Port Authority of New York and New Jersey",
-  "summary" : "Relates to the commissioners of the Port Authority of New York and New Jersey; requires that at least one of whom shall be a resident voter from either the county of Dutchess, Orange, Putnam, Rockland, Sullivan, Ulster or Westchester and one of whom shall be a resident voter from either the county of Nassau or Suffolk. ",
+  "title" : "Relates to waiving the twenty-four hour waiting period for solemnizing a marriage after a license is issued for persons serving in the armed forces; repealer",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Port Authority of New York and New Jersey",
-  "previousVersions" : [ "A8084-2009" ],
+  "lawSection" : "Domestic Relations Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "Calhoun",
@@ -34,42 +48,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "Oaks",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Molinaro",
+    "fullname" : "McDonough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Barclay",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rabbitt",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend chapter 154 of the laws of 1921, relating to the port authority of New York and New Jersey, in relation to the commissioners of such authority ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T121438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025278932
+  "luceneModified" : 1295025278935
 }

@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1985-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S1985-2011-1294981200000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GOLDEN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Eliminates the $2,500 limit for emergency crime victim awards when the award is used to replace necessary medical equipment not covered by insurance",
+  "summary" : null,
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SALAND",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295025278870
+}

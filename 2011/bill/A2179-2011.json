@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2179-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A2179-2011-1294981200000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilich",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes pay for military leave for public employees who are absent on military duty",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Military Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295025278902
+}

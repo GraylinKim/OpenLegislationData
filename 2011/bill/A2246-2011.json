@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2216-2011",
+  "senateBillNo" : "A2246-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
     "eventText" : "referred to codes",
-    "billEventId" : "A2216-2011-1294981200000-referred+to+codes",
+    "billEventId" : "A2246-2011-1294981200000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Reilich",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a provision requiring court review of domestic violence bail applications",
-  "summary" : "Requires court review of domestic violence bail applications. ",
+  "title" : "Authorizes the court to order sexual offenders on probation to terms of imprisonment which run consecutively to sentences already being served",
+  "summary" : "Authorizes the court to order sexual offenders on probation, where such probation has been revoked, to terms of imprisonment which run consecutively to sentences already being served. ",
   "currentCommittee" : null,
-  "sameAs" : "S829",
-  "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : [ "AA10736-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A2277-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Calhoun",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Raia",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the criminal procedure law, in relation to requiring court review of domestic violence bail applications ",
+  "actClause" : "AN ACT to amend the penal law, in relation to consecutive sentences for sexual offenders on probation ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T121438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025278922
+  "luceneModified" : 1295025278881
 }

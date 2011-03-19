@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2247-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "referred to banks",
+    "billEventId" : "A2247-2011-1294981200000-referred+to+banks",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires banks to accept the Matricula consular and the Tarjeta consular identification cards as valid identification for banking transactions",
+  "summary" : "Requires banks to accept the Matricula consular identification card issued by the Mexican Consulate General and the Tarjeta Cosular identification card issued by the Ecuadorian Consulate General as valid identification for all banking transactions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Banking Law",
+  "previousVersions" : [ "AA5018-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez V",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ramos",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the banking law, in relation to requiring banking organizations to accept the Matricula consular identification card issued by the Consulate General of the United Mexican States and the Tarjeta consular identification card issued by the Consulate General of the Republic of Ecuador as a valid form of identification for all banking transactions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295025278888
+}

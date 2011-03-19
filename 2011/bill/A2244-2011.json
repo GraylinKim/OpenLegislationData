@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2244-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "referred to health",
+    "billEventId" : "A2244-2011-1294981200000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rabbitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the woman's right to know act; repealer",
+  "summary" : "Enacts the \"woman's right to know act\"; provides women facing unplanned pregnancies who are considering abortion with full information and reflection time prior to having an abortion performed upon them; provides a 24-hour waiting period to give women the opportunity to receive information about the medical risks of abortion, alternatives to the procedure, and the unborn child's development; requires all facilities where abortions are performed and offices of physicians who refer for abortion must have video viewing equipment; provides criminal and civil penalties. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A2726-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to enacting the woman's right to know act; to repeal title 3 of article 25 of such law relating to the control of midwifery; and providing for the repeal of certain provisions upon expiration thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295025278866
+}

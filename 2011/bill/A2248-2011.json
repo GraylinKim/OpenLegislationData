@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2248-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "referred to education",
+    "billEventId" : "A2248-2011-1294981200000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides Yonkers city school district with additional supplemental education improvement plan funds",
+  "summary" : "Provides Yonkers city school district with additional supplemental education improvement plan funds. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1012",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A10434-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Abinanti",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to providing the Yonkers city school district with additional supplemental education improvement plan funds ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295025278892
+}

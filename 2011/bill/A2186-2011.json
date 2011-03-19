@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2241-2011",
+  "senateBillNo" : "A2186-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to ways and means",
-    "billEventId" : "A2241-2011-1294981200000-referred+to+ways+and+means",
+    "eventText" : "referred to health",
+    "billEventId" : "A2186-2011-1294981200000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rabbitt",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides tax credit of $300 for purchase of 3 or more energy star appliances",
-  "summary" : "Provides $300 tax credit for purchase of three or more energy star appliances; applies to tax years 2012 through 2018. ",
+  "title" : "Relates to witnesses to a health care proxy and the crime of forgery in the second degree",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Tax Law",
-  "previousVersions" : [ "A2729-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "McKevitt",
+    "fullname" : "Kellner",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Molinaro",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the tax law, in relation to credits against tax ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T120938.TXT", "SOBI.D110114.T121438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025278885
+  "luceneModified" : 1295025278936
 }

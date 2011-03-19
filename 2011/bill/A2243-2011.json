@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires certain institutions to notify joint tenants when certain withdrawals are made from joint accounts",
-  "summary" : null,
+  "summary" : "Requires certain institutions to notify joint tenants when more than fifty percent of the value of a joint account's withdrawals are made from joint accounts. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Banking Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A8270-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the banking law, in relation to notifying joint tenants when certain withdrawals are made from joint accounts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T120938.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T120938.TXT", "SOBI.D110114.T121438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295024978713
+  "luceneModified" : 1295025278862
 }

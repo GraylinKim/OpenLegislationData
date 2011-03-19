@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2216-2011",
+  "senateBillNo" : "S1988-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A2216-2011-1294981200000-referred+to+codes",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S1988-2011-1294981200000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a provision requiring court review of domestic violence bail applications",
-  "summary" : "Requires court review of domestic violence bail applications. ",
-  "currentCommittee" : null,
-  "sameAs" : "S829",
-  "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : [ "AA10736-2009" ],
+  "title" : "Eliminates sales tax on clothing and footwear regardless of cost",
+  "summary" : null,
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "DEFRANCISCO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "GRISANTI",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the criminal procedure law, in relation to requiring court review of domestic violence bail applications ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T121438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295025278922
+  "luceneModified" : 1295025278908
 }

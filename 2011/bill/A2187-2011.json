@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2187-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A2187-2011-1294981200000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates crime of tampering with a taximeter",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T121438.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295025278940
+}
