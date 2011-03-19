@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A784-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to higher education",
+    "billEventId" : "A784-2011-1294203600000-referred+to+higher+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires institutions of higher education to disclose the average dollar amount of institutional aid awarded to students",
+  "summary" : "Requires institutions of higher education to disclose the average dollar amount of institutional aid awarded to students. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1001",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A4914-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to the disclosure of average awards by institutions of higher education ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T130503.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294164303076
+}

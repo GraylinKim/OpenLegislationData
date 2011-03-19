@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A787-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A787-2011-1294203600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires two-thirds vote of legislature for any change in tax rates, budget bills and appropriations",
+  "summary" : "Requires approval by 2/3 vote of membership of the senate and assembly voting separately to increase or decrease any tax rate, impose a new state tax, extend or delete existing state tax. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "previousVersions" : [ "A1073-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 14 of article 3 of the constitution, in relation to the procedure for voting increases in the rate of state taxes ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T130503.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294164303082
+}

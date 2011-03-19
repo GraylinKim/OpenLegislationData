@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A798-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A798-2011-1294203600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to voting rights in cooperative apartments",
+  "summary" : "Provides that the sponsor of a cooperative apartment building or condominium units may not continue to sit on the board or to vote after the transfer to the cooperative corporation or condominium ownership. ",
+  "currentCommittee" : null,
+  "sameAs" : "S604",
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A834-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to prohibiting a sponsor from becoming a director or voting on the board after a building has been converted to a cooperative apartment building or condominium ownership ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T130503.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294164303101
+}
