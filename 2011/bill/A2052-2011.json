@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2052-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to health",
+    "billEventId" : "A2052-2011-1294894800000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cusick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for notification to hospital patients upon intake of reports of hospital-acquired infections",
+  "summary" : "Provides for notification to hospital patients upon intake of reports of hospital-acquired infections. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A2987-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to notifying hospital patients upon intake of reports of hospital-acquired infections ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T144414.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294947854257
+}

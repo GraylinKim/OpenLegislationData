@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2051-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294894800000,
+    "eventText" : "referred to education",
+    "billEventId" : "A2051-2011-1294894800000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cusick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that the department of education of the city of New York shall provide school bus service for students in grades K through 6 who live 1/2 mile or more away",
+  "summary" : "Provides that the department of education of the city of New York shall provide school bus service for students in grades K through 6 who live 1/2 mile or more from school. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : [ "A7431-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to requiring the department of education of the city of New York to provide school bus service to students in grades kindergarten through six who reside one-half mile or more from school ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110113.T144414.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294947854255
+}
