@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4255-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A4255-2011-1296622800000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows certain not-for-profits to make purchases through use of county contracts",
+  "summary" : "Allows certain not-for-profits to make purchases through use of county contracts. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2012",
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A9776-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, in relation to allowing not-for-profits to make purchases through county contracts ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T150226.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296676946075
+}

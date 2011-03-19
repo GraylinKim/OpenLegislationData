@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4254-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to education",
+    "billEventId" : "A4254-2011-1296622800000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for election of members of the board of education of the Buffalo city school district in November rather than May",
+  "summary" : "Provides for the election of members of the board of education of the Buffalo city school district in November rather than in May; creates a timetable for the electoral proceedings therefor; extends the terms of current members of such board to the last day of December rather than June; provides for future terms to run from January through December; and staggers terms. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2478",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "AA6028-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to providing for the election of members of the board of education of the Buffalo city school district in November ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T150226.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296676946070
+}

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires schools to accept credits for educational programs at OCFS facilities as transfer credits",
-  "summary" : null,
+  "summary" : "Requires schools to accept credits for educational programs at OCFS facilities as transfer credits. ",
   "currentCommittee" : null,
   "sameAs" : "S330",
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A8104-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to credits for educational achievement in office of children and family services facilities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T145726.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T150226.TXT", "SOBI.D110202.T145726.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296676646822
+  "luceneModified" : 1296676946073
 }
