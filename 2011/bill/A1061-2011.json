@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1057-2011",
+  "senateBillNo" : "A1061-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to consumer affairs and protection",
-    "billEventId" : "A1057-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "eventText" : "referred to economic development",
+    "billEventId" : "A1061-2011-1294203600000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,44 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that gift certificates shall not contain expiration dates except in limited circumstances",
+  "title" : "Promotes the education of the human trafficking information and referral hotline to assist persons in freeing themselves from severe acts of sex trafficking",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "Alcoholic Beverage Control Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "McEneny",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rivera P",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Robinson",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -69,14 +48,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "O'Donnell",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -85,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law, in relation to expiration of gift certificates ",
+  "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to promoting the education of the human trafficking information and referral hotlines to assist individuals from becoming or freeing themselves from any act of severe forms of sex trafficking ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T110705.TXT", "SOBI.D110106.T111204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T111204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294330324727
+  "luceneModified" : 1294330324696
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1178-2011",
+  "senateBillNo" : "A1062-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S1178-2011-1294203600000-REFERRED+TO+HEALTH",
+    "eventText" : "referred to health",
+    "billEventId" : "A1062-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Requires the commissioner of health to establish means of educating proprietors and employees of public eating establishments about food allergens",
-  "summary" : "Requires the commissioner of health to establish means of educating proprietors and employees of public eating establishments about food allergens. ",
-  "currentCommittee" : "HEALTH",
-  "sameAs" : "A1062",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S1178",
   "lawSection" : "Public Health Law",
-  "previousVersions" : [ "S5925-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to food allergen information ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T125652.TXT", "SOBI.D110105.T122648.TXT", "SOBI.D110105.T133654.TXT", "SOBI.D110106.T111204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T111204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294330324720
+  "luceneModified" : 1294330324704
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1055-2011",
+  "senateBillNo" : "A1063-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to higher education",
-    "billEventId" : "A1055-2011-1294203600000-referred+to+higher+education",
+    "eventText" : "referred to health",
+    "billEventId" : "A1063-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a veteran fee waiver program within the State University of New York system",
+  "title" : "Prohibits individuals who are registered sex offenders from receiving sexual performance enhancing drugs through medicaid",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Lentol",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to the state university of New York veteran fee waiver program ",
+  "actClause" : "AN ACT to amend the social services law, in relation to restricting certain medications from coverage for Medicaid purposes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T110705.TXT", "SOBI.D110106.T111204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T111204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294330324730
+  "luceneModified" : 1294330324707
 }

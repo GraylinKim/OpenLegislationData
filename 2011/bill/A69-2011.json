@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294290000000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A69-2011-1294290000000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "Latimer (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +60,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to sections 5 and 6 of article 4 of the constitution, in relation to duties of and the appointment of lieutenant-governor ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T103912.TXT", "SOBI.D101216.T102403.TXT", "SOBI.D101217.T095429.TXT", "SOBI.D110105.T120651.TXT", "SOBI.D101217.T095929.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T102403.TXT", "SOBI.D101216.T103912.TXT", "SOBI.D101217.T095429.TXT", "SOBI.D110105.T120651.TXT", "SOBI.D101217.T095929.TXT", "SOBI.D110106.T111204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294247211967
+  "luceneModified" : 1294330324721
 }

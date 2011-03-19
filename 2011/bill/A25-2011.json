@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294290000000,
+    "eventText" : "to attorney-general for opinion",
+    "billEventId" : "A25-2011-1294290000000-to+attorney-general+for+opinion",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Cahill (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 4 of article 14 of the constitution, in relation to environmental protection ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT", "SOBI.D101216.T103912.TXT", "SOBI.D101216.T104912.TXT", "SOBI.D101216.T143458.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT", "SOBI.D101216.T103912.TXT", "SOBI.D101216.T104912.TXT", "SOBI.D101216.T143458.TXT", "SOBI.D110106.T111204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292528098024
+  "luceneModified" : 1294330324716
 }

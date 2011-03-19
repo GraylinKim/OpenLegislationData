@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1057-2011",
+  "senateBillNo" : "A1059-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to consumer affairs and protection",
-    "billEventId" : "A1057-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A1059-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that gift certificates shall not contain expiration dates except in limited circumstances",
+  "title" : "Requires skiers to wear protective helmets and requires that ski area operators make such helmets available to the public",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Business Law",
+  "lawSection" : "General Obligations Law",
   "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Clark",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "Millman",
@@ -41,42 +34,49 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "McEneny",
+    "fullname" : "Scarborough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera P",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Robinson",
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cook",
+    "fullname" : "Weisenberg",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "O'Donnell",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -85,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law, in relation to expiration of gift certificates ",
+  "actClause" : "AN ACT to amend the general obligations law and the labor law, in relation to the duties of skiers and ski area operators and penalties for violation thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T110705.TXT", "SOBI.D110106.T111204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T111204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294330324727
+  "luceneModified" : 1294330324687
 }
