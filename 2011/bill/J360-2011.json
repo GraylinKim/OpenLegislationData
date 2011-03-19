@@ -8,6 +8,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296536400000,
+    "eventText" : "REPORTED TO CALENDAR FOR CONSIDERATION",
+    "billEventId" : "J360-2011-1296536400000-REPORTED+TO+CALENDAR+FOR+CONSIDERATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1296536401000,
+    "eventText" : "ADOPTED",
+    "billEventId" : "J360-2011-1296536401000-ADOPTED",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -32,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T100740.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T100740.TXT", "SOBI.D110201.T121850.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296227260106
+  "luceneModified" : 1296580730638
 }

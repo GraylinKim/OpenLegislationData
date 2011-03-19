@@ -15,6 +15,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296536400000,
+    "eventText" : "2ND REPORT CAL.",
+    "billEventId" : "S379-2011-1296536400000-2ND+REPORT+CAL.",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : [ {
     "id" : "1296496800000S379-2011--1--1",
@@ -52,7 +59,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to a medical assistance information and payment system ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T123155.TXT", "SOBI.D101217.T155004.TXT", "SOBI.D101217.T123940.TXT", "SOBI.D110201.T112844.TXT-agenda-3.xml", "SOBI.D110131.T133709.TXT", "SOBI.D101217.T130441.TXT", "SOBI.D101222.T150847.TXT", "SOBI.D101217.T154504.TXT", "SOBI.D101217.T141947.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T155004.TXT", "SOBI.D110105.T123155.TXT", "SOBI.D101217.T123940.TXT", "SOBI.D110131.T133709.TXT", "SOBI.D110201.T112844.TXT-agenda-3.xml", "SOBI.D101222.T150847.TXT", "SOBI.D101217.T130441.TXT", "SOBI.D101217.T154504.TXT", "SOBI.D101217.T141947.TXT", "SOBI.D110201.T121850.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296577724853
+  "luceneModified" : 1296580730705
 }

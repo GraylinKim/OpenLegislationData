@@ -8,6 +8,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1296536400000,
+    "eventText" : "REPORTED TO CALENDAR FOR CONSIDERATION",
+    "billEventId" : "J268-2011-1296536400000-REPORTED+TO+CALENDAR+FOR+CONSIDERATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1296536401000,
+    "eventText" : "ADOPTED",
+    "billEventId" : "J268-2011-1296536401000-ADOPTED",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -32,7 +46,7 @@
   "actClause" : "LEGISLATIVE RESOLUTION honoring Susan D. Cummings upon the occasion of her retirement after many years of distinguished service to the State of New York ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T123913.TXT", "SOBI.D110120.T102325.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T123913.TXT", "SOBI.D110120.T102325.TXT", "SOBI.D110201.T121850.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295977153966
+  "luceneModified" : 1296580730596
 }
