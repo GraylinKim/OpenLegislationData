@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2477-2011",
+  "senateBillNo" : "A2949-2011",
   "billEvents" : [ {
     "eventDate" : 1295586000000,
-    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
-    "billEventId" : "S2477-2011-1295586000000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
+    "eventText" : "referred to labor",
+    "billEventId" : "A2949-2011-1295586000000-referred+to+labor",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,98 +13,126 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to prohibiting investment of certain public funds in companies doing business in Sudan",
-  "summary" : null,
-  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
+  "title" : "Relates to providing firefighters with appropriate equipment and procedures; repealer",
+  "summary" : "Relates to providing firefighters with appropriate equipment and procedures. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Retirement and Social Security Law",
-  "previousVersions" : null,
+  "lawSection" : "Labor Law",
+  "previousVersions" : [ "AA9000-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Destito",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "Weisenberg",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Conte",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Calhoun",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "Lopez P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "Russell",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "OPPENHEIMER",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SERRANO",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SMITH",
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lavine",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Zebrowski",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Miller M",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -113,10 +141,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the labor law, in relation to requiring employers to provide safety ropes and system components to firefighters; and to repeal paragraph e of subdivision 1 of section 27-a of the labor law relating to the definition of system components ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T151033.TXT", "SOBI.D110121.T150533.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T151033.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295640633160
+  "luceneModified" : 1295640633169
 }

@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2946-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2946-2011-1295586000000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Glick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes protection for senior citizens against unwarranted eviction",
+  "summary" : "Establishes protection for senior citizens against unwarranted eviction; requires plaintiff/landlord to file an affidavit determining whether or not the respondent is a senior citizen and sets forth guidelines and procedures for a default eviction against a senior citizen, including representation of counsel; defines senior citizen as persons aged 62 or over for purposes of real property actions and proceedings law. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Actions and Proceedings Law",
+  "previousVersions" : [ "A2562-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez V",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to establishing protection for senior citizens against unwarranted eviction ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T151033.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295640633163
+}
