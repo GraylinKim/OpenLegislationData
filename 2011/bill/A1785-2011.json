@@ -1,24 +1,171 @@
 {
   "year" : 2011,
   "senateBillNo" : "A1785-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to cities",
+    "billEventId" : "A1785-2011-1294808400000-referred+to+cities",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brennan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the New York city department of buildings community accountability act",
+  "summary" : "Enacts the New York city department of buildings community accountability act. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
-  "coSponsors" : null,
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : [ "AA4770-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hevesi",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brook-Krasny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Bing",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Camara",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Benedetto",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cymbrowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         1785\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 12, 2011\n                                      ___________\n\n       Introduced by M. of A. BRENNAN, MARKEY, ROSENTHAL, HEVESI, BROOK-KRASNY,\n         LANCMAN,  LENTOL,  MILLMAN, MAISEL, BING, CLARK, COLTON, CAMARA, BENE-\n         DETTO, CYMBROWITZ, PHEFFER, GOTTFRIED, ROBINSON, DINOWITZ,  JAFFEE  --\n         Multi-Sponsored  by -- M. of A. GLICK, JACOBS, V. LOPEZ, PERRY -- read\n         once and referred to the Committee on Cities\n\n       AN ACT to amend the administrative code of the  city  of  New  York,  in\n         relation  to enacting the New York city department of buildings commu-\n         nity accountability act\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Legislative  findings.  The  legislature hereby finds and\n    2  declares that the health and safety of  the  population  living  in  and\n    3  around  the many construction projects within the densely populated city\n    4  of New York is a matter of state concern as  pressure  mounts  to  build\n    5  more  and  more while completing projects in the shortest time possible.\n    6  Construction is the most dangerous occupation,  with  death  rates  four\n    7  times   the  average  for  other  workers  and  conditions  adjacent  to\n    8  construction sites dangerous to the public.\n    9    A comprehensive public reporting system for the tracking of accidents,\n   10  vacate orders, safety violations, and enforcement actions of the depart-\n   11  ment of buildings is an essential component of assuring greater account-\n   12  ability and transparency in assuring compliance with the  building  code\n   13  and the zoning resolution to improve public safety.\n   14    S  2.  This  act shall be known and may be cited as the \"New York city\n   15  department of buildings community accountability act\".\n   16    S 3. Section 28-103.18.1 of the administrative code of the city of New\n   17  York, as added by local law number 33 of the city of New  York  for  the\n   18  year 2007, is amended to read as follows:\n   19    S  28-103.18.1 Complaint records. The department shall keep records of\n   20  complaints made by any person in reference  to  any  building  or  other\n   21  matter  under  the  jurisdiction of the department.  Recorded complaints\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD04082-02-1\n\n       A. 1785                             2\n\n    1  shall include the name and residence of the complainant, the name of the\n    2  person complained of, the date of the entry of  the  complaint  and  any\n    3  suggested  remedies.  Except  for entries of names and residences of the\n    4  complainants,  such  records shall be made available for public examina-\n    5  tion.  RECORDS ON ACCIDENTS, UNSAFE BUILDING ORDERS, AND  VACATE  ORDERS\n    6  SHALL  BE  POSTED  ON THE DEPARTMENT'S INFORMATION WEBSITE MAINTAINED BY\n    7  THE CITY OF NEW YORK, SUBJECT TO SUCH REGULATIONS  AS  THE  COMMISSIONER\n    8  SHALL PRESCRIBE.\n    9    S  4.  The  administrative  code of the city of New York is amended by\n   10  adding a new section 28-103.18.2 to read as follows:\n   11    S 28-103.18.2 RECORDS OF CONSTRUCTION AND  BUILDING  ACCIDENTS.    THE\n   12  DEPARTMENT  SHALL  MAINTAIN  A  RECORD  OF ALL CONSTRUCTION AND BUILDING\n   13  ACCIDENTS RESULTING IN EITHER INJURY OR DEATH TO PERSONS  OR  DAMAGE  TO\n   14  PROPERTY  ARISING  OUT  OF VIOLATIONS OF THE BUILDING CODE.  SUCH RECORD\n   15  SHALL BE POSTED ON THE DEPARTMENT'S INFORMATION  WEBSITE  MAINTAINED  BY\n   16  THE  CITY  OF  NEW YORK, SUBJECT TO SUCH REGULATIONS AS THE COMMISSIONER\n   17  SHALL PRESCRIBE. THE COMMISSIONER  SHALL  CAUSE  SUCH  ACCIDENTS  TO  BE\n   18  INVESTIGATED  AND  A WRITTEN REPORT PREPARED REGARDING THE CIRCUMSTANCES\n   19  OF THE ACCIDENT.\n   20    S 5. The administrative code of the city of New  York  is  amended  by\n   21  adding a new section 28-201.5 to read as follows:\n   22    S 28-201.5 MONTHLY REPORTS TO COMMUNITY BOARDS AND BOROUGH PRESIDENTS.\n   23  THE  DEPARTMENT  SHALL PROVIDE A MONTHLY REPORT ON DEPARTMENT ACTIONS TO\n   24  EACH COMMUNITY BOARD, FOR DEPARTMENT ACTIONS WITHIN SUCH BOARD,  AND  TO\n   25  THE BOROUGH PRESIDENTS, FOR ACTIONS IN THE BOROUGH OF EACH BOROUGH PRES-\n   26  IDENT.  SUCH  REPORT  SHALL  INCLUDE  THE STATUS OF ALL VIOLATIONS, BOTH\n   27  ENVIRONMENTAL CONTROL BOARD AND DEPARTMENT VIOLATIONS, ISSUED WITHIN THE\n   28  RESPECTIVE COMMUNITY BOARD  AND  BOROUGH.  THE  REPORT  SHALL  SHOW  ALL\n   29  OUTSTANDING  VIOLATIONS, VIOLATIONS CORRECTED DURING THE MONTH, ENFORCE-\n   30  MENT ACTIONS COMMENCED, AND  THE  DISPOSITION  OF  ENFORCEMENT  ACTIONS,\n   31  WITHIN THE PERIOD. SUCH ENFORCEMENT ACTIONS SHALL INCLUDE COURT ACTIONS,\n   32  PADLOCK ORDERS, EMERGENCY REPAIR ORDERS, AND ENVIRONMENTAL CONTROL BOARD\n   33  ACTIONS  AND  ORDERS,  INCLUDING  FINES  AND PENALTIES. THE REPORT SHALL\n   34  FURTHER SHOW ALL UNSAFE BUILDING ORDERS, VACATE ORDERS,  AND  STOP  WORK\n   35  ORDERS.  SUCH  REPORT  SHALL  BE  PROVIDED TO THE BOARDS AND THE BOROUGH\n   36  PRESIDENTS IN A CLEAR AND CONSISTENT FORMAT TO  ENABLE  A  COMPLETE  AND\n   37  ACCURATE TRACKING OF DEPARTMENT ACTIONS.\n   38    S  6.  The  administrative  code of the city of New York is amended by\n   39  adding a new section 28-207.6 to read as follows:\n   40    S 28-207.6 INVESTIGATION AND REPORT; DANGEROUS BUILDING, NUISANCE  AND\n   41  ORDER  TO  VACATE. WHENEVER THE DEPARTMENT HAS ISSUED AN ORDER REGARDING\n   42  ANY DANGEROUS BUILDING, PLACE, OR THING, OR ANY NUISANCE, OR  ANY  ORDER\n   43  TO  VACATE  ANY BUILDING, STRUCTURE, PLACE, OR PREMISES, OR FOR ANY SUCH\n   44  BUILDING, STRUCTURE, PLACE, OR PREMISES TO BE SEALED AND/OR SECURED, THE\n   45  COMMISSIONER SHALL CAUSE THE CIRCUMSTANCES REGARDING SUCH  ORDER  TO  BE\n   46  INVESTIGATED, AND A WRITTEN REPORT PREPARED. SUCH REPORT SHALL BE AVAIL-\n   47  ABLE  FOR PUBLIC EXAMINATION, AND POSTED ON THE DEPARTMENT'S INFORMATION\n   48  WEBSITE MAINTAINED BY THE CITY OF NEW YORK, PURSUANT TO SUCH REGULATIONS\n   49  AS THE COMMISSIONER MAY PRESCRIBE.\n   50    S 7. Section 28-118.1 of the administrative code of the  city  of  New\n   51  York,  as  added  by local law number 33 of the city of New York for the\n   52  year 2007, is amended to read as follows:\n   53    S 28-118.1 General provisions. No building or open lot shall  be  used\n   54  or occupied without a certificate of occupancy issued by the commission-\n   55  er.  Issuance of a certificate of occupancy shall not be construed as an\n\n       A. 1785                             3\n\n    1  approval of a violation of the provisions  of  this  code  or  of  other\n    2  applicable laws and rules.\n    3    NO  CERTIFICATE  OF  OCCUPANCY  SHALL  BE  ISSUED FOR A NEW OR ALTERED\n    4  BUILDING UNLESS PAYMENT HAS BEEN MADE OF ALL OUTSTANDING  FINES,  PENAL-\n    5  TIES, AND JUDGMENTS ARISING OUT OF DEPARTMENT VIOLATIONS ASSOCIATED WITH\n    6  THE  PROPERTY,  INCLUDING  BUT  NOT  LIMITED  TO  VIOLATIONS  ISSUED  IN\n    7  CONNECTION WITH ANY CONSTRUCTION, EXCAVATION OR DEMOLITION WORK.\n    8    S 8. The administrative code of the city of New  York  is  amended  by\n    9  adding a new section 28-104.10 to read as follows:\n   10    S 28-104.10 COMMUNITY BOARD NOTIFICATION OF PLAN APPROVAL. 1. A.  WHEN\n   11  AN  APPLICATION  FOR  APPROVAL  OF PLANS SUBMITTED TO THE DEPARTMENT HAS\n   12  BEEN APPROVED FOR A NEW BUILDING, THE DEPARTMENT SHALL NOTIFY THE COMMU-\n   13  NITY BOARD AND THE BOROUGH PRESIDENT OF THE BOROUGH WHERE THE NEW BUILD-\n   14  ING SHALL BE LOCATED OF THE DOCKET AND ITS NUMBER FOR SUCH PLAN, AND THE\n   15  ADDRESS WHERE THE BUILDING IS TO BE  BUILT.  UPON  THE  REQUEST  OF  THE\n   16  COMMUNITY  BOARD,  THE  DEPARTMENT  SHALL FURNISH, AND PROVIDE A REGULAR\n   17  UPDATE, OF THE COMPLETE DOCKET OF THE PROJECT, INCLUDING ALL  PLANS  AND\n   18  DRAWINGS,  PERMITS, AMENDMENTS TO THE PLAN, AUDITS, OBJECTIONS, AND SUCH\n   19  OTHER MATERIAL AS SHALL COMPRISE THE DOCKET OF SAID PROJECT.\n   20    B. THE DEPARTMENT SHALL FURNISH THE COMPLETE  DOCKET  OF  THE  PROJECT\n   21  WITHIN  FIVE BUSINESS DAYS OF SAID REQUEST, AND EACH ADDITIONAL DOCUMENT\n   22  ADDED TO THE DOCKET WITHIN FIVE DAYS OF SUCH ADDITION.\n   23    2. A. THE COMMUNITY  BOARD  IN  WHICH  ANY  NEW  BUILDING  PROJECT  IS\n   24  LOCATED,  IN  CONSULTATION  WITH THE BOROUGH PRESIDENT IN THE BOROUGH OF\n   25  THE LOCATION OF SUCH PROJECT, MAY REQUEST IN WRITING AND UPON A VOTE  OF\n   26  THE BOARD, AN AUDIT-REVIEW OF UP TO THIRTY PLANS PER YEAR BY THE DEPART-\n   27  MENT, WHICH THE DEPARTMENT SHALL BE OBLIGATED TO CONDUCT. THE DEPARTMENT\n   28  SHALL  PROVIDE  THE  BOARD AND THE BOROUGH PRESIDENT THE RESULTS OF SUCH\n   29  AUDIT-REVIEW INCLUDING ANY OBJECTIONS TO THE PLAN PROVIDED TO THE APPLI-\n   30  CANT. THE DEPARTMENT SHALL FURNISH A PRELIMINARY REPORT TO THE BOARD AND\n   31  THE BOROUGH PRESIDENT WITHIN THIRTY DAYS,  AND  A  FINAL  REPORT  WITHIN\n   32  SIXTY  DAYS, OF WHETHER THE PLAN COMPLIES WITH THE BUILDING CODE AND THE\n   33  ZONING RESOLUTION.\n   34    B. NOTHING IN THIS SECTION SHALL BE CONSTRUED TO  LIMIT  REQUESTS  FOR\n   35  AUDITS, REVIEWS, OR OTHER ACTIONS BY THE DEPARTMENT, BY COMMUNITY BOARDS\n   36  OR BOROUGH PRESIDENTS.\n   37    3.  WHERE  THE DEPARTMENT IS AUDITING AND REVIEWING ANY APPROVED PLAN,\n   38  ANY NOTICE OF OBJECTIONS TO THE PLAN SHALL BE PUBLISHED ON  THE  DEPART-\n   39  MENT  OF  BUILDINGS  INFORMATION  WEBSITE  MAINTAINED BY THE CITY OF NEW\n   40  YORK.\n   41    4. WITHIN NINETY DAYS OF THE EFFECTIVE DATE OF THIS  SUBDIVISION,  THE\n   42  DEPARTMENT  SHALL  PROMULGATE  STANDARDS  FOR ALLOWING PERMITTED WORK TO\n   43  CONTINUE WHEN OBJECTIONS TO APPROVED PLANS BY THE DEPARTMENT OCCUR.  THE\n   44  ADOPTION OF SUCH STANDARDS SHALL BE SUBJECT TO CHAPTER FORTY-FIVE OF THE\n   45  NEW YORK CITY CHARTER.\n   46    S 9. Section 28-105.1 of the administrative code of the  city  of  New\n   47  York,  as  added  by local law number 33 of the city of New York for the\n   48  year 2007, is amended to read as follows:\n   49    S 28-105.1 General. 1. It shall be  unlawful  to  construct,  enlarge,\n   50  alter,  repair, move, demolish, remove or change the use or occupancy of\n   51  any building or structure in the city,  or  to  erect,  install,  alter,\n   52  repair,  or  use  or  operate  any  sign  or  service equipment in or in\n   53  connection therewith, or  to  erect,  install,  alter,  repair,  remove,\n   54  convert  or  replace  any  gas, mechanical, plumbing or fire suppression\n   55  system in or in connection therewith or to cause any  such  work  to  be\n   56  done  unless and until a written permit therefore shall have been issued\n\n       A. 1785                             4\n\n    1  by the commissioner in accordance with the requirements  of  this  code,\n    2  subject  to such exceptions and exemptions as may be provided in section\n    3  28-105.4.\n    4    2.  THE  DEPARTMENT  SHALL  PUBLISH ON ITS WEBSITE BY COMMUNITY BOARD,\n    5  NOTICE OF PERMITS GRANTED FOR ANY NEW BUILDING,  FOUNDATION  AND  EARTH-\n    6  WORK,  ALTERATION, AND ANY DEMOLITION AND REMOVAL, INCLUDING THE ADDRESS\n    7  OF THE PROJECT WHERE THE PERMIT HAS BEEN GRANTED. THE  DEPARTMENT  SHALL\n    8  PROVIDE  ACCESS  TO  OR FURNISH A COPY OF THE PERMIT AND OTHER DOCUMENTS\n    9  WITHIN THE DOCKET ESTABLISHED FOR THE PROJECT, EITHER ELECTRONICALLY  OR\n   10  BY  OTHER  MEANS,  UPON  REQUEST AND SHALL MAKE SUCH DOCUMENTS AVAILABLE\n   11  WITHIN FIVE BUSINESS DAYS OF SUCH REQUEST.  THE DEPARTMENT MAY  WITHHOLD\n   12  PLANS  FOR  PARTICULAR BUILDINGS AT THE REQUEST OF LAW ENFORCEMENT AGEN-\n   13  CIES.\n   14    S 10. The administrative code of the city of New York  is  amended  by\n   15  adding a new section 28-110.3 to read as follows:\n   16    S 28-110.3 PRESENCE OF SITE SAFETY COORDINATOR REQUIRED. A SITE SAFETY\n   17  COORDINATOR SHALL BE PRESENT ON ANY SITE OF CONSTRUCTION OF A NEW BUILD-\n   18  ING  IN  EXCESS  OF FIVE STORIES IN HEIGHT, PURSUANT TO DEPARTMENT REGU-\n   19  LATIONS.\n   20    S 11. This act shall take effect on the ninetieth day after  it  shall\n   21  have become a law.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to enacting the New York city department of buildings community accountability act ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T100454.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT", "SOBI.D110112.T100454.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294844694348
+  "luceneModified" : 1294850399580
 }

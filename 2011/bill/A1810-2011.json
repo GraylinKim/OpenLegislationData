@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1806-2011",
+  "senateBillNo" : "A1810-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "referred to judiciary",
-    "billEventId" : "A1806-2011-1294808400000-referred+to+judiciary",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1810-2011-1294808400000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Farrell",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relieves New York city marshals from duty to remove tenant's personal property upon eviction",
+  "title" : "Provides that employers shall notify employees of potential state and federal earned income tax credits",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "New York City Civil Court Act",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT", "SOBI.D110112.T113458.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294850399552
+  "luceneModified" : 1294850399565
 }

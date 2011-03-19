@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294808400000,
+    "eventText" : "reference changed to economic development",
+    "billEventId" : "A1697-2011-1294808400000-reference+changed+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Tedisco",
+    "fullname" : "Tedisco (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to imposing restriction upon nude entertainment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T141212.TXT", "SOBI.D110111.T142213.TXT", "SOBI.D110112.T095954.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T113959.TXT", "SOBI.D110111.T141212.TXT", "SOBI.D110111.T142213.TXT", "SOBI.D110112.T095954.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294844394207
+  "luceneModified" : 1294850399576
 }
