@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Holds a person who willfully fails to collect, account for, and pay tax liable",
-  "summary" : null,
+  "summary" : "Holds a person who willfully fails to collect, account for, and pay tax liable; defines \"passive investor\" to mean an investor who does not play an active role in the business. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7922-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to the failure of a responsible person to collect and pay over withholding tax ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T100513.TXT", "SOBI.D110121.T094513.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T100513.TXT", "SOBI.D110121.T101514.TXT", "SOBI.D110121.T094513.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295622313851
+  "luceneModified" : 1295622914104
 }
