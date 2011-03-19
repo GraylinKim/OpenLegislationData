@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires notice of ensuing election's date and time to be in bold type",
-  "summary" : null,
+  "summary" : "Requires the board of elections to print in bold print of at least sixteen point font the date and time of all upcoming primary and general elections in bold type on address verification notices sent out prior to elections. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3549-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to the notice of the days and hours for voting in primary and general elections ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT", "SOBI.D110124.T130123.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT", "SOBI.D110124.T130123.TXT", "SOBI.D110124.T135627.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892684513
+  "luceneModified" : 1295895387029
 }
