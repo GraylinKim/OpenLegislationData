@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1499-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1499-2011-1294635600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants personal income taxpayers with a credit of $1.00 per day for each day after April 1 until the legislature enacts the state budget",
+  "summary" : "Grants personal income taxpayers with a credit of $1.00 per day for each day up to a maximum of seventy-five days after April 1 until the legislature enacts the state budget provided such taxpayer has timely filed his or her return. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A10305-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to providing for a personal income tax credit in the event of a tardy state budget ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T142613.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294687573448
+}

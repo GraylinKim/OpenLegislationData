@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1504-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A1504-2011-1294635600000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires propositions authorizing creation of a state debt to contain an estimate of the debt service payable and publish an explanation thereof",
+  "summary" : "Requires that any ballot proposition creating a state debt shall contain an estimate of the amortization period and the total expected debt service payable thereon until the bonds issued pursuant to such proposition are retired; relates to deposits to the tax stabilization reserve fund; provides that at least 10% of any surplus shall be used to pay down state debt. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "A8450-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law and the state finance law, in relation to requiring a proposition authorizing the creation of a state debt to contain an estimate of the debt service payable thereon, and the state finance law, in relation to requiring publication of an explanation of the proposition authorizing the creation of state debt, deposits to the tax stabilization reserve fund, and using surplus moneys to reduce outstanding state funded debt ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T142613.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294687573474
+}

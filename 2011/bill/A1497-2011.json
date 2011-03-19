@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1497-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1497-2011-1294635600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Alters the distribution of lottery proceeds to include certain municipalities",
+  "summary" : "Alters the distribution of proceeds from the state lottery to provide for the distribution of 2 1/2 per cent of amounts realized therefrom to cities, towns and villages based upon total lottery sales, in an amount which bears the same proportion to the total amount for which lottery tickets are sold during the fiscal year as the population of such cities, towns or villages bears to the population of the state, excluding however the city of New York. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : [ "A10528-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the state finance law, in relation to the distribution of moneys realized from the state lottery ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T142613.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294687573444
+}

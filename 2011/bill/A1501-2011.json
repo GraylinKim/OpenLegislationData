@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1501-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A1501-2011-1294635600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "No SPDES program fee for any volunteer fire company or department, voluntary ambulance service or volunteer rescue squad discharging at a de minimis level",
+  "summary" : "Provides no SPDES program fee be charged for any volunteer fire company or department, voluntary ambulance service or volunteer rescue squad determined by the department of environmental conservation to be discharging at a de minimis level. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A10913-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to state pollutant discharge elimination system program fees for certain volunteer organizations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T142613.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294687573460
+}

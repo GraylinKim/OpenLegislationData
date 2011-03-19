@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1502-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A1502-2011-1294635600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires owners of public vessels to maintain proof of financial security",
+  "summary" : "Requires owners of public vessels to maintain proof of financial security. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Navigation Law",
+  "previousVersions" : [ "A10537-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the navigation law and the vehicle and traffic law, in relation to requiring owners of public vessels to maintain proof of financial security ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T142613.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294687573464
+}
