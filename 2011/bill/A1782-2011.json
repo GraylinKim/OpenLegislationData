@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1782-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1782-2011-1294722000000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the legislature to be sequestered if they do not timely pass a budget",
+  "summary" : "Provides that if the legislature does not timely pass a budget, it shall be sequestered until legislative passage of such budget; defines sequestered. ",
+  "currentCommittee" : null,
+  "sameAs" : "S705",
+  "lawSection" : "Legislative Law",
+  "previousVersions" : [ "A11048-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the legislative law, in relation to requiring the legislature to be sequestered if the legislative passage of the budget is not timely ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T165226.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294782746838
+}

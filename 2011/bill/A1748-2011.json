@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1748-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to health",
+    "billEventId" : "A1748-2011-1294722000000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates a state-wide database of all donations of tissue or non-transplant organs procured by an organ procurement organization or a procurement organization",
+  "summary" : "Creates a state-wide database of all donations of tissue or non-transplant organs procured by an organ procurement organization or a procurement organization; provides that such data shall include, but not be limited to: the donor's full name, address at the time of donation, identification code, date of birth or age and date and time of death, if a cadaveric donor; documentation of evaluation of physical condition, of cadaveric donor; complete medical history of the donor, including but not limited to, any testing or medical records indicating a communicable disease or cancer, autopsy reports, donation questionnaires and other donor solicitation materials; documentation of informed consent or consent of the person authorized by law to consent to the donation; date and time of the collection, where the procurement occurred and the description and quantity of the tissue collected; name and address of the recipient of the tissue or organ; and the outcome of the transplantation, transfer and implementation procedures, and any reports which would affect the donor's acceptability; authorizes the promulgation of necessary rules and regulations. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A388-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to the creation of a state-wide database of all donations of tissue or non-transplant organs procured by an organ procurement organization or a procurement organization ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T165226.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294782746842
+}

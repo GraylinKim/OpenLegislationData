@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1784-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1784-2011-1294722000000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires landlord to grant access to engineer or architect hired by tenants to inspect major capital improvements in certain multiple dwellings",
+  "summary" : "Provides that no landlord shall deny access to a licensed professional engineer or licensed registered architect hired by any tenant or tenant association representing tenants of a multiple dwelling of six units or more for the purpose of conducting an inspection of a major capital improvement for which an application for a maximum rent adjustment has been filed by the landlord; provides that such inspection shall be conducted after notice to the landlord and during normal business hours; provides for the filing of such inspection report by such tenants with the New York city rent agency for consideration in such application's determination. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1282",
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : [ "A1357-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the administrative code of the city of New York and the emergency tenant protection act of nineteen seventy-four, in relation to inspection of major capital improvements for which rent increases are requested and in relation to extending the provisions of the rent stabilization law ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T165226.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294782746845
+}
