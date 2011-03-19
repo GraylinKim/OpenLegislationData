@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A620-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A620-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the local enactment of a residency requirement upon certain employees in New York city",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Officers Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public officers law and the executive law, in relation to authorizing the local enactment of a residency requirement for members of the police force, the department of sanitation, probation officers, members of the uniformed force of the fire department, employees of the department of correction in the correctional service classification of the classified civil service, and officers and inspectors of the department of health in cities with a population of one million or more and authorizing the adoption of a residency requirement for members of a police force of a public authority or municipal housing authority within a city with a population of one million or more ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294071541948
+}

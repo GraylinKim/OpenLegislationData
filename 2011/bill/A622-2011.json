@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A630-2011",
+  "senateBillNo" : "A622-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to judiciary",
-    "billEventId" : "A630-2011-1294203600000-referred+to+judiciary",
+    "eventText" : "referred to social services",
+    "billEventId" : "A622-2011-1294203600000-referred+to+social+services",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits a plaintiff to recover directly against a third party defendant found to be liable to the defendant in certain actions",
+  "title" : "Increases the availability of emergency rent assistance to include grants for individuals at 200% or less of the poverty line",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to permitting a plaintiff to recover against a third party defendant in certain cases ",
+  "actClause" : "AN ACT to amend the social services law, in relation to increasing the availability of emergency rent assistance ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541930
+  "luceneModified" : 1294071541953
 }

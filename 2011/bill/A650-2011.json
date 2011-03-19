@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A631-2011",
+  "senateBillNo" : "A650-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to insurance",
-    "billEventId" : "A631-2011-1294203600000-referred+to+insurance",
+    "billEventId" : "A650-2011-1294203600000-referred+to+insurance",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires all motor vehicle insurers to file annual detailed financial and claim data statements with the superintendent of insurance",
+  "title" : "Permits direct reimbursement to ambulance services for prehospital emergency medical services",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -27,28 +27,28 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick",
+    "fullname" : "McDonough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Peoples-Stokes",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to requiring all motor vehicle insurers to file annual financial statements and detailed claim data with the superintendent of insurance ",
+  "actClause" : "AN ACT to amend the insurance law, in relation to reimbursement for prehospital emergency medical services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541938
+  "luceneModified" : 1294071541974
 }

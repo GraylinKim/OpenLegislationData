@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A631-2011",
+  "senateBillNo" : "A649-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A631-2011-1294203600000-referred+to+insurance",
+    "eventText" : "referred to economic development",
+    "billEventId" : "A649-2011-1294203600000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,56 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires all motor vehicle insurers to file annual detailed financial and claim data statements with the superintendent of insurance",
+  "title" : "Establishes voluntary licensure of master electricians by the department of state",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Sayward",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Burling",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Peoples-Stokes",
+    "fullname" : "McDonough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to requiring all motor vehicle insurers to file annual financial statements and detailed claim data with the superintendent of insurance ",
+  "actClause" : "AN ACT to amend the general business law, in relation to establishing voluntary licensing of master electricians ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541938
+  "luceneModified" : 1294071541973
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A630-2011",
+  "senateBillNo" : "A646-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to judiciary",
-    "billEventId" : "A630-2011-1294203600000-referred+to+judiciary",
+    "eventText" : "referred to higher education",
+    "billEventId" : "A646-2011-1294203600000-referred+to+higher+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits a plaintiff to recover directly against a third party defendant found to be liable to the defendant in certain actions",
+  "title" : "Establishes the New York state nursing faculty scholarship incentive program",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to permitting a plaintiff to recover against a third party defendant in certain cases ",
+  "actClause" : "AN ACT to amend the education law, in relation to establishing a New York state nursing faculty scholarship incentive program for advanced degrees in nursing ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541930
+  "luceneModified" : 1294071541965
 }

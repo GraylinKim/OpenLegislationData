@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A631-2011",
+  "senateBillNo" : "A617-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A631-2011-1294203600000-referred+to+insurance",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A617-2011-1294203600000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "Sayward",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires all motor vehicle insurers to file annual detailed financial and claim data statements with the superintendent of insurance",
+  "title" : "Prohibits the inclusion of any advertisements in any mailing sent by the department of motor vehicles",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Rabbitt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick",
+    "fullname" : "Duprey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Peoples-Stokes",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to requiring all motor vehicle insurers to file annual financial statements and detailed claim data with the superintendent of insurance ",
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to prohibiting the inclusion of any advertisements in any mailing sent by the department of motor vehicles ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541938
+  "luceneModified" : 1294071541936
 }

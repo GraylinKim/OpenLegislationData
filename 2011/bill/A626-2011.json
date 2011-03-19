@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A630-2011",
+  "senateBillNo" : "A626-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to judiciary",
-    "billEventId" : "A630-2011-1294203600000-referred+to+judiciary",
+    "billEventId" : "A626-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits a plaintiff to recover directly against a third party defendant found to be liable to the defendant in certain actions",
+  "title" : "Requires a recording officer not to record or accept a transfer or assignment of interest in a mortgage unless accompanied with a mortgage ownership assignment",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "sameAs" : "S667",
+  "lawSection" : "Real Property Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to permitting a plaintiff to recover against a third party defendant in certain cases ",
+  "actClause" : "AN ACT to amend the real property law, in relation to the recording of a transfer or assignment of a mortgage interest ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541930
+  "luceneModified" : 1294071541966
 }

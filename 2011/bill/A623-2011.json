@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A632-2011",
+  "senateBillNo" : "A623-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to health",
-    "billEventId" : "A632-2011-1294203600000-referred+to+health",
+    "eventText" : "referred to codes",
+    "billEventId" : "A623-2011-1294203600000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Weinstein",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Defines the kind of assistance required to be included as part of medicaid personal care services",
+  "title" : "Eliminates the imposition of the death penalty for conviction of murder in the first degree; repealer",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Jacobs",
+    "fullname" : "O'Donnell",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the social services law, in relation to defining the kind of assistance required for a recipient to obtain medicaid personal care services ",
+  "actClause" : "AN ACT to amend the penal law and the criminal procedure law, in relation to eliminating the imposition of the death penalty; and to repeal certain provisions of the criminal procedure law, the judiciary law, the county law, the correction law and the executive law relating to the imposition of the death penalty ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T111901.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071541941
+  "luceneModified" : 1294071541957
 }
