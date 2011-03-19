@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2515-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2515-2011-1295413200000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Includes mixed residential and commercial property within the affordable home ownership program",
+  "summary" : "Includes mixed residential and commercial property within the provisions of the affordable home ownership development program thus authorizing the affordable housing corporation to fund the construction or rehabilitation of housing that also contains a commercial retailing business. ",
+  "currentCommittee" : null,
+  "sameAs" : "S755",
+  "lawSection" : "Private Housing Finance Law",
+  "previousVersions" : [ "A4283-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McKevitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the private housing finance law, in relation to including mixed residential and commercial property within the provisions of the affordable home ownership development program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T135801.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295463481304
+}

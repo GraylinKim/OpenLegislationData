@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2514-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A2514-2011-1295413200000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Fitzpatrick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes municipal corporations to grant partial exemption on real property owned by persons totally and permanently disabled",
+  "summary" : "Provides that the current real property tax exemption for persons over 65 may also be extended to those persons who are totally and permanently disabled; provides that municipalities shall provide by local law that such shall be granted to either those 65 years of age or older or to those who are totally and permanently disabled, or to both categories of persons. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A4524-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to granting partial exemption from real property taxation to persons who are totally and permanently disabled ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T135801.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295463481301
+}
