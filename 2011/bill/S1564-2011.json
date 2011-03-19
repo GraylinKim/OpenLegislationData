@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to the content of statements of campaign receipts, contributions, transfers and expenditures to and by political committees ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T103826.TXT", "SOBI.D110112.T175532.TXT", "SOBI.D110110.T141111.TXT", "SOBI.D110110.T131605.TXT", "SOBI.D110111.T142213.TXT", "SOBI.D110110.T125602.TXT", "SOBI.D110110.T140611.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T103826.TXT", "SOBI.D110121.T093512.TXT", "SOBI.D110112.T175532.TXT", "SOBI.D110110.T141111.TXT", "SOBI.D110110.T131605.TXT", "SOBI.D110111.T142213.TXT", "SOBI.D110110.T125602.TXT", "SOBI.D110110.T140611.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295537906979
+  "luceneModified" : 1295620512370
 }

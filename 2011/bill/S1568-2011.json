@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "KRUEGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "OPPENHEIMER",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to prohibiting candidates from authorizing more than one political committee for any one election ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T175532.TXT", "SOBI.D110113.T091805.TXT", "SOBI.D110110.T130109.TXT", "SOBI.D110110.T131605.TXT", "SOBI.D110111.T142213.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110110.T140611.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T093512.TXT", "SOBI.D110112.T175532.TXT", "SOBI.D110113.T091805.TXT", "SOBI.D110110.T131605.TXT", "SOBI.D110110.T130109.TXT", "SOBI.D110111.T142213.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110110.T140611.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295392624736
+  "luceneModified" : 1295620512375
 }
