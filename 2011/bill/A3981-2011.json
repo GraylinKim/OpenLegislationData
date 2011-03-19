@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3978-2011",
+  "senateBillNo" : "A3981-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A3978-2011-1296450000000-referred+to+housing",
+    "eventText" : "referred to cities",
+    "billEventId" : "A3981-2011-1296450000000-referred+to+cities",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "O'Donnell",
+    "fullname" : "Weprin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that revenues from buyouts of Mitchell-Lama projects must be used for affordable housing purposes",
+  "title" : "Provides that a fire department located in a city with a population of one million or more shall obtain state approval for fees charged for responding to accidents",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Private Housing Finance Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Glick",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Brook-Krasny",
+    "fullname" : "Jeffries",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T114200.TXT", "SOBI.D110131.T113700.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T114200.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296492120832
+  "luceneModified" : 1296492120839
 }

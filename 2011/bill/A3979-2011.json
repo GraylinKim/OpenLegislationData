@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3961-2011",
+  "senateBillNo" : "A3979-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A3961-2011-1296450000000-referred+to+insurance",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A3979-2011-1296450000000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Magnarelli",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits insurers from limiting payment on claims based on pricing caps and from recommending a particular repair facility, and requires notice to insureds",
+  "title" : "Relates to increasing the maximum real property tax circuit breaker tax credit",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Stevenson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lopez V",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to collision or comprehensive coverage on motor vehicles ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T114200.TXT", "SOBI.D110131.T113700.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T114200.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296492120871
+  "luceneModified" : 1296492120834
 }

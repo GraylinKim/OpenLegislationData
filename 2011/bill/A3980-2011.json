@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3963-2011",
+  "senateBillNo" : "A3980-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "referred to health",
-    "billEventId" : "A3963-2011-1296450000000-referred+to+health",
+    "eventText" : "referred to education",
+    "billEventId" : "A3980-2011-1296450000000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,53 +13,18 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Magnarelli",
+    "fullname" : "Weisenberg",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes standards and programs relating to the prevention and/or reduction of the incidence of hospital-acquired infections",
+  "title" : "Requires schools to provide instruction in cardiopulmonary resuscitation",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lancman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Galef",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Benedetto",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Millman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Brook-Krasny",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "Colton",
@@ -69,14 +34,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -90,7 +55,49 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Zebrowski",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titus",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -99,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to establishing standards and programs relating to the prevention and/or reduction of the incidence of hospital-acquired infections ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T114200.TXT", "SOBI.D110131.T113700.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T114200.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296492120874
+  "luceneModified" : 1296492120836
 }
