@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "GRISANTI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
@@ -39,7 +46,7 @@
   "actClause" : "AN ACT to amend the public authorities law and the vehicle and traffic law, in relation to the exemption of certain veterans from tolls collected by the New York state thruway authority ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T150348.TXT", "SOBI.D110105.T120126.TXT", "SOBI.D101220.T135832.TXT", "SOBI.D110106.T151729.TXT", "SOBI.D101220.T123827.TXT", "SOBI.D101220.T131329.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T120126.TXT", "SOBI.D101222.T150348.TXT", "SOBI.D110111.T164224.TXT", "SOBI.D101220.T135832.TXT", "SOBI.D101220.T123827.TXT", "SOBI.D110106.T151729.TXT", "SOBI.D101220.T131329.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294345049419
+  "luceneModified" : 1294782144506
 }
