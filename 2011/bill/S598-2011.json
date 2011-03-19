@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows local tax collectors to send tax statements by electronic mail to an address provided by a homeowner and to opt out of receiving paper statements",
-  "summary" : null,
+  "summary" : "Allows local tax collectors to send tax statements by electronic mail to an address provided by a homeowner and to opt out of receiving paper statements of taxes. ",
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S30-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to allowing statements of taxes via electronic mail ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D101222.T155350.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T161351.TXT", "SOBI.D101222.T152848.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D101222.T155350.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293051530432
+  "luceneModified" : 1293052431628
 }
