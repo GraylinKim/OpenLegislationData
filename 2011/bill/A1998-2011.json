@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1998-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1998-2011-1294808400000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Exempts from state income taxation the first $250,000 earned by four-year college graduates or the first $150,000 earned by two-year graduates",
+  "summary" : "Enacts the graduate outreach assistance law to exempt from state income taxation the first two hundred fifty thousand dollars, with a fifty thousand dollar cap per year, earned by a four-year college graduate and the first one hundred fifty thousand dollars, with a twenty-five thousand dollar cap per year, earned by a two-year college graduate. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A8453-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilich",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to enacting the graduate outreach assistance law to exempt from state income taxation the first two hundred fifty thousand dollars earned by a college graduate ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T161027.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294866627944
+}

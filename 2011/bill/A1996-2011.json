@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1996-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1996-2011-1294808400000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Assesses a penalty upon legislature and governor for late budget",
+  "summary" : "Provides that members of the legislature shall be penalized one day's salary for each day the state budget is late; provides that legislative leaders and the governor shall be penalized two days pay for each day the state budget is late with all monies to be placed in the New York State children and families trust fund. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Legislative Law",
+  "previousVersions" : [ "A10366-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the legislative law and the executive law, in relation to assessing a penalty upon members of the legislature and the governor for failure to enact a timely state budget ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T161027.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294866627940
+}

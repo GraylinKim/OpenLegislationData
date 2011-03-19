@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1999-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1999-2011-1294808400000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the tax relief on energy act; appropriation",
+  "summary" : "Enacts the tax relief on energy act; relates to the tax on furnishing of utility services; provides a sales and compensating use tax exemption on Energy Star appliances; provides for a heating credit for qualifying senior citizens living in leased housing; creates the STAR energy rebate program; establishes a clean energy production credit; provides for small business energy tax reduction; provides a tax credit on qualified fuel cell electric generating equipment expenditures; appropriation. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A8452-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Sayward",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT enacting the tax relief on energy act; to amend the tax law, in relation to the tax on the furnishing of utility services; in relation to providing a sales and compensating use tax exemption on Energy Star appliances; in relation to a heating credit for qualifying senior citizens living in leased housing; to create the STAR energy rebate program; in relation to establishing a clean energy production credit; in relation to small business energy tax reduction; in relation to credit against the tax imposed on qualified fuel cell electric generating equipment expenditures; and making an appropriation for the STAR energy rebate program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T161027.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294866627946
+}

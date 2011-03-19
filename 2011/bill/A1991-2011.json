@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1991-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A1991-2011-1294808400000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Grants taxpayers an automatic extension to file a return and pay taxes in certain cases",
+  "summary" : "Grants taxpayer an automatic extension of time for filing a return and paying personal income taxes where a state budget is not timely enacted into law; provides that no penalties or interest shall be assessed, or imposed upon a taxpayer during such extension. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A10357-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to granting an automatic extension of time for filing a personal income tax return and paying a personal income tax when the state budget has not been timely enacted into law ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T161027.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294866627931
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1984-2011",
+  "senateBillNo" : "A1989-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "referred to consumer affairs and protection",
-    "billEventId" : "A1984-2011-1294808400000-referred+to+consumer+affairs+and+protection",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1989-2011-1294808400000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires health warnings on ultraviolet nail dryers",
-  "summary" : "Requires health warnings on ultraviolet nail dryers; in a manner and form to be determined by the commissioner of health ",
+  "title" : "Relates to redistricting the senate, assembly and congressional districts of NYS; repealer",
+  "summary" : "Relates to redistricting the senate, assembly and congressional districts of NYS. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : "General Business Law",
-  "previousVersions" : null,
+  "sameAs" : "S717",
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "previousVersions" : [ "A6776-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Arroyo",
+    "fullname" : "Molinaro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cymbrowitz",
+    "fullname" : "Butler",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Corwin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "McDonough",
+    "fullname" : "Latimer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law, in relation to requiring health warnings on ultraviolet nail dryers ",
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing amendments to the constitution, in relation to the establishment of state legislative and congressional districts and repealing sections 3, 4, 5 and 5-a of article 3 of the constitution relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T160022.TXT", "SOBI.D110112.T161027.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T161027.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294866627900
+  "luceneModified" : 1294866627928
 }
