@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1006-2011",
+  "senateBillNo" : "A851-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1006-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A851-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "Weinstein",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits landlords convicted of housing violations from claiming exemptions, credits or itemized deductions for such property on state tax returns",
+  "title" : "Relates to increasing property values which are exempt from the satisfaction of a money judgement",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Real Property Law",
+  "lawSection" : "Civil Practice Law and Rules",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T133504.TXT", "SOBI.D110104.T133004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T133504.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294166104546
+  "luceneModified" : 1294166104550
 }
