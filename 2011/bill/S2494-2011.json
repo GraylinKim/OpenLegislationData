@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2492-2011",
+  "senateBillNo" : "S2494-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S2492-2011-1295845200000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S2494-2011-1295845200000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for a ninety day eligibility limitation on medical services not mandated by federal law",
+  "title" : "Authorizes the legislature to enact a period of residency requirement for persons applying for certain social services",
   "summary" : null,
-  "currentCommittee" : "SOCIAL SERVICES",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T110113.TXT", "SOBI.D110124.T110615.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T110615.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295885175513
+  "luceneModified" : 1295885175521
 }
