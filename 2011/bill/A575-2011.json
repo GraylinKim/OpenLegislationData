@@ -22,6 +22,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295326800000,
+    "eventText" : "passed assembly",
+    "billEventId" : "A575-2011-1295326800000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295326801000,
+    "eventText" : "delivered to senate",
+    "billEventId" : "A575-2011-1295326801000-delivered+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -95,7 +109,7 @@
   "actClause" : "AN ACT to amend the public health law and the insurance law, in relation to certain application and referral forms for health care plans ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T123202.TXT", "SOBI.D110104.T151011.TXT", "SOBI.D110103.T095848.TXT", "SOBI.D110113.T114320.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T123202.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110104.T151011.TXT", "SOBI.D110103.T095848.TXT", "SOBI.D110113.T114320.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294937000167
+  "luceneModified" : 1295385115467
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Extends the authority of the city of Yonkers to impose a mortgage recording tax",
-  "summary" : null,
+  "summary" : "Extends the authority of the city of Yonkers to impose a mortgage recording tax. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A6897-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T153652.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T161155.TXT", "SOBI.D110118.T153652.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295383012164
+  "luceneModified" : 1295385115463
 }
