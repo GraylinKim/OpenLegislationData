@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3170-2011",
+  "senateBillNo" : "A3176-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to election law",
-    "billEventId" : "A3170-2011-1295845200000-referred+to+election+law",
+    "eventText" : "referred to higher education",
+    "billEventId" : "A3176-2011-1295845200000-referred+to+higher+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Perry",
+    "fullname" : "Pretlow",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the Bloomberg waiver for candidates in compliance with N.Y. cities campaign finance board regulations",
+  "title" : "Makes provisions with respect to student awards, loans and tuition assistance programs",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Election Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT", "SOBI.D110124.T130123.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T130123.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892083097
+  "luceneModified" : 1295892083114
 }

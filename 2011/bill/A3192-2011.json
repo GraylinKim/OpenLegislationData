@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3170-2011",
+  "senateBillNo" : "A3192-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to election law",
-    "billEventId" : "A3170-2011-1295845200000-referred+to+election+law",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3192-2011-1295845200000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,18 +13,25 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Perry",
+    "fullname" : "Morelle",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the Bloomberg waiver for candidates in compliance with N.Y. cities campaign finance board regulations",
+  "title" : "Establishes a veteran's outreach center distinctive license plate",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Election Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT", "SOBI.D110124.T130123.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T130123.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892083097
+  "luceneModified" : 1295892083139
 }
