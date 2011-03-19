@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "GALLIVAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the correction law, in relation to agreements for custody of definite sentence inmates ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T105351.TXT", "SOBI.D110110.T112556.TXT", "SOBI.D110112.T175532.TXT", "SOBI.D110107.T113853.TXT", "SOBI.D110110.T123101.TXT", "SOBI.D110107.T115854.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T105351.TXT", "SOBI.D110110.T112556.TXT", "SOBI.D110112.T175532.TXT", "SOBI.D110110.T123101.TXT", "SOBI.D110107.T113853.TXT", "SOBI.D110107.T115854.TXT", "SOBI.D110124.T101109.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294872932634
+  "luceneModified" : 1295881869922
 }
