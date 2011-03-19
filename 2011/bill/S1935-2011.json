@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to the employee benefit accrued liability reserve fund",
-  "summary" : null,
+  "summary" : "Relates to the employee benefit accrued liability reserve fund. ",
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : "A2130",
   "lawSection" : "General Municipal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA2520-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the general municipal law, in relation to the employee benefit accrued liability reserve fund ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T114925.TXT", "SOBI.D110114.T112423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110114.T112423.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295023765958
+  "luceneModified" : 1295024385350
 }

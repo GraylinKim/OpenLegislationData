@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1965-2011",
+  "senateBillNo" : "A2219-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1965-2011-1294981200000-REFERRED+TO+CODES",
+    "eventText" : "referred to economic development",
+    "billEventId" : "A2219-2011-1294981200000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the value of homesteads which are to be exempt from civil judgments",
+  "title" : "Enacts the New York state green economic development zones act",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "General Municipal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "Tobacco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SMITH",
+    "fullname" : "Malliotakis",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the general municipal law, the real property tax law, the general city law, the tax law and the public service law, in relation to enacting the New York state green economic development zones act ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T115425.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295024385302
+  "luceneModified" : 1295024385353
 }

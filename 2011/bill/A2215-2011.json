@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2135-2011",
+  "senateBillNo" : "A2215-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to higher education",
-    "billEventId" : "A2135-2011-1294981200000-referred+to+higher+education",
+    "eventText" : "referred to codes",
+    "billEventId" : "A2215-2011-1294981200000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the unlawful sale of dissertations, theses and term papers",
-  "summary" : "Prohibits the sale of academic dissertations, theses and term papers whether written or provided through electronic media. ",
+  "title" : "Requires pleadings in actions arising from the conduct of a business required to be licensed by the state to set forth in the pleadings that the business was licensed",
+  "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S1940",
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A9564-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Civil Practice Law and Rules",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "Jaffee",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,28 +41,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Meng",
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Crespo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to the unlawful sale of dissertations, theses and term papers ",
+  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to requiring pleadings in actions arising from the conduct of a business required to be licensed by the state to set forth in the pleadings that the business was licensed at the time the cause of action arose ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110114.T112423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295024385324
+  "luceneModified" : 1295024385308
 }

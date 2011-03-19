@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1965-2011",
+  "senateBillNo" : "S1966-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1965-2011-1294981200000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S1966-2011-1294981200000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "MARCELLINO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the value of homesteads which are to be exempt from civil judgments",
+  "title" : "Requires notification to victims upon the conditional release of an inmate convicted of a crime against a member of the same family or household",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SMITH",
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T115425.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295024385302
+  "luceneModified" : 1295024385310
 }

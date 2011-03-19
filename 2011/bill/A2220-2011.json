@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1965-2011",
+  "senateBillNo" : "A2220-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1965-2011-1294981200000-REFERRED+TO+CODES",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A2220-2011-1294981200000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the value of homesteads which are to be exempt from civil judgments",
+  "title" : "Relates to parentage of children born by medically-assisted reproduction",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Domestic Relations Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SMITH",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the domestic relations law, in relation to parentage of children born by medically-assisted reproduction ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T115425.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295024385302
+  "luceneModified" : 1295024385361
 }

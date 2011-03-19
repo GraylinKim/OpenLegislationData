@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2135-2011",
+  "senateBillNo" : "A2214-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to higher education",
-    "billEventId" : "A2135-2011-1294981200000-referred+to+higher+education",
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A2214-2011-1294981200000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the unlawful sale of dissertations, theses and term papers",
-  "summary" : "Prohibits the sale of academic dissertations, theses and term papers whether written or provided through electronic media. ",
+  "title" : "Relates to the commissioners of the Port Authority of New York and New Jersey",
+  "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S1940",
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A9564-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Port Authority of New York and New Jersey",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Calhoun",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,35 +41,35 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Molinaro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Meng",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Rabbitt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to the unlawful sale of dissertations, theses and term papers ",
+  "actClause" : "AN ACT to amend chapter 154 of the laws of 1921, relating to the port authority of New York and New Jersey, in relation to the commissioners of such authority ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110114.T112423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295024385324
+  "luceneModified" : 1295024385305
 }
