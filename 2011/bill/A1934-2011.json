@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1934-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A1934-2011-1294808400000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the department of labor to restore the New York state unemployment insurance telephone claims center to lower Manhattan",
+  "summary" : "Requires the department of labor to restore the New York state unemployment insurance telephone claims center to lower Manhattan. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance",
+  "previousVersions" : [ "A1549-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT requiring the New York state department of labor to restore the New York state unemployment insurance telephone claims center back to the New York city area ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T152028.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294863628646
+}
