@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1108-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to higher education",
+    "billEventId" : "A1108-2011-1294203600000-referred+to+higher+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates city university of New York center for excellence in urban education to enhance the quality of teaching in public schools in N.Y. city",
+  "summary" : "Creates City University of New York center for excellence in urban education to enhance the quality of teaching in public schools in NYC; establishes the regents teachers loan forgiveness program to allocate awards annually to teachers who agree to teach public school in an area of New York state designated by the board of regents as having a shortage of public school teachers. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1141",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A3620-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to providing for the enhancement of the quality of teaching in the public schools in New York city ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T133720.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294339040387
+}

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1100-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to alcoholism and drug abuse",
+    "billEventId" : "A1100-2011-1294203600000-referred+to+alcoholism+and+drug+abuse",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Permits municipalities to adopt local law or ordinance to recover costs of emergency response to scene of alcohol or controlled substance related accident",
+  "summary" : "Enacts the \"alcohol and controlled substance expense recovery act\"; permits each city, county, town and village to adopt a local law or ordinance providing for the civil recovery, from the operator of a motor vehicle, of any cost or expense expended or incurred for services or materials in responding to an emergency situation, caused by such operator who is under the influence of alcohol or a controlled substance; provides that such municipality may keep a schedule of such costs and commence a civil action to recover such costs if such operator is found to be so impaired. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A2803-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McKevitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, in relation to reimbursement of municipal cost and expense incurred by motor vehicle drivers under the influence of alcohol and/or controlled substances ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T133720.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294339040361
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1098-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A1098-2011-1294203600000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crespo",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to establishing NYS prescription medication cost containment program",
+  "summary" : "Relates to establishing the New York state prescription medication cost containment program. ",
+  "currentCommittee" : null,
+  "sameAs" : "S480",
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : [ "AB9207-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil service law, in relation to the New York state prescription medication cost containment program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T133720.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294339040351
+}

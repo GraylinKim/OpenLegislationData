@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1135-2011",
+  "senateBillNo" : "A1139-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to codes",
-    "billEventId" : "A1135-2011-1294203600000-referred+to+codes",
+    "billEventId" : "A1139-2011-1294203600000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,15 +13,15 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Lentol",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits the court to grant post-conviction motions to vacate a judgment when the issue raised upon such motion is ineffective assistance of counsel",
+  "title" : "Permits the sealing of records of certain nonviolent misdemeanor or nonsexual misdemeanor criminal offenses",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S1020",
+  "sameAs" : "S682",
   "lawSection" : "Criminal Procedure Law",
   "previousVersions" : null,
   "coSponsors" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the criminal procedure law, in relation to claims of ineffective assistance of counsel in post-conviction motions ",
+  "actClause" : "AN ACT to amend the criminal procedure law and the executive law, in relation to permitting the sealing of records of certain nonviolent misdemeanor or non-sexual misdemeanor offenses ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T133220.TXT", "SOBI.D110106.T133720.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T133720.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294339040337
+  "luceneModified" : 1294339040360
 }
