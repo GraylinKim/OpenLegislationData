@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A414-2011",
+  "senateBillNo" : "A419-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to local governments",
-    "billEventId" : "A414-2011-1294203600000-referred+to+local+governments",
+    "eventText" : "referred to codes",
+    "billEventId" : "A419-2011-1294203600000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalties a town board may impose for a violation of its zoning and planning laws",
-  "summary" : "Increases the penalties a town board may impose for a violation of its zoning and planning laws. ",
+  "title" : "Includes individuals with a mental defect as a victim under sexual abuse in the first degree",
+  "summary" : "Includes individuals with a mental defect as a victim under sexual abuse in the first degree. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : "Town Law",
-  "previousVersions" : [ "A1139-2009" ],
+  "sameAs" : "S621",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A906-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Molinaro",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the town law, in relation to the enforcement and remedies of a town board ",
+  "actClause" : "AN ACT to amend the penal law, in relation to including individuals with a mental defect as a victim under sexual abuse in the first degree ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101223.T161118.TXT", "SOBI.D101223.T160618.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101223.T161118.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293138678024
+  "luceneModified" : 1293138678048
 }

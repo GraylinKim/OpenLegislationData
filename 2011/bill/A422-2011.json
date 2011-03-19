@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A422-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A422-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that demonstration rates of payment for telehealth services by home health agencies, long term home health care and AIDS home care shall be paid equitably",
+  "summary" : "Provides that demonstration rates of payment for telehealth services by home health agencies, long term home health care and AIDS home care shall be paid to providers in an equitable and direct manner. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A878-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to rates for telehealth services provided by certified home health agencies, long term home health care programs and AIDS home care services ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T161118.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293138678053
+}

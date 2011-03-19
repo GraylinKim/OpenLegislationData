@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A421-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A421-2011-1294203600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Protects tenants in unlawful lofts from eviction on certain grounds by precluding owners from making application to legalize residential occupancy for 10 years",
+  "summary" : "Protects tenants in unlawful lofts (\"interim multiple dwellings\") from eviction on certain grounds (i.e., on grounds that the occupancy is unlawful because the building does not satisfy one or more requirements pertaining to such dwellings or because the owner has failed to satisfy one or more requirements pertaining to such dwellings or because a residential certificate of occupancy has not been issued for the building or because residential occupancy is not permitted by the local zoning resolution) by precluding owners who have recovered possession on the grounds of unlawful occupancy from making certain applications to any public body to legalize residential occupancy for a ten year period following the actual recovery of possession; provides that any approval, authorization, permit, etc. granted or issued by a public body in connection with an application made in violation of these provisions shall be void. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Multiple Dwelling Law",
+  "previousVersions" : [ "A3715-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the multiple dwelling law, in relation to providing tenant protection in connection with unlawful interim multiple dwellings ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T161118.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293138678051
+}

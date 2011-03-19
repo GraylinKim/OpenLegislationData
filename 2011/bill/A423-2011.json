@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A423-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A423-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the impoundment and forfeiture of machinery, motor vehicles, aircraft and equipment after a previous conviction of illegally harvesting timber",
+  "summary" : "Provides for the impoundment by law enforcement and forfeiture of any machinery, motor vehicles, aircraft and/or equipment used to illegally harvest timber after having previously been convicted of such offense. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A842-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lifton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to the impoundment of machinery, motor vehicles, aircraft and equipment used in the illegal taking of trees and timber ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T161118.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293138678055
+}

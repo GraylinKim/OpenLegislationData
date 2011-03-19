@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A415-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A415-2011-1294203600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Increases from $1,000,000 to $2,000,000 the aggregate of linked loans that an agricultural project may receive during the linked loan program",
+  "summary" : "Increases from $1,000,000 to $2,000,000, the aggregate of linked loans that an agricultural project may receive during the linked loan program; provides that the linked deposit for a linked loan shall be for a period of not more than 6 years. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : [ "AA5953-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the state finance law, in relation to increasing the aggregate amount of linked loans an agricultural project may receive and the term of a linked deposit ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T161118.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293138678033
+}
