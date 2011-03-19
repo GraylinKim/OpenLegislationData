@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1459-2011",
+  "senateBillNo" : "S1465-2011",
   "billEvents" : [ {
     "eventDate" : 1294376400000,
     "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1459-2011-1294376400000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "billEventId" : "S1465-2011-1294376400000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "LAVALLE",
+    "fullname" : "HANNON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the Peconic Bay regional transportation council; repealer",
+  "title" : "Provides nonprofit organizations real property exemption, at local option, for those promptly applying that purchase after municipality's taxable status date",
   "summary" : null,
   "currentCommittee" : "LOCAL GOVERNMENT",
-  "sameAs" : "A1412",
-  "lawSection" : "General Municipal Law",
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general municipal law, in relation to creating the Peconic Bay regional transportation council; and providing for the repeal of such provisions upon expiration thereof ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T144409.TXT", "SOBI.D110107.T141407.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T144409.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294429449353
+  "luceneModified" : 1294429449352
 }

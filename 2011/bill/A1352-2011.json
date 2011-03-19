@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1352-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to correction",
+    "billEventId" : "A1352-2011-1294203600000-referred+to+correction",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the sheriff to charge prisoners fees to support the operations of the facility where they are incarcerated; requires inmates to assist in the provision of necessary services provided at the facility",
+  "summary" : "Authorizes the sheriff to charge prisoners fees to support the operations of the facility where they are incarcerated and requires the inmates of the facility to assist in the provision of necessary services provided at the facility. ",
+  "currentCommittee" : null,
+  "sameAs" : "S508",
+  "lawSection" : "Correction Law",
+  "previousVersions" : [ "A9076-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the correction law, in relation to authorizing charges to prisoners of fees to support the operations of the facility where they are incarcerated and requiring the inmates of the facility to assist in the provision of necessary services provided at the facility ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T144409.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294429449322
+}
