@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a municipality or community board to express an opinion before a license is granted to a person to sell liquor at retail for off-premises consumption",
-  "summary" : null,
+  "summary" : "Allows a municipality or community board to express an opinion before a license is granted to a person to sell liquor at retail for off-premises consumption. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Alcoholic Beverage Control Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA204-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to licenses to sell liquor at retail for consumption off the premises ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T110705.TXT", "SOBI.D110106.T111204.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T112205.TXT", "SOBI.D110106.T110705.TXT", "SOBI.D110106.T111204.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294330324735
+  "luceneModified" : 1294330925009
 }
