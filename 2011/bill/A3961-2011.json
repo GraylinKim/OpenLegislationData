@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits insurers from limiting payment on claims based on pricing caps and from recommending a particular repair facility, and requires notice to insureds",
-  "summary" : null,
+  "summary" : "Prohibits insurers from limiting payment on claims for damage to motor vehicles based on pricing caps for labor, parts, paint or repair materials; prohibits insurers from recommending a particular repair facility; and requires insurers to provide and retain a signed notice to claimants in relation to insured's right to have a vehicle repaired in the shop of his/her choice. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A316-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to collision or comprehensive coverage on motor vehicles ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T114200.TXT", "SOBI.D110131.T113700.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T114200.TXT", "SOBI.D110131.T115701.TXT", "SOBI.D110131.T113700.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296492120871
+  "luceneModified" : 1296493021535
 }
