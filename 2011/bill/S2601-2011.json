@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires one trustee of the New York Power Authority be a resident of St. Lawrence County and one trustee to be a resident of Niagara county",
-  "summary" : null,
+  "summary" : "Requires one trustee of the New York Power Authority be a resident of St. Lawrence County and one trustee to be a resident of Niagara county. ",
   "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
   "lawSection" : "Public Authorities Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA3560-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T161311.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T161811.TXT", "SOBI.D110126.T161311.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296076391481
+  "luceneModified" : 1296076691611
 }

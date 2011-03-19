@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2602-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S2602-2011-1296018000000-REFERRED+TO+ELECTIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KRUGER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Sets liberal construction provisions regarding nominating/ designating candidates to avoid disqualifications consistent with substantial law compliance",
+  "summary" : "Establishes standard of substantial compliance with election law provisions relating to nomination and designation of candidates for public office; so as to avoid the disqualification of candidates to the maximum extent feasible where there is no fraud. ",
+  "currentCommittee" : "ELECTIONS",
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "S355-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T161811.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296076691613
+}
