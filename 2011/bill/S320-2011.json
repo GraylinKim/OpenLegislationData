@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows retired military service members to qualify for distinctive license plates",
-  "summary" : null,
+  "summary" : "Allows retired military service members to qualify for distinctive license plates. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4519-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -102,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101214.T160652.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101214.T162153.TXT", "SOBI.D101214.T160652.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292360812667
+  "luceneModified" : 1292361713739
 }

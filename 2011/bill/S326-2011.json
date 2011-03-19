@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates a personal income tax check-off box for donations to the school-based health centers fund",
-  "summary" : null,
+  "summary" : "Creates a personal income tax check-off box for donations to the school-based health centers fund; creates the school-based health centers fund; specifies the use for which moneys of the fund may be expended. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA4158-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101214.T160652.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101214.T162153.TXT", "SOBI.D101214.T160652.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292360812683
+  "luceneModified" : 1292361713749
 }
