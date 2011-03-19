@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2287-2011",
+  "senateBillNo" : "S2298-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2287-2011-1295326800000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S2298-2011-1295326800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Renders void exclusive brokerage agreements for sale of certain residential property in N.Y. city made hereafter",
+  "title" : "Prohibits fuel pass-along rental adjustment to tenant of New York city rent controlled accommodation",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "General Obligations Law",
+  "lawSection" : "New York City Administrative Code",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T144704.TXT", "SOBI.D110118.T144146.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T144704.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295380024949
+  "luceneModified" : 1295380024999
 }

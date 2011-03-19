@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2287-2011",
+  "senateBillNo" : "S2293-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2287-2011-1295326800000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO SOCIAL SERVICES",
+    "billEventId" : "S2293-2011-1295326800000-REFERRED+TO+SOCIAL+SERVICES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Renders void exclusive brokerage agreements for sale of certain residential property in N.Y. city made hereafter",
+  "title" : "Provides for regulation, supervision and inspection of certain motels which provide shelter to the homeless for-profit in N.Y. city",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "SOCIAL SERVICES",
   "sameAs" : null,
-  "lawSection" : "General Obligations Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T144704.TXT", "SOBI.D110118.T144146.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T144704.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295380024949
+  "luceneModified" : 1295380024987
 }

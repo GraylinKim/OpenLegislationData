@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2287-2011",
+  "senateBillNo" : "S2290-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S2287-2011-1295326800000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO BANKS",
+    "billEventId" : "S2290-2011-1295326800000-REFERRED+TO+BANKS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Renders void exclusive brokerage agreements for sale of certain residential property in N.Y. city made hereafter",
+  "title" : "Makes provision regarding credit needs of local communities",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "BANKS",
   "sameAs" : null,
-  "lawSection" : "General Obligations Law",
+  "lawSection" : "Banking Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T144704.TXT", "SOBI.D110118.T144146.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T144704.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295380024949
+  "luceneModified" : 1295380024959
 }
