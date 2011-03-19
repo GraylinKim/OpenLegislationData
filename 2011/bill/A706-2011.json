@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires developers to deposit a portion of the total estimated project cost into an escrow account for damage caused to neighboring properties during construction",
-  "summary" : null,
+  "summary" : "Requires developers to deposit a portion of the total estimated project cost into an escrow account for damage caused to neighboring properties during construction; provides that any work on a project shall be stopped until repairs are made on the adjoining property; provides that the New York city department of buildings shall develop a procedure whereby individuals who suffer damage as a result of the construction may be reimbursed within a period of sixty days. ",
   "currentCommittee" : null,
   "sameAs" : "S991",
   "lawSection" : "New York City Administrative Code",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3752-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to establishing escrow accounts to protect neighboring landowners and tenants from damage due to construction ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T114001.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T114001.TXT", "SOBI.D110104.T114457.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294159201944
+  "luceneModified" : 1294159497052
 }

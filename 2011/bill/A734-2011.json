@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A734-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to energy",
+    "billEventId" : "A734-2011-1294203600000-referred+to+energy",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kellner",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to converting residential rental buildings from being mass-metered to submetered",
+  "summary" : "Relates to application requirements for private or government entities that wish to provide electric service converting residential rental buildings from being mass-metered to submetered. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Service Law",
+  "previousVersions" : [ "AA7871-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hevesi",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public service law, in relation to converting residential rental buildings from being mass-metered to submetered ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159497101
+}

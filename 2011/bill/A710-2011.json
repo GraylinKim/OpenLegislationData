@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A710-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A710-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires N.Y. city to collect discarded recyclable materials at city parks, playgrounds, historic sites and other facilities",
+  "summary" : "Requires cities with a population of one million or more to collect discarded recyclable materials at city parks, playgrounds, historic sites and other recreational facilities; requires the posting of signs on facilities without trash receptacles stating that trash must be retained until you reach a trash can; provides state assistance for such programs. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General City Law",
+  "previousVersions" : [ "A8230-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general city law, in relation to requiring the collection of recyclable materials at parks, playgrounds, historic sites and other recreational facilities in cities with a population of one million or more; and to amend the environmental conservation law, in relation to providing state assistance therefor to municipalities ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159497042
+}

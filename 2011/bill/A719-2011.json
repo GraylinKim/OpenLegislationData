@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A719-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A719-2011-1294203600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that parent or guardian shall give notice to school district wherein child resides of intent to send child to charter school",
+  "summary" : "Provides that parent or guardian shall give notice to school district wherein child resides of intent to send child to charter school; such notice shall be sent prior to April first in the year that the child is to attend the charter school in September, or within thirty days of establishing residence in the school district. ",
+  "currentCommittee" : null,
+  "sameAs" : "S592",
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A7540-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to notice to school districts regarding intent to attend a charter school ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159497065
+}

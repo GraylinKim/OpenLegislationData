@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A714-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A714-2011-1294203600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Restricts insurers from demanding intrusive personal, financial and tax information from insureds as a standard practice in ordinary theft claims",
+  "summary" : "Restricts insurers from demanding intrusive personal, financial and tax information from insureds as a standard practice in processing ordinary theft claims where no special circumstances warranting a demand for such information exists. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A534-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to restricting insurers from demanding intrusive personal, financial and tax information from insureds as a standard practice in processing ordinary theft claims ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159497055
+}

@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A718-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A718-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates additional remedies for unlawful discharge, penalty, or discrimination due to the exercise of an employee's right to be absent from employment for jury duty",
+  "summary" : "Creates, in addition to the existing sanction of criminal contempt of court, the remedies of labor law civil penalties and employee's right to bring civil action for unlawful discharge, penalty or discrimination on account of the exercise by an employee of a juror's right to be absent from employment by reason of jury service. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Judiciary Law",
+  "previousVersions" : [ "AA609-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the judiciary law and the labor law, in relation to creating additional remedies for unlawful discharge, penalty or discrimination on account of the exercise of a juror's right to be absent from employment for jury duty ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114457.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159497064
+}
