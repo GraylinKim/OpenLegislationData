@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2014-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
+    "billEventId" : "S2014-2011-1294981200000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BONACIC",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows a retiree to file a request for Tier I status",
+  "summary" : null,
+  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
+  "sameAs" : null,
+  "lawSection" : "Retirement",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T141447.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295032487890
+}
