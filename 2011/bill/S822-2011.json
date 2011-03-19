@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S781-2011",
+  "senateBillNo" : "S822-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S781-2011-1294203600000-REFERRED+TO+FINANCE",
+    "billEventId" : "S822-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "YOUNG",
+    "fullname" : "LITTLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the empire virtual incubator program within the New York state office of science, technology and academic research",
+  "title" : "Requires the governor to appoint the 5 members of the Adirondack park agency who reside in the park, from a list established by the county legislatures",
   "summary" : null,
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law, in relation to establishing the empire virtual incubator program ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T124229.TXT", "SOBI.D101230.T144249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T144249.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293738169201
+  "luceneModified" : 1293738169193
 }

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S821-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CITIES",
+    "billEventId" : "S821-2011-1294203600000-REFERRED+TO+CITIES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LITTLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes residential facilities controlled by state agencies subject to local site plan review",
+  "summary" : null,
+  "currentCommittee" : "CITIES",
+  "sameAs" : null,
+  "lawSection" : "General City Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101230.T144249.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293738169186
+}
