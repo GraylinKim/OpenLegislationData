@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S804-2011",
+  "senateBillNo" : "S806-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S804-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S806-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that a person may be guilty of the crime disorderly conduct when he makes unreasonable noise which is disturbing to one or more persons",
+  "title" : "Authorizes certain towns in the Peconic Bay region to establish community housing opportunity funds",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Town Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T142740.TXT", "SOBI.D101230.T142239.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T142740.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293737260950
+  "luceneModified" : 1293737260960
 }
