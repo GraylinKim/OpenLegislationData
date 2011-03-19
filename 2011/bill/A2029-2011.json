@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows an additional personal exemption for resident individuals of $650 for each dependent 65 years or older with income limitations",
-  "summary" : null,
+  "summary" : "Provides additional personal exemption of $650 for each dependent who is 65 years of age or older and whose gross income for the calendar year is not more than $1500. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A2426-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to personal exemptions of resident individuals ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T115832.TXT", "SOBI.D110113.T120318.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T121819.TXT", "SOBI.D110113.T115832.TXT", "SOBI.D110113.T120318.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294938198782
+  "luceneModified" : 1294939099228
 }
