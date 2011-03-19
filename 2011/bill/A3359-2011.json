@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits financial institutions from charging a fee in excess of five dollars to a customer based on account inactivity",
-  "summary" : null,
+  "summary" : "Prohibits financial institutions from charging a fee to a customer based on account inactivity. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Banking Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9353-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the banking law, in relation to prohibiting financial institutions from charging a fee in excess of five dollars to a customer based on account inactivity ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T102902.TXT", "SOBI.D110125.T105904.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T102902.TXT", "SOBI.D110125.T105904.TXT", "SOBI.D110125.T110905.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295971144392
+  "luceneModified" : 1295971745806
 }
