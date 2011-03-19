@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2663-2011",
+  "senateBillNo" : "S2667-2011",
   "billEvents" : [ {
     "eventDate" : 1296190800000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2663-2011-1296190800000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S2667-2011-1296190800000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "GRISANTI",
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"New York state healthy and green procurement act\"",
+  "title" : "Extends provisions of chapter 57 of 2005 relating to the NYS nursing faculty loan forgiveness incentive program and NYS nursing faculty scholarship program",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : null,
-  "lawSection" : "State Finance Law",
+  "lawSection" : "Education",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "MARCELLINO",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T091738.TXT", "SOBI.D110128.T092239.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T092239.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296224559011
+  "luceneModified" : 1296224559031
 }
