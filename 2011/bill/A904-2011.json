@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A904-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A904-2011-1294203600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to disregarding certain payments from the calculation of total spending for the purposes of adopting contingency budgets",
+  "summary" : "Provides that certain payments by a board of cooperative educational services for construction or rental of facilities shall be disregarded from the calculation of total spending for the purposes of adopting contingency budgets. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "AA7765-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to disregarding certain payments required to be made by a board of cooperative educational services from the calculation of total spending for the purposes of adopting contingency budgets ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T131653.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294251413745
+}

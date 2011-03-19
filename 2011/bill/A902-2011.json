@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A902-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A902-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Phases out the use of chlorinated solvents in this state",
+  "summary" : "Phases out the use of chlorinated solvents in this state, ultimately prohibiting their use completely; creates revolving loan fund to assist businesses in such phaseout and imposes registration fees and surcharges to provide monies therefor. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A1658-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to restricting the use of chlorinated solvents in this state ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T131653.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294251413732
+}

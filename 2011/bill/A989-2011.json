@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A989-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to children and families",
+    "billEventId" : "A989-2011-1294203600000-referred+to+children+and+families",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires a parent, law guardian or person legally responsible for a minor to be present during questioning by a peace or police officer",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S1197",
+  "lawSection" : "Family Court Act",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barron",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the family court act, in relation to questioning of a minor by peace or police officers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T131653.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294251413793
+}

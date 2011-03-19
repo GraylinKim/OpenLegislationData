@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A911-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A911-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the canal pilot water level management program and hydraulic model",
+  "summary" : "Establishes the canal pilot water level management program and hydraulic model for the purpose of enhancing navigation and flood mitigation, improving real-time flood forecasting, enabling pro-active flood responsiveness and developing unified operating procedures through collection, analysis, coordination and dissemination of real-time water and systems data along the canal system; provides for a report to be issued within three years of the effective date. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Canal Law",
+  "previousVersions" : [ "A1120-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the canal law, in relation to establishing the pilot water level management program and hydraulic model ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T131653.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294251413785
+}
