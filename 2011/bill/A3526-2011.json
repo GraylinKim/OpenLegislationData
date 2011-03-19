@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3526-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3526-2011-1295931600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts \"Lori Ann's law\" to establish procedures for law enforcement to locate and return missing persons",
+  "summary" : "Enacts \"Lori Ann's law\" to establish procedures for law enforcement to locate and return missing persons; requires law enforcement agencies to immediately accept any missing person report; requires collection of identifying data of such person. ",
+  "currentCommittee" : null,
+  "sameAs" : "S659",
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "AA1278-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera N",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to improving the ability of law enforcement to locate and return missing persons, to improving the identification of human remains, and to improving timely information and notification to family members of missing persons ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T151934.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295986774079
+}

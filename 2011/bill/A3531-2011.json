@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3505-2011",
+  "senateBillNo" : "A3531-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to higher education",
-    "billEventId" : "A3505-2011-1295931600000-referred+to+higher+education",
+    "eventText" : "referred to insurance",
+    "billEventId" : "A3531-2011-1295931600000-referred+to+insurance",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Glick",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to a change in circumstance of income",
-  "summary" : "Relates to a change in circumstance of income; expires June 30, 2012. ",
+  "title" : "Prohibits imposing homeowners insurance rates based on prior claims by an insured related to a different parcel of real property",
+  "summary" : "Prohibits imposing homeowners insurance rates based on prior claims by an insured related to a different parcel of real property. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A3637-2009" ],
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A7649-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
+    "fullname" : "Ramos",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -59,15 +59,22 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to a change in circumstance of income and providing for the repeal of such provisions upon expiration thereof ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T150924.TXT", "SOBI.D110125.T151934.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T151934.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295986774123
+  "luceneModified" : 1295986774117
 }

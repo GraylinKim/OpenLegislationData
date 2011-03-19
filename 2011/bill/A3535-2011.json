@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3505-2011",
+  "senateBillNo" : "A3535-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to higher education",
-    "billEventId" : "A3505-2011-1295931600000-referred+to+higher+education",
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A3535-2011-1295931600000-referred+to+governmental+employees",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Glick",
+    "fullname" : "Castelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to a change in circumstance of income",
-  "summary" : "Relates to a change in circumstance of income; expires June 30, 2012. ",
+  "title" : "Relates to providing a performance of duty disability retirement benefit for members of the armed forces injured in combat",
+  "summary" : "Provides a performance of duty disability retirement benefit for members of a public retirement system who are members of the armed forces and are injured in combat; such benefit shall be 75% of such member's final one year average salary. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A3637-2009" ],
+  "lawSection" : "Retirement and Social Security Law",
+  "previousVersions" : [ "A7874-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Tedisco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Burling",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Saladino",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Meng",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -64,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to a change in circumstance of income and providing for the repeal of such provisions upon expiration thereof ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T150924.TXT", "SOBI.D110125.T151934.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T151934.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295986774123
+  "luceneModified" : 1295986774126
 }

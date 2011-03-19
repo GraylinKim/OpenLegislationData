@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3527-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3527-2011-1295931600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the automatic expulsion of a public officer upon conviction for an egregious class A misdemeanor committed after such officer has taken the oath of office",
+  "summary" : "Relates to the automatic expulsion of a public officer upon conviction for an egregious class A misdemeanor committed after such officer has taken the oath of office. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Officers Law",
+  "previousVersions" : [ "A9990-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DenDekker",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public officers law and the legislative law, in relation to the automatic expulsion of a public officer upon conviction for an egregious class A misdemeanor committed after taking the oath to public office ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T151934.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295986774089
+}
