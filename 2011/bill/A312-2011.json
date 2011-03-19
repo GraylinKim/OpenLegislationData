@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A312-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A312-2011-1294203600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows retail licensees for on-premises consumption to join in a cooperative agreement for the purchase of alcoholic beverages",
+  "summary" : "Allows two or more retail licensees for on-premises consumption to join in a cooperative agreement for the purchase of alcoholic beverages in larger quantity. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Alcoholic Beverage Control Law",
+  "previousVersions" : [ "A484-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T160005.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292619605487
+}

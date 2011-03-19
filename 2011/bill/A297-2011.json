@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A297-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A297-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"U.S. Senate vacancy election act\"",
+  "summary" : "Enacts the \"U.S. Senate vacancy election act\"; directs the governor to issue a writ of election when there is a vacancy in the office of United States senator, and also makes a temporary appointment to such vacancy until the special election to fill the vacancy is held. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Officers Law",
+  "previousVersions" : [ "A2001-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T160005.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292619605457
+}

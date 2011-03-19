@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A258-2011",
+  "senateBillNo" : "A310-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to corporations, authorities and commissions",
-    "billEventId" : "A258-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
+    "eventText" : "referred to education",
+    "billEventId" : "A310-2011-1294203600000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,63 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Crouch",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that farmers shall receive an exemption from tolls when transporting product to N.Y. city for consumption in the city",
-  "summary" : "Provides that farmers shall receive an exemption from tolls when transporting product to NYC for consumption in the city. ",
+  "title" : "Amends provisions relating to the financing of charter schools to provide for financing by the state",
+  "summary" : "Amends provisions relating to the financing of charter schools to provide for financing by the state rather than local school districts. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "A3628-2009" ],
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A3823-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Thiele",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Burling",
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Molinaro",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Raia",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "McDonough",
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T160005.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T160005.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292619605454
+  "luceneModified" : 1292619605484
 }

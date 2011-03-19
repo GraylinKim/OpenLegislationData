@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A309-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A309-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"court of appeals nomination reform act\"",
+  "summary" : "Enacts the \"court of appeals information reform act\"; directs the commission on judicial nominations to forward to the governor all well qualified candidates for associate judge and/or chief judge ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Judiciary Law",
+  "previousVersions" : [ "AA3866-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T160005.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292619605482
+}

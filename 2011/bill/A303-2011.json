@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A303-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A303-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits dismissal of an action on the grounds of raising or being a non-justiciable political question",
+  "summary" : "Prohibits dismissal of an action on the grounds of raising or being a non-justiciable political question. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "previousVersions" : [ "A9726-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T160005.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292619605469
+}

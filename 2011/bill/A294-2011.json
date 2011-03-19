@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A294-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A294-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hevesi",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to accident and investigation reports",
+  "summary" : "Relates to accident and investigation reports and requires reports submitted to the commissioner of motor vehicles to include an enumeration of any convictions on the operating record of the operator of each motor vehicle involved in an accident. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A11633-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T160005.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292619605447
+}

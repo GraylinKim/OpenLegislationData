@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A258-2011",
+  "senateBillNo" : "A306-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to corporations, authorities and commissions",
-    "billEventId" : "A258-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A306-2011-1294203600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Crouch",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that farmers shall receive an exemption from tolls when transporting product to N.Y. city for consumption in the city",
-  "summary" : "Provides that farmers shall receive an exemption from tolls when transporting product to NYC for consumption in the city. ",
+  "title" : "Creates a personal income tax check-off box for donations to the school-based health centers fund",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
-  "previousVersions" : [ "A3628-2009" ],
+  "lawSection" : "Tax Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Thiele",
+    "fullname" : "Lavine",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Burling",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Molinaro",
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Raia",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "McDonough",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101217.T153505.TXT", "SOBI.D101217.T160005.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101217.T160005.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292619605454
+  "luceneModified" : 1292619605475
 }

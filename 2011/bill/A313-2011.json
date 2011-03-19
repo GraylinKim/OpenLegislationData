@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A313-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A313-2011-1294203600000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides an alternative method of valuating reservoir or watershed property, utilizing the income-expense method",
+  "summary" : "Provides that reservoir or watershed real property shall be assessed utilizing the income-expense method. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A677-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101217.T160005.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292619605489
+}
