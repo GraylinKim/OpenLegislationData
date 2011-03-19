@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "OPPENHEIMER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the general municipal law and the education law, in relation to the information technology procurement savings act of 2011; provides local governments and school districts more contract flexibility; and provides for purchasing services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T103826.TXT", "SOBI.D110114.T144949.TXT", "SOBI.D110114.T143948.TXT", "SOBI.D110121.T093512.TXT", "SOBI.D110121.T094012.TXT", "SOBI.D110114.T143448.TXT", "SOBI.D110114.T141447.TXT", "SOBI.D110118.T135641.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T103826.TXT", "SOBI.D110114.T144949.TXT", "SOBI.D110121.T093512.TXT", "SOBI.D110114.T143948.TXT", "SOBI.D110121.T094012.TXT", "SOBI.D110114.T141447.TXT", "SOBI.D110114.T143448.TXT", "SOBI.D110121.T114520.TXT", "SOBI.D110118.T135641.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295620812513
+  "luceneModified" : 1295628320109
 }

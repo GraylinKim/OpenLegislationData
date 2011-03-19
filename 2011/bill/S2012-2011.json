@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "OPPENHEIMER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the general municipal law, in relation to allowing not-for-profits to make purchases through county contracts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T103826.TXT", "SOBI.D110121.T093512.TXT", "SOBI.D110114.T143948.TXT", "SOBI.D110114.T143448.TXT", "SOBI.D110114.T141447.TXT", "SOBI.D110118.T135641.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T103826.TXT", "SOBI.D110114.T143948.TXT", "SOBI.D110121.T093512.TXT", "SOBI.D110114.T141447.TXT", "SOBI.D110114.T143448.TXT", "SOBI.D110121.T114520.TXT", "SOBI.D110118.T135641.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295620512376
+  "luceneModified" : 1295628320106
 }
