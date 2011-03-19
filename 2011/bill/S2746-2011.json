@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires state departments, divisions, commissions, agencies and other entities which have a website to provide a link on such website to non-English information",
-  "summary" : null,
+  "summary" : "Requires state departments, divisions, commissions, agencies and other entities which have a website to provide a link on such website to appropriate non-English information. ",
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "Executive Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6883-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T162722.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T162722.TXT", "SOBI.D110131.T163222.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296509242322
+  "luceneModified" : 1296509542500
 }
