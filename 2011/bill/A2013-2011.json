@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2013-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A2013-2011-1294808400000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Clarifies effect on eligibility for medicaid of the execution of a waiver of the right of election by a medicaid applicant or recipient",
+  "summary" : "Clarifies effect on eligibility for medicaid of the execution of a waiver of the right of election by a medicaid applicant or recipient; codifies the rule that the period of ineligibility resulting from a waiver of right of election would begin on the date on which the waiver was signed, rather than the date of the spouse's death. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A7091-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to medical assistance for needy persons ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T161526.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294866926081
+}

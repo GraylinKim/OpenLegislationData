@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2004-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A2004-2011-1294808400000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Clarifies and declares as the existing law of the state of New York the provisions of rules relating to the lapse of a power of withdrawal over the income of a trust",
+  "summary" : "Clarifies and declares as the existing law of the state of New York the provisions of rules relating to the lapse of a power of withdrawal over the income or principal of a trust. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Estates, Powers and Trusts Law",
+  "previousVersions" : [ "A6762-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the estates, powers and trusts law and the civil practice law and rules, in relation to clarifying and declaring as the existing law of the state of New York the provisions of rules relating to the lapse of a power of withdrawal over the income or principal of a trust ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T161526.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294866926063
+}
