@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S417-2011",
+  "senateBillNo" : "S451-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S417-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S451-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Proposes an amendment to the constitution relating to equal pay for equal work",
-  "summary" : "Proposes an amendment to article 1 of the constitution relating to equal pay for equal work; provides that all employees shall receive equal pay for equal work of comparable value, skill, effort and responsibility that is performed under similar working conditions. ",
-  "currentCommittee" : "JUDICIARY",
+  "title" : "Revises proceedings to recover possession to prevent avoidable eviction and resulting homelessness; requires improved notice to the respondent",
+  "summary" : null,
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
-  "previousVersions" : [ "S752-2009" ],
+  "lawSection" : "Real Property Actions and Proceedings Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -34,7 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "HUNTLEY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 1 of the constitution, in relation to equal pay for equal work ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T120325.TXT", "SOBI.D101220.T115824.TXT", "SOBI.D101220.T111823.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T120325.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292864605639
+  "luceneModified" : 1292864605649
 }
