@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A20-2011",
+  "senateBillNo" : "A58-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to agriculture",
-    "billEventId" : "A20-2011-1294203600000-referred+to+agriculture",
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A58-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,37 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes commissioner of agriculture and markets to render an opinion to government officials on land use regulations pertaining to agricultural practices",
+  "title" : "Authorizes physicians, optometrists and ophthalmic dispensers to establish professional service corporations, limited liability companies and registered partnerships",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Agriculture and Markets Law",
+  "lawSection" : "Business Corporation Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Magee",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Molinaro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -60,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT", "SOBI.D101216.T102403.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513343809
+  "luceneModified" : 1292513343857
 }
