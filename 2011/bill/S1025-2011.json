@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1009-2011",
+  "senateBillNo" : "S1025-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1009-2011-1294203600000-REFERRED+TO+ELECTIONS",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S1025-2011-1294203600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "STEWART-COUSINS",
+    "fullname" : "KLEIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits deceptive practices and the suppression of voters, and increases penalties for violations of the elective franchise",
-  "summary" : "Makes the suppression of voters a civil violation. ",
-  "currentCommittee" : "ELECTIONS",
+  "title" : "Extends dram shop liability to cover persons who sell false identification to a person under 21 years of age who causes injury or damages while intoxicated",
+  "summary" : null,
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Election Law",
-  "previousVersions" : [ "SB2554-2009" ],
+  "lawSection" : "General Obligations Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -55,7 +55,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "DILAN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -69,7 +69,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "HUNTLEY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -77,6 +77,20 @@
     "id" : null,
     "position" : null,
     "fullname" : "MONTGOMERY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "OPPENHEIMER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -97,7 +111,42 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "SAVINO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SERRANO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SMITH",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STEWART-COUSINS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -106,10 +155,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the election law, in relation to prohibiting the suppression of voters ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T141508.TXT", "SOBI.D110104.T145038.TXT", "SOBI.D110104.T150512.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T150512.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294171512751
+  "luceneModified" : 1294171512735
 }
