@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S924-2011",
+  "senateBillNo" : "S927-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S924-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S927-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to increasing penalties for first, second, third and fourth degree stalking",
+  "title" : "Provides that vehicles with permits for handicapped parking issued anywhere in the state may use all spaces for handicapped parking in the city of New York",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "LARKIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T140411.TXT", "SOBI.D110103.T140911.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T140911.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294081751964
+  "luceneModified" : 1294081751970
 }
