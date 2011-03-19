@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S249-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO SOCIAL SERVICES",
+    "billEventId" : "S249-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MONTGOMERY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs social services districts to contract with non-residential programs for victims of domestic violence to provide outreach and education in high schools",
+  "summary" : null,
+  "currentCommittee" : "SOCIAL SERVICES",
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101213.T110815.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292256495011
+}

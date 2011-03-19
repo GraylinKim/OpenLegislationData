@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S245-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S245-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes permanent provisions governing licenses to sell at retail for consumption off the premises",
+  "summary" : null,
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "sameAs" : null,
+  "lawSection" : "Alcoholic Beverage Control Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101213.T110815.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292256495002
+}
