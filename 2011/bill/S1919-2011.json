@@ -74,6 +74,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "BALL",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "GALLIVAN",
     "branch" : null,
     "contactInfo" : null,
@@ -86,7 +93,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 14 of article 3 of the constitution, in relation to the procedure for voting increases in the rate of state taxes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T164657.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110114.T162503.TXT", "SOBI.D110114.T102913.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110114.T114424.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110114.T101910.TXT", "SOBI.D110114.T103413.TXT", "SOBI.D110114.T103913.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T164657.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110114.T162503.TXT", "SOBI.D110114.T102913.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110114.T114424.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110119.T115750.TXT", "SOBI.D110114.T101910.TXT", "SOBI.D110114.T103413.TXT", "SOBI.D110114.T103913.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295447554489
+  "luceneModified" : 1295456270245
 }
