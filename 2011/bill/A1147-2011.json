@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires that state and federal background checks be conducted on applicants applying for for-hire vehicle licenses",
-  "summary" : null,
+  "summary" : "Requires that prior to the issuance of taxicab, limousine, commuter van, paratransit or for-hire vehicle licenses, the applicant shall be fingerprinted by the authority authorized to issue such licenses for the purpose of securing criminal history records from both the state division of criminal justice services and the federal bureau of investigation. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A6395-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law and the administrative code of the city of New York, in relation to requiring background checks for for-hire vehicle licenses ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T134221.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T134221.TXT", "SOBI.D110106.T134721.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294339341032
+  "luceneModified" : 1294339641179
 }

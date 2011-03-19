@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1150-2011",
+  "senateBillNo" : "A1158-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to codes",
-    "billEventId" : "A1150-2011-1294203600000-referred+to+codes",
+    "billEventId" : "A1158-2011-1294203600000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,84 +13,126 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Sweeney",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires manufacturers to use a coding system on all handgun and assault weapon ammunition",
-  "summary" : "Establishes a statewide database to maintain and track coded ammunition; establishes penalties for individuals who violate such provisions; also establishes the ammunition coding system database fund. ",
+  "title" : "Relates to the regulation of cadmium-added novelty consumer products",
+  "summary" : "Relates to the regulation of cadmium-added novelty consumer products. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Business Law",
-  "previousVersions" : [ "A6252-2009" ],
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "AB9755-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Jeffries",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Benedetto",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Brook-Krasny",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Cymbrowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Peoples-Stokes",
+    "fullname" : "Hikind",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Glick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -106,10 +148,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law and the penal law, in relation to establishing a statewide database to maintain and track coded ammunition and establishing penalties for individuals who violate such provisions; and to amend the state finance law, in relation to establishing the ammunition coding system database fund ",
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to cadmium-added novelty consumer products ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T134221.TXT", "SOBI.D110106.T134721.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T134721.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294339641148
+  "luceneModified" : 1294339641177
 }

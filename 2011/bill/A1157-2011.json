@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1157-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1157-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires semiautomatic pistols manufactured or delivered to any licensed dealer in this state to be capable of microstamping ammunition",
+  "summary" : "Requires semiautomatic pistols manufactured or delivered to any licensed dealer in this state to be capable of microstamping ammunition; establishes fines for violations of this requirement. ",
+  "currentCommittee" : null,
+  "sameAs" : "S675",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "AC6468-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to requiring semiautomatic pistols manufactured or delivered to any licensed dealer in this state to be capable of microstamping ammunition ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T134721.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294339641173
+}

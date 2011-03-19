@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires police accident reports to indicate whether the use of a mobile phone contributed to such vehicle accident",
-  "summary" : null,
+  "summary" : "Requires police accident reports to indicate whether a mobile phone was in use at the time of such vehicle accident. ",
   "currentCommittee" : null,
   "sameAs" : "S842",
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA4184-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring accident reports to indicate whether a mobile phone was in use at the time of the accident ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T134221.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T134221.TXT", "SOBI.D110106.T134721.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294339341048
+  "luceneModified" : 1294339641171
 }
