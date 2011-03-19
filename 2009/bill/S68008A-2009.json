@@ -1,0 +1,59 @@
+{
+  "year" : 2009,
+  "senateBillNo" : "S68008A-2009",
+  "billEvents" : [ {
+    "eventDate" : 1291006800000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S68008A-2009-1291006800000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291006801000,
+    "eventText" : "REPORTED AND COMMITTED TO RULES",
+    "billEventId" : "S68008A-2009-1291006801000-REPORTED+AND+COMMITTED+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291438800000,
+    "eventText" : "AMEND AND RECOMMIT TO RULES",
+    "billEventId" : "S68008A-2009-1291438800000-AMEND+AND+RECOMMIT+TO+RULES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1291438801000,
+    "eventText" : "PRINT NUMBER 68008A",
+    "billEventId" : "S68008A-2009-1291438801000-PRINT+NUMBER+68008A",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RULES",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Amends provisions of the education, labor and family assistance budget for 2010 relating to the elementary, middle, secondary and continuing education program",
+  "summary" : null,
+  "currentCommittee" : "RULES",
+  "sameAs" : null,
+  "lawSection" : "Budget Bills",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : [ "FINANCE", "RULES" ],
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101204.T141146.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291489906818
+}
