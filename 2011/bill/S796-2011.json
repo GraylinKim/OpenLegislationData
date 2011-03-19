@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S791-2011",
+  "senateBillNo" : "S796-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGRICULTURE",
-    "billEventId" : "S791-2011-1294203600000-REFERRED+TO+AGRICULTURE",
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S796-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Regulates farm pond dams",
+  "title" : "Provides for free hunting, fishing and trapping licenses to residents of the state who are active duty members of the U.S. armed forces regardless of duty station",
   "summary" : null,
-  "currentCommittee" : "AGRICULTURE",
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
-  "lawSection" : "Agriculture and Markets Law",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "RANZENHOFER",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -39,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T124729.TXT", "SOBI.D101230.T125229.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T125229.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293731549351
+  "luceneModified" : 1293731549366
 }
