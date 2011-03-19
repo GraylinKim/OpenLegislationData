@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1281-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to mental health",
+    "billEventId" : "A1281-2011-1294203600000-referred+to+mental+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes all local governments to appoint the community service directors who will serve such",
+  "summary" : "Authorizes all local governments to provide for the appointment and removal of their directors of community services. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Mental Hygiene Law",
+  "previousVersions" : [ "A532-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the mental hygiene law, in relation to the appointment of directors of community services ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T132403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294424643677
+}

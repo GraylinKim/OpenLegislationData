@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1286-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1286-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the crime of unauthorized use of a motor vehicle",
+  "summary" : "Relates to the crime of unauthorized use of a motor vehicle; adds other motor vehicle related crimes as predicate crimes which may increase punishment for unauthorized use of a motor vehicle in the second degree when one is convicted of such crimes within the preceding ten years. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1042",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "AA490-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to the crime of unauthorized use of a motor vehicle in the second degree ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T132403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294424643694
+}

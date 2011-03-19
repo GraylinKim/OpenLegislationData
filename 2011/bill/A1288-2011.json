@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1288-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1288-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"hazardous materials transport security act\"",
+  "summary" : "Enacts the \"hazardous materials transport security act\"; establishes a task force to recommend security devices and systems for motor vehicles used to transport hazardous materials; provides for driver's license verification and two-way communication; provides for insurance reductions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Transportation Law",
+  "previousVersions" : [ "A2666-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the transportation law, the environmental conservation law, the vehicle and traffic law and the insurance law, in relation to enacting the \"hazardous materials transport security act\" ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T132403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294424643697
+}

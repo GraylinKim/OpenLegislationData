@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1282-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A1282-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes a governmental agency or municipality to designate a highway or portion of highway as open for travel by an ATV",
+  "summary" : "Authorizes a governmental agency, by rule or regulation, or municipality, by local law ordinance, to designate a highway or portion of highway as open for travel by an ATV in order to gain access to areas or trails adjacent to such highways. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1205",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A1082-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to designation of highways and public lands for travel by ATVs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110107.T132403.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294424643681
+}
