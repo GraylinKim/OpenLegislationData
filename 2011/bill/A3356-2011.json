@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3355-2011",
+  "senateBillNo" : "A3356-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A3355-2011-1295931600000-referred+to+governmental+operations",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A3356-2011-1295931600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,56 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires counties to maintain a registry of people of all ages with disabilities for the purpose of evacuating and sheltering such persons during disasters",
+  "title" : "Establishes a tax free time period for storm related products for the month of September",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Markey",
+    "fullname" : "DenDekker",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Peoples-Stokes",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Benedetto",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Hawley",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "McEneny",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rivera P",
+    "fullname" : "Raia",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -76,14 +69,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Kavanagh",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -95,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T102403.TXT", "SOBI.D110125.T102902.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T102902.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295969342426
+  "luceneModified" : 1295969342430
 }
