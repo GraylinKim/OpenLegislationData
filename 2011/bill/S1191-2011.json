@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1190-2011",
+  "senateBillNo" : "S1191-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1190-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S1191-2011-1294203600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Accrual of a cause of action for libel or slander of a decedent",
+  "title" : "Provides strict liability for medical costs resulting from a dog bite or bites; exemptions allowed for police work dogs, hearing dogs and service dogs",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Civil Rights Law",
+  "lawSection" : "General Obligations Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "ADAMS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,7 +55,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "SAVINO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -60,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T124150.TXT", "SOBI.D110105.T123649.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T124150.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294249310784
+  "luceneModified" : 1294249310788
 }
