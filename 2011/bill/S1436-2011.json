@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LANZA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to a credit against personal income taxes for certain tuition expenses; to amend the tax law and the administrative code of the city of New York, in relation to providing for a modification of elementary and secondary school tuition for personal income tax purposes; and repealing certain provisions of such laws relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T175532.TXT", "SOBI.D110107.T113853.TXT", "SOBI.D110111.T141212.TXT", "SOBI.D110107.T105851.TXT", "SOBI.D110107.T115854.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T135859.TXT", "SOBI.D110112.T175532.TXT", "SOBI.D110107.T113853.TXT", "SOBI.D110111.T141212.TXT", "SOBI.D110107.T105851.TXT", "SOBI.D110107.T115854.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294872932645
+  "luceneModified" : 1296586739138
 }

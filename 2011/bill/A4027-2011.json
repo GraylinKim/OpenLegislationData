@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4027-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A4027-2011-1296536400000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Camara",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a one-time 6 month stay of the enforcement of a child support order, when the payor is involuntarily terminated from employment",
+  "summary" : "Provides for a one-time 6 month stay of the enforcement of a child support order, when the payor is involuntarily terminated from employment; provides payor must petition the family court for such a stay within 30 days of the termination of employment; requires payment of affordable child support during the period of the stay and that child support obligations will resume after end of stay; requires payor to participate in job training and placement programs. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Obligations Law",
+  "previousVersions" : [ "A3333-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general obligations law, the family court act, the domestic relations law and the social services law, in relation to granting a person with child support obligations, who involuntarily had his or her employment terminated, with a temporary stay of criminal, civil and administrative penalties for nonpayment of such obligations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T135859.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296586739150
+}

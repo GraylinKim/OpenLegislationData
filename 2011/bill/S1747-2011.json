@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LANZA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to burglary in the second degree ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T145515.TXT", "SOBI.D110112.T103956.TXT", "SOBI.D110112.T111958.TXT", "SOBI.D110112.T101455.TXT", "SOBI.D110112.T101955.TXT", "SOBI.D110118.T181704.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T135859.TXT", "SOBI.D110112.T145515.TXT", "SOBI.D110112.T103956.TXT", "SOBI.D110112.T101455.TXT", "SOBI.D110112.T111958.TXT", "SOBI.D110112.T101955.TXT", "SOBI.D110118.T181704.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295392624844
+  "luceneModified" : 1296586739144
 }

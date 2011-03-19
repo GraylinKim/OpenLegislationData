@@ -47,6 +47,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "LANZA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
@@ -59,7 +66,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law and the executive law, in relation to disclosure of arrest and prosecution records of applicants for employment by police departments and other law enforcement agencies ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T104850.TXT", "SOBI.D110201.T105849.TXT", "SOBI.D110201.T121850.TXT-agenda-1.xml", "SOBI.D110112.T175532.TXT", "SOBI.D110111.T105151.TXT", "SOBI.D110107.T115854.TXT", "SOBI.D110107.T113353.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T135859.TXT", "SOBI.D110107.T104850.TXT", "SOBI.D110201.T105849.TXT", "SOBI.D110112.T175532.TXT", "SOBI.D110201.T121850.TXT-agenda-1.xml", "SOBI.D110111.T105151.TXT", "SOBI.D110107.T115854.TXT", "SOBI.D110107.T113353.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296580730155
+  "luceneModified" : 1296586739137
 }
