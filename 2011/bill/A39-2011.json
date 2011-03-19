@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A20-2011",
+  "senateBillNo" : "A39-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to agriculture",
-    "billEventId" : "A20-2011-1294203600000-referred+to+agriculture",
+    "eventText" : "referred to aging",
+    "billEventId" : "A39-2011-1294203600000-referred+to+aging",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,56 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes commissioner of agriculture and markets to render an opinion to government officials on land use regulations pertaining to agricultural practices",
+  "title" : "Enacts the New York state senior housing opportunities partnership act and establishes a state senior housing opportunities partnership authority",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Agriculture and Markets Law",
+  "lawSection" : "Elder Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Magee",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Molinaro",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Abbate",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to authorizing requests to the commissioner of agriculture and markets to render an opinion to government officials on local land use regulations, ordinances or local laws pertaining to agricultural practices ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT", "SOBI.D101216.T102403.TXT", "SOBI.D101216.T103411.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T103411.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513651948
+  "luceneModified" : 1292513651965
 }

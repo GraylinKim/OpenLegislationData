@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A67-2011",
+  "senateBillNo" : "A38-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to consumer affairs and protection",
-    "billEventId" : "A67-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "eventText" : "referred to aging",
+    "billEventId" : "A38-2011-1294203600000-referred+to+aging",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,18 +13,32 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Hevesi",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the NYS consumer protection board to establish a bike theft prevention awareness and education program",
+  "title" : "Provides for the expungement of unsustained allegations of abuse and the sealing of records; repealer",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "Hoyt",
@@ -34,70 +48,42 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Benedetto",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Miller M",
+    "fullname" : "Heastie",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Abbate",
+    "fullname" : "Markey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cymbrowitz",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Castro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Boyland",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Gabryszak",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Destito",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Maisel",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -106,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law and the general business law, in relation to the bicycle theft prevention awareness and education program ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102403.TXT", "SOBI.D101216.T103411.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T103411.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513651967
+  "luceneModified" : 1292513651959
 }

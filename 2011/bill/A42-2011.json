@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A42-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to energy",
+    "billEventId" : "A42-2011-1294203600000-referred+to+energy",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hevesi (MS)",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs NYSERDA to undertake a statewide study of consumer behaviors with respect to energy efficiency and clean energy technology",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Authorities",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT directing the New York State Energy Research and Development Authority to undertake a statewide study of consumer behaviors with respect to energy efficiency and clean energy technology programs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101216.T103411.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292513651972
+}

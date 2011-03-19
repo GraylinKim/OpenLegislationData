@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A67-2011",
+  "senateBillNo" : "A41-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to consumer affairs and protection",
-    "billEventId" : "A67-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "eventText" : "referred to energy",
+    "billEventId" : "A41-2011-1294203600000-referred+to+energy",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,58 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the NYS consumer protection board to establish a bike theft prevention awareness and education program",
+  "title" : "Requires inspection and regulation of all electric and gas meters that measure usage of any end use customer of electricity or gas services by the public service com",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Executive Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Lopez V",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Benedetto",
+    "fullname" : "O'Donnell",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kellner",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,56 +83,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Miller M",
+    "fullname" : "Rivera N",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Abbate",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Cymbrowitz",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Boyland",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Gabryszak",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Destito",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Maisel",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -106,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the executive law and the general business law, in relation to the bicycle theft prevention awareness and education program ",
+  "actClause" : "AN ACT to amend the public service law, in relation to requiring inspection and regulation of all electric and gas meters that measure usage of any end use customer of electricity or gas services by the public service commission ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102403.TXT", "SOBI.D101216.T103411.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T103411.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513651967
+  "luceneModified" : 1292513651970
 }

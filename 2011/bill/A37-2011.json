@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A37-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to veterans' affairs",
+    "billEventId" : "A37-2011-1294203600000-referred+to+veterans%27+affairs",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cusick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Updates statute directing agencies to seek information on the status of veterans receiving assistance to promote referral of veterans to agencies for benefits",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101216.T103411.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292513651956
+}
