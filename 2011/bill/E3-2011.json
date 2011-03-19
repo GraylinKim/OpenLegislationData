@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "E3-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "adopted",
+    "billEventId" : "E3-2011-1294203600000-adopted",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weinstein",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Providing for the election of Carol M. Herbst to the office of Official Stenographer of the Assembly",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Assembly",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nASSEMBLY RESOLUTION providing for the election of Carol M. Herbst to the\noffice of Official Stenographer of the Assembly\n\nRESOLVED,  That  Carol  M.  Herbst be and she hereby is elected Official\nStenographer of the Assembly for the years 2011 and 2012.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T125151.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294249911017
+}
