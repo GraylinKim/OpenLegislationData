@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2873-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A2873-2011-1295499600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits payments from the Judicial Supplemental Support Fund to certain judges for expenses for services and goods",
+  "summary" : "Prohibits payments from the Judicial Supplemental Support Fund to certain judges for expenses for services and goods to support such judges in the performance of their judicial responsibilities. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Judiciary",
+  "previousVersions" : [ "A9454-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to prohibit certain payments from the Judicial Supplemental Support Fund for the purpose of reimbursing judges for expenses related to services and goods in support of their judicial responsibilities ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T162917.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295558957387
+}

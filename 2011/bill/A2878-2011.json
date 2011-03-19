@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2878-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A2878-2011-1295499600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Limits civil liability of public entities for injuries sustained at public recreational facilities",
+  "summary" : "Provides that causes of action against public entities for injuries sustained on or in public recreational facilities shall be allowed only if such injuries arose from wanton, willful or gross negligence on the part of the public entities or operators; applies to actions for personal injury, injury to property or wrongful death. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A1795-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, in relation to limiting liability of public entities for injuries sustained on or in public recreational facilities ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T162917.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295558957397
+}

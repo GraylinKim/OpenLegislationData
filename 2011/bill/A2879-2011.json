@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2879-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2879-2011-1295499600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the responsibility of bidders",
+  "summary" : "Provides guidelines for the responsibility of bidders; defines terms; further provides certain guidelines contracting agencies shall follow when giving due consideration to the bidder's expertise, etc. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : [ "A2039-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the state finance law, in relation to the responsibility of bidders ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T162917.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295558957401
+}

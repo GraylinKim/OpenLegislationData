@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2874-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A2874-2011-1295499600000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to increasing the maximum sales tax rate for cities and counties; repealer",
+  "summary" : "Relates to increasing the maximum sales tax rate for cities and counties to four percent; repeals all additional local percentage increases. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A2014-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the tax law, in relation to increasing the maximum sales tax rate for cities and counties and to repeal certain provisions of such law relating thereto ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T162917.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295558957391
+}

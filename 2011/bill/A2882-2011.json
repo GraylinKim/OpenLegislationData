@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2882-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A2882-2011-1295499600000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the micro-chipping of all dogs, excluding temporarily kept dogs; and creates a state registry to maintain contact information",
+  "summary" : "Requires the micro-chipping of all dogs; creates a state registry to maintain the identification and contact information on all micro-chipped dogs; provides that such registry shall be available twenty-four hours a day. ",
+  "currentCommittee" : null,
+  "sameAs" : "S62",
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A10330-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to the microchipping of dogs and the creation of a registry of dogs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T162917.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295558957407
+}
