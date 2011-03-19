@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A861-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A861-2011-1294203600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the airport community redevelopment enterprise (ACRE) program",
+  "summary" : "Establishes the airport community redevelopment enterprise (ACRE) program; provides that this program takes the money collected pursuant to the petroleum business tax on airline fuel used in New York and spends that money on targeted zones located near certain airports; further provides that the purpose of this program is to enhance those communities that surround certain airports in order to compensate the individuals that live in those communities for the pollution, noise and congestion caused by the airport; creates an airport community redevelopment enterprise fund for the purpose of this program; such fund is to be maintained by the state comptroller. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A3084-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, the state finance law and the tax law, in relation to the establishment of the airport community redevelopment enterprise program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T164039.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294177239377
+}

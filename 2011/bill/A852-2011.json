@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A852-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A852-2011-1294203600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes municipalities to re-direct property tax payments made by certain project occupants",
+  "summary" : "Authorizes municipalities to re-direct real property tax payments made by project occupants which agree to invest in or construct infrastructure improvements for certain economic development projects; such re-directed payments shall be used to retire any debt incurred for the construction and development of such infrastructure improvements. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A518-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, in relation to authorizing municipalities to re-direct a portion of the real property taxes made by certain project occupants ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T164039.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294177239358
+}

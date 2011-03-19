@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A860-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to aging",
+    "billEventId" : "A860-2011-1294203600000-referred+to+aging",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Raises senior citizen rent increase exemption (SCRIE) threshold and provides for increase per changes in the consumer price index; excludes certain expenses",
+  "summary" : "Provides for annual adjustment by the commissioner of housing and community renewal of the maximum income threshold for eligibility for the senior citizens' rent increase exemption (SCRIE) and for the municipal property tax abatement for rent-controlled and rent regulated property occupied by senior citizens by any increase in the consumer price index (CPI); raises eligibility of income level from $24,000 to $30,000; excludes from the definition of \"income\" the out of pocket expenses for all medical and prescription drugs not reimbursed or paid for by insurance in determining eligibility for the real property tax exemption relating to the senior citizen rent increase exemption; the additional exclusions from income and the indexing are at local option. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A3188-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Farrell",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to increasing the allowable maximum income of persons occupying rental units otherwise eligible for tax abatement in certain cases, increasing the combined household income limit for eligibility for a senior citizen rent increase exemption (SCRIE) and for a municipal property tax abatement for rent-controlled and rent regulated property occupied by senior citizens on the basis of the consumer price index, and including within the definition of \"income\" the deduction of the out-of-pocket expenses for all medical and prescription drugs not reimbursed or paid for by insurance ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T164039.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294177239376
+}

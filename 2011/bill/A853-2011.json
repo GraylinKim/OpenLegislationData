@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A853-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A853-2011-1294203600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to authorizing shared purchasing contracts for political subdivisions",
+  "summary" : "Authorizes shared purchasing contracts for political subdivisions to purchase apparatus, supplies, materials or equipment. ",
+  "currentCommittee" : null,
+  "sameAs" : "S624",
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "AA1105-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, in relation to allowing certain shared purchasing contracts among political subdivisions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T164039.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294177239362
+}
