@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S206-2011",
+  "senateBillNo" : "S211-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S206-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S211-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Abolishes the market clearing price",
+  "title" : "Relates to the time period which an application for refund can be made when the refund is based on a clerical error or unlawful entry",
   "summary" : null,
-  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Public Service Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T162207.TXT", "SOBI.D101210.T161708.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T162207.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292016127549
+  "luceneModified" : 1292016127567
 }

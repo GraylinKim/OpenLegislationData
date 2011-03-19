@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S187-2011",
+  "senateBillNo" : "S209-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S187-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S209-2011-1294203600000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalty for assaults involving a sports official",
-  "summary" : "Makes the intentional causing of physical injury to a sports official the class D felony of assault in the second degree; creates class B misdemeanor of aggravated harassment of a sports official when a person, with intent to annoy, harass, threaten or alarm a sports official, strikes or expectorates on such official. ",
-  "currentCommittee" : "CODES",
+  "title" : "Establishes no adverse action shall be taken against an insured who has made inquiries related to his or her insurance policy or had filed certain claims",
+  "summary" : null,
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : [ "S1052-2009" ],
+  "lawSection" : "Insurance Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ALESI",
+    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "FLANAGAN",
+    "fullname" : "LANZA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T162207.TXT", "SOBI.D101210.T160212.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T162207.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292016127576
+  "luceneModified" : 1292016127562
 }

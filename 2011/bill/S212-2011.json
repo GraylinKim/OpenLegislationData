@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S206-2011",
+  "senateBillNo" : "S212-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S206-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S212-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Abolishes the market clearing price",
+  "title" : "Requires pharmaceutical drug manufacturers and wholesalers to annually disclose all gifts to certain health care practitioners",
   "summary" : null,
-  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Public Service Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T162207.TXT", "SOBI.D101210.T161708.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T162207.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292016127549
+  "luceneModified" : 1292016127569
 }
