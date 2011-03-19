@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S472-2011",
+  "senateBillNo" : "S487-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S472-2011-1294203600000-REFERRED+TO+CODES",
+    "billEventId" : "S487-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "NOZZOLIO",
+    "fullname" : "ROBACH",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the crime of theft of rental property or equipment",
-  "summary" : "Creates the crime of theft of rental property or equipment. ",
+  "title" : "Authorizes the court to order sexual offenders on probation to terms of imprisonment which run consecutively to sentences already being served",
+  "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : [ "S2798-2009" ],
+  "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to the criminality of theft of rental property or equipment ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T145335.TXT", "SOBI.D101220.T144335.TXT", "SOBI.D101220.T135832.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T145335.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292874815961
+  "luceneModified" : 1292874815965
 }
