@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a modification reducing federal gross income in determining New York adjusted gross income for active volunteer firefighters and volunteer ambulance members",
-  "summary" : null,
+  "summary" : "Provides a modification reducing federal adjusted gross income (USAGI) in determining New York adjusted gross income (NYAGI) for state income tax purposes for active volunteer firefighters and members of volunteer ambulance companies. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A4609-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to providing a modification reducing federal adjusted gross income in determining New York adjusted gross income for personal income tax purposes for active volunteer firefighters and active members of volunteer ambulance companies ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT", "SOBI.D110124.T131624.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT", "SOBI.D110124.T131624.TXT", "SOBI.D110124.T132124.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892984701
+  "luceneModified" : 1295893284857
 }

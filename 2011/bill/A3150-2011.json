@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to state payments for state mandates",
-  "summary" : null,
+  "summary" : "Creates a new article on state payments for state mandates. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "State Finance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1785-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the state finance law, in relation to state payment for state mandates ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT", "SOBI.D110124.T131124.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT", "SOBI.D110124.T131124.TXT", "SOBI.D110124.T132124.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892684515
+  "luceneModified" : 1295893284870
 }
