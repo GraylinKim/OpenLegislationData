@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413200000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A373-2011-1295413200000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Hoyt (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -95,7 +102,7 @@
   "actClause" : "DELETE              \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101223.T153616.TXT", "SOBI.D101223.T154116.TXT", "SOBI.D101228.T140330.TXT", "SOBI.D101228.T151835.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101223.T153616.TXT", "SOBI.D101228.T140330.TXT", "SOBI.D101223.T154116.TXT", "SOBI.D101228.T151835.TXT", "SOBI.D110119.T113742.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293567515836
+  "luceneModified" : 1295455062726
 }
