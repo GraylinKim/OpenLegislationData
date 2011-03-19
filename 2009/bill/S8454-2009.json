@@ -71,6 +71,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1293080400000,
+    "eventText" : "VETOED MEMO.6839",
+    "billEventId" : "S8454-2009-1293080400000-VETOED+MEMO.6839",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -95,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101215.T120402.TXT", "SOBI.D101202.T144552.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101202.T144552.TXT", "SOBI.D101215.T120402.TXT", "SOBI.D101223.T164119.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292432642498
+  "luceneModified" : 1293140479381
 }
