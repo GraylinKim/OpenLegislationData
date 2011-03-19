@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A540-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A540-2011-1294203600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magnarelli",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the empire revolving bridge loan fund within the urban development corporation",
+  "summary" : "Establishes the empire revolving bridge loan fund within the urban development corporation act to promote economic development; provides that the fund shall consist of the net proceeds of one or more series of bonds or notes issued; defines terms; requires the urban development corporation to give preference to certain eligible projects; makes related provisions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York State Urban Development Corporation Act",
+  "previousVersions" : [ "A5218-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the New York state urban development corporation act, in relation to establishing the empire revolving bridge loan fund, and authorizing the New York state urban development corporation to issue bonds or notes to provide monies for such fund; and to amend chapter 393 of the laws of 1994, amending the New York state urban development corporation act relating to the powers of the New York state urban development corporation to make loans, in relation to the effectiveness thereof ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T101851.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067931954
+}

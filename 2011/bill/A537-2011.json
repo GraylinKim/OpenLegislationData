@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A537-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A537-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Sayward",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs commissioner of transportation, upon finding that a bridge has defects, to establish and implement an emergency plan for drivers and communities affected",
+  "summary" : "Directs the commissioner of transportation, upon a finding that a bridge has consistent defects and/or safety concerns, to establish and implement an emergency plan for the drivers and the communities that would be affected if such bridge closes for repairs. ",
+  "currentCommittee" : null,
+  "sameAs" : "S555",
+  "lawSection" : "Highway Law",
+  "previousVersions" : [ "A10996-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the highway law, in relation to directing the commissioner of transportation, upon a finding that a bridge has consistent structural defects and/or safety concerns, to establish and implement an emergency plan for the drivers and the communities affected by the closure of such bridge ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110103.T101851.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294067931939
+}
