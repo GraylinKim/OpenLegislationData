@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S72-2011",
+  "senateBillNo" : "S74-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S72-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S74-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "PERALTA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to training and education for sustainable wage jobs and traditional and nontraditional employment in public assistance employment programs",
+  "title" : "Relates to consumer protection from deceptive acts and practices",
   "summary" : null,
-  "currentCommittee" : "SOCIAL SERVICES",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101202.T100031.TXT", "SOBI.D101202.T100531.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101202.T100531.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291302331288
+  "luceneModified" : 1291302331307
 }
