@@ -24,7 +24,21 @@
   "sameAs" : null,
   "lawSection" : "Appropriations",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T151719.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T151719.TXT", "SOBI.D110111.T152219.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294777039259
+  "luceneModified" : 1294777339373
 }
