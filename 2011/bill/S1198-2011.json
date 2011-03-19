@@ -3,8 +3,8 @@
   "senateBillNo" : "S1198-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1198-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1198-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -20,7 +20,7 @@
   },
   "title" : "Relates to increasing property values which are exempt from the satisfaction of a money judgement",
   "summary" : "Relates to increasing property values which are exempt from the satisfaction of a money judgement and increases the exemptions in bankruptcy. ",
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "FINANCE",
   "sameAs" : "A851",
   "lawSection" : "Civil Practice Law and Rules",
   "previousVersions" : [ "S8451-2009" ],
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the civil practice law and rules, in relation to increasing the property values which are exempt from the satisfaction of a money judgment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T141157.TXT", "SOBI.D110105.T153729.TXT", "SOBI.D110105.T142658.TXT", "SOBI.D110105.T153205.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T141157.TXT", "SOBI.D110106.T150728.TXT", "SOBI.D110105.T153729.TXT", "SOBI.D110105.T142658.TXT", "SOBI.D110105.T153205.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294259849230
+  "luceneModified" : 1294344448101
 }

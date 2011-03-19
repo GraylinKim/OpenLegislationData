@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1163-2011",
+  "senateBillNo" : "A1172-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to ways and means",
-    "billEventId" : "A1163-2011-1294203600000-referred+to+ways+and+means",
+    "billEventId" : "A1172-2011-1294203600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Bing",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides a maximum $200 tax credit for taxpayer expenses associated with the development of open source and free software license programs",
-  "summary" : "Provides a maximum $200 tax credit for taxpayer expenses associated with the development of open source and free software license programs. ",
+  "title" : "Exempts from sales and use tax, the rental of pallets and containers used to ship goods for resale",
+  "summary" : "Grants an exemption from sales and compensating use tax for the rental of pallets and containers used to transport tangible personal property for resale. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : [ "A6380-2009" ],
+  "previousVersions" : [ "A1350-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T150728.TXT", "SOBI.D110106.T150228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T150728.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294344448084
+  "luceneModified" : 1294344448109
 }
