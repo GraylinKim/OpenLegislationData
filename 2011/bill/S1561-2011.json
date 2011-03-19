@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1559-2011",
+  "senateBillNo" : "S1561-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
     "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1559-2011-1294635600000-REFERRED+TO+ELECTIONS",
+    "billEventId" : "S1561-2011-1294635600000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to political contribution activities by an intermediary",
+  "title" : "Reduces the time for mailing and receipt of registration application to constitutional minimum",
   "summary" : null,
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SERRANO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -39,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T125102.TXT", "SOBI.D110110.T124602.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T125102.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294681862033
+  "luceneModified" : 1294681862042
 }
