@@ -115,6 +115,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LANZA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "O'MARA",
     "branch" : null,
     "contactInfo" : null,
@@ -127,7 +134,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 7 of the constitution, in relation to limiting the growth on New York state disbursements and creating a revenue stabilization tax reduction and debt repayment fund; repealing section 17 of article 7 of the constitution relating to authorizing the establishment of a fund to aid in the stabilization of tax revenues ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T095906.TXT", "SOBI.D110114.T102411.TXT", "SOBI.D110118.T164657.TXT", "SOBI.D110119.T140802.TXT", "SOBI.D110114.T162503.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110119.T134800.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110114.T094906.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110114.T114424.TXT", "SOBI.D110114.T092403.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110114.T095406.TXT", "SOBI.D110119.T141812.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110114.T094405.TXT", "SOBI.D110119.T115750.TXT", "SOBI.D110114.T101910.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T095906.TXT", "SOBI.D110114.T102411.TXT", "SOBI.D110118.T164657.TXT", "SOBI.D110119.T140802.TXT", "SOBI.D110114.T162503.TXT", "SOBI.D110118.T161155.TXT", "SOBI.D110119.T134800.TXT", "SOBI.D110118.T181704.TXT", "SOBI.D110114.T094906.TXT", "SOBI.D110119.T093234.TXT-agenda-1.xml", "SOBI.D110114.T114424.TXT", "SOBI.D110114.T092403.TXT", "SOBI.D110118.T163156.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110114.T095406.TXT", "SOBI.D110114.T094405.TXT", "SOBI.D110119.T093234.TXT-agenda-2.xml", "SOBI.D110119.T141812.TXT", "SOBI.D110119.T115750.TXT", "SOBI.D110114.T101910.TXT", "SOBI.D110119.T153822.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295464692869
+  "luceneModified" : 1295469502910
 }
