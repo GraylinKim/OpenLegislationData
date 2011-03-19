@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2019-2011",
+  "senateBillNo" : "S2023-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2019-2011-1294981200000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S2023-2011-1294981200000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires audio and video recording of statements made during criminal interrogations of felony offenses",
+  "title" : "Relates to price gouging",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T151459.TXT", "SOBI.D110114.T150958.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T151459.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036099271
+  "luceneModified" : 1295036099285
 }
