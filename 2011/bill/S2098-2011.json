@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2097-2011",
+  "senateBillNo" : "S2098-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
-    "billEventId" : "S2097-2011-1295326800000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S2098-2011-1295326800000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits exclusive multichannel video programming from entering into exclusive marketing agreements with the owner or manager of a residential multiple dwelling unit",
+  "title" : "Provides homemaker services may be provided by private home aides",
   "summary" : null,
-  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Public Service Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T100114.TXT", "SOBI.D110118.T100614.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T100614.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295363174499
+  "luceneModified" : 1295363174503
 }
