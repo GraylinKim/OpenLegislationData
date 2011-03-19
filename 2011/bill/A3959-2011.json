@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3948-2011",
+  "senateBillNo" : "A3959-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "referred to environmental conservation",
-    "billEventId" : "A3948-2011-1296450000000-referred+to+environmental+conservation",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3959-2011-1296450000000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits stewardship agreements for the preservation of a natural resource from authorizing the destruction or certain alterations of the natural resource",
+  "title" : "Authorizes local governments to adopt building code standards which are more stringent than the state building and fire code without approval of the council",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T113159.TXT", "SOBI.D110131.T113700.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T113700.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296491820609
+  "luceneModified" : 1296491820629
 }

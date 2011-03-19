@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3948-2011",
+  "senateBillNo" : "A3964-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "referred to environmental conservation",
-    "billEventId" : "A3948-2011-1296450000000-referred+to+environmental+conservation",
+    "eventText" : "referred to codes",
+    "billEventId" : "A3964-2011-1296450000000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,18 +13,25 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Magnarelli",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits stewardship agreements for the preservation of a natural resource from authorizing the destruction or certain alterations of the natural resource",
+  "title" : "Makes possession and sale of embalming fluid a misdemeanor",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T113159.TXT", "SOBI.D110131.T113700.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T113700.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296491820609
+  "luceneModified" : 1296491820636
 }

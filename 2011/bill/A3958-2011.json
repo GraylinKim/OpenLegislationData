@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3948-2011",
+  "senateBillNo" : "A3958-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "referred to environmental conservation",
-    "billEventId" : "A3948-2011-1296450000000-referred+to+environmental+conservation",
+    "eventText" : "referred to health",
+    "billEventId" : "A3958-2011-1296450000000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits stewardship agreements for the preservation of a natural resource from authorizing the destruction or certain alterations of the natural resource",
+  "title" : "Establishes an Alzheimer's disease outreach and education program",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T113159.TXT", "SOBI.D110131.T113700.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T113700.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296491820609
+  "luceneModified" : 1296491820628
 }
