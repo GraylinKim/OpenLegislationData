@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2465-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2465-2011-1295586000000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LIBOUS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires public contracts to include a clause authorizing contractors to recover damages for delay for itself as well as on behalf of subcontractors or materialmen",
+  "summary" : null,
+  "currentCommittee" : "FINANCE",
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T141029.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295637029011
+}
