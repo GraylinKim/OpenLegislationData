@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1125-2011",
+  "senateBillNo" : "S1128-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S1125-2011-1294203600000-REFERRED+TO+ELECTIONS",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S1128-2011-1294203600000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that a person may not be compensated based upon the number of signed voter registration cards he or she collects",
+  "title" : "Directs the superintendent of insurance to promulgate rules and regulations limiting the use of credit scores to determine automobile insurance premiums",
   "summary" : null,
-  "currentCommittee" : "ELECTIONS",
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "Election Law",
+  "lawSection" : "Insurance",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T114123.TXT", "SOBI.D110105.T113622.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T114123.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294245683475
+  "luceneModified" : 1294245683487
 }
