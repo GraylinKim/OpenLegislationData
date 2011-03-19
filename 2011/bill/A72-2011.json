@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A74-2011",
+  "senateBillNo" : "A72-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to governmental operations",
-    "billEventId" : "A74-2011-1294203600000-referred+to+governmental+operations",
+    "billEventId" : "A72-2011-1294203600000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Expands the definition of \"public body\"",
+  "title" : "Requires certain records discussed at open meetings be made available to the public prior to such",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -27,28 +27,7 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Galef",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lancman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Latimer",
+    "fullname" : "Markey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,42 +41,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Cook",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Dinowitz",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Gunther",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -111,28 +62,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kellner",
+    "fullname" : "Perry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -144,7 +95,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T101902.TXT", "SOBI.D101216.T102403.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T102403.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513043716
+  "luceneModified" : 1292513043722
 }
