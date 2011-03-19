@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes a central registry of medical personnel terminated for cause",
-  "summary" : null,
+  "summary" : "Establishes a central registry of medical personnel terminated for cause. ",
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3933-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to establishing a central registry of medical personnel terminated for cause ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T111304.TXT", "SOBI.D101213.T101301.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T111304.TXT", "SOBI.D101213.T101301.TXT", "SOBI.D101213.T113807.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292256784088
+  "luceneModified" : 1292258287566
 }
