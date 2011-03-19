@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1033-2011",
+  "senateBillNo" : "S1034-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S1033-2011-1294203600000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventText" : "REFERRED TO INSURANCE",
+    "billEventId" : "S1034-2011-1294203600000-REFERRED+TO+INSURANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires pharmacies to post notice of the professional misconduct complaint process",
+  "title" : "Discourages the practice by health plan insurers of changing brand name drugs to generic drugs which generic drugs are not the equivalent of brand name",
   "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
+  "currentCommittee" : "INSURANCE",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Insurance Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "ADAMS",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "BRESLIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,21 +41,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "OPPENHEIMER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAVINO",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +67,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T151011.TXT", "SOBI.D110104.T151517.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T151517.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294172117920
+  "luceneModified" : 1294172117927
 }
