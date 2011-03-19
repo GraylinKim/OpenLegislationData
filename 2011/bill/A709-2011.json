@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A709-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A709-2011-1294203600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Changes the designation of incest from a class E to a class B felony",
+  "summary" : "Changes the designation of incest from a class E to a class B felony. ",
+  "currentCommittee" : null,
+  "sameAs" : "S332",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A1324-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to making incest a class B felony ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114001.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159201954
+}

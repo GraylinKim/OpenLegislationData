@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A706-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to cities",
+    "billEventId" : "A706-2011-1294203600000-referred+to+cities",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires developers to deposit a portion of the total estimated project cost into an escrow account for damage caused to neighboring properties during construction",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S991",
+  "lawSection" : "New York City Administrative Code",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brennan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the administrative code of the city of New York, in relation to establishing escrow accounts to protect neighboring landowners and tenants from damage due to construction ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114001.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159201944
+}
