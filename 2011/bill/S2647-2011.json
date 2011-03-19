@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2643-2011",
+  "senateBillNo" : "S2647-2011",
   "billEvents" : [ {
     "eventDate" : 1296104400000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S2643-2011-1296104400000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S2647-2011-1296104400000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires the placement of one recycling receptacle for drink containers for every four waste receptacles on state owned property",
+  "title" : "Relates to the liability of landowners who permit recreational uses of their land",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "General Obligations Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T160413.TXT", "SOBI.D110127.T155911.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T160413.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296162253499
+  "luceneModified" : 1296162253513
 }
