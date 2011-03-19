@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2160-2011",
+  "senateBillNo" : "S2207-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S2160-2011-1295326800000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S2207-2011-1295326800000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MCDONALD",
+    "fullname" : "GOLDEN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Designates a portion of highway as the \"Saratoga County Veterans' Memorial Highway\"",
+  "title" : "Requires certain trucks, tractors and tractor-trailer or semitrailer combinations to be equipped with convex mirrors",
   "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Highway Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the highway law, in relation to the designation of the \"Saratoga County Veterans' Memorial Highway\" ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T114627.TXT", "SOBI.D110118.T111119.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T114627.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295369187043
+  "luceneModified" : 1295369187081
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2156-2011",
+  "senateBillNo" : "S2200-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO LABOR",
-    "billEventId" : "S2156-2011-1295326800000-REFERRED+TO+LABOR",
+    "billEventId" : "S2200-2011-1295326800000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,15 +13,15 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "MCDONALD",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the determination of employer contribution rates to the unemployment insurance fund",
+  "title" : "Enacts the New York state fair pay act",
   "summary" : null,
   "currentCommittee" : "LABOR",
-  "sameAs" : "A1250",
+  "sameAs" : null,
   "lawSection" : "Labor Law",
   "previousVersions" : null,
   "coSponsors" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the labor law, in relation to employer rates of contribution to the unemployment insurance fund ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T114627.TXT", "SOBI.D110118.T111119.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T114627.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295369187026
+  "luceneModified" : 1295369187011
 }

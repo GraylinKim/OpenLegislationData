@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2162-2011",
+  "senateBillNo" : "S2205-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S2162-2011-1295326800000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S2205-2011-1295326800000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the senior benefits card program to enable and encourage seniors to purchase healthy and appropriate foods at a discounted price",
+  "title" : "Creates the human cloning prohibition act",
   "summary" : null,
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Elder Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BONACIC",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "DEFRANCISCO",
@@ -43,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the elder law, in relation to creating the senior benefits card program ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T114627.TXT", "SOBI.D110118.T111620.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T114627.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295369187049
+  "luceneModified" : 1295369187074
 }
