@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1105-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S1105-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Defines prohibited restrictive covenants contained in real property documents and requires the filing of a declaration when recording documents containing such covenants",
+  "summary" : null,
+  "currentCommittee" : "JUDICIARY",
+  "sameAs" : null,
+  "lawSection" : "Real Property Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T111618.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294244178109
+}

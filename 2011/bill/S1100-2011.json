@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1100-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+    "billEventId" : "S1100-2011-1294203600000-REFERRED+TO+COMMERCE%2C+ECONOMIC+DEVELOPMENT+AND+SMALL+BUSINESS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates a sustainable development task force to study the feasibility of adopting a regulatory system to achieve goal of sustainable development",
+  "summary" : null,
+  "currentCommittee" : "COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+  "sameAs" : null,
+  "lawSection" : "Commissions",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ADAMS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERKINS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T111618.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294244178092
+}
