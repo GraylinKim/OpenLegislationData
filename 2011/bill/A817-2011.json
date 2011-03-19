@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A817-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A817-2011-1294203600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes provisions regarding the annual publication of list of lands charged with unpaid taxes",
+  "summary" : "Makes provisions allowing the Monroe county legislature to publish the pre-August first notice relating to the annual publication of list of lands charged with unpaid taxes, in one instead of two newspapers and reduce the number of times such notices need be published from thirty days to once a week for four successive weeks; permits the use of the preceding Friday instead of Saturday as an alternate publication date for the August fifteenth listing if the fifteenth falls on a Saturday or Sunday; permits the use of the immediately following Monday as the public auction date if August twentieth falls on either Saturday or Sunday. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Monroe County Tax Act",
+  "previousVersions" : [ "A2386-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the Monroe county tax act, in relation to annual publication of list of lands charged with unpaid taxes ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T132003.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294165203327
+}

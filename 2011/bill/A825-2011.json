@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A825-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A825-2011-1294203600000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits discrimination in the issuance of homeowners' insurance policies and clarifies prohibition of refusal to issue policies based solely on geographical location",
+  "summary" : "Prohibits discrimination in the issuance of homeowner's insurance policies based upon the subject property's location or age of structures contained thereon; makes various provisions clarifying prohibition on refusal to issue or renew certain policies including homeowner's fire and extended coverage based solely on geographical location. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A2742-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to prohibiting discrimination in the issuance or renewal of homeowners' insurance policies and to the geographical location of risk of certain policies ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T132003.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294165203341
+}

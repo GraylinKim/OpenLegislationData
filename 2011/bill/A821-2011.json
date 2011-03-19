@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A821-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A821-2011-1294203600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to locally administered utility taxes on mobile telecommunications service",
+  "summary" : "Relates to locally administered utility taxes on mobile telecommunications service; allows local municipalities to tax mobile telecommunications service companies based on the mobile telecommunications customer's place of primary use within the territorial limits of that municipality. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General City Law",
+  "previousVersions" : [ "A2709-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general city law and the village law, in relation to locally administered utility taxes on mobile telecommunications service ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T132003.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294165203334
+}

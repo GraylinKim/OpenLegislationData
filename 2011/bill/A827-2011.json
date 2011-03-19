@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A827-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A827-2011-1294203600000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits multiple party designations for candidates for public office, except for a judicial office; repealer",
+  "summary" : "Prohibits multiple party designations for candidates for public office, except for a judicial office; provides that where a person has been designated as candidate for nomination of more than one party for the same public office and accepts designations of a party of which such person is not enrolled, all such other designations shall be deemed to have been declined. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "A2399-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to prohibiting multiple party designations for candidates for public office and to repeal subdivision 5 of section 7-104 of such law relating thereto ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T132003.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294165203345
+}

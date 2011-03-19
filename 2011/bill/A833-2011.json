@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A833-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A833-2011-1294203600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rabbitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes Rockland county to publish a notice of county legislative action which directs readers to the county internet website for full text of such notices",
+  "summary" : "Authorizes Rockland county to publish a notice of county legislative action which directs readers to the county internet website for full text of such notices. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "County Law",
+  "previousVersions" : [ "AA1152-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the county law, in relation to the publication of local laws and notices in Rockland county ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T132003.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294165203356
+}
