@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1172-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1172-2011-1294203600000-REFERRED+TO+HEALTH",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes and directs the department of health to conduct a study on drugs prescribed for school-age children with ADD and ADHD",
+  "summary" : null,
+  "currentCommittee" : "HEALTH",
+  "sameAs" : null,
+  "lawSection" : "Health, Commissioner of",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T122219.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294248139365
+}

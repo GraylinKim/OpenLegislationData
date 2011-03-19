@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "R2-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "LOST",
+    "billEventId" : "R2-2011-1294203600000-LOST",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SQUADRON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Resolution electing Senator Sampson as Temporary President and Majority Leader of the Senate",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Senate",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nSENATE  RESOLUTION  providing  for  the  election  of John L. Sampson as\nTemporary President and Majority Leader of the Senate for 2011-2012\n\nRESOLVED, That Senator John L. Sampson be, and  he  hereby  is,  elected\nTemporary  President  and  Majority  Leader  of the Senate for the years\n2011-2012.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T122219.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294248139367
+}

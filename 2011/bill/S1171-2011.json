@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1165-2011",
+  "senateBillNo" : "S1171-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S1165-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO ENERGY AND TELECOMMUNICATIONS",
+    "billEventId" : "S1171-2011-1294203600000-REFERRED+TO+ENERGY+AND+TELECOMMUNICATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires legislative approval of any contract between a corporation and New York state that would require the relocation of 75 or more employees across county lines",
+  "title" : "Relates to green jobs-green New York on-bill financing",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "ENERGY AND TELECOMMUNICATIONS",
   "sameAs" : null,
-  "lawSection" : "General Obligations Law",
+  "lawSection" : "Public Service Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "SQUADRON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T121648.TXT", "SOBI.D110105.T122219.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T122219.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294248139346
+  "luceneModified" : 1294248139361
 }

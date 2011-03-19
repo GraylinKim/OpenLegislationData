@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1168-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S1168-2011-1294203600000-REFERRED+TO+CONSUMER+PROTECTION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"radio frequency identification right to know act\"; requires retail mercantile establishments to disclose the use of RFID devices and other information",
+  "summary" : null,
+  "currentCommittee" : "CONSUMER PROTECTION",
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T122219.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294248139354
+}

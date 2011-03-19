@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1165-2011",
+  "senateBillNo" : "S1147-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S1165-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S1147-2011-1294203600000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires legislative approval of any contract between a corporation and New York state that would require the relocation of 75 or more employees across county lines",
+  "title" : "Provides an annual scholarship of $1000 for students with a minimum 3.0 high school GPA who attend a New York state public postsecondary institution",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : null,
-  "lawSection" : "General Obligations Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "PERALTA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T121648.TXT", "SOBI.D110105.T122219.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T122219.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294248139346
+  "luceneModified" : 1294248139363
 }
