@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for accelerated payment of a death benefit rider on life insurance policies",
-  "summary" : null,
+  "summary" : "Provides for an accelerated death benefit rider on life insurance policies when the insured may require long term care. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SB1981-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T140509.TXT", "SOBI.D110112.T141010.TXT", "SOBI.D110112.T140009.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T140509.TXT", "SOBI.D110112.T141010.TXT", "SOBI.D110112.T143512.TXT", "SOBI.D110112.T140009.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294859410303
+  "luceneModified" : 1294860912664
 }
