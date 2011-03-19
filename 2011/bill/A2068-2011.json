@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits the use of digital license plate frames",
-  "summary" : null,
+  "summary" : "Prohibits the use of digital license plate frames which are capable of producing still or scrolling texts or images. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10703-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to prohibiting the use of digital license plate frames ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T144915.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T144915.TXT", "SOBI.D110113.T151918.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294948155396
+  "luceneModified" : 1294949958143
 }
