@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2806-2011",
+  "senateBillNo" : "S2811-2011",
   "billEvents" : [ {
     "eventDate" : 1296536400000,
     "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2806-2011-1296536400000-REFERRED+TO+FINANCE",
+    "billEventId" : "S2811-2011-1296536400000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,8 +18,8 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the deficiency budget for the 2010-2011 state fiscal year",
-  "summary" : "Enacts the deficiency budget for the 2010-2011 state fiscal year. ",
+  "title" : "Enacts into law major components of legislation which are necessary to implement the state fiscal plan for the 2011-2012 state fiscal year",
+  "summary" : null,
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "Budget Bills",
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T181919.TXT", "SOBI.D110201.T181418.TXT", "SOBI.D110201.T180917.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T181919.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296602359556
+  "luceneModified" : 1296602359551
 }

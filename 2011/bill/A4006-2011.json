@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2806-2011",
+  "senateBillNo" : "A4006-2011",
   "billEvents" : [ {
     "eventDate" : 1296536400000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2806-2011-1296536400000-REFERRED+TO+FINANCE",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A4006-2011-1296536400000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,14 +13,14 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "BUDGET BILL",
+    "fullname" : "Budget",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
   "title" : "Enacts the deficiency budget for the 2010-2011 state fiscal year",
-  "summary" : "Enacts the deficiency budget for the 2010-2011 state fiscal year. ",
-  "currentCommittee" : "FINANCE",
+  "summary" : null,
+  "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Budget Bills",
   "previousVersions" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T181919.TXT", "SOBI.D110201.T181418.TXT", "SOBI.D110201.T180917.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T181919.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296602359556
+  "luceneModified" : 1296602359550
 }
