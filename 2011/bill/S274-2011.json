@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Increases the fines for certain handicapped parking violations",
-  "summary" : null,
+  "summary" : "Increases the maximum fine for unauthorized off-street parking in a space designated for the handicapped from seventy-five dollars to one hundred dollars for the first offense and the minimum fine for the second offense from seventy-five dollars to one hundred dollars. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2149-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to the fine for certain handicapped parking violations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T114806.TXT", "SOBI.D101213.T124810.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T114806.TXT", "SOBI.D101213.T124810.TXT", "SOBI.D101213.T132815.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292262490344
+  "luceneModified" : 1292264895603
 }
