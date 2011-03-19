@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4201-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A4201-2011-1296622800000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Defines necessary court appearance for purposes of determination of crime victim's award",
+  "summary" : "Defines the term \"necessary court appearance\" for purposes of the determination of a crime victim's award to include any part of a proceeding from arraignment through sentencing, pre and post trial hearings and hearings before the parole board. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "AB6532-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to the definition of necessary court appearances for purposes of determining crime victim's award ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T131215.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296670335763
+}

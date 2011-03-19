@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4173-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A4173-2011-1296622800000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates health care plan and facility restructuring and security program to provide assistance to health insurers at risk of insolvency",
+  "summary" : "Creates the health care plan and facility restructuring and security program to provide assistance to health insurers, health care facilities and health maintenance organizations at risk of insolvency; financing for such program shall be provided by the dormitory authority, and administered by the commissioner of health, superintendent of insurance, dormitory authority and state housing finance agency. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A2962-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law and the public health law, in relation to creating a health care plan and facility restructuring and security program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T131215.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296670335749
+}

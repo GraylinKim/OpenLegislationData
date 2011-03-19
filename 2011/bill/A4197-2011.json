@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4197-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A4197-2011-1296622800000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Allows state university police officers to transfer to the NYSLPFRS and to be covered by the provisions of a new 25 year half pay retirement plan",
+  "summary" : "Allows state university police officers to transfer to the NYSLPFRS and to be covered by the provisions of a new 25 year half pay retirement plan, with additional one-sixtieths of final average salary for each year of service in excess of twenty-five years, but not exceeding fifteen such years; provides that for tier 2 & 5 members, the additional one-sixtieths can not exceed seven such years. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Retirement and Social Security Law",
+  "previousVersions" : [ "AA2344-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the retirement and social security law and the civil service law, in relation to university police officers appointed by the state university ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T131215.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296670335752
+}

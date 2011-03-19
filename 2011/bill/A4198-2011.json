@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4198-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A4198-2011-1296622800000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires state departments, divisions, commissions, agencies and other entities which have a website to provide a link on such website to non-English information",
+  "summary" : "Requires state departments, divisions, commissions, agencies and other entities which have a website to provide a link on such website to appropriate non-English information. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2746",
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A4387-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to requiring state agencies to provide certain information in non-English languages ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T131215.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296670335755
+}
