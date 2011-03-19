@@ -23,7 +23,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1291698000000S68012-2009--1--1",
+    "voteType" : 2,
+    "voteDate" : 1291698000000,
+    "ayes" : [ "Stachowski", "Montgomery", "Duane", "Hassell-Thompson", "Krueger", "Serrano", "Stewart-Cousins", "Dilan", "Klein", "Valesky", "Skelos", "Padavan", "Volker", "Farley", "LaValle", "Seward", "Hannon" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : [ "Smith", "Larkin", "Saland" ],
+    "ayeswr" : [ "Johnson" ],
+    "description" : "Rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -46,7 +59,7 @@
   "actClause" : "AN ACT to amend the energy law and the executive law, in relation to updating the state energy conservation construction code to address the requirements of the American Recovery and Reinvestment Act of 2009 ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T171630.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101209.T194703.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101207.T151008.TXT", "SOBI.D101203.T175510.TXT", "SOBI.D101217.T171010.TXT", "SOBI.D101207.T162513.TXT", "SOBI.D101203.T173508.TXT", "SOBI.D101207.T165515.TXT", "SOBI.D101203.T180510.TXT", "SOBI.D101206.T174927.TXT", "SOBI.D101203.T230026.TXT", "SOBI.D101215.T142412.TXT", "SOBI.D101207.T151508.TXT", "SOBI.D101207.T185024.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T171630.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101209.T194703.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101207.T151008.TXT", "SOBI.D101228.T104818.TXT-agenda-1.xml", "SOBI.D101203.T175510.TXT", "SOBI.D101217.T171010.TXT", "SOBI.D101207.T162513.TXT", "SOBI.D101203.T173508.TXT", "SOBI.D101207.T165515.TXT", "SOBI.D101203.T180510.TXT", "SOBI.D101206.T174927.TXT", "SOBI.D101203.T230026.TXT", "SOBI.D101215.T142412.TXT", "SOBI.D101207.T151508.TXT", "SOBI.D101207.T185024.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292969790556
+  "luceneModified" : 1293551298486
 }

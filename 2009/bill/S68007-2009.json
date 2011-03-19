@@ -23,7 +23,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1291698000000S68007-2009--1--1",
+    "voteType" : 2,
+    "voteDate" : 1291698000000,
+    "ayes" : [ "Stachowski", "Montgomery", "Duane", "Hassell-Thompson", "Serrano", "Stewart-Cousins", "Klein", "Valesky", "Skelos", "Johnson", "Padavan", "Volker", "Farley", "LaValle", "Seward", "Hannon" ],
+    "nays" : [ "Krueger" ],
+    "abstains" : null,
+    "excused" : [ "Smith", "Larkin", "Saland" ],
+    "ayeswr" : [ "Dilan" ],
+    "description" : "Rules",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -46,7 +59,7 @@
   "actClause" : "AN ACT to amend the public authorities law and the highway law, in relation to renaming the Brooklyn Battery tunnel the Hugh L. Carey tunnel ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T171630.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101209.T194703.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101203.T175510.TXT", "SOBI.D101217.T171010.TXT", "SOBI.D101206.T095355.TXT", "SOBI.D101203.T173508.TXT", "SOBI.D101207.T165515.TXT", "SOBI.D101206.T093854.TXT", "SOBI.D101203.T180510.TXT", "SOBI.D101206.T174927.TXT", "SOBI.D101215.T142412.TXT", "SOBI.D101203.T173008.TXT", "SOBI.D101207.T185024.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T171630.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101209.T194703.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101228.T104818.TXT-agenda-1.xml", "SOBI.D101203.T175510.TXT", "SOBI.D101217.T171010.TXT", "SOBI.D101206.T095355.TXT", "SOBI.D101203.T173508.TXT", "SOBI.D101207.T165515.TXT", "SOBI.D101206.T093854.TXT", "SOBI.D101203.T180510.TXT", "SOBI.D101206.T174927.TXT", "SOBI.D101215.T142412.TXT", "SOBI.D101203.T173008.TXT", "SOBI.D101207.T185024.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292969790555
+  "luceneModified" : 1293551298481
 }
