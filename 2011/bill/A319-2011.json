@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A319-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A319-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires telephone service providers to furnish a toll-free consumer service number for consumers offered unsolicited services",
+  "summary" : "Requires any telephone service provider to furnish a toll-free consumer service number for consumers offered or provided unsolicited telephone services without a charge for a specified period of use time by means of a telephone calling card number, account number, electronic serial number or personal identification number when a charge, fee or payment is later required by the consumer for termination or continued use of the unsolicited telephone service. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Service Law",
+  "previousVersions" : [ "A603-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public service law, in relation to requiring telephone service providers to furnish a toll-free consumer service number for consumers offered unsolicited services ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T105320.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292860400563
+}

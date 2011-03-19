@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A320-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A320-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the proper packaging and labeling of pharmaceutical drugs; creates penalties for intentional fraud",
+  "summary" : "Provides for the proper packaging and labeling of pharmaceutical drugs; creates penalties for intentional fraudulent replacement, packaging, and labeling of such drugs; provides for better consumer protection. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A604-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to preserving the integrity and safety of pharmaceutical drugs ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T105320.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292860400580
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A318-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to health",
+    "billEventId" : "A318-2011-1294203600000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Exempts monthly assessments due from certain residential health facilities from interest or penalties for any period prior to October 1, 2012",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T105320.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292860400559
+}

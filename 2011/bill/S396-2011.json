@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S387-2011",
+  "senateBillNo" : "S396-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S387-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S396-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to tenant security deposit accounts and administrative expenses to which a person may be entitled",
+  "title" : "Relates to payment for services performed in an office-based surgical facility",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "General Obligations Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general obligations law, in relation to tenant security deposit accounts ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T102317.TXT", "SOBI.D101220.T105320.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T105320.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292860400571
+  "luceneModified" : 1292860400573
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S383-2011",
+  "senateBillNo" : "A315-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S383-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "referred to aging",
+    "billEventId" : "A315-2011-1294203600000-referred+to+aging",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,70 +13,84 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "Brennan",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Waives state's sovereign immunity to liability under the Americans with Disabilities Act of 1990 and certain other federal acts",
+  "title" : "Directs the commissioner of health to establish a schedule of fees for the use, maintenance and repair of air conditioners used by residents of adult homes",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Civil Rights Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "Millman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STEWART-COUSINS",
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -85,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the civil rights law, in relation to waiving the state's sovereign immunity to claims under the Americans with Disabilities Act of 1990, the Fair Labor Standards Act of 1938, the Age Discrimination in Employment Act of 1967, and the Family and Medical Leave Act ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T101816.TXT", "SOBI.D101220.T105320.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T105320.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292860400561
+  "luceneModified" : 1292860400549
 }

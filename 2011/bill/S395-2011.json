@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S382-2011",
+  "senateBillNo" : "S395-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S382-2011-1294203600000-REFERRED+TO+FINANCE",
+    "billEventId" : "S395-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "RIVERA",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Amends the required financial disclosure forms",
+  "title" : "Creates the office of the cooperative and condominium ombudsman, authorizes the residential unit fee",
   "summary" : null,
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "SQUADRON",
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public officers law, the executive law and the legislative law, in relation to financial disclosure forms ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T101336.TXT", "SOBI.D101220.T101816.TXT", "SOBI.D101220.T105320.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T105320.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292860400555
+  "luceneModified" : 1292860400557
 }

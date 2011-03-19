@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A316-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to children and families",
+    "billEventId" : "A316-2011-1294203600000-referred+to+children+and+families",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires the prosecution of juveniles, who are under the age of eighteen and who commit family offenses against his or her parent or legal guardian, under article VI",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Family Court Act",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101220.T105320.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292860400550
+}
