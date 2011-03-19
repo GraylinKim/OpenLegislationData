@@ -1,0 +1,73 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2531-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A2531-2011-1295413200000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez V",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that certain multiple dwellings must be heated to a minimum temperature of sixty degrees Fahrenheit between 10 pm and 6 am",
+  "summary" : "Provides that certain multiple dwellings must be heated to a minimum temperature of sixty degrees Fahrenheit between the hours of 10 pm and 6 am, increasing such minimum temperature from the present requirement of fifty-five degrees Fahrenheit. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Multiple Dwelling Law",
+  "previousVersions" : [ "A5698-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Towns",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the multiple dwelling law, in relation to the heating requirements for tenants in multiple dwellings ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T140802.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295464082545
+}

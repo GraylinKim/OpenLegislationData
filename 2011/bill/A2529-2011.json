@@ -1,0 +1,80 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2529-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A2529-2011-1295413200000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates a temporary state commission to consider the scope and effectiveness of eminent domain laws and balance society's needs with the people's rights; appropriation",
+  "summary" : "Creates a temporary state commission to consider the scope and effectiveness of eminent domain laws and balance society's needs with the people's constitutional liberty and property rights; appropriates $100,000 therefor. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Commissions",
+  "previousVersions" : [ "A1650-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "O'Donnell",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Maisel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT providing for the creation of a temporary state commission to examine eminent domain laws and make recommendations for reforms thereof and making an appropriation therefor ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T140802.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295464082542
+}
