@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Amends the agriculture and markets law, exempting certain institutions from the definition of a food processing establishment",
-  "summary" : null,
+  "summary" : "Exempts certain institutions involved in the processing of homemade baked goods, spices and powders, sold only at farmers' markets and roadside stands from the definition of a food processing establishment. ",
   "currentCommittee" : "AGRICULTURE",
   "sameAs" : null,
   "lawSection" : "Agriculture and Markets Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7069-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T151810.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295465887478
+  "luceneModified" : 1295468290771
 }

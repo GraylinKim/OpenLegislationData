@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to a tax credit for the purchase of certain health insurance policies",
-  "summary" : null,
+  "summary" : "Provides a tax credit for certain health insurance plans purchased by small employers and certain individuals. ",
   "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3052-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -102,7 +102,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T144808.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T151810.TXT", "SOBI.D110119.T144808.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466488789
+  "luceneModified" : 1295468290783
 }

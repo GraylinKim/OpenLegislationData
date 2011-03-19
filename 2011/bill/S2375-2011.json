@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to exempting certain health insurance policies from certain coverage requirements",
-  "summary" : null,
+  "summary" : "Exempts policies intended for use in health savings account pursuant to section 1201 of the federal medicare prescription drug, improvement and modernization act of 2003 from certain coverage requirements. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S3047-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T144309.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110119.T144309.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295466189625
+  "luceneModified" : 1295468290753
 }

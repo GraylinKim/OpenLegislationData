@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a toll exemption for certain ambulance services",
-  "summary" : null,
+  "summary" : "Exempts ambulance services from tolls on any highway, bridge, tunnel or other toll on toll roads within the state at any time. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Highways",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4469-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T151810.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295465887489
+  "luceneModified" : 1295468290766
 }

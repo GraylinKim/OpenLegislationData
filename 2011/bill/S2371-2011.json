@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes school district's website to be printed on school buses",
-  "summary" : null,
+  "summary" : "Authorizes a school district's website to be printed on school buses at the discretion of the owner or operator of such buses. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6826-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T151810.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295465887484
+  "luceneModified" : 1295468290768
 }

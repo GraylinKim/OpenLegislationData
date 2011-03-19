@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Increases by 1 degree the severity of rape, criminal sexual act, sexual abuse and course of sexual conduct against a child in the second degrees",
-  "summary" : null,
+  "summary" : "Increases by 1 degree the severity of rape in the second degree, criminal sexual act in the second degree, sexual abuse in the second degree and course of sexual conduct against a child in the second degree. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7367-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143307.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143307.TXT", "SOBI.D110119.T151810.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295465587349
+  "luceneModified" : 1295468290755
 }
