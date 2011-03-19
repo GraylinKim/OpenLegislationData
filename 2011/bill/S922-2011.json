@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1296568800000S922-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1296568800000,
+    "ayes" : [ "Little", "Ball", "Gallivan", "Griffo", "Grisanti", "Marcellino", "O'Mara", "Ritchie", "Serrano", "Kennedy", "Klein", "Valesky" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : [ "Duane" ],
+    "ayeswr" : [ "Adams" ],
+    "description" : "Cultural Affairs, Tourism, Parks and Recreation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -34,12 +47,12 @@
   "coSponsors" : null,
   "pastCommittees" : [ "CULTURAL AFFAIRS, TOURISM, PARKS AND RECREATION" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          922\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sen.  MARCELLINO  -- read twice and ordered printed, and\n         when printed to be committed to the  Committee  on  Cultural  Affairs,\n         Tourism, Parks and Recreation\n\n       AN  ACT  to  amend  the  navigation  law,  in  relation  to providing an\n         exemption from certain laws for operators of law  enforcement  vessels\n         responding to emergencies on the navigable waters of the state\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. The navigation law is amended by adding a new section  39-b\n    2  to read as follows:\n    3    S  39-B. LAW ENFORCEMENT VESSELS. 1. THE OPERATOR OF A LAW ENFORCEMENT\n    4  VESSEL, WHEN INVOLVED IN AN EMERGENCY OPERATION ON THE NAVIGABLE  WATERS\n    5  OF  THE  STATE, MAY EXERCISE THE PRIVILEGES SET FORTH IN SUBDIVISION TWO\n    6  OF THIS SECTION, BUT SUBJECT TO THE CONDITIONS SET FORTH IN SUBDIVISIONS\n    7  THREE AND FOUR OF THIS SECTION.\n    8    2. THE OPERATOR OF A LAW ENFORCEMENT VESSEL  MAY  DISREGARD  ANY  LAW,\n    9  RULE  OR  REGULATION  OF  THIS  STATE OR ANY LOCAL LAW OR ORDINANCE OF A\n   10  MUNICIPALITY OF THIS STATE GOVERNING THE MOVEMENT OR TURNING OF  VESSELS\n   11  UPON SUCH NAVIGABLE WATERS.\n   12    3.  THE PRIVILEGES GRANTED TO THE OPERATOR OF A LAW ENFORCEMENT VESSEL\n   13  PURSUANT TO THIS SECTION SHALL  APPLY  ONLY  WHEN  AUDIBLE  SIGNALS  ARE\n   14  SOUNDED FROM ANY SUCH VESSEL WHILE IN MOTION BY BELL, HORN, SIREN, ELEC-\n   15  TRONIC  DEVICE  OR  EXHAUST  WHISTLE AS MAY BE REASONABLY NECESSARY, AND\n   16  WHEN THE VESSEL IS EQUIPPED WITH AT LEAST ONE LIGHTED LAMP SO THAT  FROM\n   17  ANY  DIRECTION,  UNDER  NORMAL ATMOSPHERIC CONDITIONS FROM A DISTANCE OF\n   18  FIVE HUNDRED FEET FROM SUCH VESSEL, AT LEAST  ONE  BLUE  LIGHT  WILL  BE\n   19  DISPLAYED AND VISIBLE.\n   20    4.  THE PROVISIONS OF THIS SECTION SHALL NOT RELIEVE THE OPERATOR OF A\n   21  LAW ENFORCEMENT VESSEL FROM THE DUTY TO OPERATE  SUCH  VESSEL  WITH  DUE\n   22  REGARD  FOR THE SAFETY OF ALL PERSONS, NOR SHALL SUCH PROVISIONS PROTECT\n   23  THE OPERATOR FROM THE CONSEQUENCES OF HIS OR HER RECKLESS DISREGARD  FOR\n   24  THE SAFETY OF OTHERS.\n   25    S 2. This act shall take effect immediately.\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD04398-01-1\n",
-  "memo" : null,
+  "memo" : "",
   "law" : null,
   "actClause" : "AN ACT to amend the navigation law, in relation to providing an exemption from certain laws for operators of law enforcement vessels responding to emergencies on the navigable waters of the state ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT", "SOBI.D110103.T140411.TXT", "SOBI.D110103.T150447.TXT", "SOBI.D110103.T160427.TXT", "SOBI.D110201.T094835.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT", "SOBI.D110103.T150447.TXT", "SOBI.D110103.T140411.TXT", "SOBI.D110103.T160427.TXT", "SOBI.D110201.T094835.TXT", "SOBI.D110201.T164913.TXT-agenda-1.xml" ],
   "luceneActive" : true,
-  "luceneModified" : 1296571715242
+  "luceneModified" : 1296596953620
 }
