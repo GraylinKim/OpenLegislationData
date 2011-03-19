@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S415-2011",
+  "senateBillNo" : "S418-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S415-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S418-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides an exception to the publication requirement after a legal name change",
+  "title" : "Changes the state fiscal year from April first to June first, changes time frames for school district elections and notice of elections and submission of a property tax report card",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Civil Rights Law",
+  "lawSection" : "State Finance Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T111322.TXT", "SOBI.D101220.T111823.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T111823.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292861903985
+  "luceneModified" : 1292861903997
 }
