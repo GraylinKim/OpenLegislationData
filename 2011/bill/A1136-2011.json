@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to New York adjusted gross income of a resident individual",
-  "summary" : null,
+  "summary" : "Relates to New York adjusted gross income of a resident individual. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A5082-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to New York adjusted gross income of a resident individual ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T133720.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T135722.TXT", "SOBI.D110106.T133720.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294339040347
+  "luceneModified" : 1294340242387
 }
