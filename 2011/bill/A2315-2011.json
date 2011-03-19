@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2227-2011",
+  "senateBillNo" : "A2315-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2227-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "referred to correction",
+    "billEventId" : "A2315-2011-1295326800000-referred+to+correction",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "Heastie",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalty for witness and jury tampering",
+  "title" : "Establishes a commission to study and develop a plan for improving education in state prisons",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to increasing the penalty for witness and jury tampering ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T134639.TXT", "SOBI.D110118.T133136.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T134639.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295376399967
+  "luceneModified" : 1295376399972
 }

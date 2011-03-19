@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2227-2011",
+  "senateBillNo" : "A2308-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2227-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "referred to economic development",
+    "billEventId" : "A2308-2011-1295326800000-referred+to+economic+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUGER",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalty for witness and jury tampering",
+  "title" : "Establishes a biomedical research grants and working capital loan program within the urban development corporation",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "New York State Urban Development Corporation Act",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to increasing the penalty for witness and jury tampering ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T134639.TXT", "SOBI.D110118.T133136.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T134639.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295376399967
+  "luceneModified" : 1295376399949
 }

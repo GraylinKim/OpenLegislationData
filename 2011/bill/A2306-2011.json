@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2304-2011",
+  "senateBillNo" : "A2306-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "referred to governmental operations",
-    "billEventId" : "A2304-2011-1295326800000-referred+to+governmental+operations",
+    "billEventId" : "A2306-2011-1295326800000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the imposition of penalties by the state ethics commission",
+  "title" : "Prohibits municipalities from entering into contracts for the provision of fire services by a private entity",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Labor Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "McEneny",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T134139.TXT", "SOBI.D110118.T134639.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T134639.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295376399932
+  "luceneModified" : 1295376399940
 }

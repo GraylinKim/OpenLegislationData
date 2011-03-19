@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2304-2011",
+  "senateBillNo" : "A2311-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A2304-2011-1295326800000-referred+to+governmental+operations",
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A2311-2011-1295326800000-referred+to+corporations%2C+authorities+and+commissions",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the imposition of penalties by the state ethics commission",
+  "title" : "Requires any proposed increase in fares by the metropolitan commuter transportation authority shall be submitted to the state comptroller for approval",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T134139.TXT", "SOBI.D110118.T134639.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T134639.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295376399932
+  "luceneModified" : 1295376399959
 }
