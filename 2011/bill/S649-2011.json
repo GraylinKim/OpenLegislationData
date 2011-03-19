@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S649-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S649-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the commissioner of education to create a pilot program to improve physical education/physical activity programs in certain schools",
+  "summary" : null,
+  "currentCommittee" : "EDUCATION",
+  "sameAs" : null,
+  "lawSection" : "Education",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101228.T134829.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293562109657
+}
