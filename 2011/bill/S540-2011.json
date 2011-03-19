@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S536-2011",
+  "senateBillNo" : "S540-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S536-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S540-2011-1294203600000-REFERRED+TO+AGRICULTURE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the applicability of noise ordinances on school construction work sites",
-  "summary" : "Provides that the education department shall set guidelines relating to noise and work hours on school construction sites. ",
-  "currentCommittee" : "EDUCATION",
+  "title" : "Provides that the department of agriculture and markets must order a retail food store failing inspection to cease operations or suspend or revoke its license",
+  "summary" : null,
+  "currentCommittee" : "AGRICULTURE",
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "SA1847-2009" ],
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "DILAN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "PARKER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -49,13 +49,6 @@
     "id" : null,
     "position" : null,
     "fullname" : "SAMPSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T163128.TXT", "SOBI.D101221.T162127.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T163128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292967088204
+  "luceneModified" : 1292967088190
 }

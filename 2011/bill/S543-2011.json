@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S536-2011",
+  "senateBillNo" : "S543-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S536-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S543-2011-1294203600000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the applicability of noise ordinances on school construction work sites",
-  "summary" : "Provides that the education department shall set guidelines relating to noise and work hours on school construction sites. ",
-  "currentCommittee" : "EDUCATION",
+  "title" : "Authorizes full-time college students to act as election inspectors and poll clerks in the election district where their colleges are located",
+  "summary" : null,
+  "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "SA1847-2009" ],
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -49,6 +35,13 @@
     "id" : null,
     "position" : null,
     "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SMITH",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T163128.TXT", "SOBI.D101221.T162127.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T163128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292967088204
+  "luceneModified" : 1292967088212
 }

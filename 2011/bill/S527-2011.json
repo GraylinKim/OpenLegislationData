@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes a person is guilty of grand larceny in the fourth degree when he or she steals property and is in possession of an anti-security item",
-  "summary" : null,
+  "summary" : "Establishes a person is guilty of grand larceny in the fourth degree when he or she steals property and is in possession of an anti-security item; makes criminal possession of an anti-security item a class A misdemeanor. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S33-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101221.T161627.TXT", "SOBI.D101221.T163128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292966187992
+  "luceneModified" : 1292967088195
 }
