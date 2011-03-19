@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3858-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A3858-2011-1296190800000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a state of New York state's natural environment annual report",
+  "summary" : "Directs the commissioner of the department of environmental conservation to prepare an annual report detailing the condition of New York state's natural environment to be annually submitted to the governor, legislature and public on or before December 31. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A1325-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3858\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Environmental Conservation\n\n       AN ACT to amend the  environmental  conservation  law,  in  relation  to\n         providing  for  a state of New York state's natural environment annual\n         report\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  The environmental conservation law is amended by adding a\n    2  new section 3-0121 to read as follows:\n    3  S 3-0121. STATE OF NEW YORK STATE'S NATURAL ENVIRONMENT ANNUAL REPORT.\n    4    1. THE  COMMISSIONER  SHALL  PREPARE  AN  ANNUAL  REPORT  (HEREINAFTER\n    5  REFERRED  TO  IN  THIS  SECTION AS \"REPORT\") ON THE STATE OF THE STATE'S\n    6  NATURAL ENVIRONMENT TO BE AVAILABLE TO THE RESIDENTS OF THE STATE BEGIN-\n    7  NING IN CALENDAR YEARS FOLLOWING THE EFFECTIVE DATE OF THIS SECTION.\n    8    2. THE REPORT SHALL INCLUDE, BUT NOT BE LIMITED TO:\n    9    A. IDENTIFICATION OF ANY SIGNIFICANT POSITIVE AND NEGATIVE CHANGES  TO\n   10  THE QUALITY OF THE STATE'S NATURAL ENVIRONMENT INCLUDING, BUT NOT LIMIT-\n   11  ED TO, EFFECTS TO AIR, WATER, SOIL, WETLANDS, AND OTHER NATURAL COMMUNI-\n   12  TIES AND WILDLIFE, AND THE CAUSES UNDERLYING SUCH CHANGES; AND\n   13    B.  SIGNIFICANT  PROGRAMMATIC  ACCOMPLISHMENTS  OF  THE DEPARTMENT AND\n   14  AREAS IN WHICH SIGNIFICANT ISSUES  AND  PROBLEMS  REMAIN  UNRESOLVED  OR\n   15  UNADDRESSED, AND PROPOSED LEGISLATIVE AND ADMINISTRATIVE RECOMMENDATIONS\n   16  FOR RESOLVING AND ADDRESSING SUCH ISSUES.\n   17    3.  THE  COMMISSIONER  MAY  USE  INFORMATION AND MATERIAL CONTAINED IN\n   18  OTHER REPORTS REQUIRED FROM THE DEPARTMENT.\n   19    4. TO THE MAXIMUM EXTENT FEASIBLE, THE COMMISSIONER SHALL BE  ENTITLED\n   20  TO  REQUEST  AND  RECEIVE  DATA  FROM  ANY STATE AGENCY TO CARRY OUT THE\n   21  PROVISIONS OF THIS SECTION.\n   22    5. SUCH REPORT SHALL BE ANNUALLY SUBMITTED TO THE  GOVERNOR,  LEGISLA-\n   23  TURE AND PUBLIC ON OR BEFORE DECEMBER THIRTY-FIRST. THE DEPARTMENT SHALL\n   24  MAKE  THE  REPORT  AVAILABLE TO MEMBERS OF THE PUBLIC FREE OF CHARGE AND\n   25  SUCH REPORT SHALL BE POSTED ON THE DEPARTMENT'S INTERNET WEBSITE.\n   26    S 2. This act shall take effect immediately.\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD00254-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to providing for a state of New York state's natural environment annual report ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T140306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112710.TXT", "SOBI.D110128.T140306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241386344
+  "luceneModified" : 1296491230126
 }

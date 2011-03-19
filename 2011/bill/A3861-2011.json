@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3861-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A3861-2011-1296190800000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Permits a social worker or other professional to provide emotional support to a vulnerable elderly person testifying in certain grand jury proceedings",
+  "summary" : "Permits a social worker, rape crisis counselor, or other professional to provide emotional support to a vulnerable elderly person testifying in certain grand jury proceedings provided that the district attorney consents. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "sameAs" : "S163",
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : [ "A1708-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3861\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Codes\n\n       AN ACT to amend the criminal procedure law, in relation to permitting  a\n         social  worker or other professional to provide emotional support to a\n         vulnerable elderly person testifying in certain grand jury proceedings\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Subdivision 3 of section 190.25 of the criminal procedure\n    2  law is amended by adding a new paragraph (i) to read as follows:\n    3    (I) A SOCIAL WORKER, RAPE  CRISIS  COUNSELOR,  PSYCHOLOGIST  OR  OTHER\n    4  PROFESSIONAL PROVIDING EMOTIONAL SUPPORT TO A VULNERABLE ELDERLY PERSON,\n    5  AS  THAT  TERM  IS DEFINED IN SUBDIVISION THREE OF SECTION 260.31 OF THE\n    6  PENAL LAW, AS ADDED BY CHAPTER THREE HUNDRED EIGHTY-ONE OF THE  LAWS  OF\n    7  NINETEEN HUNDRED NINETY-EIGHT, WHO IS CALLED TO GIVE EVIDENCE IN A GRAND\n    8  JURY  PROCEEDING,  CONCERNING  ANY  TYPE  OF  OFFENSE, PROVIDED THAT THE\n    9  DISTRICT ATTORNEY CONSENTS. SUCH SUPPORT PERSON SHALL  NOT  PROVIDE  THE\n   10  WITNESS  WITH AN ANSWER TO ANY QUESTION OR OTHERWISE PARTICIPATE IN SUCH\n   11  PROCEEDING AND SHALL FIRST TAKE AN OATH BEFORE THE GRAND JURY THAT HE OR\n   12  SHE WILL KEEP SECRET ALL MATTERS BEFORE SUCH GRAND JURY  WITHIN  HIS  OR\n   13  HER KNOWLEDGE.\n   14    S 2. This act shall take effect on the first of November next succeed-\n   15  ing the date on which it shall have become a law.\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD01660-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the criminal procedure law, in relation to permitting a social worker or other professional to provide emotional support to a vulnerable elderly person testifying in certain grand jury proceedings ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T140306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112710.TXT", "SOBI.D110128.T140306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241386349
+  "luceneModified" : 1296491230131
 }

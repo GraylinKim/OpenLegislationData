@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3864-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to aging",
+    "billEventId" : "A3864-2011-1296190800000-referred+to+aging",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for services for Alzheimer's disease and related dementias",
+  "summary" : "Provides for services for Alzheimer's disease and related dementias. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A1732-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3864\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Aging\n\n       AN ACT to amend the public health  law,  in  relation  to  services  for\n         persons with Alzheimer's disease and other dementias\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Legislative findings and  intent.  The  legislature  hereby\n    2  finds  and  declares that Alzheimer's disease and other dementias repre-\n    3  sent a public health crisis in New York state. In nineteen hundred nine-\n    4  ty-two the legislature established the task force on Alzheimer's disease\n    5  and other dementias to  identify  priorities,  policy  alternatives  and\n    6  emerging   issues  with  respect  to  caregivers  and  individuals  with\n    7  Alzheimer's disease and other dementias.  As of 2007  it  was  estimated\n    8  that  approximately  five  hundred  thousand New York residents suffered\n    9  from Alzheimer's disease and related dementias. By the year 2050  it  is\n   10  estimated that approximately one million five hundred thousand New York-\n   11  ers  will  develop  this  ailment.    During the next decade, the oldest\n   12  segment of New York state's  population  will  account  for  over  forty\n   13  percent  of  all  persons with dementia and these persons will require a\n   14  wide array of services. Thus the urgency has  increased  for  developing\n   15  and  implementing comprehensive public health and social services initi-\n   16  atives to help persons with dementia and their caregivers.\n   17    The legislature therefore establishes  the  state  level  coordinating\n   18  council  for services related to Alzheimer's disease and other dementias\n   19  to oversee implementation of the  recommendations  of  the  coordinating\n   20  council  which  shall  include  the development of a comprehensive state\n   21  plan of action that will ensure coordination of  public-private  efforts\n   22  to  meet  the  needs of individuals with these dementias, their families\n   23  and the professionals and services that support them.\n   24    S 2. The article heading of article 20 of the public  health  law,  as\n   25  added by chapter 738 of the laws of 1986, is amended to read as follows:\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD05998-01-1\n\n       A. 3864                             2\n\n    1    [REPORTING OF] SERVICES FOR ALZHEIMER'S DISEASE AND RELATED DEMENTIAS\n    2    S  3. Subdivision 2 of section 2003 of the public health law, as added\n    3  by chapter 738 of the laws of 1986, is amended to read as follows:\n    4    2. Notwithstanding any inconsistent provision of law, all  information\n    5  collected  pursuant to this article shall be confidential insofar as the\n    6  identity of the individual patient is concerned and shall be used solely\n    7  for the purposes as  provided in this article. Access to the information\n    8  shall be limited to the  authorized  employees  of  the  department  and\n    9  persons  with a valid scientific interest and qualifications, as defined\n   10  by the commissioner, INCLUDING THE MEMBERS OF THE  COORDINATING  COUNCIL\n   11  FOR  SERVICES  RELATED TO ALZHEIMER'S DISEASE AND OTHER DEMENTIAS ESTAB-\n   12  LISHED BY SECTION TWO THOUSAND FOUR-A OF THIS ARTICLE, who  are  engaged\n   13  in  demographic,  epidemiological  or  other  similar studies related to\n   14  health, and who agree, in writing, to maintain confidentiality as estab-\n   15  lished by the commissioner.\n   16    S 4. This act shall take effect immediately.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to services for persons with Alzheimer's disease and other dementias ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T140808.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112710.TXT", "SOBI.D110128.T140808.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241688485
+  "luceneModified" : 1296491230137
 }

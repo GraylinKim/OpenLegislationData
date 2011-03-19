@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3865-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to tourism, arts and sports development",
+    "billEventId" : "A3865-2011-1296190800000-referred+to+tourism%2C+arts+and+sports+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Designates historic maritime communities",
+  "summary" : "Establishes a statewide historic maritime areas program; designates certain communities as historic maritime communities; defines terms; makes provisions for survey and planning for their historic resources and makes such planning eligible for funds under the environmental protection fund; makes related provisions. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Parks, Recreation and Historic Preservation Law",
+  "previousVersions" : [ "A2157-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3865\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Tourism, Parks, Arts and Sports Development\n\n       AN ACT to amend the parks, recreation and historic preservation law  and\n         the  environmental  conservation law, in relation to historic maritime\n         communities; and providing for the repeal of certain  provisions  upon\n         expiration thereof\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. The parks, recreation  and  historic  preservation  law  is\n    2  amended by adding a new section 35.14 to read as follows:\n    3    S  35.14  HISTORIC  MARITIME  COMMUNITIES. 1. THE STATE FINDS THAT THE\n    4  STATE'S  MARITIME  COMMUNITIES  POSSESS  SIGNIFICANT  MARITIME   RELATED\n    5  HISTORIC  RESOURCES  WHICH WARRANT SPECIAL RECOGNITION AND STATE SUPPORT\n    6  TO ENSURE APPROPRIATE PROTECTION AND USE. TO THE FULLEST EXTENT  PRACTI-\n    7  CABLE,  THE  COMMISSIONER  SHALL  RELATE  OR INTEGRATE HISTORIC MARITIME\n    8  COMMUNITIES INTO THE  STATEWIDE  SYSTEM  OF  STATE  DESIGNATED  HERITAGE\n    9  AREAS.\n   10    2. \"HISTORIC MARITIME COMMUNITY\" SHALL MEAN THE FOLLOWING COMMUNITIES:\n   11  THE  VILLAGE  OF  PORT  CHESTER,  VILLAGE  OF  MAMARONECK,  CITY  OF NEW\n   12  ROCHELLE, CITY ISLAND, PORT WASHINGTON, CITY OF GLEN COVE,  OYSTER  BAY,\n   13  HUNTINGTON  HARBOR,  NORTHPORT HARBOR, VILLAGE OF PORT JEFFERSON, MATTI-\n   14  TUCK, STONY BROOK, SETAUKET, COLD SPRING  HARBOR,  ORIENT-OYSTER  PONDS,\n   15  VILLAGE  OF  SAG  HARBOR  AND VILLAGE OF GREENPORT. THE COMMISSIONER, IN\n   16  CONSULTATION WITH THE SECRETARY OF STATE, SHALL SURVEY AND  STUDY  OTHER\n   17  COMMUNITIES  IN THE STATE WHERE MARITIME ACTIVITY HAS BEEN PART OF THEIR\n   18  HISTORIC DEVELOPMENT INCLUDING COMMUNITIES ALONG THE HUDSON  RIVER,  AND\n   19  LAKES  CHAMPLAIN,  ERIE  AND  ONTARIO,  AND  SHALL RECOMMEND APPROPRIATE\n   20  COMMUNITIES TO THE LEGISLATURE AND THE GOVERNOR  FOR  INCLUSION  IN  THE\n   21  CLASSIFICATION OF HISTORIC MARITIME COMMUNITIES.\n   22    3. NOTWITHSTANDING ANY OTHER PROVISION OF LAW, UPON THE COMMISSIONER'S\n   23  MAKING  THE  FINDING THAT AN HISTORIC MARITIME COMMUNITY IS SUITABLE AND\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD06065-01-1\n\n       A. 3865                             2\n\n    1  FEASIBLE FOR DESIGNATION AS  A  STATE  DESIGNATED  HERITAGE  AREA,  SUCH\n    2  COMMUNITY  SHALL  BE  DEEMED TO BE ELIGIBLE TO PREPARE A MANAGEMENT PLAN\n    3  PURSUANT TO SECTION 35.05 OF THIS ARTICLE AND UPON APPROVAL OF SUCH PLAN\n    4  BY THE COMMISSIONER, SHALL BE A STATE DESIGNATED HERITAGE AREA.\n    5    4.  THE COMMISSIONER THROUGH GRANTS FROM FUNDS MADE AVAILABLE THEREFOR\n    6  AND TECHNICAL ASSISTANCE FROM THE STATE  HISTORIC  PRESERVATION  PROGRAM\n    7  SHALL SUPPORT:\n    8    (A)  UNDERTAKING  COMPREHENSIVE  HISTORIC  RESOURCES  SURVEYS  FOR THE\n    9  HISTORIC MARITIME COMMUNITIES WHERE EXISTING SURVEYS ARE NON-EXISTENT OR\n   10  INADEQUATE, INCLUDING A SURVEY OF DISTRICTS;  SITES;  BUILDINGS;  STRUC-\n   11  TURES;  STREETSCAPES;  AND  OBJECTS,  INCLUDING  VESSELS, SHIPWRECKS AND\n   12  LANDSCAPES;\n   13    (B) EVALUATING  RESOURCES  AND  IDENTIFYING  THOSE  DISTRICTS,  SITES,\n   14  BUILDINGS, STRUCTURES AND OBJECTS OF HISTORIC SIGNIFICANCE AT THE LOCAL,\n   15  STATE OR NATIONAL LEVEL WHICH MEET THE CRITERIA FOR LISTING ON THE STATE\n   16  AND NATIONAL REGISTERS OF HISTORIC PLACES;\n   17    (C)  IDENTIFYING  RESOURCES  OF OTHER HISTORIC OR CULTURAL INTEREST TO\n   18  THE HISTORIC MARITIME COMMUNITY; AND\n   19    (D) ENACTING  OF  MEASURES  BY  THE  HISTORIC  MARITIME  COMMUNITY  TO\n   20  PRESERVE HISTORIC PROPERTIES.\n   21    S  2.  Subdivision 2 of section 54-0901 of the environmental conserva-\n   22  tion law, as amended by chapter 377 of the laws of 2008, is  amended  to\n   23  read as follows:\n   24    2.  \"Historic  preservation  project\"  means a project undertaken by a\n   25  municipality  or  a  not-for-profit  corporation  to  acquire,  improve,\n   26  restore  or rehabilitate property listed on the state or national regis-\n   27  ters of historic places to protect the historic, cultural  or  architec-\n   28  tural  significance  thereof  or  a  project  for planning or structural\n   29  assessments for such properties. \"Historic preservation  project\"  shall\n   30  also  mean  a  project  undertaken  by the office to improve, restore or\n   31  rehabilitate state historic properties listed on the state  or  national\n   32  registers  of  historic  places  to  protect the historical, cultural or\n   33  architectural significance thereof or a project for planning relating to\n   34  or structural assessments of such properties.   IN ADDITION,  A  PROJECT\n   35  SHALL  INCLUDE  A COMPREHENSIVE HISTORIC MARITIME RESOURCES SURVEY FOR A\n   36  HISTORIC MARITIME COMMUNITY AS IDENTIFIED PURSUANT TO SUBDIVISION TWO OF\n   37  SECTION 35.14 OF THE PARKS, RECREATION  AND  HISTORIC  PRESERVATION  LAW\n   38  UNDERTAKEN BY A MUNICIPALITY OR A NOT-FOR-PROFIT CORPORATION.\n   39    S 3. This act shall take effect immediately, provided that section two\n   40  of this act shall expire and be deemed repealed April 1, 2016.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the parks, recreation and historic preservation law and the environmental conservation law, in relation to historic maritime communities; and providing for the repeal of certain provisions upon expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T140808.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112710.TXT", "SOBI.D110128.T140808.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241688488
+  "luceneModified" : 1296491230138
 }

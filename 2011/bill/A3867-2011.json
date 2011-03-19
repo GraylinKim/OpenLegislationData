@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3867-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A3867-2011-1296190800000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes commercial sod products pesticide information requirements",
+  "summary" : "Establishes commercial sod products pesticide information requirements for all purchasers; defines terms; specifies such information and establishes penalties. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A2546-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3867\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Agriculture\n\n       AN ACT to amend the agriculture and markets law, in relation  to  estab-\n         lishing commercial sod products pesticide information requirements\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. The agriculture and markets law is amended by adding a  new\n    2  article 11-B to read as follows:\n    3                                 ARTICLE 11-B\n    4         COMMERCIAL SOD PRODUCTS PESTICIDE INFORMATION REQUIREMENTS\n    5  SECTION 151-P. DEFINITIONS.\n    6          151-Q. PURPOSE.\n    7          151-R. COMMERCIAL  SOD  PRODUCTS  PESTICIDE INFORMATION REQUIRE-\n    8                 MENTS.\n    9          151-S. PENALTIES.\n   10    S 151-P. DEFINITIONS. FOR PURPOSES  OF  THIS  ARTICLE,  THE  FOLLOWING\n   11  DEFINITIONS SHALL APPLY:\n   12    1. \"COMMERCIAL SOD PRODUCTS\" SHALL MEAN SURFACE EARTH CONTAINING GRASS\n   13  AND ITS MATTED ROOTS, OTHERWISE CALLED TURF, WHICH IS OFFERED FOR WHOLE-\n   14  SALE OR RETAIL SALE.\n   15    2.  \"PESTICIDES\"  SHALL  HAVE  THE SAME MEANING AS IS ASCRIBED TO SUCH\n   16  TERM BY SUBDIVISION THIRTY-FIVE OF SECTION 33-0101 OF THE  ENVIRONMENTAL\n   17  CONSERVATION LAW.\n   18    S  151-Q.  PURPOSE.  THE  PURPOSE  OF  THIS  ARTICLE IS TO ENSURE THAT\n   19  PURCHASERS OF COMMERCIAL  SOD  PRODUCTS  RECEIVE  INFORMATION  REGARDING\n   20  PESTICIDES WHICH HAVE BEEN APPLIED TO SUCH PRODUCTS.\n   21    S  151-R.  COMMERCIAL SOD PRODUCTS PESTICIDE INFORMATION REQUIREMENTS.\n   22  1.  EVERY PERSON WHO GROWS COMMERCIAL SOD PRODUCTS SHALL BE REQUIRED  TO\n   23  PROVIDE  INFORMATION ON ALL PESTICIDES WHICH WERE APPLIED TO THE SOIL IN\n   24  WHICH COMMERCIAL SOD PRODUCTS WERE GROWN OR WHICH WERE  APPLIED  TO  THE\n   25  COMMERCIAL SOD PRODUCTS DIRECTLY, TO ALL PURCHASERS OF SUCH PRODUCTS.\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD07355-01-1\n\n       A. 3867                             2\n\n    1    2.  EVERY  PERSON  WHO  SELLS  COMMERCIAL SOD PRODUCTS OR WHO INSTALLS\n    2  COMMERCIAL SOD PRODUCTS SHALL BE REQUIRED TO PROVIDE INFORMATION ON  ALL\n    3  PESTICIDES  WHICH  WERE  APPLIED  TO  THE  SOIL  IN WHICH COMMERCIAL SOD\n    4  PRODUCTS WERE GROWN OR WHICH WERE APPLIED TO THE COMMERCIAL SOD PRODUCTS\n    5  DIRECTLY, AS PROVIDED BY THE GROWER ON A FORM APPROVED BY THE DEPARTMENT\n    6  WHICH  IS  CONSISTENT WITH THE PESTICIDE USE REQUIREMENTS OF THE DEPART-\n    7  MENT OF ENVIRONMENTAL CONSERVATION, TO ALL PURCHASERS OF  SUCH  PRODUCTS\n    8  OR SERVICES.\n    9    3.  THE  INFORMATION  REQUIRED TO BE PROVIDED PURSUANT TO THIS SECTION\n   10  SHALL INCLUDE THE FOLLOWING:\n   11    A. THE PESTICIDE PRODUCT NAME AND THE CHEMICAL NAME OF EACH  PESTICIDE\n   12  PRODUCT APPLIED;\n   13    B. THE TOXICITY CATEGORY OF EACH PESTICIDE PRODUCT APPLIED; AND\n   14    C.  ANY  LABEL WARNINGS RELATING TO CONTACT BY HUMANS AND ANIMALS, AND\n   15  ANY LIST OF RELEVANT ENVIRONMENTAL HAZARD WARNINGS FOR EACH PESTICIDE.\n   16    S 151-S. PENALTIES. ANY PERSON WHO FAILS TO  PROVIDE  THE  INFORMATION\n   17  REQUIRED  IN THIS ARTICLE SHALL BE SUBJECT TO THE PENALTIES CONTAINED IN\n   18  SECTION THIRTY-NINE OF THIS CHAPTER.\n   19    S 2. This act shall take effect on the ninetieth day  after  it  shall\n   20  have become a law.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to establishing commercial sod products pesticide information requirements ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T141809.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112710.TXT", "SOBI.D110128.T141809.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296242289794
+  "luceneModified" : 1296491230141
 }

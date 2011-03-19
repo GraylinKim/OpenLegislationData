@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3871-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to higher education",
+    "billEventId" : "A3871-2011-1296190800000-referred+to+higher+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Protects right of organizations on a college campus to post signs",
+  "summary" : "Protects and regulates the posting of signs on college campuses by student organizations. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A2547-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3871\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Higher Education\n\n       AN ACT to amend the education law,  in  relation  to  posting  signs  on\n         college campus\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Section 6430 of the education law is amended  by  adding  a\n    2  new subdivision 7 to read as follows:\n    3    7.  ANY  CLUB  OR  ORGANIZATION  WHICH IS OFFICIALLY RECOGNIZED BY THE\n    4  STUDENT GOVERNMENT OR ADMINISTRATION OF A COLLEGE  OR  UNIVERSITY  SHALL\n    5  NOT  BE  LIMITED OR RESTRICTED IN ANY MANNER FROM POSTING OF SIGNS ON OR\n    6  IN ANY BUILDING ON THE CAMPUS OF SUCH COLLEGE OR UNIVERSITY.\n    7    A. POSTINGS SHALL BE REMOVED BY THE CUSTODIAL  STAFF  OF  SUCH  CAMPUS\n    8  ONLY  AFTER  FORTY-EIGHT HOURS AFTER THE DATE OF THE MEETING OR EVENT ON\n    9  THE POSTING. POSTINGS WITHOUT SUCH DATE SHALL NOT BE REMOVED  UNTIL  THE\n   10  END  OF THE SEMESTER IN WHICH THEY WERE POSTED. ORGANIZATIONS WHICH POST\n   11  ON CAMPUS SHALL REMOVE SUCH POSTERS THEMSELVES WITHIN FORTY-EIGHT  HOURS\n   12  AFTER THE DATE OF SUCH EVENT OR MEETING IS CONCLUDED.\n   13    B.  ANY RESULTANT DAMAGE TO THE CAMPUS PROPERTY SHALL BE THE RESPONSI-\n   14  BILITY OF THE CLUB OR ORGANIZATION WHICH POSTED SUCH SIGNS.\n   15    S 2. This act shall take effect immediately.\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD07345-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to posting signs on college campus ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T141809.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112710.TXT", "SOBI.D110128.T141809.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296242289803
+  "luceneModified" : 1296491230153
 }

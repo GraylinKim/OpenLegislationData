@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3866-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A3866-2011-1296190800000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires solid waste carting company containers used at curbside to have reflective material",
+  "summary" : "Requires solid waste carting company containers used at curbside to have a minimum of 72 contiguous square inches of reflective material affixed thereto; provides for a civil penalty of up to $1000 for violations. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A2926-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3866\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Consumer Affairs and Protection\n\n       AN ACT to amend the general  business  law,  in  relation  to  requiring\n         reflective material on carting company containers\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. The general business law is amended by adding a new section\n    2  392-j to read as follows:\n    3    S 392-J. CARTING COMPANY CONTAINERS. 1. ALL SOLID WASTE CARTING COMPA-\n    4  NY CONTAINERS FOR USE AT CURBSIDE, INCLUDING BUT NOT LIMITED TO THE  TWO\n    5  YARD,  FOUR  YARD, SIX YARD AND EIGHT YARD BUCKET LOAD TYPE, AND THE TEN\n    6  YARD, TWENTY YARD, THIRTY YARD AND FORTY YARD ROLL-OFF TYPE, SHALL  HAVE\n    7  A  MINIMUM  OF SEVENTY-TWO CONTIGUOUS SQUARE INCHES OF HIGHLY REFLECTIVE\n    8  MATERIAL AFFIXED TO EACH SIDE AND END OF THE CONTAINER AT A HEIGHT WHICH\n    9  MAXIMIZES VISIBILITY TO AUTOMOBILE DRIVERS  WHEN  REFLECTED  FROM  THEIR\n   10  HEADLIGHTS.  ROLL-OFF  CONTAINERS  SHALL  HAVE TWO DISPERSED SEVENTY-TWO\n   11  SQUARE INCH PATCHES OF SUCH REFLECTIVE  MATERIAL  AFFIXED  TO  THE  LONG\n   12  SIDES OF THIS TYPE CONTAINER.\n   13    2. ANY VIOLATION OF THIS SECTION BY A CARTING COMPANY SHALL BE PUNISH-\n   14  ABLE BY A CIVIL PENALTY NOT TO EXCEED ONE THOUSAND DOLLARS.\n   15    S 2. This act shall take effect on the one hundred eightieth day after\n   16  it shall have become a law.\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD07487-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to requiring reflective material on carting company containers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T141306.TXT", "SOBI.D110128.T140808.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T141306.TXT", "SOBI.D110131.T112710.TXT", "SOBI.D110128.T140808.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241986633
+  "luceneModified" : 1296491230140
 }

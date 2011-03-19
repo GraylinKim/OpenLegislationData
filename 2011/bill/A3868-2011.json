@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3868-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to health",
+    "billEventId" : "A3868-2011-1296190800000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for medicaid reimbursement for outpatient hyperbaric therapy for treatments provided since 1996 by hospitals outside New York city in certain counties",
+  "summary" : "Directs the commissioner of health to establish a medicaid reimbursement rate of nine hundred sixty dollars per treatment for outpatient hyperbaric therapy, which rate shall be applied retroactively for all hyperbaric therapy treatment provided since 1996 by hospitals outside of New York city in a county of more than one million three hundred thousand persons as determined by the two thousand decennial federal census. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A2160-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3868\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Health\n\n       AN ACT  to  amend  the  public  health  law,  in  relation  to  medicaid\n         reimbursement for outpatient hyperbaric therapy\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Section 2807 of the public health law is amended by  adding\n    2  a new subdivision 20 to read as follows:\n    3    20. NOTWITHSTANDING ANY OTHER PROVISION OF LAW, RULE OR REGULATION THE\n    4  COMMISSIONER  SHALL  ESTABLISH  A  MEDICAID  REIMBURSEMENT  RATE OF NINE\n    5  HUNDRED SIXTY DOLLARS PER TREATMENT FOR  OUTPATIENT  HYPERBARIC  THERAPY\n    6  AND  SUCH RATE SHALL BE APPLIED RETROACTIVELY FOR ALL HYPERBARIC THERAPY\n    7  TREATMENT  PROVIDED  SINCE  NINETEEN  HUNDRED  NINETY-SIX  BY  HOSPITALS\n    8  OUTSIDE  OF  THE  CITY  OF NEW YORK IN A COUNTY OF MORE THAN ONE MILLION\n    9  THREE HUNDRED THOUSAND PERSONS AS DETERMINED BY THE TWO THOUSAND  DECEN-\n   10  NIAL FEDERAL CENSUS.\n   11    S 2. This act shall take effect immediately.\n\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD06082-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to medicaid reimbursement for outpatient hyperbaric therapy ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T141809.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112710.TXT", "SOBI.D110128.T141809.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296242289797
+  "luceneModified" : 1296491230145
 }

@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3859-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A3859-2011-1296190800000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the application of pesticides to freshwater and tidal wetlands and public utility rights-of-way; repealer",
+  "summary" : "Prohibits the application of pesticides upon freshwater and tidal wetlands, except upon the declaration of a public health emergency by the commissioner of health; prohibits the application of pesticides to a public utility right-of-way. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A1703-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3859\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Environmental Conservation\n\n       AN ACT to amend the environmental conservation law, in relation  to  the\n         application  of pesticides to fresh water and tidal wetlands; to amend\n         the public service law, in relation to prohibiting the application  of\n         pesticides  to  public  utility  company  rights-of-way; and to repeal\n         subdivision 2 of section 25-0103 of the environmental conservation law\n         relating to the definition of \"commissioner\"\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Section  24-0107 of the environmental conservation law is\n    2  amended by adding a new subdivision 9 to read as follows:\n    3    9. \"PESTICIDE\" SHALL HAVE THE SAME MEANING AS IS ASCRIBED TO SUCH TERM\n    4  BY SUBDIVISION THIRTY-FIVE OF SECTION 33-0101 OF THIS CHAPTER.\n    5    S 2. The environmental conservation law is amended  by  adding  a  new\n    6  section 24-1302 to read as follows:\n    7  S 24-1302. PROHIBITION ON THE APPLICATION OF PESTICIDES.\n    8    1. NOTWITHSTANDING ANY PROVISION OF ARTICLE THIRTY-THREE OF THIS CHAP-\n    9  TER  TO  THE  CONTRARY, THE APPLICATION OF ANY PESTICIDE TO A FRESHWATER\n   10  WETLAND SHALL BE PROHIBITED, EXCEPT UPON THE DECLARATION OF THE  COMMIS-\n   11  SIONER  OF HEALTH OF A PUBLIC HEALTH EMERGENCY REQUIRING THE APPLICATION\n   12  OF A PESTICIDE TO SPECIFIC FRESHWATER WETLANDS.\n   13    2. EVERY APPLICATION OF A PESTICIDE TO FRESHWATER  WETLANDS  DURING  A\n   14  PUBLIC  HEALTH  EMERGENCY  SHALL  BE  PERFORMED NOT LESS THAN THREE DAYS\n   15  AFTER SUCH PUBLIC NOTIFICATION THEREOF AS SHALL BE REQUIRED BY THE RULES\n   16  AND REGULATIONS OF THE COMMISSIONER.\n   17    S 3. Subdivision 2 of section 25-0103 of the  environmental  conserva-\n   18  tion  law  is  REPEALED  and  a  new  subdivision  2 is added to read as\n   19  follows:\n   20    2. \"PESTICIDE\" SHALL HAVE THE SAME MEANING AS IS ASCRIBED TO SUCH TERM\n   21  BY SUBDIVISION THIRTY-FIVE OF SECTION 33-0101 OF THIS CHAPTER.\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD05286-01-1\n\n       A. 3859                             2\n\n    1    S 4. The environmental conservation law is amended  by  adding  a  new\n    2  section 25-0303 to read as follows:\n    3  S 25-0303. PROHIBITION ON THE APPLICATION OF PESTICIDES.\n    4    1. NOTWITHSTANDING ANY PROVISION OF ARTICLE THIRTY-THREE OF THIS CHAP-\n    5  TER TO THE CONTRARY, THE APPLICATION OF ANY PESTICIDE TO A TIDAL WETLAND\n    6  SHALL  BE PROHIBITED, EXCEPT UPON THE DECLARATION OF THE COMMISSIONER OF\n    7  HEALTH OF A PUBLIC HEALTH  EMERGENCY  REQUIRING  THE  APPLICATION  OF  A\n    8  PESTICIDE TO SPECIFIC TIDAL WETLANDS.\n    9    2.  EVERY APPLICATION OF A PESTICIDE TO TIDAL WETLANDS DURING A PUBLIC\n   10  HEALTH EMERGENCY SHALL BE PERFORMED NOT LESS THAN THREE DAYS AFTER  SUCH\n   11  PUBLIC NOTIFICATION AS SHALL BE REQUIRED BY THE RULES AND REGULATIONS OF\n   12  THE COMMISSIONER.\n   13    S  5.  The public service law is amended by adding a new section 119-d\n   14  to read as follows:\n   15    S 119-D. PROHIBIT PUBLIC UTILITY RIGHT-OF-WAY  PESTICIDE  APPLICATION.\n   16  1.  NO  PUBLIC  UTILITY  COMPANY  SHALL APPLY OR ALLOW TO BE APPLIED ANY\n   17  PESTICIDE TO ANY RIGHT-OF-WAY OF SUCH UTILITY COMPANY.\n   18    2. FOR THE PURPOSES OF THIS SECTION, THE TERM \"PESTICIDE\"  SHALL  HAVE\n   19  THE  SAME MEANING AS IS ASCRIBED TO SUCH TERM BY SUBDIVISION THIRTY-FIVE\n   20  OF SECTION 33-0101 OF THE ENVIRONMENTAL CONSERVATION LAW.\n   21    S 6. This act shall take effect on the first of January next  succeed-\n   22  ing  the  date  on  which  it shall have become a law; provided that any\n   23  rules and regulations necessary to implement the provisions of this  act\n   24  on  its effective date are authorized and directed to be promulgated and\n   25  completed on or before such date.\n         REPEAL NOTE.--Subdivision 2 of section 25-0103  of  the  environmental\n       conservation  law, proposed to be repealed by section three of this act,\n       defines \"commissioner\" to be the commissioner of environmental conserva-\n       tion for the purposes of such law. Such subdivision is  redundant  since\n       \"commissioner\"  is  so  defined  for  the  entirety of the environmental\n       conservation law by section 1-0303 of such law.\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to the application of pesticides to fresh water and tidal wetlands; to amend the public service law, in relation to prohibiting the application of pesticides to public utility company rights-of-way; and to repeal subdivision 2 of section 25-0103 of the environmental conservation law relating to the definition of \"commissioner\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T140306.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112710.TXT", "SOBI.D110128.T140306.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296241386346
+  "luceneModified" : 1296491230128
 }

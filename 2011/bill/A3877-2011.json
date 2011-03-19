@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3877-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A3877-2011-1296190800000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the commissioner of agriculture and markets to provide for labeling of prepared perishable foods sold primarily for off-premises consumption",
+  "summary" : "Directs the commissioner of agriculture and markets to promulgate rules and regulations providing for the labeling with the preparation date of prepared perishable foods sold primarily for off-premises consumption. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A1705-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3877\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 28, 2011\n                                      ___________\n\n       Introduced  by  M.  of  A.  ENGLEBRIGHT -- read once and referred to the\n         Committee on Consumer Affairs and Protection\n\n       AN ACT to amend the agriculture and markets law, in relation to labeling\n         prepared perishable foods sold primarily for off-premises consumption\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Section 16 of the agriculture and markets law is amended by\n    2  adding a new subdivision 45 to read as follows:\n    3    45. ADOPT RULES AND REGULATIONS REQUIRING FOOD STORES SELLING PREPARED\n    4  PERISHABLE FOODS PRIMARILY FOR OFF-PREMISES CONSUMPTION TO CLEARLY LABEL\n    5  EACH SUCH FOOD ITEM WITH THE DATE OF PREPARATION THEREOF.\n    6    S 2. This act shall take effect immediately.\n\n\n\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD05288-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to labeling prepared perishable foods sold primarily for off-premises consumption ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T142307.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T112710.TXT", "SOBI.D110128.T142307.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296242587970
+  "luceneModified" : 1296491230166
 }
