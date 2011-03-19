@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1655-2011",
+  "senateBillNo" : "S1660-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1655-2011-1294722000000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S1660-2011-1294722000000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalty for leaving the scene of an incident without reporting such incident",
+  "title" : "Increases penalties for driving while ability impaired",
   "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T103650.TXT", "SOBI.D110111.T103149.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T103650.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294760210866
+  "luceneModified" : 1294760210880
 }

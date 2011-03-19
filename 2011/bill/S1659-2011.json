@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1655-2011",
+  "senateBillNo" : "S1659-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1655-2011-1294722000000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1659-2011-1294722000000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalty for leaving the scene of an incident without reporting such incident",
+  "title" : "Decreases amounts of payments wrongfully received for health care fraud",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T103650.TXT", "SOBI.D110111.T103149.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T103650.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294760210866
+  "luceneModified" : 1294760210877
 }
