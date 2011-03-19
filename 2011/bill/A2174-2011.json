@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2233-2011",
+  "senateBillNo" : "A2174-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to election law",
-    "billEventId" : "A2233-2011-1294981200000-referred+to+election+law",
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A2174-2011-1294981200000-referred+to+real+property+taxation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the treasurer of a political committee to freeze campaign funds upon indictment of a state or local public official and pending disposition or resolution",
+  "title" : "Authorizes Pets Alive Inc. to file an application for exemption from real property taxes for certain parcels of land located in the town of Wallkill",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Election Law",
+  "lawSection" : "Real Property Taxation",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T120437.TXT", "SOBI.D110114.T120938.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T120938.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295024978648
+  "luceneModified" : 1295024978707
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2233-2011",
+  "senateBillNo" : "A2161-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to election law",
-    "billEventId" : "A2233-2011-1294981200000-referred+to+election+law",
+    "eventText" : "referred to correction",
+    "billEventId" : "A2161-2011-1294981200000-referred+to+correction",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rabbitt",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the treasurer of a political committee to freeze campaign funds upon indictment of a state or local public official and pending disposition or resolution",
+  "title" : "Provides for notice of availability of services to prisoners upon their release from state prison",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Election Law",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T120437.TXT", "SOBI.D110114.T120938.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T120938.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295024978648
+  "luceneModified" : 1295024978650
 }
