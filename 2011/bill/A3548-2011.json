@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3538-2011",
+  "senateBillNo" : "A3548-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A3538-2011-1295931600000-referred+to+housing",
+    "eventText" : "referred to correction",
+    "billEventId" : "A3548-2011-1295931600000-referred+to+correction",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"foreclosure prevention act of 2011\"",
-  "summary" : null,
+  "title" : "Relates to the custody and visitation rights of a sex offender",
+  "summary" : "Prohibits a sex offender from being granted by a court, physical or legal custody of, or unsupervised visitation with a child. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Real Property Actions and Proceedings Law",
-  "previousVersions" : null,
+  "lawSection" : "Correction Law",
+  "previousVersions" : [ "A9364-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Scarborough",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T152439.TXT", "SOBI.D110125.T151934.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T152439.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987079268
+  "luceneModified" : 1295987079291
 }

@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3546-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A3546-2011-1295931600000-referred+to+governmental+employees",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Includes Niagara Frontier transportation authority and its police officers and aircraft rescue firefighters under provisions for resolution of impasse in collective",
+  "summary" : "Includes Niagara Frontier Transportation Authority and its police officers and aircraft rescue firefighters in the provisions of the civil service law providing for the resolution of impasses in collective bargaining negotiations by the public employment relations board. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : [ "A9925-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T152439.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295987079289
+}

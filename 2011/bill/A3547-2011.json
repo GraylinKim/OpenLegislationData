@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3547-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3547-2011-1295931600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires an expert witness file with the court a written report of his or her findings in certain family court proceedings",
+  "summary" : "Requires an expert witness file with the court a written report of his or her findings in certain family court proceedings; requires that the report must be filed at least 30 days prior to the expert's expected testimony and must contain a copy of the raw data used by the expert in reaching his or her conclusions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Family Court Act",
+  "previousVersions" : [ "A9371-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T152439.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295987079290
+}

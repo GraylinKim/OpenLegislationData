@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3550-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to tourism, arts and sports development",
+    "billEventId" : "A3550-2011-1295931600000-referred+to+tourism%2C+arts+and+sports+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires boating safety certificates of all persons operating a mechanically propelled vessel; repealer",
+  "summary" : "Requires boating safety certificates of all persons operating a mechanically propelled vessel; provides exception in the case of new owners and certain renters; provides for a phase in period and penalties for violations. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Navigation Law",
+  "previousVersions" : [ "AE5889-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T152439.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295987079297
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3538-2011",
+  "senateBillNo" : "A3539-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A3538-2011-1295931600000-referred+to+housing",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3539-2011-1295931600000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"foreclosure prevention act of 2011\"",
+  "title" : "Relates to extensions of state and local deadlines following a state disaster emergency",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Real Property Actions and Proceedings Law",
+  "lawSection" : "State Government, Reorganization of",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "Castro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Scarborough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T152439.TXT", "SOBI.D110125.T151934.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T152439.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987079268
+  "luceneModified" : 1295987079270
 }
