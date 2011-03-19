@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1098-2011",
+  "senateBillNo" : "S1144-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1098-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S1144-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the time to commence certain medical malpractice actions",
+  "title" : "Requires the commissioner of education to require all schools to obtain permission from parents prior to collecting a pupil's biometric information",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Civil Practice Law and Rules",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the civil practice law and rules and the public health law, in relation to the time to commence certain malpractice actions ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T111126.TXT", "SOBI.D110105.T120651.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T120651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294247211972
+  "luceneModified" : 1294247211989
 }

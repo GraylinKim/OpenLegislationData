@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1091-2011",
+  "senateBillNo" : "S1143-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S1091-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1143-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for home cooling needs assistance through the low-income home energy assistance program",
-  "summary" : "Provides for home cooling needs assistance through the low-income home energy assistance program developed by the office of temporary and disability assistance. ",
-  "currentCommittee" : "SOCIAL SERVICES",
+  "title" : "Requires patient hospital admissions form allow patient to designate a domestic partner with the same privileges as a next-of-kin respecting authorizing surgery",
+  "summary" : null,
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
-  "previousVersions" : [ "S2276-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "DILAN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "DUANE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,14 +62,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "SAMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the social services law, in relation to providing for home cooling needs assistance for low income households ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T120126.TXT", "SOBI.D110105.T105611.TXT", "SOBI.D110105.T120651.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T120651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294247211999
+  "luceneModified" : 1294247211982
 }

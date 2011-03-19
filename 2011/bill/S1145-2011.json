@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1091-2011",
+  "senateBillNo" : "S1145-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S1091-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S1145-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for home cooling needs assistance through the low-income home energy assistance program",
-  "summary" : "Provides for home cooling needs assistance through the low-income home energy assistance program developed by the office of temporary and disability assistance. ",
-  "currentCommittee" : "SOCIAL SERVICES",
+  "title" : "Enacts the \"Nurse of Tomorrow Act of 2011\" to provide for grants to certain hospitals, schools and other entities for nurse recruitment, education and retention",
+  "summary" : null,
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
-  "previousVersions" : [ "S2276-2009" ],
+  "lawSection" : "Education Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "BRESLIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
     "id" : null,
     "position" : null,
     "fullname" : "DIAZ",
@@ -34,7 +41,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "DUANE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,7 +55,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -69,7 +76,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the social services law, in relation to providing for home cooling needs assistance for low income households ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T120126.TXT", "SOBI.D110105.T105611.TXT", "SOBI.D110105.T120651.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T120651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294247211999
+  "luceneModified" : 1294247211995
 }
