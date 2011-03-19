@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Removes cancer screening deductibles, copayments and coinsurance",
-  "summary" : null,
+  "summary" : "Removes cancer screening deductibles, copayments and coinsurance. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA7064-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to cancer screening deductibles and copayments ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T150744.TXT", "SOBI.D101230.T162249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T150744.TXT", "SOBI.D110103.T092344.TXT", "SOBI.D101230.T162249.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293744169666
+  "luceneModified" : 1294064624959
 }
