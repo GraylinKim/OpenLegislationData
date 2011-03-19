@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3380-2011",
+  "senateBillNo" : "A3444-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
     "eventText" : "referred to judiciary",
-    "billEventId" : "A3380-2011-1295931600000-referred+to+judiciary",
+    "billEventId" : "A3444-2011-1295931600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Proposes a constitutional amendment providing for initiative and referendum by eligible voters",
+  "title" : "Limits the amount which may be awarded for noneconomic damages",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "lawSection" : "Civil Practice Law and Rules",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Thiele",
+    "fullname" : "Corwin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Sayward",
+    "fullname" : "Hawley",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to the constitution, in relation to providing the electors with the power of initiative and referendum ",
+  "actClause" : "AN ACT to amend the civil practice law and rules, in relation to setting certain limits on noneconomic damage awards for personal injury and wrongful death actions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T130914.TXT", "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979255985
+  "luceneModified" : 1295979255020
 }

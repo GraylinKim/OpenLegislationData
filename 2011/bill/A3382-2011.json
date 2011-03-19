@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3380-2011",
+  "senateBillNo" : "A3382-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to judiciary",
-    "billEventId" : "A3380-2011-1295931600000-referred+to+judiciary",
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3382-2011-1295931600000-referred+to+local+governments",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Proposes a constitutional amendment providing for initiative and referendum by eligible voters",
+  "title" : "Prohibits legislature from enacting laws with local government fiscal impact unless fiscal burden is computed and imprinted on bill",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to the constitution, in relation to providing the electors with the power of initiative and referendum ",
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 9 of the constitution, in relation to acts of the legislature having fiscal impact on local governments ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T130914.TXT", "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979255985
+  "luceneModified" : 1295979255989
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3380-2011",
+  "senateBillNo" : "A3381-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to judiciary",
-    "billEventId" : "A3380-2011-1295931600000-referred+to+judiciary",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3381-2011-1295931600000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Proposes a constitutional amendment providing for initiative and referendum by eligible voters",
+  "title" : "Provides that the senate shall be composed of 62 senators, each representing 1 county of the state",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -27,14 +27,14 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Thiele",
+    "fullname" : "Sayward",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Sayward",
+    "fullname" : "Giglio",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to the constitution, in relation to providing the electors with the power of initiative and referendum ",
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing amendments to sections 2 and 4 of article 3 of the constitution, in relation to the number of senators and the apportionment of senate districts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T130914.TXT", "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979255985
+  "luceneModified" : 1295979255987
 }
