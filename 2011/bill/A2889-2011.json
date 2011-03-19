@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2889-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A2889-2011-1295499600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rabbitt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Changes the date fire district votes take place and raises the compensation for poll workers",
+  "summary" : "Changes the date fire district votes take place and raises the compensation for poll workers. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Town Law",
+  "previousVersions" : [ "A10585-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the town law, in relation to changing the date of fire district votes and the amount of compensation for poll workers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T163417.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295559257592
+}

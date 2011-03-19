@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2885-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295499600000,
+    "eventText" : "referred to veterans' affairs",
+    "billEventId" : "A2885-2011-1295499600000-referred+to+veterans%27+affairs",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the unauthorized sale of veterans' commemorative property by cemeteries",
+  "summary" : "Prohibits the unauthorized sale, purchase, sale or transfer of any cemetery marker, flag holder, monument, statue or other physical memorabilia that is over 75 years old that commemorates the life or death of a veteran or group of veterans, including but not limited to a military unit, company, battalion or division, if such cemetery marker, flag holder, monument, statue or other physical memorabilia that commemorates the life or death of a veteran or group of veterans has been placed in any cemetery; makes violations a class B misdemeanor; permits cemeteries to make such sales upon application to the state cemetery board and upon certain conditions. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1504",
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A2015-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Nolan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to the unauthorized sale of veterans' commemorative property that has been placed in a cemetery and the unauthorized sale of cemetery markers and flagholders ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110120.T163417.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295559257567
+}
