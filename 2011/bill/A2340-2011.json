@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2339-2011",
+  "senateBillNo" : "A2340-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "referred to health",
-    "billEventId" : "A2339-2011-1295326800000-referred+to+health",
+    "billEventId" : "A2340-2011-1295326800000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for increasing the applicability of brand name and generic prescription drug and other medical services co-payments for medicaid recipients",
+  "title" : "Modifies medicaid services' availability to bring them more in line with those of private health insurance coverage; repealer",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T140141.TXT", "SOBI.D110118.T135641.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T140141.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295377301476
+  "luceneModified" : 1295377301479
 }

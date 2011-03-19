@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2339-2011",
+  "senateBillNo" : "A2349-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "referred to health",
-    "billEventId" : "A2339-2011-1295326800000-referred+to+health",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2349-2011-1295326800000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
+    "fullname" : "Weinstein",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for increasing the applicability of brand name and generic prescription drug and other medical services co-payments for medicaid recipients",
+  "title" : "Directs municipal police training council to establish policies and procedures for police officers, relating to investigation of and intervention into sex offenses",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Bing",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T140141.TXT", "SOBI.D110118.T135641.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T140141.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295377301476
+  "luceneModified" : 1295377301501
 }

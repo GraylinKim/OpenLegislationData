@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2339-2011",
+  "senateBillNo" : "A2345-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "referred to health",
-    "billEventId" : "A2339-2011-1295326800000-referred+to+health",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A2345-2011-1295326800000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for increasing the applicability of brand name and generic prescription drug and other medical services co-payments for medicaid recipients",
+  "title" : "Increases state aid payments to cities with video lottery gaming facilities",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "State Finance Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Brook-Krasny",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T140141.TXT", "SOBI.D110118.T135641.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T140141.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295377301476
+  "luceneModified" : 1295377301493
 }
