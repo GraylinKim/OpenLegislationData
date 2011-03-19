@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S861-2011",
+  "senateBillNo" : "S863-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S861-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S863-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SQUADRON",
+    "fullname" : "YOUNG",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a concussion management advisory board to advise the education department on implementation of the best practices related to concussion management",
+  "title" : "Establishes a residential-commercial exemption program in certain counties",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T154748.TXT", "SOBI.D101230.T154247.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T154748.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293742068104
+  "luceneModified" : 1293742068112
 }

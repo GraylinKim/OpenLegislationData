@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S861-2011",
+  "senateBillNo" : "S862-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S861-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
+    "billEventId" : "S862-2011-1294203600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SQUADRON",
+    "fullname" : "YOUNG",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a concussion management advisory board to advise the education department on implementation of the best practices related to concussion management",
+  "title" : "Eliminates the requirement for parental consent to an adoption when the parent has an order of protection against them for the protection of the other parent",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "CHILDREN AND FAMILIES",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Domestic Relations Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T154748.TXT", "SOBI.D101230.T154247.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T154748.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293742068104
+  "luceneModified" : 1293742068109
 }
