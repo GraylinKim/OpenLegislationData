@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires weapons and ammunition to be secured when being transported and imposes a fine of at least $1,000 for violation",
-  "summary" : null,
+  "summary" : "Requires all motor vehicles transporting five or more weapons or ammunition for five or more weapons to have a separate storage area secured by padlock or combination lock and all such weapons and ammunition to be so secured when being transported and imposes a fine of at least $1,000 and not more than $5,000 for violation. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A2676-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to the transportation of weapons and ammunition ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T131624.TXT", "SOBI.D110124.T130123.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T131624.TXT", "SOBI.D110124.T130123.TXT", "SOBI.D110124.T135126.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892984725
+  "luceneModified" : 1295895086854
 }
