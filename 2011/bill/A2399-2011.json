@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2399-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295326800000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2399-2011-1295326800000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires communities with traffic-control devices with photo monitoring to have uniform duration periods for all yellow signal lights on any traffic-control devices",
+  "summary" : "Requires that in communities which include traffic-control devices outfitted with photo monitoring instruments, amber or yellow signal lights located on any traffic-control device in such community shall have uniform duration periods. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A7699-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to requiring that in communities that include traffic-control devices outfitted with photo monitoring instruments, amber or yellow signal lights located on any traffic-control device in such community shall have uniform duration periods ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110118.T151652.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295381812403
+}
