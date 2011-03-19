@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S236-2011",
+  "senateBillNo" : "S240-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S236-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S240-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Removes the Niagara section of the thruway from the control of the thruway authority and puts it under the department of transportation's control; repealer",
+  "title" : "Requires a manufactured home park owner or operator to give every manufactured home resident a copy of their resident's bill of rights",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Real Property Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T104803.TXT", "SOBI.D101213.T105303.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T105303.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292255583791
+  "luceneModified" : 1292255583802
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S236-2011",
+  "senateBillNo" : "S238-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S236-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S238-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Removes the Niagara section of the thruway from the control of the thruway authority and puts it under the department of transportation's control; repealer",
+  "title" : "Relates to immunity for certain employers providing information relating to a former employee to a prospective employer who is an elder care facility",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Civil Rights Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T104803.TXT", "SOBI.D101213.T105303.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T105303.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292255583791
+  "luceneModified" : 1292255583798
 }

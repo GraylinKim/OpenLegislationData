@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S236-2011",
+  "senateBillNo" : "S237-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S236-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S237-2011-1294203600000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Removes the Niagara section of the thruway from the control of the thruway authority and puts it under the department of transportation's control; repealer",
+  "title" : "Includes portable x-ray services and laboratory and other diagnostic procedures provided in mobile settings as covered services for medical assistance",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Public Authorities Law",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101213.T104803.TXT", "SOBI.D101213.T105303.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101213.T105303.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292255583791
+  "luceneModified" : 1292255583796
 }
