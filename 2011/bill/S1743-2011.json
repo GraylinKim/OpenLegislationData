@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1740-2011",
+  "senateBillNo" : "S1743-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1740-2011-1294808400000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S1743-2011-1294808400000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the reimbursement of non-public schools and teachers",
+  "title" : "Provides for reverse mortgage loans on co-op apartments",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
-  "lawSection" : "Education",
+  "lawSection" : "Real Property Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "GRISANTI",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T101455.TXT", "SOBI.D110112.T100954.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T101455.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294845295601
+  "luceneModified" : 1294845295607
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1740-2011",
+  "senateBillNo" : "S1741-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S1740-2011-1294808400000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1741-2011-1294808400000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the reimbursement of non-public schools and teachers",
+  "title" : "Creates the crime of facilitating a sex offense through electronic communication",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Education",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "GRISANTI",
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LAVALLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T101455.TXT", "SOBI.D110112.T100954.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T101455.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294845295601
+  "luceneModified" : 1294845295603
 }
