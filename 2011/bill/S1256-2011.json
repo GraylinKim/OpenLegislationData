@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1253-2011",
+  "senateBillNo" : "S1256-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
-    "eventText" : "REFERRED TO AGRICULTURE",
-    "billEventId" : "S1253-2011-1294290000000-REFERRED+TO+AGRICULTURE",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1256-2011-1294290000000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,13 +18,20 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the sale of birds by pet dealers",
+  "title" : "Increases the penalty for vehicular manslaughter to a class A-I felony",
   "summary" : null,
-  "currentCommittee" : "AGRICULTURE",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Agriculture and Markets Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HUNTLEY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT", "SOBI.D110106.T114713.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294332734761
+  "luceneModified" : 1294332734794
 }

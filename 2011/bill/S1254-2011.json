@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1215-2011",
+  "senateBillNo" : "S1254-2011",
   "billEvents" : [ {
     "eventDate" : 1294290000000,
     "eventText" : "REFERRED TO CONSUMER PROTECTION",
-    "billEventId" : "S1215-2011-1294290000000-REFERRED+TO+CONSUMER+PROTECTION",
+    "billEventId" : "S1254-2011-1294290000000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "ADDABBO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to creating a forty-eight hour grace period from due date of credit card bill",
+  "title" : "Requires motor vehicle carriers to be identified in English",
   "summary" : null,
   "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
@@ -29,10 +29,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general business law, in relation to creating a forty-eight hour grace period from the due date of a credit card bill ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT", "SOBI.D110106.T110705.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T115214.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294332734819
+  "luceneModified" : 1294332734773
 }
