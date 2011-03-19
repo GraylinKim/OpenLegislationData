@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to utility intervenor reimbursement",
-  "summary" : null,
+  "summary" : "Relates to utility intervenor reimbursement. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Service Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AD8722-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -67,7 +67,7 @@
   "actClause" : "AN ACT to amend the public service law, in relation to utility intervenor reimbursement; and to amend the state finance law in relation to establishing the utility intervenor account ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT", "SOBI.D101216.T103912.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T102903.TXT", "SOBI.D101216.T103912.TXT", "SOBI.D101216.T104912.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292513952070
+  "luceneModified" : 1292514552269
 }
