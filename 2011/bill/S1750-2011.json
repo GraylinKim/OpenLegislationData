@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1747-2011",
+  "senateBillNo" : "S1750-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1747-2011-1294808400000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+    "billEventId" : "S1750-2011-1294808400000-REFERRED+TO+VETERANS%2C+HOMELAND+SECURITY+AND+MILITARY+AFFAIRS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Adds instances where a person may be guilty of burglary in the second degree",
+  "title" : "Relates to a real property tax exemption for property owned by certain persons performing active duty in a combat zone",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,7 +34,28 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "GRISANTI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "JOHNSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LARKIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T101455.TXT", "SOBI.D110112.T101955.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T101955.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294845595711
+  "luceneModified" : 1294845595722
 }

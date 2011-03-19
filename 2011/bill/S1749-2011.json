@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1747-2011",
+  "senateBillNo" : "S1749-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1747-2011-1294808400000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S1749-2011-1294808400000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Adds instances where a person may be guilty of burglary in the second degree",
+  "title" : "Relates to the notification of certain relatives prior to the placement of children",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Elder Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "DEFRANCISCO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "JOHNSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T101455.TXT", "SOBI.D110112.T101955.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T101955.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294845595711
+  "luceneModified" : 1294845595719
 }

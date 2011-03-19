@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1747-2011",
+  "senateBillNo" : "S1748-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1747-2011-1294808400000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1748-2011-1294808400000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,27 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Adds instances where a person may be guilty of burglary in the second degree",
+  "title" : "Provides that residential health care facilities may return and redistribute unused medication",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "DEFRANCISCO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "JOHNSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "RANZENHOFER",
@@ -53,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T101455.TXT", "SOBI.D110112.T101955.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T101955.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294845595711
+  "luceneModified" : 1294845595715
 }
