@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2971-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A2971-2011-1295586000000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires social services districts to establish a homeless housing task force for purposes of developing a ten year plan and guidelines",
+  "summary" : "Requires social service districts to establish a homeless housing task force for purposes of developing a ten year plan and guidelines to address long-term and short-term housing. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1063",
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A1493-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to the creation by each social services district of a homeless housing task force ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T152535.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295641535641
+}
