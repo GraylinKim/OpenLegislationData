@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S721-2011",
+  "senateBillNo" : "S722-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO EDUCATION",
-    "billEventId" : "S721-2011-1294203600000-REFERRED+TO+EDUCATION",
+    "eventText" : "REFERRED TO LABOR",
+    "billEventId" : "S722-2011-1294203600000-REFERRED+TO+LABOR",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "ROBACH",
+    "fullname" : "PERALTA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the commissioner of education to establish an incentive program for school districts wishing to implement programs of foreign language in the elementary scho",
+  "title" : "Expands retraining opportunities to unemployed citizens of the state",
   "summary" : null,
-  "currentCommittee" : "EDUCATION",
+  "currentCommittee" : "LABOR",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Labor Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101229.T161247.TXT", "SOBI.D101229.T162749.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101229.T162749.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293658069325
+  "luceneModified" : 1293658069328
 }
