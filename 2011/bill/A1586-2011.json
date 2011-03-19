@@ -24,7 +24,14 @@
   "sameAs" : "S1672",
   "lawSection" : "Town Law",
   "previousVersions" : [ "A9892-2009" ],
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ramos",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the town law, in relation to absentee ballots for fire district elections ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T115714.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T165658.TXT", "SOBI.D110111.T115714.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294765034553
+  "luceneModified" : 1295387818440
 }

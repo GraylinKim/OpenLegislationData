@@ -24,7 +24,21 @@
   "sameAs" : null,
   "lawSection" : "General Business Law",
   "previousVersions" : [ "A9383-2009" ],
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         2098\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 13, 2011\n                                      ___________\n\n       Introduced by M. of A. KAVANAGH -- read once and referred to the Commit-\n         tee on Consumer Affairs and Protection\n\n       AN  ACT  to  amend  the  general business law, in relation to the use of\n         credit risk scores\n\n         THE PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND  ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section  1.  Section  380-j  of the general business law is amended by\n    2  adding a new subdivision (h) to read as follows:\n    3    (H) IN CONNECTION WITH PROVIDING A HOME MORTGAGE OR  AUTO  LOAN  TO  A\n    4  CONSUMER,  NO USER OF A CONSUMER REPORT IN THIS STATE SHALL USE A CREDIT\n    5  RISK SCORE CREATED BY A  CREDIT  REPORTING  AGENCY  OR  A  CREDIT  SCORE\n    6  PROVIDER  IF SUCH CREDIT RISK SCORE USES ANY OF THE FOLLOWING AS A NEGA-\n    7  TIVE FACTOR IN ITS CREDIT SCORING METHODOLOGY:\n    8    (1) CREDIT INQUIRIES  NOT  INITIATED  BY  THE  CONSUMER  OR  INQUIRIES\n    9  REQUESTED BY THE CONSUMER FOR HIS OR HER OWN CREDIT INFORMATION; OR\n   10    (2)(I)  USER INQUIRIES IN CONNECTION WITH A HOME MORTGAGE OR AUTO LOAN\n   11  INITIATED BY A CONSUMER, IF CODED BY THE CONSUMER  REPORTING  AGENCY  ON\n   12  THE CONSUMER'S CREDIT REPORT AS BEING FROM THE HOME MORTGAGE INDUSTRY OR\n   13  THE AUTO LENDING INDUSTRY, AND\n   14    (II)(A)  MADE  DURING  THE PERIOD OF THIRTY DAYS PRIOR TO EACH SCORING\n   15  DATE (THE \"BUFFER PERIOD\"); OR\n   16    (B) MADE DURING THE ELEVEN  MONTH  PERIOD  IMMEDIATELY  PRECEDING  THE\n   17  BUFFER  PERIOD,  UNLESS  ALL SUCH INQUIRIES MADE WITHIN ANY PERIOD OF AT\n   18  LEAST FOURTEEN DAYS DURING SUCH ELEVEN MONTH PERIOD (EACH SUCH PERIOD OF\n   19  AT LEAST FOURTEEN DAYS IS REFERRED TO AS A \"DE-DUPLICATION PERIOD\")  ARE\n   20  COUNTED AS A SINGLE INQUIRY, AS FOLLOWS:\n   21    (I)  THE  FIRST  DE-DUPLICATION  PERIOD SHALL START ON THE DATE OF THE\n   22  FIRST INQUIRY OF THE HOME MORTGAGE INDUSTRY OR THE AUTO LENDING INDUSTRY\n   23  PRIOR TO THE BUFFER PERIOD; AND\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD00079-01-1\n\n       A. 2098                             2\n\n    1    (II) ADDITIONAL DE-DUPLICATION PERIODS, IF ANY, SHALL START  WITH  THE\n    2  FIRST INQUIRY OF THE HOME MORTGAGE INDUSTRY OR THE AUTO LENDING INDUSTRY\n    3  PRIOR TO THE END OF THE PREVIOUS DE-DUPLICATION PERIOD, IF ANY.\n    4    HOME  MORTGAGE  INQUIRIES  AND  AUTO LOAN INQUIRIES MAY BE COUNTED, IN\n    5  ACCORDANCE WITH THE TERMS OF THIS SUBPARAGRAPH,  TOGETHER  IN  THE  SAME\n    6  DE-DUPLICATION  PERIOD OR PERIODS OR SEPARATELY IN DIFFERENT DE-DUPLICA-\n    7  TION PERIOD OR PERIODS, ONE SERIES FOR THE HOME  MORTGAGE  INDUSTRY  AND\n    8  ANOTHER SERIES FOR THE AUTO LENDING INDUSTRY.\n    9    S 2. This act shall take effect on the one hundred twentieth day after\n   10  it shall have become a law.\n",
   "memo" : null,
@@ -32,7 +46,7 @@
   "actClause" : "AN ACT to amend the general business law, in relation to the use of credit risk scores ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T113924.TXT", "SOBI.D110113.T164426.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T165658.TXT", "SOBI.D110114.T113924.TXT", "SOBI.D110113.T164426.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295023164599
+  "luceneModified" : 1295387818443
 }
