@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A430-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A430-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Restricts the availability and use of the entirety of a person's social security number",
+  "summary" : "Restricts the availability and use of the entirety of a person's social security number. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Rights Law",
+  "previousVersions" : [ "A1303-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Mayersohn",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil rights law, in relation to social security number confidentiality ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T162118.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293139278218
+}

@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A431-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A431-2011-1294203600000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lentol",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for hazardous materials emergency response training for emergency medical services personnel of a fire department of N.Y. city",
+  "summary" : "Provides for hazardous materials emergency response training for emergency medical services personnel of a fire department of a city of one million or more, by the state department of health and the state fire administrator. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A3742-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law and the executive law, in relation to the provision of hazardous materials emergency response training to emergency medical services personnel employed by a fire department operating within a city with a population of more than one million ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T162118.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293139278222
+}

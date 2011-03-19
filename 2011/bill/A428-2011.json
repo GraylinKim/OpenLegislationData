@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A428-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to real property taxation",
+    "billEventId" : "A428-2011-1294203600000-referred+to+real+property+taxation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes fire districts to impose ad valorem levies and special assessments on otherwise tax exempt real property",
+  "summary" : "Authorizes fire districts to impose ad valorem levies and special assessments on otherwise tax exempt real property. ",
+  "currentCommittee" : null,
+  "sameAs" : "S549",
+  "lawSection" : "Real Property Tax Law",
+  "previousVersions" : [ "A772-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property tax law, in relation to authorizing fire districts to impose special ad valorem levies and special assessments against otherwise tax exempt real property ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T162118.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293139278211
+}
