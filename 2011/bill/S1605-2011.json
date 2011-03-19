@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows people with orders of protection to refuse to provide certain personal information during the disclosure phase of a court proceeding",
-  "summary" : null,
+  "summary" : "Allows people with orders of protection issued in their favor to refuse to provide certain personal information during the disclosure phase of a court proceeding. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Civil Practice Law and Rules",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4930-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T150617.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T150617.TXT", "SOBI.D110110.T161130.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294689977573
+  "luceneModified" : 1294693890449
 }

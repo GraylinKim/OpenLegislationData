@@ -31,13 +31,6 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Thiele",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -46,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT", "SOBI.D110110.T161130.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294691795526
+  "luceneModified" : 1294693890432
 }

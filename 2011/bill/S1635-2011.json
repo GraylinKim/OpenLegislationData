@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1634-2011",
+  "senateBillNo" : "S1635-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S1634-2011-1294635600000-REFERRED+TO+CODES",
+    "billEventId" : "S1635-2011-1294635600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides an oral or written statement of an accused shall be inadmissible as evidence against such accused unless a recording is made of the interrogation",
+  "title" : "Relates to increasing penalties for the criminal sale of firearms",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T161130.TXT", "SOBI.D110110.T160630.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T161130.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294693890414
+  "luceneModified" : 1294693890425
 }
