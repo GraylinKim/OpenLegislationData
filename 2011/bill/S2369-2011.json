@@ -34,6 +34,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LIBOUS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to the use of ultra low sulfur diesel fuel and best available technology by the state ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T164826.TXT", "SOBI.D110119.T143307.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110119.T153822.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143807.TXT", "SOBI.D110119.T143307.TXT", "SOBI.D110119.T164826.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110125.T113906.TXT", "SOBI.D110119.T153822.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295473706684
+  "luceneModified" : 1295973546847
 }
