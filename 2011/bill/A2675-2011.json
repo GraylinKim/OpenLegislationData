@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires disclosure of environmental conservation permit applicant's record of compliance with state, federal, and foreign environmental regulations",
-  "summary" : null,
+  "summary" : "Requires applicants to the department of environmental conservation for permits to disclose information concerning other permits held and/or revoked, enforcement actions, criminal convictions, fees or fines owed, and other information relating to compliance by the applicant or any corporation of which he or she is an officer, director, or large stockholder with state, federal, or foreign environmental laws or regulations and certain other laws. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA4110-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to review of permit applicants on record of compliance ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T111344.TXT", "SOBI.D110120.T111858.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T111344.TXT", "SOBI.D110120.T111858.TXT", "SOBI.D110120.T113345.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295540338668
+  "luceneModified" : 1295541225236
 }

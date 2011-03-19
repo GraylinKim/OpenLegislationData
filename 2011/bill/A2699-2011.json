@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates a new crime for sale of a firefighter uniform",
-  "summary" : null,
+  "summary" : "Creates a new crime for sale of a firefighter uniform. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A7309-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to creating a new crime for sale of a firefighter uniform ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T111858.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T111858.TXT", "SOBI.D110120.T113345.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295540338709
+  "luceneModified" : 1295541225238
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires notice to emergency personnel of exposure to HIV infected persons",
-  "summary" : null,
+  "summary" : "Requires an attending physician to provide notification to peace officers, firefighters, ambulance workers and other paid or volunteer emergency personnel of exposure to HIV infected persons where such individuals came in contact with such HIV infected persons; directs medical care facilities to develop written procedures. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A2795-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to requiring notification to peace officers and other paid or volunteer emergency personnel of exposure to HIV infected persons ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T111344.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T111344.TXT", "SOBI.D110120.T113345.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295540024546
+  "luceneModified" : 1295541225250
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Excludes environmental contamination from consideration as a factor for real property assessment",
-  "summary" : null,
+  "summary" : "Excludes environmental contamination from consideration as a factor for assessment. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3466-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to excluding environmental contamination from consideration as a factor for assessment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T111858.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T111858.TXT", "SOBI.D110120.T113345.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295540338675
+  "luceneModified" : 1295541225241
 }
