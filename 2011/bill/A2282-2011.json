@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2252-2011",
+  "senateBillNo" : "A2282-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to cities",
-    "billEventId" : "A2252-2011-1294981200000-referred+to+cities",
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A2282-2011-1294981200000-referred+to+governmental+employees",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the audit powers and duties of the New York city comptroller",
+  "title" : "Requires public arbitration panel to which a dispute is referred to consider above all other factors the financial ability of the public employer to pay, as defined",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "New York City Charter",
+  "lawSection" : "Civil Service Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Peoples-Stokes",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Zebrowski",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the New York city charter, in relation to the audit powers and duties of the New York city comptroller ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT", "SOBI.D110114.T151459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036399462
+  "luceneModified" : 1295036399449
 }

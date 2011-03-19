@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2252-2011",
+  "senateBillNo" : "A2273-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to cities",
-    "billEventId" : "A2252-2011-1294981200000-referred+to+cities",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2273-2011-1294981200000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the audit powers and duties of the New York city comptroller",
+  "title" : "Requires determinations of nonresponsibility on part of vendors by state agencies to be forwarded to state comptroller",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "New York City Charter",
+  "lawSection" : "State Finance Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Rosenthal",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -52,15 +38,22 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the New York city charter, in relation to the audit powers and duties of the New York city comptroller ",
+  "actClause" : "AN ACT to amend the state finance law, in relation to sharing of vendor responsibility determinations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT", "SOBI.D110114.T151459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036399462
+  "luceneModified" : 1295036399434
 }

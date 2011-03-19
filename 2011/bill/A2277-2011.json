@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2252-2011",
+  "senateBillNo" : "A2277-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to cities",
-    "billEventId" : "A2252-2011-1294981200000-referred+to+cities",
+    "eventText" : "referred to veterans' affairs",
+    "billEventId" : "A2277-2011-1294981200000-referred+to+veterans%27+affairs",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the audit powers and duties of the New York city comptroller",
+  "title" : "Exempts veteran disability payments from the income of persons sixty-five years of age or over entitled to a real property tax exemption",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "New York City Charter",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rosenthal",
+    "fullname" : "Towns",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the New York city charter, in relation to the audit powers and duties of the New York city comptroller ",
+  "actClause" : "AN ACT to amend the real property tax law, in relation to the senior citizen exemption and veteran disability compensation ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT", "SOBI.D110114.T151459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036399462
+  "luceneModified" : 1295036399441
 }

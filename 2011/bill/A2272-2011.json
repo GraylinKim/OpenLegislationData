@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2254-2011",
+  "senateBillNo" : "A2272-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A2254-2011-1294981200000-referred+to+governmental+operations",
+    "eventText" : "referred to education",
+    "billEventId" : "A2272-2011-1294981200000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,70 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits the assessment of damages for wrongful denial of access to records under the freedom of information law",
+  "title" : "Establishes that instruction in financial education be provided to pupils in grades nine, ten, eleven or twelve",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Hoyt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "McEneny",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brook-Krasny",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,14 +90,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Weprin",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public officers law, in relation to permitting assessment of certain fees and costs upon wrongful denial of access to records under the freedom of information law ",
+  "actClause" : "AN ACT to amend the education law, in relation to establishing a requirement that instruction in financial education be provided to all pupils in grades nine, ten, eleven or twelve ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT", "SOBI.D110114.T151459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036399467
+  "luceneModified" : 1295036399433
 }

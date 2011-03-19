@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2270-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "referred to education",
+    "billEventId" : "A2270-2011-1294981200000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Reilly",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to claims against certain schools and the governing body of school districts; repealer",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law, in relation to claims against schools and school districts; and to repeal certain provisions of such law relating thereto ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295036399430
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2262-2011",
+  "senateBillNo" : "A2284-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A2262-2011-1294981200000-referred+to+governmental+operations",
+    "eventText" : "referred to health",
+    "billEventId" : "A2284-2011-1294981200000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the confidentiality of information obtained by a city employee in the course of official duties",
+  "title" : "Requires the state to pay medicare part A premiums for certain persons and requires local social services to appeal denial of medicare for long term care",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "New York City Charter",
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Weprin",
+    "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT", "SOBI.D110114.T151459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T151959.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036399402
+  "luceneModified" : 1295036399452
 }
