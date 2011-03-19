@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1005-2011",
+  "senateBillNo" : "S1006-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
-    "billEventId" : "S1005-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S1006-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to limited-profit housing companies",
+  "title" : "Prohibits landlords convicted of housing violations from claiming exemptions, credits or itemized deductions for such property on state tax returns",
   "summary" : null,
-  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Private Housing Finance Law",
+  "lawSection" : "Real Property Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T132504.TXT", "SOBI.D110104.T133004.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T133004.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294165804479
+  "luceneModified" : 1294165804484
 }
