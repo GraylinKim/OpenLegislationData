@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S844-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S844-2011-1294203600000-REFERRED+TO+AGRICULTURE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "YOUNG",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes real property tax abatement for the value of land used for replanting or crop expansion of woody biomass used for the production of ethanol or biodiesel",
+  "summary" : null,
+  "currentCommittee" : "AGRICULTURE",
+  "sameAs" : null,
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101230.T151257.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293739977702
+}

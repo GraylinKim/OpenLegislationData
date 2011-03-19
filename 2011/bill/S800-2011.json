@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes local governments to deliver proposed local laws to members of their legislative bodies by means of e-mail",
-  "summary" : null,
+  "summary" : "Authorizes local governments to deliver proposed local laws to members of their legislative bodies by means of e-mail. ",
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
   "lawSection" : "Municipal Home Rule Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4677-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the municipal home rule law, in relation to authorizing the electronic transmission of proposed local laws to members of a local legislative body ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T144741.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T151257.TXT", "SOBI.D101230.T144741.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293738461319
+  "luceneModified" : 1293739977715
 }
