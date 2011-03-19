@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires police identification line-ups to be conducted sequentially",
-  "summary" : null,
+  "summary" : "Requires police identification line-ups to be conducted sequentially, with defendants appearing one at a time. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4758-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to requiring a police identification line-up to be conducted sequentially ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T122716.TXT", "SOBI.D110106.T125217.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T122716.TXT", "SOBI.D110106.T125217.TXT", "SOBI.D110106.T131719.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294336337307
+  "luceneModified" : 1294337839931
 }
