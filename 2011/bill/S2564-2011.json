@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a mechanism for the confidential voter registration of certain \"law enforcement officials\" as defined",
-  "summary" : null,
+  "summary" : "Allows law enforcement officials to obtain a court order which would prevent the release of personal, identifying information kept by the board of elections to anyone except another board of elections or a governmental agency; defines the term \"law enforcement official\" as those persons who, to a substantial extent of their time, are engaged primarily in the enforcement of criminal laws, whether state or federal. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1010-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T155941.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T155941.TXT", "SOBI.D110125.T160942.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295989181833
+  "luceneModified" : 1295989782371
 }
