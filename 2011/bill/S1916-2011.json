@@ -24,7 +24,14 @@
   "sameAs" : null,
   "lawSection" : "Parks, Recreation and Historic Preservation Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T095906.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T095906.TXT", "SOBI.D110114.T100909.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295017146040
+  "luceneModified" : 1295017749240
 }
