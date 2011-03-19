@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1331-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294290000000,
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S1331-2011-1294290000000-REFERRED+TO+HEALTH",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"philosophical exemption to immunizations act\"",
+  "summary" : null,
+  "currentCommittee" : "HEALTH",
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T153730.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294346250174
+}

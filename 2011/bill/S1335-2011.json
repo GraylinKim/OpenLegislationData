@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1335-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294290000000,
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S1335-2011-1294290000000-REFERRED+TO+TRANSPORTATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to computing the service payment paid to certain public transportation systems",
+  "summary" : null,
+  "currentCommittee" : "TRANSPORTATION",
+  "sameAs" : null,
+  "lawSection" : "Transportation Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T153730.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294346250210
+}

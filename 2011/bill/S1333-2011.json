@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1333-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294290000000,
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S1333-2011-1294290000000-REFERRED+TO+ELECTIONS",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides early voting for a candidate in a general election no sooner than twenty days and no later than five days prior to election day at county board of elections",
+  "summary" : null,
+  "currentCommittee" : "ELECTIONS",
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PARKER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T153730.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294346250179
+}

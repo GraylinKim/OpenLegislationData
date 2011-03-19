@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1330-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294290000000,
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S1330-2011-1294290000000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DILAN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes political subdivisions to award public contracts to participants of a MWBE program at a cost premium not to exceed ten percent of the lowest bid",
+  "summary" : null,
+  "currentCommittee" : "LOCAL GOVERNMENT",
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "HASSELL-THOMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110106.T153730.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294346250173
+}
