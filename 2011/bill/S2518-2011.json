@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2518-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2518-2011-1295845200000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the public employees' fair employment act study commission to review the existing Taylor law",
+  "summary" : null,
+  "currentCommittee" : "FINANCE",
+  "sameAs" : null,
+  "lawSection" : "Civil Service",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "ROBACH",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T155644.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295902604731
+}
