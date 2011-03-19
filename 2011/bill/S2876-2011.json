@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A4262-2011",
+  "senateBillNo" : "S2876-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "referred to labor",
-    "billEventId" : "A4262-2011-1296622800000-referred+to+labor",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S2876-2011-1296622800000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "SEWARD",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the \"roadway excavation quality assurance act\"",
+  "title" : "Allows a plaintiff to have a small claims court hearing in the municipality in which the claim arose",
   "summary" : null,
-  "currentCommittee" : null,
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Labor Law",
+  "lawSection" : "New York City Civil Court Act",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the labor law, in relation to enacting the \"roadway excavation quality assurance act\" ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T144225.TXT", "SOBI.D110202.T144725.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T144725.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296676045415
+  "luceneModified" : 1296676045420
 }

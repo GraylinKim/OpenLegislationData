@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A4256-2011",
+  "senateBillNo" : "A4227-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "referred to tourism, arts and sports development",
-    "billEventId" : "A4256-2011-1296622800000-referred+to+tourism%2C+arts+and+sports+development",
+    "eventText" : "referred to governmental employees",
+    "billEventId" : "A4227-2011-1296622800000-referred+to+governmental+employees",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,84 +13,91 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Englebright",
+    "fullname" : "Barclay",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the office of parks, recreation and historic preservation to fund and conduct the empire state games on an annual basis",
-  "summary" : "Directs the office of parks, recreation and historic preservation to fund and conduct the empire state games on an annual basis. ",
+  "title" : "Waives civil service examination application fees for veterans",
+  "summary" : "Waives civil service examination application fees for veterans. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Parks, Recreation and Historic Preservation Law",
-  "previousVersions" : null,
+  "lawSection" : "Civil Service Law",
+  "previousVersions" : [ "A5847-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Aubry",
+    "fullname" : "Hawley",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Corwin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Scarborough",
+    "fullname" : "McKevitt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Weisenberg",
+    "fullname" : "Burling",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Molinaro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Giglio",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Tobacco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Sweeney",
+    "fullname" : "Raia",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Stevenson",
+    "fullname" : "Oaks",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera N",
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -99,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the parks, recreation and historic preservation law, in relation to the empire state games ",
+  "actClause" : "AN ACT to amend the civil service law, in relation to waiving civil service examination application fees for veterans ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T144225.TXT", "SOBI.D110202.T144725.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T144725.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296676045403
+  "luceneModified" : 1296676045396
 }

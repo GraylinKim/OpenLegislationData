@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4230-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A4230-2011-1296622800000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes and directs the thruway authority to issue annual short distance commuter permits for travel at no charge along the thruway in the Syracuse area",
+  "summary" : "Authorizes and directs the thruway authority to issue annual short distance commuter permits for travel at no charge along the thruway in the Syracuse area. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2539",
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A3003-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to commuter passes on the New York state thruway in the Syracuse area ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T144725.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296676045430
+}

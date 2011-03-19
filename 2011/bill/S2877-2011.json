@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2877-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S2877-2011-1296622800000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GRISANTI",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the number of reverse vending machines required for mandatory acceptance of empty beverage containers",
+  "summary" : null,
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T144725.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296676045425
+}

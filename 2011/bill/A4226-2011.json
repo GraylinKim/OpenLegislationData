@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4226-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296622800000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A4226-2011-1296622800000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Limits the number of bills which may be introduced in the senate and assembly",
+  "summary" : "Provides that no senator or assemblyman may introduce more than one hundred twenty-five bills or fifty bills, respectively, during term for which he or she is elected; bill introduced at such member's request by committee shall be charged to member; not charged with bill as a multi or co-sponsor shall not be deemed introduced by such member. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Legislative Law",
+  "previousVersions" : [ "A3006-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hawley",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McDonough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the legislative law, in relation to limiting the number of bills which may be introduced in the senate and assembly ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110202.T144725.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296676045386
+}

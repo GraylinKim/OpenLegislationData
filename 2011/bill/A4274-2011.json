@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A4223-2011",
+  "senateBillNo" : "A4274-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
     "eventText" : "referred to education",
-    "billEventId" : "A4223-2011-1296622800000-referred+to+education",
+    "billEventId" : "A4274-2011-1296622800000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Barclay",
+    "fullname" : "Raia",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Changes the mandatory date for kindergarten enrollment",
-  "summary" : "Changes the mandatory date for kindergarten enrollment from December first to August thirty-first. ",
+  "title" : "Relates to school district bonds and notification to taxpayers",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : [ "A3004-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Finch",
+    "fullname" : "McKevitt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to changing the mandatory date for kindergarten enrollment ",
+  "actClause" : "AN ACT to amend the education law, in relation to school district bonds and notification to taxpayers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T144225.TXT", "SOBI.D110202.T144725.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T144725.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296676045381
+  "luceneModified" : 1296676045422
 }

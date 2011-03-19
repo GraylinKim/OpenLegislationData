@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A4265-2011",
+  "senateBillNo" : "A4277-2011",
   "billEvents" : [ {
     "eventDate" : 1296622800000,
-    "eventText" : "referred to transportation",
-    "billEventId" : "A4265-2011-1296622800000-referred+to+transportation",
+    "eventText" : "referred to social services",
+    "billEventId" : "A4277-2011-1296622800000-referred+to+social+services",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Magee",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits farm operations to place advertising and directional signs near state highways",
+  "title" : "Establishes standards for prescription of podiatric custom orthotics to persons receiving medical assistance",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S2136",
-  "lawSection" : "Highway Law",
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the highway law, in relation to permitting farm operations to place advertising and directional signs near state highways ",
+  "actClause" : "AN ACT to amend the social services law, in relation to provision of podiatric custom orthotics under the medical assistance for needy persons program ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110202.T144225.TXT", "SOBI.D110202.T144725.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110202.T144725.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296676045400
+  "luceneModified" : 1296676045436
 }
