@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2025-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294981200000,
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S2025-2011-1294981200000-REFERRED+TO+HEALTH",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SQUADRON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for trichloroethylene (TCE) exposure prevention",
+  "summary" : null,
+  "currentCommittee" : "HEALTH",
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110114.T152500.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295036700637
+}

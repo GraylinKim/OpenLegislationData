@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2255-2011",
+  "senateBillNo" : "S2024-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A2255-2011-1294981200000-referred+to+governmental+operations",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S2024-2011-1294981200000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Brennan",
+    "fullname" : "SQUADRON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires certain disclosure by members of the legislature regarding actual and necessary transportation expenses and per diem expenses",
+  "title" : "Directs that all ambulances' shall be equipped with epinephrine auto-injector devices",
   "summary" : null,
-  "currentCommittee" : null,
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Legislative Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the legislative law, in relation to necessary transportation expenses and per diem expenses of members of the legislature ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T152500.TXT", "SOBI.D110114.T151459.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T152500.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295036700600
+  "luceneModified" : 1295036700623
 }
