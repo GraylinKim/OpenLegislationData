@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4065-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A4065-2011-1296536400000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the operation of N.Y. city transit authority subways or trains without a conductor on board",
+  "summary" : "Prohibits the operation of NYC transit authority subways or trains without at least one conductor on board; requires a conductor on any subway or train operated by such authority whenever the subway or train has more than two cars attached to the engine. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1058",
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "AA3559-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to requiring the New York city transit authority to have at least one conductor on board ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T155908.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296593948353
+}

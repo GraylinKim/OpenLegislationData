@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A4055-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A4055-2011-1296536400000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits the filling, emptying or use of any liquefied petroleum gas container, except by the owner thereof or by a person authorized in writing by such owner",
+  "summary" : "Prohibits the filling, emptying or use of any liquefied petroleum gas cylinder, container or receptacle, except by the owner thereof or by a person authorized in writing by such owner. ",
+  "currentCommittee" : null,
+  "sameAs" : "S773",
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A2302-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to the delivery of liquefied petroleum gas ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T155908.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296593948329
+}
