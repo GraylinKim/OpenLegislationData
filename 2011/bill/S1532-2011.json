@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1530-2011",
+  "senateBillNo" : "S1532-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S1530-2011-1294635600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "REFERRED TO CONSUMER PROTECTION",
+    "billEventId" : "S1532-2011-1294635600000-REFERRED+TO+CONSUMER+PROTECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to blighted property and blighted areas; repealer",
+  "title" : "Relates to the purchase, sale or installation of salvaged high-intensity discharge headlamps",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : "CONSUMER PROTECTION",
   "sameAs" : null,
-  "lawSection" : "New York State Urban Development Corporation Act",
+  "lawSection" : "General Business Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T111054.TXT", "SOBI.D110110.T110554.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T111054.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294675854043
+  "luceneModified" : 1294675854050
 }

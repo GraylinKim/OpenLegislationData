@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1530-2011",
+  "senateBillNo" : "S1536-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S1530-2011-1294635600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S1536-2011-1294635600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to blighted property and blighted areas; repealer",
+  "title" : "Establishes the crime of operating a vehicle while fatigued",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "New York State Urban Development Corporation Act",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T111054.TXT", "SOBI.D110110.T110554.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T111054.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294675854043
+  "luceneModified" : 1294675854065
 }

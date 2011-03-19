@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1530-2011",
+  "senateBillNo" : "S1538-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
-    "billEventId" : "S1530-2011-1294635600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
+    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
+    "billEventId" : "S1538-2011-1294635600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "SKELOS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to blighted property and blighted areas; repealer",
+  "title" : "Provides for transfer of guardianship and custody of infants abandoned pursuant to the abandoned infant protection act",
   "summary" : null,
-  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+  "currentCommittee" : "CHILDREN AND FAMILIES",
   "sameAs" : null,
-  "lawSection" : "New York State Urban Development Corporation Act",
+  "lawSection" : "Family Court Act",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T111054.TXT", "SOBI.D110110.T110554.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T111054.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294675854043
+  "luceneModified" : 1294675854070
 }
