@@ -57,6 +57,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413202000,
+    "eventText" : "PASSED SENATE",
+    "billEventId" : "A851-2011-1295413202000-PASSED+SENATE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295413203000,
+    "eventText" : "RETURNED TO ASSEMBLY",
+    "billEventId" : "A851-2011-1295413203000-RETURNED+TO+ASSEMBLY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -81,7 +95,7 @@
   "actClause" : "AN ACT to amend the civil practice law and rules, in relation to increasing the property values which are exempt from the satisfaction of a money judgment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110113.T114816.TXT", "SOBI.D110119.T112241.TXT", "SOBI.D110104.T135506.TXT", "SOBI.D110104.T134006.TXT", "SOBI.D110104.T133504.TXT", "SOBI.D110104.T140007.TXT", "SOBI.D110104.T134505.TXT", "SOBI.D110118.T164157.TXT", "SOBI.D110118.T165658.TXT", "SOBI.D110106.T122716.TXT", "SOBI.D110111.T161223.TXT", "SOBI.D110113.T114320.TXT", "SOBI.D110105.T153205.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110113.T114816.TXT", "SOBI.D110119.T112241.TXT", "SOBI.D110119.T115252.TXT", "SOBI.D110104.T135506.TXT", "SOBI.D110104.T134006.TXT", "SOBI.D110104.T133504.TXT", "SOBI.D110104.T140007.TXT", "SOBI.D110104.T134505.TXT", "SOBI.D110118.T164157.TXT", "SOBI.D110118.T165658.TXT", "SOBI.D110106.T122716.TXT", "SOBI.D110111.T161223.TXT", "SOBI.D110113.T114320.TXT", "SOBI.D110105.T153205.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295454161844
+  "luceneModified" : 1295455972074
 }
