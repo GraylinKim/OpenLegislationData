@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A604-2011",
+  "senateBillNo" : "A662-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to education",
-    "billEventId" : "A604-2011-1294203600000-referred+to+education",
+    "eventText" : "referred to health",
+    "billEventId" : "A662-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,49 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Magnarelli",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the apportionment of certain school aid commencing on and after July 1, 2011",
-  "summary" : "Provides for the apportionment of certain school aid commencing on and after July 1, 2010. ",
+  "title" : "Relates to the definition of a clinical peer reviewer",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
-  "previousVersions" : [ "A3839-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Destito",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Magee",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lifton",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to the apportionment of state assistance to school districts for school years commencing on or after July 1, 2011 ",
+  "actClause" : "AN ACT to amend the public health law and the insurance law, in relation to the definition of clinical peer reviewer ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072140094
+  "luceneModified" : 1294072140092
 }

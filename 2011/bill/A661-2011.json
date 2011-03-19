@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A603-2011",
+  "senateBillNo" : "A661-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A603-2011-1294203600000-referred+to+codes",
+    "eventText" : "referred to health",
+    "billEventId" : "A661-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Magnarelli",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Amends the criminal procedure law, the family court act, the civil practice law and rules, the penal law and the social services law to restrict violent felons from accessing personal records of their victims",
-  "summary" : "Restricts the ability of perpetrators of violent crimes to access personal records of their victims. ",
+  "title" : "Provides Medicaid reimbursement for interpretation services provided by hospital inpatient and outpatient departments",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : [ "A245-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick",
+    "fullname" : "Ramos",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,49 +48,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Zebrowski",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Hoyt",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Colton",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Gabryszak",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Gunther",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Kellner",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -97,21 +62,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Robinson",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Benedetto",
+    "fullname" : "Perry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -125,14 +90,56 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Mayersohn",
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Clark",
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Meng",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -141,10 +148,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the criminal procedure law, the family court act, the civil practice law and rules, the penal law and the social services law, in relation to restricting the ability of perpetrators of violent crimes to access personal records of their victims; and to amend the civil practice law and rules, in relation to service of a subpoena by a pro se litigant ",
+  "actClause" : "AN ACT to amend the public health law and the social services law, in relation to providing Medicaid reimbursement for interpretation services provided by hospital inpatient and outpatient departments and diagnostic and treatment centers ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072140080
+  "luceneModified" : 1294072140091
 }

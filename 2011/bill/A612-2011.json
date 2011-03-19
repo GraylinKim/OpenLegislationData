@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes the city of Buffalo to adjudicate traffic infractions similar to other cities having a population of less than two hundred thousand",
-  "summary" : null,
+  "summary" : "Authorizes the city of Buffalo to provide by local law for the adjudication of traffic infractions. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AB2062-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to directing the city of Buffalo to adjudicate traffic infractions ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240820
+  "luceneModified" : 1294072140110
 }

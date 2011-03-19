@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Identifies the criteria the commissioner of environmental conservation should consider in publishing a list of high local environmental impact zones",
-  "summary" : null,
+  "summary" : "Identifies the criteria the commissioner of environmental conservation should consider in publishing a list of high local environmental impact zones; these are areas most adversely affected by existing environmental hazards. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA8489-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to high local environmental impact communities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T111400.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294071240818
+  "luceneModified" : 1294072140115
 }

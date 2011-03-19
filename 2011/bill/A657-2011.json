@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A602-2011",
+  "senateBillNo" : "A657-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A602-2011-1294203600000-referred+to+governmental+operations",
+    "eventText" : "referred to health",
+    "billEventId" : "A657-2011-1294203600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Magnarelli",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires a study and report on methods to modernize information collection, retention and dissemination in the state",
-  "summary" : "Requires a study and report on methods to modernize information collection, retention and dissemination in the state. ",
+  "title" : "Provides for additional remedies for patients' private right of actions in residential health care facilities",
+  "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "State Technology",
-  "previousVersions" : [ "AA9502-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Lupardo",
+    "fullname" : "Paulin",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,14 +41,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gunther",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,28 +55,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gibson",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Schimel",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -94,15 +66,36 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Scarborough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT in relation to requiring a study and report on methods to modernize information collection, retention and dissemination practices in the state; and providing for the repeal of such provisions upon expiration thereof ",
+  "actClause" : "AN ACT to amend the public health law, in relation to remedies available in private actions by patients of residential health care facilities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T111400.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294072140103
+  "luceneModified" : 1294072140073
 }
