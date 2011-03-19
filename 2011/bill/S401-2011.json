@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires the governor to meet with the assembly and with the senate once a month to answer questions relating to the state",
-  "summary" : null,
+  "summary" : "Requires the governor to meet with the assembly and with the senate legislature once a month for the purpose of answering questions relating to the strategic direction, financial status and general governance of the state. ",
   "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "Executive Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7938-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the executive law, in relation to monthly meetings between the governor and the legislature to allow the legislature to ask questions of the governor relating to matters concerning the state ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T110321.TXT", "SOBI.D101220.T115324.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T115824.TXT", "SOBI.D101220.T110321.TXT", "SOBI.D101220.T115324.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292864004404
+  "luceneModified" : 1292864304543
 }

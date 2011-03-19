@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S398-2011",
+  "senateBillNo" : "S448-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO AGING",
-    "billEventId" : "S398-2011-1294203600000-REFERRED+TO+AGING",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S448-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,30 +18,37 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Includes persons with disabilities within the definition of head of household for the senior citizens' tax abatement for rent-controlled and regulated property",
-  "summary" : "Includes persons with disabilities (defined) within the definition of head of household for purposes of making them eligible for the senior citizens' tax abatement for rent-controlled and rent-regulated property. ",
-  "currentCommittee" : "AGING",
+  "title" : "Prohibits an owner from adjusting the amount of preferential rent upon the renewal of a lease",
+  "summary" : null,
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Real Property Tax Law",
-  "previousVersions" : [ "SA3539-2009" ],
+  "lawSection" : "Emergency Tenant Protection Act of 1974",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "ADDABBO",
+    "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
+    "fullname" : "HUNTLEY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERALTA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -59,15 +66,22 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the real property tax law, in relation to providing a rent increase exemption to persons with disabilities ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T115824.TXT", "SOBI.D101220.T115324.TXT", "SOBI.D101220.T105821.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T115824.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292864304540
+  "luceneModified" : 1292864304577
 }

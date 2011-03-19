@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S422-2011",
+  "senateBillNo" : "S445-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ELECTIONS",
-    "billEventId" : "S422-2011-1294203600000-REFERRED+TO+ELECTIONS",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S445-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,37 +18,37 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a pilot program to provide for an instant runoff voting method to be used in up to ten local governments for two years provides for repeal of provisions",
+  "title" : "Creates the non-partisan legislative budget office",
   "summary" : null,
-  "currentCommittee" : "ELECTIONS",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Elections",
+  "lawSection" : "Legislative Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "HASSELL-THOMPSON",
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "SERRANO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SQUADRON",
+    "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +57,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to create a pilot program to test an instant runoff voting method of elections and providing for the repeal of such provisions upon expiration thereof ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T115824.TXT", "SOBI.D101220.T112823.TXT", "SOBI.D101220.T115324.TXT", "SOBI.D101220.T112323.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T115824.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292864304532
+  "luceneModified" : 1292864304545
 }
