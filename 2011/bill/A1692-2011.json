@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides legal assistance to youth ordered by the court into the custody of the office of children and family services and placed or committed to a state operated juvenile detention center",
-  "summary" : null,
+  "summary" : "Provides legal assistance to youth ordered by the court into the custody of the office of children and family services and placed or committed to a state operated juvenile detention center. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Mental Hygiene Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A11032-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the mental hygiene law and the executive law, in relation to providing legal assistance to youth ordered by the court into the custody of the office of children and family services and placed or committed to a state operated juvenile detention center ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T141212.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T141212.TXT", "SOBI.D110111.T142213.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294773132976
+  "luceneModified" : 1294773733460
 }
