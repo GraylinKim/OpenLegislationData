@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3335-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to election law",
+    "billEventId" : "A3335-2011-1295845200000-referred+to+election+law",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the method of transportation for the return of unused paper ballots within the city of New York",
+  "summary" : "Relates to the method of transportation for the return of unused paper ballots within the city of New York. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Election Law",
+  "previousVersions" : [ "A11226-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the election law, in relation to the method of transportation for the return of unused paper ballots within the city of New York ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T170143.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295906503625
+}
