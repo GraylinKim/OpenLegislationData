@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S688-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S688-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the issuance of distinctive license plates for African-American veterans",
+  "summary" : null,
+  "currentCommittee" : "TRANSPORTATION",
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101229.T142739.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293650859227
+}

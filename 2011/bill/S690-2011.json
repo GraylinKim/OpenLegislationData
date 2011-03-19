@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S690-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO CITIES",
+    "billEventId" : "S690-2011-1294203600000-REFERRED+TO+CITIES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the environmental control board to adjudicate disputes between adjoining real property owners over the blocking of a driveway in the city of New York",
+  "summary" : null,
+  "currentCommittee" : "CITIES",
+  "sameAs" : null,
+  "lawSection" : "New York City Charter",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101229.T142739.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293650859234
+}
