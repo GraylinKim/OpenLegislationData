@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Authorizes any prosecutor of competent jurisdiction to receive referrals from certain agencies",
-  "summary" : null,
+  "summary" : "Authorizes any prosecutor of competent jurisdiction to receive referrals from certain agencies. ",
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S4774-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to authorizing any prosecutor of competent jurisdiction to receive referrals from certain agencies ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T152348.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D101222.T155350.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T160351.TXT", "SOBI.D101222.T152348.TXT", "SOBI.D101222.T155850.TXT", "SOBI.D101222.T155350.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293051530443
+  "luceneModified" : 1293051831512
 }
