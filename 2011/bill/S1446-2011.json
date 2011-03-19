@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Clarifies that bill passed by senate and assembly must be presented to the governor",
-  "summary" : null,
+  "summary" : "Directs that every bill passed by both the senate and assembly must be presented to the governor within thirty days of receipt by house of origin; provided if the bill is returned to the house of origin after May first, then it must be presented to the governor within forty-five days. ",
   "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
   "lawSection" : "Constitution, Concurrent Resolutions to Amend",
-  "previousVersions" : null,
+  "previousVersions" : [ "S419-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -123,7 +123,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 7 of article 4 of the constitution, in relation to legislative bills ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T122357.TXT", "SOBI.D110107.T130402.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T122357.TXT", "SOBI.D110107.T131903.TXT", "SOBI.D110107.T130402.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294423442094
+  "luceneModified" : 1294424343500
 }
