@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A864-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A864-2011-1294203600000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires car registration forms to display the label \"qualified hybrid vehicle\" and the estimated MPG of such vehicle as calculated by the EPA",
+  "summary" : "Requires applicants for registration of hybrid vehicles to submit proof of the make, model and model year of the motor vehicle for which registration is being applied, to the commissioner; establishes that after such proof is submitted, certificates of registration shall display the markings \"qualified hybrid vehicle\" and such vehicle's US EPA highway fuel economy rating of 45 mpg or more. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A4221-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimel",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to affixing the designation \"qualified hybrid vehicle\" and the estimated miles per gallon of such vehicle as calculated by the United States environmental protection agency onto all car registration forms ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T110612.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294243572861
+}

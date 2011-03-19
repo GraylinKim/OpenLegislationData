@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A872-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to economic development",
+    "billEventId" : "A872-2011-1294203600000-referred+to+economic+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs commissioner of economic development to make regulations for tourism matching funds program",
+  "summary" : "Authorizes and directs the commissioner of economic development to promulgate regulations governing criteria for the use of tourism matching funds for promoting tourism, resort, vacation, culture and convention activities, replacing annual guidelines therefor. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Economic Development Law",
+  "previousVersions" : [ "A1113-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the economic development law, in relation to deleting references to annual guidelines and providing for promulgation of rules and regulations by the commissioner of economic development ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T110612.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294243572880
+}

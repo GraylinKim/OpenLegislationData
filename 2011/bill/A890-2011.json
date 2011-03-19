@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A890-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A890-2011-1294203600000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates a private right of action for unlawful price gouging for injunctive relief and recovery of actual damages or $1000 whichever is greater",
+  "summary" : "Creates a private right to action for unlawful price gouging for injunctive relief and recovery of actual damages or $1000 whichever is greater, or both, in addition to right of action granted to attorney general; permits the court to award a prevailing plaintiff an additional penalty of up to $5,000 for a willful or knowing violation and reasonable attorney's fees. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "AA278-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Sweeney",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law, in relation to price gouging ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T110612.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294243572912
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1093-2011",
+  "senateBillNo" : "S1096-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
-    "billEventId" : "S1093-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S1096-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates the sustainable energy loan program to assist homeowners in the installation of distributed generation renewable energy sources or energy efficiency improvements",
+  "title" : "Creates the crime of luring or enticing a child on the internet",
   "summary" : null,
-  "currentCommittee" : "LOCAL GOVERNMENT",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "General Municipal Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -34,21 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "MONTGOMERY",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "PERKINS",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "SAMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -60,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T110112.TXT", "SOBI.D110105.T110612.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T110612.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294243572852
+  "luceneModified" : 1294243572877
 }

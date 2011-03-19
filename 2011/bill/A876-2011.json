@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A876-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A876-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires disclosure of campaign contributions to judges by parties in an action and their counsel",
+  "summary" : "Requires disclosure of campaign contributions to judges by parties in an action and their counsel; authorizes the chief administrative judge of the state of New York to promulgate rules and regulations that require immediately upon the assignment of a matter to a judge, parties and their counsel disclose any campaign contributions made to such judge; further requires the attorney or counselor to disclose any campaign contribution made to such judge. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Judiciary Law",
+  "previousVersions" : [ "A6879-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Finch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the judiciary law, in relation to requiring disclosure of campaign contributions to judges by parties in an action and their counsel ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T110612.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294243572891
+}

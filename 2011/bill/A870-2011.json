@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A870-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to mental health",
+    "billEventId" : "A870-2011-1294203600000-referred+to+mental+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires mental hygiene entities review fiscal management practices of service provider applicants",
+  "summary" : "Requires that the Office of Mental Health and the Office for People With Developmental Disabilities give consideration to the fiscal management practices of an applicant to operate a mental hygiene facility or program as part of the review of such individual's character and competence. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Mental Hygiene Law",
+  "previousVersions" : [ "A528-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weisenberg",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the mental hygiene law, in relation to review of a provider's previous financial practices ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T110612.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294243572874
+}
