@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported",
+    "billEventId" : "A575-2011-1294722000000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Gottfried (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +88,7 @@
   "actClause" : "AN ACT to amend the public health law and the insurance law, in relation to certain application and referral forms for health care plans ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T151011.TXT", "SOBI.D110103.T095848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T123202.TXT", "SOBI.D110104.T151011.TXT", "SOBI.D110103.T095848.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294171811854
+  "luceneModified" : 1294767122668
 }

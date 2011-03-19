@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported referred to codes",
+    "billEventId" : "A346-2011-1294722000000-reported+referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Paulin (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -95,7 +102,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to civil penalties ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT", "SOBI.D101222.T142348.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T110822.TXT", "SOBI.D110111.T123202.TXT", "SOBI.D101222.T142348.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293045828179
+  "luceneModified" : 1294767122663
 }

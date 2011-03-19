@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported",
+    "billEventId" : "A659-2011-1294722000000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Gottfried (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -32,7 +39,7 @@
   "actClause" : "DELETE              \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110103.T115902.TXT", "SOBI.D110105.T153729.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T112900.TXT", "SOBI.D110111.T123202.TXT", "SOBI.D110103.T115902.TXT", "SOBI.D110105.T153729.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294259849236
+  "luceneModified" : 1294767122672
 }

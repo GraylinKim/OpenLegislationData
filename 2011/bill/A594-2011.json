@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported",
+    "billEventId" : "A594-2011-1294722000000-reported",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gottfried",
+    "fullname" : "Gottfried (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +88,7 @@
   "actClause" : "AN ACT to amend the public health law and the insurance law, in relation to certain contracts or agreements by health maintenance organizations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T150203.TXT", "SOBI.D110103.T110922.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T110922.TXT", "SOBI.D110105.T150203.TXT", "SOBI.D110111.T123202.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294257723693
+  "luceneModified" : 1294767122670
 }

@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1294722000000,
+    "eventText" : "reported referred to ways and means",
+    "billEventId" : "A669-2011-1294722000000-reported+referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Jaffee (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -158,7 +165,7 @@
   "actClause" : "AN ACT to amend the public health law and the executive law, in relation to financial assistance from the crime victims board for post-exposure prophylaxis treatment for victims of sexual assault ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T113400.TXT", "SOBI.D110105.T165210.TXT", "SOBI.D110103.T115902.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T123202.TXT", "SOBI.D110103.T113400.TXT", "SOBI.D110105.T165210.TXT", "SOBI.D110103.T115902.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294264330938
+  "luceneModified" : 1294767122676
 }
