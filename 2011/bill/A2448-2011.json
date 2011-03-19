@@ -24,7 +24,21 @@
   "sameAs" : null,
   "lawSection" : "Executive Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Stevenson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         2448\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 18, 2011\n                                      ___________\n\n       Introduced by M. of A. GIBSON -- read once and referred to the Committee\n         on Governmental Operations\n\n       AN  ACT to amend the executive law, in relation to extending the time to\n         answer in proceedings before the division  of  housing  and  community\n         renewal\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. The executive law is amended by adding a new section  260-a\n    2  to read as follows:\n    3    S 260-A. ANSWERS BEFORE THE DIVISION OF HOUSING AND COMMUNITY RENEWAL.\n    4  NOTWITHSTANDING  SECTION  2527.4 OF TITLE 9 OF THE NEW YORK CODES, RULES\n    5  AND REGULATIONS, IN ANY PROCEEDING BEFORE THE DIVISION  OF  HOUSING  AND\n    6  COMMUNITY  RENEWAL  GOVERNED  BY  PART  2527  OF TITLE 9 OF THE NEW YORK\n    7  CODES, RULES AND REGULATIONS, A PERSON WHO HAS BEEN SERVED WITH A NOTICE\n    8  OF A PROCEEDING ACCOMPANIED BY AN APPLICATION OR COMPLAINT SHALL HAVE NO\n    9  LESS THAN NINETY DAYS FROM THE DATE OF MAILING IN  WHICH  TO  ANSWER  OR\n   10  REPLY,  EXCEPT IN EXCEPTIONAL CIRCUMSTANCES, THE DIVISION OF HOUSING AND\n   11  COMMUNITY RENEWAL MAY REQUIRE A SHORTER PERIOD. EVERY  ANSWER  OR  REPLY\n   12  SHALL  BE  VERIFIED  OR  AFFIRMED, AND AN ORIGINAL AND ONE COPY SHALL BE\n   13  FILED WITH THE DIVISION OF HOUSING AND COMMUNITY RENEWAL.\n   14    S 2. This act shall take effect on the sixtieth  day  after  it  shall\n   15  have become a law.\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD05853-01-1\n",
   "memo" : null,
@@ -32,7 +46,7 @@
   "actClause" : "AN ACT to amend the executive law, in relation to extending the time to answer in proceedings before the division of housing and community renewal ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T120309.TXT", "SOBI.D110118.T155153.TXT", "SOBI.D110118.T153652.TXT", "SOBI.D110124.T144131.TXT", "SOBI.D110118.T160655.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T120309.TXT", "SOBI.D110118.T155153.TXT", "SOBI.D110125.T091858.TXT", "SOBI.D110118.T153652.TXT", "SOBI.D110124.T144131.TXT", "SOBI.D110118.T160655.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295898091111
+  "luceneModified" : 1295965138403
 }

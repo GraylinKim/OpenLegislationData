@@ -24,7 +24,14 @@
   "sameAs" : null,
   "lawSection" : "Education Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Stevenson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         2450\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 18, 2011\n                                      ___________\n\n       Introduced by M. of A. GIBSON -- read once and referred to the Committee\n         on Higher Education\n\n       AN  ACT  to  amend  the education law, in relation to requiring the city\n         university of New York to implement an application fee  waiver  policy\n         that exempts applicants whose families receive public assistance\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Section 6206 of the education law is amended  by  adding  a\n    2  new subdivision 17 to read as follows:\n    3    17.  THE  BOARD OF TRUSTEES SHALL DEVELOP AND IMPLEMENT AN APPLICATION\n    4  FEE WAIVER POLICY FOR APPLICANTS SEEKING UNDERGRADUATE  ADMISSION  WHOSE\n    5  FAMILIES RECEIVE PUBLIC ASSISTANCE PURSUANT TO THE SOCIAL SERVICES LAW.\n    6    S  2.  This  act  shall take effect on the sixtieth day after it shall\n    7  have become a law.\n\n\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD04812-01-1\n",
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to requiring the city university of New York to implement an application fee waiver policy that exempts applicants whose families receive public assistance ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T120309.TXT", "SOBI.D110118.T155153.TXT", "SOBI.D110118.T153652.TXT", "SOBI.D110124.T144131.TXT", "SOBI.D110118.T160655.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T120309.TXT", "SOBI.D110118.T155153.TXT", "SOBI.D110125.T091858.TXT", "SOBI.D110118.T153652.TXT", "SOBI.D110124.T144131.TXT", "SOBI.D110118.T160655.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295898091110
+  "luceneModified" : 1295965138396
 }
