@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3679-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3679-2011-1296018000000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Makes warrant execution, not issuance, following judgment for petitioner in summary proceeding to recover possession of real property act which annuls relationship",
+  "summary" : "Makes warrant execution (not issuance), following a judgment for the petitioner in summary proceeding to recover possession of real property, the act which cancels the agreement under which the person removed held the premises and annuls the landlord-tenant relationship; provides court not deprived of the power to vacate such warrant at any time (current law provides the court is not deprived of the power to vacate such warrant for good cause shown prior to warrant execution); provides petitioner may recover by action the reasonable value for the use and occupation to the time when the warrant was executed (rather than issued). ",
+  "currentCommittee" : null,
+  "sameAs" : "S904",
+  "lawSection" : "Real Property Actions and Proceedings Law",
+  "previousVersions" : [ "AA6015-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to the effect of issuance and execution of an eviction warrant ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T135800.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296068280103
+}

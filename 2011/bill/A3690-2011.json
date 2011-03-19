@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3677-2011",
+  "senateBillNo" : "A3690-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A3677-2011-1296018000000-referred+to+codes",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3690-2011-1296018000000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,56 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for immediate notification to a complainant, in the manner specified by the complainant, of the service of an ex parte order of protection",
-  "summary" : "Provides for immediate notification to a complainant, in the manner specified by the complainant, of the service of an ex parte order of protection. ",
+  "title" : "Makes it a discriminatory practice to compensate employees of different sexes differently for work that is of comparable worth",
+  "summary" : "Makes it a discriminatory practice to compensate employees of different sexes differently for work that is of comparable worth; specifically provides when differing compensation is permissible; provides for phase-in. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : [ "A10663-2009" ],
+  "sameAs" : "S399",
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A2351-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DenDekker",
+    "fullname" : "Destito",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lancman",
+    "fullname" : "Aubry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Robinson",
+    "fullname" : "Benedetto",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Bing",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,77 +76,49 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Jeffries",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Scarborough",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Weisenberg",
+    "fullname" : "Schimel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Boyland",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Meng",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Hikind",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -134,10 +127,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the criminal procedure law and the family court act, in relation to notification of service of ex parte orders of protection ",
+  "actClause" : "AN ACT to amend the executive law, in relation to making it a discriminatory practice to compensate employees of different sexes differently for work that is of comparable worth ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T135800.TXT", "SOBI.D110126.T135300.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T135800.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296068280099
+  "luceneModified" : 1296068280118
 }

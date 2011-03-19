@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3677-2011",
+  "senateBillNo" : "A3689-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A3677-2011-1296018000000-referred+to+codes",
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3689-2011-1296018000000-referred+to+governmental+operations",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for immediate notification to a complainant, in the manner specified by the complainant, of the service of an ex parte order of protection",
-  "summary" : "Provides for immediate notification to a complainant, in the manner specified by the complainant, of the service of an ex parte order of protection. ",
+  "title" : "Waives state's sovereign immunity to liability under the Americans with Disabilities Act of 1990 and certain other federal acts",
+  "summary" : "Waives the state's sovereign immunity to liability for violations of the Americans with Disabilities Act of 1990, the Fair Labor Standards Act, the Age Discrimination Act, and the Family and Medical Leave Act; also waives the immunity of all instrumentalities and political subdivisions of the state. ",
   "currentCommittee" : null,
-  "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
-  "previousVersions" : [ "A10663-2009" ],
+  "sameAs" : "S383",
+  "lawSection" : "Civil Rights Law",
+  "previousVersions" : [ "A3651-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DenDekker",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lancman",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Robinson",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,21 +41,63 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Scarborough",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Dinowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lavine",
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lancman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera J",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -90,42 +111,42 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Titone",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Boyland",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Meng",
+    "fullname" : "Kellner",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hikind",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -134,10 +155,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the criminal procedure law and the family court act, in relation to notification of service of ex parte orders of protection ",
+  "actClause" : "AN ACT to amend the civil rights law, in relation to waiving the state's sovereign immunity to claims under the Americans with Disabilities Act of 1990, the Fair Labor Standards Act of 1938, the Age Discrimination in Employment Act of 1967, and the Family and Medical Leave Act ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T135800.TXT", "SOBI.D110126.T135300.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T135800.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296068280099
+  "luceneModified" : 1296068280116
 }
