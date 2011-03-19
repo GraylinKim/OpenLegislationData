@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S751-2011",
+  "senateBillNo" : "S753-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S751-2011-1294203600000-REFERRED+TO+CODES",
+    "billEventId" : "S753-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Permits at the discretion of the court certain members of the victim's family to read statements in court during the sentencing of a defendant",
+  "title" : "Establishes the crimes of aggravated rape, aggravated criminal sexual act and aggravated sexual abuse",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Criminal Procedure Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
     "fullname" : "BONACIC",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "DEFRANCISCO",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T121727.TXT", "SOBI.D101230.T122228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T122228.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293729748181
+  "luceneModified" : 1293729748189
 }
