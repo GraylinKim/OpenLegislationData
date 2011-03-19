@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3665-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A3665-2011-1296018000000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes dormitory authority to finance day care facilities",
+  "summary" : "Expands financing authority of the dormitory authority to include construction of facilities for day care providers where the total estimated cost of such facilities exceeds ten thousand dollars; creates the day care center facilities reserve account into which shall be deposited any moneys held in reserve by the office of children and family services on behalf of participating providers which shall be used in payment of obligations pursuant to agreements made with the dormitory authority. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A2218-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lopez V",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to the construction and financing of facilities by the dormitory authority for day care providers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T135300.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296067980949
+}

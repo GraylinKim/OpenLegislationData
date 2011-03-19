@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3647-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to racing and wagering",
+    "billEventId" : "A3647-2011-1296018000000-referred+to+racing+and+wagering",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for payments to licensed harness tracks by regional off-track betting corporations",
+  "summary" : "Provides for payments to licensed harness tracks by regional off-track betting corporations. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Racing, Pari-Mutuel Wagering and Breeding Law",
+  "previousVersions" : [ "A6916-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the racing, pari-mutuel wagering and breeding law, in relation to payments by off-track betting corporations to regional licensed harness tracks ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T135300.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296067980918
+}

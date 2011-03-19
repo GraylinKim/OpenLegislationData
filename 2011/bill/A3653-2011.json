@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3653-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to consumer affairs and protection",
+    "billEventId" : "A3653-2011-1296018000000-referred+to+consumer+affairs+and+protection",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires motor vehicle sales contracts to be written in the language in which such contracts were negotiated",
+  "summary" : "Requires motor vehicle sales and lease contract terms be written in the language in which such contracts were negotiated; requires retail motor vehicle dealers who negotiate primarily in languages other than English deliver to consumers a translation of such contracts in the language in which such contracts were negotiated; provides remedies to aggrieved consumers. ",
+  "currentCommittee" : null,
+  "sameAs" : "S900",
+  "lawSection" : "General Business Law",
+  "previousVersions" : [ "A5017-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera J",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general business law and the personal property law, in relation to requiring certain contracts to be written in the language in which such contracts were negotiated ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T135300.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296067980929
+}
