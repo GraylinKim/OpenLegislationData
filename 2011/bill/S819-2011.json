@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "ADDABBO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "BRESLIN",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to notice requirements to families and providers when funding cuts are made ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T143740.TXT", "SOBI.D101230.T162249.TXT", "SOBI.D110105.T143158.TXT", "SOBI.D110103.T100349.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110121.T105016.TXT", "SOBI.D101230.T143740.TXT", "SOBI.D101230.T162249.TXT", "SOBI.D110103.T100349.TXT", "SOBI.D110105.T143158.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294255918147
+  "luceneModified" : 1295625016964
 }
