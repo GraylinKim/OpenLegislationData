@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S897-2011",
+  "senateBillNo" : "S917-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
-    "billEventId" : "S897-2011-1294203600000-REFERRED+TO+COMMERCE%2C+ECONOMIC+DEVELOPMENT+AND+SMALL+BUSINESS",
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S917-2011-1294203600000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "KRUEGER",
+    "fullname" : "BRESLIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts the wine industry and liquor store revitalization act; repealer",
-  "summary" : "Enacts the wine industry and liquor store revitalization act; authorizes grocery and drug stores to sell wine on their premises for consumption off the premises. ",
-  "currentCommittee" : "COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+  "title" : "Limits the number and type of party committees which may be formed by state committees to receive or spend contributions to support or oppose candidates",
+  "summary" : null,
+  "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
-  "lawSection" : "Alcoholic Beverage Control Law",
-  "previousVersions" : [ "S5787-2009" ],
+  "lawSection" : "Election Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "ADAMS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,7 +41,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,21 +55,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "PERKINS",
+    "fullname" : "OPPENHEIMER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "SMITH",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -78,10 +85,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the alcoholic beverage control law, in relation to enacting the wine industry and liquor store revitalization act; and to repeal certain provisions of such law relating thereto ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T121903.TXT", "SOBI.D110103.T105854.TXT", "SOBI.D110103.T115401.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T121903.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294075143138
+  "luceneModified" : 1294075143132
 }
