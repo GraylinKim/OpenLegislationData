@@ -31,15 +31,22 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "GOLDEN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to inmate requests to reschedule a parole hearing ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T105702.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T105702.TXT", "SOBI.D110106.T111705.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294329422309
+  "luceneModified" : 1294330625870
 }
