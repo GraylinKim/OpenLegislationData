@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3997-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296536400000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3997-2011-1296536400000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gabryszak",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that when a driving under the influence of alcohol offender is sentenced to probation, a condition shall be alcohol and controlled substance monitoring",
+  "summary" : "Provides that when a driving under the influence of alcohol offender is sentenced to probation, a condition thereof shall be alcohol and controlled substance monitoring by the probation department; such monitoring shall be by means of the use of a secure continuous remote alcohol monitor. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2516",
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A8650-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law and the executive law, in relation to the imposition of a sentence of alcohol and controlled substance monitoring upon conviction of an alcohol-related offense ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110201.T114346.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296578626815
+}

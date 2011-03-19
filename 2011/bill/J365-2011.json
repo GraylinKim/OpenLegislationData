@@ -167,6 +167,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "SQUADRON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
@@ -186,7 +193,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T130257.TXT", "SOBI.D110131.T111158.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T130257.TXT", "SOBI.D110201.T114346.TXT", "SOBI.D110131.T111158.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296490318556
+  "luceneModified" : 1296578626823
 }
