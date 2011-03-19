@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3268-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A3268-2011-1295845200000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to licenses to carry, possess, repair and dispose of firearms",
+  "summary" : "Establishes a license for a pistol or revolver shall be issued to have and carry concealed, without regard to employment or place of employment and without judicial discretion on whether proper cause exists for the issuance thereof; requires the police authority in the locality where an application is made for a license to carry, possess, repair and dispose of firearms to conduct a search of the National Instant Criminal Background Check System (NICS). ",
+  "currentCommittee" : null,
+  "sameAs" : "S1863",
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A6187-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lupardo",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Corwin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to licenses to carry, possess, repair and dispose of firearms ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T153637.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295901397938
+}

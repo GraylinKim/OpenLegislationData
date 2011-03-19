@@ -8,6 +8,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295845200000,
+    "eventText" : "adopted",
+    "billEventId" : "K47-2011-1295845200000-adopted",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T103536.TXT", "SOBI.D110121.T103015.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T153637.TXT", "SOBI.D110121.T103536.TXT", "SOBI.D110121.T103015.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295624136475
+  "luceneModified" : 1295901397933
 }
