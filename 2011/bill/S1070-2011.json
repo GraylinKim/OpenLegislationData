@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1070-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1070-2011-1294203600000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "YOUNG",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Permits two or more contiguous towns to jointly purchase highway equipment",
+  "summary" : null,
+  "currentCommittee" : "FINANCE",
+  "sameAs" : null,
+  "lawSection" : "Highway Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T093057.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294237857104
+}

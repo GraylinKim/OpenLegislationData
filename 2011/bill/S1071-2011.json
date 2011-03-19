@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S1071-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1071-2011-1294203600000-REFERRED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LIBOUS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"bridge and road investment and dedicated fund guaranteed enforcement (BRIDGE) reform act\"",
+  "summary" : null,
+  "currentCommittee" : "FINANCE",
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T093057.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294237857108
+}
