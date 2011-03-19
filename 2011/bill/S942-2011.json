@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S939-2011",
+  "senateBillNo" : "S942-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S939-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+    "billEventId" : "S942-2011-1294203600000-REFERRED+TO+CORPORATIONS%2C+AUTHORITIES+AND+COMMISSIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the offense of operating a motor vehicle with a suspended driver's license may be enforceable in a parking lot",
+  "title" : "Creates the metropolitan transportation authority interim finance authority",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "CORPORATIONS, AUTHORITIES AND COMMISSIONS",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
@@ -38,6 +38,13 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LAVALLE",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T142412.TXT", "SOBI.D110103.T141911.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T142412.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294082652099
+  "luceneModified" : 1294082652111
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S939-2011",
+  "senateBillNo" : "S945-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S939-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S945-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the offense of operating a motor vehicle with a suspended driver's license may be enforceable in a parking lot",
+  "title" : "Relates to the number of prior suspensions needed to qualify for aggravated unlicensed operation in the first degree; repealer",
   "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
@@ -34,7 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T142412.TXT", "SOBI.D110103.T141911.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T142412.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294082652099
+  "luceneModified" : 1294082652121
 }

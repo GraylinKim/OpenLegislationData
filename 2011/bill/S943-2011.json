@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S939-2011",
+  "senateBillNo" : "S943-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S939-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO CODES",
+    "billEventId" : "S943-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the offense of operating a motor vehicle with a suspended driver's license may be enforceable in a parking lot",
+  "title" : "Increases the penalty for crime of criminally negligent homicide",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "CODES",
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "LARKIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +46,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T142412.TXT", "SOBI.D110103.T141911.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T142412.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294082652099
+  "luceneModified" : 1294082652115
 }
