@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires a sticker or label to be affixed to any tire identifying the creation date of any tire",
-  "summary" : null,
+  "summary" : "Requires a sticker or label to be affixed to any tire being sold in the state identifying the creation date and manufacturer of any tire. ",
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA7005-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to the sale of tires ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T123717.TXT", "SOBI.D110106.T113706.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T130219.TXT", "SOBI.D110106.T123717.TXT", "SOBI.D110106.T113706.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294335437954
+  "luceneModified" : 1294336939570
 }
