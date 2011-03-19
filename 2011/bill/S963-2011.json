@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S961-2011",
+  "senateBillNo" : "S963-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S961-2011-1294203600000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S963-2011-1294203600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "HANNON",
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs the department of health to post, on its internet website, the state's medical assistance plan and all amendments thereto",
+  "title" : "Deems goods to be on sale or return as to creditor claims when goods delivered to person dealing in goods of the kind involved",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
+  "lawSection" : "Uniform Commercial Code",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T144415.TXT", "SOBI.D110103.T143417.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T144415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294083855302
+  "luceneModified" : 1294083855318
 }
