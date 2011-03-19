@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S564-2011",
+  "senateBillNo" : "S567-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HEALTH",
-    "billEventId" : "S564-2011-1294203600000-REFERRED+TO+HEALTH",
+    "eventText" : "REFERRED TO EDUCATION",
+    "billEventId" : "S567-2011-1294203600000-REFERRED+TO+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits medicaid's use of any prior approval or preferred drug list requirement for AIDS, HIV, infection, or hepatitis C",
+  "title" : "Requires schools to provide supplemental instructional after school programs for pupils with autism spectrum disorder",
   "summary" : null,
-  "currentCommittee" : "HEALTH",
+  "currentCommittee" : "EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T123334.TXT", "SOBI.D101222.T123835.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T123835.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293039515292
+  "luceneModified" : 1293039515304
 }
