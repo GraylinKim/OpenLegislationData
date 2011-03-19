@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S362-2011",
+  "senateBillNo" : "S372-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO SOCIAL SERVICES",
-    "billEventId" : "S362-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S372-2011-1294203600000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,21 +18,21 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to filing and investigation of reports alleging educational neglect",
+  "title" : "Relates to requiring reports by state agencies relating to certain grants and expenditures made to community based organizations",
   "summary" : null,
-  "currentCommittee" : "SOCIAL SERVICES",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the social services law, in relation to reports of educational neglect by school districts ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T151434.TXT", "SOBI.D101216.T144432.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T151434.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292530474456
+  "luceneModified" : 1292530474476
 }
