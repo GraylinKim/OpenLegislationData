@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2443-2011",
+  "senateBillNo" : "A2452-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A2443-2011-1295326800000-referred+to+codes",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A2452-2011-1295326800000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Castelli",
+    "fullname" : "Lavine",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the crime of harming a police dog",
+  "title" : "Proposes a constitutional amendment to allow a district court judge to serve as a family court judge in the judicial district of his or her residence",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T153652.TXT", "SOBI.D110118.T153151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T153652.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295383012138
+  "luceneModified" : 1295383012179
 }

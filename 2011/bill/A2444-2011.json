@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2386-2011",
+  "senateBillNo" : "A2444-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "referred to transportation",
-    "billEventId" : "A2386-2011-1295326800000-referred+to+transportation",
+    "eventText" : "referred to housing",
+    "billEventId" : "A2444-2011-1295326800000-referred+to+housing",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the issuance of distinctive license plates for members of the clergy",
-  "summary" : "Provides for the issuance of distinctive license plates for members of the clergy by the department of motor vehicles which shall be issued upon registration of such motor vehicle. ",
+  "title" : "Allows right of redemption in foreclosure action brought against mortgagor's residence",
+  "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S302",
-  "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : [ "A3064-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Real Property Actions and Proceedings Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Finch",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Robinson",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Cusick",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Pheffer",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -62,7 +48,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schimminger",
+    "fullname" : "Rivera P",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rivera J",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to providing for distinctive license plates for members of the clergy ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T153652.TXT", "SOBI.D110118.T153151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T153652.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295383012163
+  "luceneModified" : 1295383012146
 }

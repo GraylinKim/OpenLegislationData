@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2443-2011",
+  "senateBillNo" : "A2469-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A2443-2011-1295326800000-referred+to+codes",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A2469-2011-1295326800000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,18 +13,25 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Castelli",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes the crime of harming a police dog",
+  "title" : "Directs the discontinuance of the Yonkers toll plaza on the New York state thruway",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Public Authorities Law",
   "previousVersions" : null,
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T153652.TXT", "SOBI.D110118.T153151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T153652.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295383012138
+  "luceneModified" : 1295383012186
 }

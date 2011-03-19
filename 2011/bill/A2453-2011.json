@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A2385-2011",
+  "senateBillNo" : "A2453-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "referred to codes",
-    "billEventId" : "A2385-2011-1295326800000-referred+to+codes",
+    "billEventId" : "A2453-2011-1295326800000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,21 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the penalty for assaults involving a sports official",
-  "summary" : "Makes the intentional causing of physical injury to a sports official a class D felony of assault in the second degree; creates class B misdemeanor of aggravated harassment of a sports official when a person, with intent to annoy, harass, threaten or alarm a sports official, strikes or expectorates on such official. ",
+  "title" : "Establishes the homeless protection act which designates certain offenses against homeless persons as hate crimes",
+  "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S187",
+  "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : [ "A829-2009" ],
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Weisenberg",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Burling",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Hoyt",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,35 +41,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Castro",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cusick",
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Robinson",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Englebright",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Maisel",
+    "fullname" : "Lavine",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -94,15 +66,43 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jeffries",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Markey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the penal law, in relation to the assault on sports officials ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T153652.TXT", "SOBI.D110118.T153151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T153652.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295383012166
+  "luceneModified" : 1295383012185
 }
