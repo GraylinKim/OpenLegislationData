@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1538-2011",
+  "senateBillNo" : "S1544-2011",
   "billEvents" : [ {
     "eventDate" : 1294635600000,
-    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
-    "billEventId" : "S1538-2011-1294635600000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S1544-2011-1294635600000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for transfer of guardianship and custody of infants abandoned pursuant to the abandoned infant protection act",
+  "title" : "Makes the failure of a sex offender to register or verify pursuant to sex offender registration act, or working on an ice cream truck a class D felony",
   "summary" : null,
-  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Family Court Act",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T111555.TXT", "SOBI.D110110.T111054.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110110.T111555.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294676155163
+  "luceneModified" : 1294676155177
 }
