@@ -99,6 +99,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1291957200000,
+    "eventText" : "signed chap.561",
+    "billEventId" : "A42014-2009-1291957200000-signed+chap.561",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : [ {
     "id" : "1291698000000A42014-2009-55-0",
@@ -136,7 +143,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101208.T093048.TXT", "SOBI.D101207.T165515.TXT", "SOBI.D101208.T092547.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101207.T151008.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101208.T093048.TXT", "SOBI.D101207.T165515.TXT", "SOBI.D101208.T092547.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101215.T142412.TXT", "SOBI.D101207.T151008.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291818648291
+  "luceneModified" : 1292441052100
 }

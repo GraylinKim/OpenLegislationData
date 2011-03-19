@@ -120,6 +120,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1291957200000,
+    "eventText" : "signed chap.559",
+    "billEventId" : "A42008A-2009-1291957200000-signed+chap.559",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -144,7 +151,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101207.T165515.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101204.T142147.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101207.T165515.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101215.T142412.TXT", "SOBI.D101204.T142147.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291758915046
+  "luceneModified" : 1292441052088
 }
