@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S431-2011",
+  "senateBillNo" : "S433-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S431-2011-1294203600000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+    "billEventId" : "S433-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to food service waste reduction",
+  "title" : "Relates to deregulation by establishing income and rent thresholds for housing purposes",
   "summary" : null,
-  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
+  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation Law",
+  "lawSection" : "Emergency Tenant Protection Act of 1974",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "SQUADRON",
+    "fullname" : "KLEIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T113823.TXT", "SOBI.D101220.T113323.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T113823.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292863103210
+  "luceneModified" : 1292863103217
 }
