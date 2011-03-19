@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Increases penalties for certain crimes against persons under 16 years of age",
-  "summary" : null,
+  "summary" : "Increases penalties for certain crimes against persons under 16 years of age; creates new crimes of aggravated assault upon a person under 16 years of age and endangering the welfare of a child in the first and second degrees where the perpetrator is 18 years of age or older. ",
   "currentCommittee" : "CODES",
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S1178-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the penal law, in relation to crimes against persons under sixteen years of age ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T112342.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T114408.TXT", "SOBI.D110120.T112342.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295540622889
+  "luceneModified" : 1295541848607
 }

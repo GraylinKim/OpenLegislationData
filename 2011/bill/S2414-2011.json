@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Does away with run-off elections in NYC and statewide; repealer",
-  "summary" : null,
+  "summary" : "Eliminates run-off elections in NYC and statewide. ",
   "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S6248-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the election law, the municipal home rule law and the administrative code of the city of New York, in relation to the determination of a winner of a primary election; and to repeal certain provisions of the election law and the administrative code of the city of New York relating thereto ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110120.T111858.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110120.T114408.TXT", "SOBI.D110120.T111858.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295540338720
+  "luceneModified" : 1295541848615
 }
