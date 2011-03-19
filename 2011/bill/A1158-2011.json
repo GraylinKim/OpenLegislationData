@@ -3,8 +3,8 @@
   "senateBillNo" : "A1158-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to codes",
-    "billEventId" : "A1158-2011-1294203600000-referred+to+codes",
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A1158-2011-1294203600000-referred+to+environmental+conservation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,7 +13,7 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Sweeney",
+    "fullname" : "Sweeney (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -151,7 +151,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to cadmium-added novelty consumer products ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T134721.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T163248.TXT", "SOBI.D110106.T134721.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294339641177
+  "luceneModified" : 1294349568605
 }
