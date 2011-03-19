@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires certain food establishments to provide nutritional information to its customers",
-  "summary" : null,
+  "summary" : "Requires certain food establishments to provide nutritional information to their customers. ",
   "currentCommittee" : "HEALTH",
   "sameAs" : null,
   "lawSection" : "Health",
-  "previousVersions" : null,
+  "previousVersions" : [ "SA3600-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT in relation to creating the menu nutritional disclosure act of 2011 ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T123155.TXT", "SOBI.D110105.T114623.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T114623.TXT", "SOBI.D110105.T123155.TXT", "SOBI.D110105.T130152.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294248715578
+  "luceneModified" : 1294250512378
 }
