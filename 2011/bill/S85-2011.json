@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S85-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO AGRICULTURE",
+    "billEventId" : "S85-2011-1294203600000-REFERRED+TO+AGRICULTURE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SQUADRON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to vaccination of egg-laying hens against salmonella",
+  "summary" : null,
+  "currentCommittee" : "AGRICULTURE",
+  "sameAs" : null,
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101202.T162601.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1291325161296
+}

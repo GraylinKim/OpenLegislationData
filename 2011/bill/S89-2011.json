@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S79-2011",
+  "senateBillNo" : "S89-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S79-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO ELECTIONS",
+    "billEventId" : "S89-2011-1294203600000-REFERRED+TO+ELECTIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the incorporation of benefit corporations",
+  "title" : "Establishes new contribution limits, expands the types of organizations prohibited from making contributions and aggregates certain contributions",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "ELECTIONS",
   "sameAs" : null,
-  "lawSection" : "General Construction Law",
+  "lawSection" : "Election Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BRESLIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "PARKER",
+    "fullname" : "KRUEGER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -42,6 +35,13 @@
     "id" : null,
     "position" : null,
     "fullname" : "SERRANO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "STAVISKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101202.T162601.TXT", "SOBI.D101202.T162101.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101202.T162601.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291325161318
+  "luceneModified" : 1291325161333
 }
