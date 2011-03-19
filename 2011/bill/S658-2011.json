@@ -8,6 +8,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295845200000,
+    "eventText" : "REPORTED AND COMMITTED TO FINANCE",
+    "billEventId" : "S658-2011-1295845200000-REPORTED+AND+COMMITTED+TO+FINANCE",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -20,7 +27,7 @@
   },
   "title" : "Permits senior citizens whose spouses are deceased to substitute a more recent income for purposes of determining eligibility for the enhanced STAR exemption",
   "summary" : "Permits senior citizens whose spouses are deceased to substitute a more recent income for purposes of determing eligibility for the enhanced school tax relief (STAR) exemption. ",
-  "currentCommittee" : "AGING",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
   "lawSection" : "Real Property Tax Law",
   "previousVersions" : [ "S1602-2009" ],
@@ -53,14 +60,14 @@
     "contactInfo" : null,
     "guid" : null
   } ],
-  "pastCommittees" : null,
+  "pastCommittees" : [ "AGING" ],
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          658\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by Sens. VALESKY, KLEIN, OPPENHEIMER, HASSELL-THOMPSON, DIAZ\n         -- read twice and ordered printed, and when printed to be committed to\n         the Committee on Aging\n\n       AN ACT to amend the real property tax law,  in  relation  to  permitting\n         senior citizens whose spouses are deceased to substitute a more recent\n         year's income for purposes of determining eligibility for the enhanced\n         exemption for school tax relief\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Subparagraph (i) of  paragraph  (b)  of  subdivision  4  of\n    2  section  425  of  the  real  property tax law is amended by adding a new\n    3  clause (C-1) to read as follows:\n    4    (C-1) NOTWITHSTANDING THE PROVISIONS OF CLAUSE (C)  OF  THIS  SUBPARA-\n    5  GRAPH,  IN THE EVENT THAT A SENIOR CITIZEN WHO, AS A RESULT OF THE DEATH\n    6  OF HIS OR HER SPOUSE, EXPERIENCES A SUFFICIENT DECREASE IN INCOME DURING\n    7  THE TAX YEAR IMMEDIATELY PRECEDING THE DATE OF  MAKING  APPLICATION  FOR\n    8  THE  EXEMPTION, THEN FOR THE PURPOSES OF DETERMINING ELIGIBILITY FOR THE\n    9  ENHANCED EXEMPTION, SUCH SENIOR CITIZEN MAY USE HIS OR  HER  INCOME  FOR\n   10  SUCH  YEAR;  PROVIDED  THAT THE INCOME TAX RETURN FOR SUCH YEAR HAS BEEN\n   11  FILED WITH THE APPROPRIATE STATE OR FEDERAL AGENCY, OR OTHER  DOCUMENTA-\n   12  TION OF INCOME ELIGIBILITY HAS BEEN FILED WITH THE ASSESSOR OF APPROPRI-\n   13  ATE JURISDICTION, PRIOR TO APRIL THIRTIETH.\n   14    S 2. This act shall take effect immediately.\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD03498-01-1\n",
   "memo" : null,
   "law" : null,
   "actClause" : "AN ACT to amend the real property tax law, in relation to permitting senior citizens whose spouses are deceased to substitute a more recent year's income for purposes of determining eligibility for the enhanced exemption for school tax relief ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T121227.TXT", "SOBI.D101228.T151335.TXT", "SOBI.D101228.T145334.TXT", "SOBI.D101228.T152837.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T121227.TXT", "SOBI.D101228.T145334.TXT", "SOBI.D101228.T151335.TXT", "SOBI.D101228.T152837.TXT", "SOBI.D110124.T142130.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293729147697
+  "luceneModified" : 1295896890476
 }
