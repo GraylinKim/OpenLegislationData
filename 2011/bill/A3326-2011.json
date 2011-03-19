@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3326-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A3326-2011-1295845200000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires data collection on homeless persons in homeless shelters",
+  "summary" : "Requires data collection on homeless persons served by a homeless project including reasons why such person becomes homeless and enters a homeless facility; requires annual report be made to governor and legislature. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A2980-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T162641.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295904401941
+}

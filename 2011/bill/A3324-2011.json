@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3324-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A3324-2011-1295845200000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the dormitory authority of the state of New York to sell certain land in the county of Queens to the Indian Cultural and Community Center, Inc.",
+  "summary" : "Authorizes the dormitory authority of the state of New York to sell certain land in the county of Queens to the Indian Cultural and Community Center, Inc. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "New York City",
+  "previousVersions" : [ "AA9924-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T162641.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295904401938
+}

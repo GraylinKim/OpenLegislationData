@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3318-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A3318-2011-1295845200000-referred+to+ways+and+means",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a plan of expenditure for monies appropriated and received by the state on behalf of a gaming facility located in the city of Buffalo",
+  "summary" : "Provides for a plan of expenditure for monies appropriated and received by the state on behalf of a gaming facility located in the city of Buffalo; provides for the repeal of such provisions on December 31, 2020. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "State Finance Law",
+  "previousVersions" : [ "A2229-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hooper",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T162641.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295904401928
+}
