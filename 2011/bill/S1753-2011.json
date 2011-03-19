@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "ESPAILLAT",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "KLEIN",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the elder law, in relation to requiring the state office for the aging to review programs addressing the needs of the aging veteran population ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110121.T111017.TXT", "SOBI.D110112.T150016.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110112.T111958.TXT", "SOBI.D110120.T101311.TXT", "SOBI.D110112.T104456.TXT", "SOBI.D110112.T101955.TXT", "SOBI.D110119.T193335.TXT", "SOBI.D110121.T105516.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T150016.TXT", "SOBI.D110121.T111017.TXT", "SOBI.D110112.T111958.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110127.T135354.TXT", "SOBI.D110112.T104456.TXT", "SOBI.D110120.T101311.TXT", "SOBI.D110112.T101955.TXT", "SOBI.D110121.T105516.TXT", "SOBI.D110119.T193335.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295626217210
+  "luceneModified" : 1296154434425
 }
