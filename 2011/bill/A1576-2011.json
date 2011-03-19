@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1576-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A1576-2011-1294635600000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the entry into premises by the agent of a utility or municipality; repealer",
+  "summary" : "Establishes an agent of a utility or municipality may not enter premises without permission of a person lawfully in control of the premises; establishes certain exceptions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Service Law",
+  "previousVersions" : [ "A10896-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Sayward",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294691795512
+}

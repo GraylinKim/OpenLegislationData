@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1580-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A1580-2011-1294635600000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits a person convicted of violating \"Buster's Law\" from owning or possessing a companion animal",
+  "summary" : "Prohibits a person convicted of \"Buster's Law\" from owning or possessing a companion animal unless authorized by court order, after appropriate psychiatric or psychological testing. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A10283-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Thiele",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294691795526
+}

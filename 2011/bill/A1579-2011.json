@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1579-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1579-2011-1294635600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes the offense of unlawfully residing or entering upon school grounds",
+  "summary" : "Establishes the class A misdemeanor of unlawfully residing or entering upon school grounds for the entry upon school grounds, of any sex offender required to register and verify pursuant to the sex offender registration act; grants an exception for persons attending or employed by the school upon such school grounds, or having a family member attending such school, if the defendant enters the school grounds for the limited purposes authorized by the administrator of the school; establishes the class E felony of unlawfully residing or entering upon school ground for the commission of such offense in the second degree after having had a conviction thereof in the previous 5 years. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A10519-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barclay",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kolb",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Raia",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294691795520
+}

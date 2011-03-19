@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1582-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A1582-2011-1294635600000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts the \"Peconic Bay estuary protection act\"",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S1601",
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to enacting the \"Peconic Bay estuary protection act\" ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294691795531
+}

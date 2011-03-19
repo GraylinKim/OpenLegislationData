@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1575-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to correction",
+    "billEventId" : "A1575-2011-1294635600000-referred+to+correction",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for disposition of civil judgment or settlement realized by prisoner",
+  "summary" : "Provides for the disposition of civil proceeds realized by a prisoner of a correctional facility who is successful in an action against the state or a locality to a trust fund subject to garnishment or attachment for the cost of such prisoner's confinement, support of his or her dependents, payment of fines and other restitution. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Correction Law",
+  "previousVersions" : [ "A10362-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294691795508
+}

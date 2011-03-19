@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1577-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294635600000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1577-2011-1294635600000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes imposition of life imprisonment without parole sentence for persistent violent felony offenders; repealer",
+  "summary" : "Authorizes imposition of life imprisonment without parole sentence for persistent violent felony offenders upon conviction of a violent felony offense when such person has previously been subjected to two or more predicate violent felony convictions. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Penal Law",
+  "previousVersions" : [ "A8446-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Duprey",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110110.T153635.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294691795513
+}
