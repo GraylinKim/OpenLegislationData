@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A367-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to labor",
+    "billEventId" : "A367-2011-1294203600000-referred+to+labor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cusick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to work hours for lifeguards",
+  "summary" : "Provides that students may be employed for up to five hours on any day preceding a school day as a qualified lifeguard or aquatic supervisory staff, provided that the employer receives and maintains both the written consent of the minor's parent or guardian and a certificate which shall be provided to the employer at the end of each marking period by the minor's school which shall assert that such minor is in satisfactory academic standing. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Labor Law",
+  "previousVersions" : [ "A2541-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the labor law, in relation to work hours for lifeguards ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T153616.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293136576508
+}

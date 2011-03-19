@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A369-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A369-2011-1294203600000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the training, examination and certification of dog control officers",
+  "summary" : "Provides for the training, examination and certification of dog control officers. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "AC7978-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barron",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Mayersohn",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to training, examination and certification of dog control officers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T153616.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293136576511
+}

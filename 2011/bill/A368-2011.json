@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A368-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A368-2011-1294203600000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cusick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires applicants seeking land use approval from a municipal corporation to certify compliance with applicable state zoning and building requirements",
+  "summary" : "Requires applicants seeking land use approval from a municipal corporation to certify compliance with applicable state zoning and building procedures and requirements. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A2700-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law and the environmental conservation law, in relation to the granting of building permits and zoning variances by municipalities ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101223.T153616.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1293136576509
+}
