@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires notification to insureds that an out-of-network physician may be used in their procedure, test or surgery",
-  "summary" : null,
+  "summary" : "Requires notification to insureds that an out-of-network physician may be used in their procedure, test or surgery and such physician's services shall not be covered by their insurance policy; such services must be covered if the insured  person does not receive notification prior to such services or procedure. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : "A495",
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S7186-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to requiring notification to insured persons that an out-of-network physician may be used in their procedure, test or surgery ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110105.T123155.TXT", "SOBI.D110105.T113622.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110105.T130653.TXT", "SOBI.D110105.T123155.TXT", "SOBI.D110105.T113622.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294248715550
+  "luceneModified" : 1294250813478
 }
