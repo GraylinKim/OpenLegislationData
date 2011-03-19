@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S449-2011",
+  "senateBillNo" : "S454-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
-    "billEventId" : "S449-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "eventText" : "REFERRED TO TRANSPORTATION",
+    "billEventId" : "S454-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,16 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires hearing by the DHCR prior to order of decontrol for failure to respond to income certification material relating to high income rent decontrol",
+  "title" : "Relates to requiring parking garages to install and operate pedestrian warning devices where vehicles exiting such garage cross a pedestrian sidewalk",
   "summary" : null,
-  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+  "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
-  "lawSection" : "Emergency Housing Rent Control Law",
+  "lawSection" : "Vehicle and Traffic Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "HASSELL-THOMPSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -35,6 +35,20 @@
     "id" : null,
     "position" : null,
     "fullname" : "HUNTLEY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "KLEIN",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "PERKINS",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T115824.TXT", "SOBI.D101220.T120325.TXT", "SOBI.D101220.T120825.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T120825.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292864905702
+  "luceneModified" : 1292864905710
 }

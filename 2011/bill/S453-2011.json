@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S449-2011",
+  "senateBillNo" : "S453-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
-    "billEventId" : "S449-2011-1294203600000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S453-2011-1294203600000-REFERRED+TO+JUDICIARY",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Requires hearing by the DHCR prior to order of decontrol for failure to respond to income certification material relating to high income rent decontrol",
+  "title" : "Provides for the establishment of a biennial budgeting system for the state of New York replacing the state annual budget process",
   "summary" : null,
-  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+  "currentCommittee" : "JUDICIARY",
   "sameAs" : null,
-  "lawSection" : "Emergency Housing Rent Control Law",
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DUANE",
+    "fullname" : "MONTGOMERY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "SERRANO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "VALESKY",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T115824.TXT", "SOBI.D101220.T120325.TXT", "SOBI.D101220.T120825.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T120825.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292864905702
+  "luceneModified" : 1292864905706
 }
