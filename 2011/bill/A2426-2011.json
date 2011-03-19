@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires that health services paid for by a school district for a student attending outside the district be no greater than the district's cost",
-  "summary" : null,
+  "summary" : "Requires that health and welfare services and facilities paid by a school district for a student attending school outside the district to be no greater than the district's cost. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A2473-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T152651.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T160154.TXT", "SOBI.D110118.T152651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382411823
+  "luceneModified" : 1295384514050
 }
