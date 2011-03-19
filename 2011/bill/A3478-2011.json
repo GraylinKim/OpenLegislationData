@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3475-2011",
+  "senateBillNo" : "A3478-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to higher education",
-    "billEventId" : "A3475-2011-1295931600000-referred+to+higher+education",
+    "eventText" : "referred to mental health",
+    "billEventId" : "A3478-2011-1295931600000-referred+to+mental+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Pretlow",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Expands the definition of podiatry to include conditions of the ankle and all soft tissue structures of the leg below the knee affecting the foot and ankle",
+  "title" : "Relates to the training of boards of directors or trustees of certain voluntary not-for-profit facilities or corporations",
   "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S583",
-  "lawSection" : "Education Law",
+  "sameAs" : null,
+  "lawSection" : "Mental Hygiene Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Aubry",
+    "fullname" : "Lupardo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, the public health law and the civil practice law and rules, in relation to the practice of podiatry ",
+  "actClause" : "AN ACT to amend the mental hygiene law, in relation to the training of boards of directors or trustees of certain voluntary not-for-profit facilities or corporations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT", "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979556218
+  "luceneModified" : 1295979556231
 }

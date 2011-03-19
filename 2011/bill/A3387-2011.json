@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires insurers to provide victims of domestic violence with the option of providing alternative contact information",
-  "summary" : null,
+  "summary" : "Requires insurers to provide an insurer or subscriber who is a victim of domestic violence, upon request of such insurer or subscriber, with the option to designate alternative contact information for the purpose of receiving specific claim information or for specific billing purposes. ",
   "currentCommittee" : null,
   "sameAs" : "S1031",
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AB4052-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the insurance law and the public health law, in relation to allowing victims of domestic violence the opportunity to designate an alternate address for insurance claims or billing purposes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT", "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979255006
+  "luceneModified" : 1295979556261
 }

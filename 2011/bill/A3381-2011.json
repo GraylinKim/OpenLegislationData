@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that the senate shall be composed of 62 senators, each representing 1 county of the state",
-  "summary" : null,
+  "summary" : "Provides that the senate shall be composed of 62 senators, each representing 1 county of the state. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Constitution, Concurrent Resolutions to Amend",
-  "previousVersions" : null,
+  "previousVersions" : [ "A9494-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing amendments to sections 2 and 4 of article 3 of the constitution, in relation to the number of senators and the apportionment of senate districts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT", "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979255987
+  "luceneModified" : 1295979556256
 }

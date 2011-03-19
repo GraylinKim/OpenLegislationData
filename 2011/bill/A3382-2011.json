@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits legislature from enacting laws with local government fiscal impact unless fiscal burden is computed and imprinted on bill",
-  "summary" : null,
+  "summary" : "Proposes constitutional amendment prohibiting the legislature from enacting any general or special law imposing a direct or indirect burden (fiscal) on any local government unless the cost of same is estimated and appears on the face of the bill; provides that an appropriation shall be made to each local government sufficient to hold it harmless from any part of such fiscal burden. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Constitution, Concurrent Resolutions to Amend",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1660-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to article 9 of the constitution, in relation to acts of the legislature having fiscal impact on local governments ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT", "SOBI.D110125.T131415.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979255989
+  "luceneModified" : 1295979556248
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3475-2011",
+  "senateBillNo" : "A3451-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to higher education",
-    "billEventId" : "A3475-2011-1295931600000-referred+to+higher+education",
+    "eventText" : "referred to tourism, arts and sports development",
+    "billEventId" : "A3451-2011-1295931600000-referred+to+tourism%2C+arts+and+sports+development",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Pretlow",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  },
-  "title" : "Expands the definition of podiatry to include conditions of the ankle and all soft tissue structures of the leg below the knee affecting the foot and ankle",
-  "summary" : null,
-  "currentCommittee" : null,
-  "sameAs" : "S583",
-  "lawSection" : "Education Law",
-  "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
     "fullname" : "Gabryszak",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
+  },
+  "title" : "Authorizes volunteer fire and ambulance companies to receive grants for local government records management improvement",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Arts and Cultural Affairs Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Aubry",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, the public health law and the civil practice law and rules, in relation to the practice of podiatry ",
+  "actClause" : "AN ACT to amend the arts and cultural affairs law, in relation to authorizing volunteer fire and ambulance companies to receive grants for local government records management improvement ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT", "SOBI.D110125.T131415.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T131916.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295979556218
+  "luceneModified" : 1295979556224
 }
