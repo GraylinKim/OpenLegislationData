@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S643-2011",
+  "senateBillNo" : "S644-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S643-2011-1294203600000-REFERRED+TO+CODES",
+    "billEventId" : "S644-2011-1294203600000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates new classification of persistent misdemeanor offender for the purposes of sentencing, and prescribes the sentence therefor",
+  "title" : "Elevates severity of patronizing a prostitute and permitting prostitution, and makes certain provisions of promoting prostitution violent felonies",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
@@ -27,21 +27,7 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "JOHNSON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "RANZENHOFER",
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -53,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T112320.TXT", "SOBI.D101228.T112820.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T112820.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293553700798
+  "luceneModified" : 1293553700804
 }
