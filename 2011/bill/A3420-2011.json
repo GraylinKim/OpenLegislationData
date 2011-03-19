@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3420-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A3420-2011-1295931600000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titus",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs New York city housing authority to first offer vacant apartments to mobility impaired tenants living on a higher floor",
+  "summary" : "Directs New York city housing authority to first offer vacant apartments to mobility impaired tenants living on a higher floor. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Housing Law",
+  "previousVersions" : [ "A11658-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public housing law, in relation to granting tenants, with a physically disabling condition that affects their mobility, a preference in occupying a vacant dwelling unit on a lower floor in the same building in projects operated by the New York city housing authority ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T123913.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295977153947
+}
