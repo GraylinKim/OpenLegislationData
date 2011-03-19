@@ -22,6 +22,20 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1295326800000,
+    "eventText" : "passed assembly",
+    "billEventId" : "A261-2011-1295326800000-passed+assembly",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  }, {
+    "eventDate" : 1295326801000,
+    "eventText" : "delivered to senate",
+    "billEventId" : "A261-2011-1295326801000-delivered+to+senate",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -53,7 +67,7 @@
   "actClause" : "AN ACT to amend the public authorities law, in relation to requiring the New York state energy research and development authority to establish the energy efficiency portfolio standard and approving programs ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T170843.TXT", "SOBI.D101217.T155004.TXT", "SOBI.D101217.T153505.TXT", "SOBI.D101217.T161006.TXT", "SOBI.D110113.T114320.TXT", "SOBI.D110118.T120128.TXT", "SOBI.D110118.T115628.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T170843.TXT", "SOBI.D101217.T155004.TXT", "SOBI.D101217.T153505.TXT", "SOBI.D110118.T155653.TXT", "SOBI.D101217.T161006.TXT", "SOBI.D110113.T114320.TXT", "SOBI.D110118.T115628.TXT", "SOBI.D110118.T120128.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295370088434
+  "luceneModified" : 1295384213880
 }

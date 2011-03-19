@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Limits tenure of temporary president of the senate, speaker of the assembly, minority leaders and committee chairs",
-  "summary" : null,
+  "summary" : "Limits the tenure of the temporary president of the senate, speaker of the assembly, minority leader of the senate and minority leader of the assembly to 8 years; limits the tenure of the chairman of any single legislative committee to 6 years. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Legislative Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A11233-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T152651.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T155653.TXT", "SOBI.D110118.T152651.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295382411785
+  "luceneModified" : 1295384213857
 }

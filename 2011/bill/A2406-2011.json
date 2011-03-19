@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires all state public records to be accessible on Internet",
-  "summary" : null,
+  "summary" : "Creates the \"Electronic Access to Records Act\"; requires all state public records to be accessible on the Internet; prohibits provision of personal identifying information, unless explicitly required by law. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Officers Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1050-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -78,10 +78,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the public officers law, in relation to electronic access to records ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T151652.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T151652.TXT", "SOBI.D110118.T155653.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295381812427
+  "luceneModified" : 1295384213855
 }
