@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2072-2011",
+  "senateBillNo" : "S2080-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S2072-2011-1295326800000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2080-2011-1295326800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes payment of personal income tax by credit card",
+  "title" : "Establishes an independent fatality review board to investigate deaths appearing to be from unnatural causes, where domestic violence is apparent",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T095113.TXT", "SOBI.D110118.T094607.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T095113.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295362273415
+  "luceneModified" : 1295362273449
 }

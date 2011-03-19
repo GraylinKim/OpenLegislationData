@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2072-2011",
+  "senateBillNo" : "S2079-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
-    "billEventId" : "S2072-2011-1295326800000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S2079-2011-1295326800000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes payment of personal income tax by credit card",
+  "title" : "Grants real property tax exemption to owner of property for cost of removing graffiti placed by a third party",
   "summary" : null,
-  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Tax Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T095113.TXT", "SOBI.D110118.T094607.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T095113.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295362273415
+  "luceneModified" : 1295362273447
 }
