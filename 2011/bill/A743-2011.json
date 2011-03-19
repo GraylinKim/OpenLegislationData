@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A743-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to energy",
+    "billEventId" : "A743-2011-1294203600000-referred+to+energy",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kellner",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires notice to utility customers of right to direct access to PCS complaint process, restricts conversion to submetering, prohibits collection of separate charges",
+  "summary" : "Requires notification to utility customers of their right to direct access to public service commission complaint procedures without arbitration or court proceedings; restricts the conversion of residential rental buildings from being mass-metered to submetered; prohibits the collection of charges for residential utility service deemed to be rent; and requires the public service commission to audit previously approved utility submetering orders, compare usage before submetering to usage after submetering orders were implemented, and prepare a report concerning its findings. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Service Law",
+  "previousVersions" : [ "A9389-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public service law, in relation to requiring notification to utility customers of their right to direct access to public service commission complaint procedures without arbitration or court proceedings, to restricting the conversion of residential rental buildings from being mass-metered to submetered and to prohibiting the collection of charges for residential utility service deemed to be rent; to amend the multiple dwelling law and the multiple residence law, in relation to prohibiting the collection of charges for heat-related residential utility service; and to require the public service commission to audit previously approved utility submetering orders, compare usage before submetering to usage after submetering orders were implemented, and prepare a report concerning its findings ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114957.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159797207
+}

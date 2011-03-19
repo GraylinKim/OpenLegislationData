@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A764-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to education",
+    "billEventId" : "A764-2011-1294203600000-referred+to+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the power of certain school boards of education to provide or enter into contract for the provision of health care services for the school community",
+  "summary" : "Relates to the power of certain school boards of education to provide or enter into contract for the provision of health care services for the school community; requires the school district to receive a subsidy or reimbursement in the same manner that a county would receive for providing those health care services. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A2401-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the education law and the public health law, in relation to the powers of the boards of education for the city school districts of Rochester and Buffalo to arrange and provide integrated health services to the school community directly and/or through contractors ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114957.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159797237
+}

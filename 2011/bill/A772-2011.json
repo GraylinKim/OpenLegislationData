@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A772-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A772-2011-1294203600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gantt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the court of claims to hear, audit and determine the claim of Betty Tyson for an erroneous indictment and conviction",
+  "summary" : "Authorizes the court of claims to hear, audit and determine the claim of Betty Tyson for an erroneous indictment and conviction. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Court of Claims Act",
+  "previousVersions" : [ "A2704-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to confer jurisdiction upon the court of claims to hear, audit and determine the claims of Betty Tyson ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110104.T114957.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294159797257
+}
