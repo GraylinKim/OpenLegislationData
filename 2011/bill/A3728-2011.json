@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3728-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A3728-2011-1296018000000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weprin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides an exemption to certain provisions relating to risk-based capital for property/casualty insurance companies and to financial regulation of medical malpractice",
+  "summary" : "Provides an exemption to certain provisions relating to risk-based capital for property/casualty insurance companies; repeals certain provisions relating thereto; relates to financial regulation of medical malpractice insurance liability companies. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "AA9014-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to an exemption to certain provisions of law relating to risk-based capital for property/casualty insurance companies; and in relation to the financial regulation of medical malpractice liability insurance companies; and to repeal certain provisions of such law relating thereto ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T155825.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296075505326
+}
