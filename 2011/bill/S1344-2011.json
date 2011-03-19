@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "AVELLA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to prohibiting insurance rate variations of more than ten percent between counties within the city of New York for non-business private passenger automobiles ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110110.T161630.TXT", "SOBI.D110106.T161233.TXT", "SOBI.D110106.T160233.TXT", "SOBI.D110106.T164249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T101148.TXT", "SOBI.D110106.T164249.TXT", "SOBI.D110106.T160233.TXT", "SOBI.D110106.T161233.TXT", "SOBI.D110110.T161630.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294694190626
+  "luceneModified" : 1294758708315
 }

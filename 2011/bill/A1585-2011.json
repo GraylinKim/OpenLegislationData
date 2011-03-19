@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A1585-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to higher education",
+    "billEventId" : "A1585-2011-1294722000000-referred+to+higher+education",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Glick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Extends the provisions of the physician loan forgiveness program",
+  "summary" : "Extends the provisions of the physician loan forgiveness program. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
-  "previousVersions" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : [ "A11421-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         1585\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 11, 2011\n                                      ___________\n\n       Introduced  by M. of A. GLICK -- read once and referred to the Committee\n         on Higher Education\n\n       AN ACT to amend chapter 31 of the laws of 1985, amending  the  education\n         law  and  other  laws  relating  to  regents  scholarships  in certain\n         professions, in relation to extending  the  effectiveness  of  certain\n         provisions thereof\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Section 17 of chapter 31 of the laws of 1985, amending  the\n    2  education law and other laws relating to regents scholarships in certain\n    3  professions, as amended by section 1 of part I of chapter 57 of the laws\n    4  of 2008, is amended to read as follows:\n    5    S  17. This act shall take effect immediately; provided, however, that\n    6  the scholarship and loan forgiveness programs  established  pursuant  to\n    7  the  provisions  of  this  act shall terminate upon the granting of such\n    8  awards for the 2008-2009 school year PROVIDED, HOWEVER, THAT THE REGENTS\n    9  PHYSICIAN LOAN FORGIVENESS PROGRAM  ESTABLISHED  PURSUANT  TO  THIS  ACT\n   10  SHALL  NOT TERMINATE UNTIL THE GRANTING OF SUCH AWARDS FOR THE 2011-2012\n   11  SCHOOL YEAR, PROVIDED THAT THE  FINAL  DISBURSEMENT  OF  ANY  MULTI-YEAR\n   12  AWARDS GRANTED IN SUCH SCHOOL YEAR SHALL BE PAID.\n   13    S  2.  This  act  shall take effect immediately and shall be deemed to\n   14  have been in full force and effect on the same  date  and  in  the  same\n   15  manner as part I of chapter 57 of the laws of 2008, took effect.\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD06357-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend chapter 31 of the laws of 1985, amending the education law and other laws relating to regents scholarships in certain professions, in relation to extending the effectiveness of certain provisions thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T092145.TXT", "SOBI.D110111.T093146.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T092145.TXT", "SOBI.D110111.T101148.TXT", "SOBI.D110111.T093146.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294756306838
+  "luceneModified" : 1294758708302
 }

@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "AVELLA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to providing for early voting ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T154732.TXT", "SOBI.D110106.T153730.TXT", "SOBI.D110110.T161630.TXT", "SOBI.D110106.T164249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T154732.TXT", "SOBI.D110111.T101148.TXT", "SOBI.D110106.T153730.TXT", "SOBI.D110106.T164249.TXT", "SOBI.D110110.T161630.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294694190617
+  "luceneModified" : 1294758708308
 }

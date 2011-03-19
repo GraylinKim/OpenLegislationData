@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "AVELLA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
@@ -53,7 +60,7 @@
   "actClause" : "AN ACT to amend the social services law, in relation to foster home decertification, application for recertification, authorization for non-renewal, notice of removal of a child, and other required notices ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T160806.TXT", "SOBI.D110110.T161630.TXT", "SOBI.D110106.T161233.TXT", "SOBI.D110106.T164249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T101148.TXT", "SOBI.D110106.T160806.TXT", "SOBI.D110106.T164249.TXT", "SOBI.D110106.T161233.TXT", "SOBI.D110110.T161630.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294694190634
+  "luceneModified" : 1294758708316
 }

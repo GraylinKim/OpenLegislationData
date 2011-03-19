@@ -27,6 +27,13 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
+    "fullname" : "AVELLA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "DIAZ",
     "branch" : null,
     "contactInfo" : null,
@@ -46,7 +53,7 @@
   "actClause" : "AN ACT to amend the railroad law, in relation to trespass on railroad property ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110106.T165749.TXT", "SOBI.D110110.T163633.TXT", "SOBI.D110106.T161735.TXT", "SOBI.D110106.T162736.TXT", "SOBI.D110106.T164249.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110106.T162235.TXT", "SOBI.D110106.T165749.TXT", "SOBI.D110111.T101148.TXT", "SOBI.D110106.T162736.TXT", "SOBI.D110106.T161735.TXT", "SOBI.D110110.T163633.TXT", "SOBI.D110106.T164249.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294695393175
+  "luceneModified" : 1294758708321
 }
