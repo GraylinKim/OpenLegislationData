@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows certain not-for-profits to make purchases through use of county contracts",
-  "summary" : null,
+  "summary" : "Allows certain not-for-profits to make purchases through use of county contracts. ",
   "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
   "lawSection" : "General Municipal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S5601-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the general municipal law, in relation to allowing not-for-profits to make purchases through county contracts ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T143448.TXT", "SOBI.D110114.T141447.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T143948.TXT", "SOBI.D110114.T141447.TXT", "SOBI.D110114.T143448.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295033688402
+  "luceneModified" : 1295033988547
 }
