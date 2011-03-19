@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1645-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A1645-2011-1294722000000-referred+to+environmental+conservation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the general civil penalty of the environmental conservation law",
+  "summary" : "Relates to the general civil penalty of the environmental conservation law; provides that in addition to the fines, such person may be enjoined from continuing such violation and any permit or certificate issued to such person may be revoked or suspended, or a pending renewal application may be denied. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Environmental Conservation Law",
+  "previousVersions" : [ "A5259-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Boyland",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to the general civil penalty ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T134209.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294771329993
+}

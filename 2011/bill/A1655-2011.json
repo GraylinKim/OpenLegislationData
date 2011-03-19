@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1655-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to codes",
+    "billEventId" : "A1655-2011-1294722000000-referred+to+codes",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits peace officers from inquiring about the nationality or immigration status of a victim or witness to a criminal offense",
+  "summary" : "Prohibits law enforcement agencies or peace officers from inquiring about the nationality or immigration status of a victim or witness to a criminal offense. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Criminal Procedure Law",
+  "previousVersions" : [ "AA11590-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the criminal procedure law, in relation to prohibiting law enforcement agencies and peace officers from inquiring about the nationality or immigration status of a victim or witness to a criminal offense ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T134209.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294771329019
+}

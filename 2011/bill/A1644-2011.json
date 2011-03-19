@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Creates the offenses of aggravated sale of a firearm and aggravated sale of a firearm to a minor",
-  "summary" : null,
+  "summary" : "Creates the offenses of aggravated sale of a firearm and aggravated sale of a firearm to a minor. ",
   "currentCommittee" : null,
   "sameAs" : "S558",
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10910-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to firearms ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T133711.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T133711.TXT", "SOBI.D110111.T134209.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294771031872
+  "luceneModified" : 1294771329028
 }

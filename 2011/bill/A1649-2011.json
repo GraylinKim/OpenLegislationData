@@ -1,0 +1,73 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1649-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1649-2011-1294722000000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs the director of the office of homeland security to conduct a review of the security of metropolitan transportation authority facilities",
+  "summary" : "Directs the director of the office of homeland security to conduct a review and analysis of the security measures taken at the transportation facilities of the metropolitan transportation authority and its subsidiaries; requires such director to issue confidential reports of his or her findings and recommendations. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A5233-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Miller M",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pheffer",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to creation of security measures for the transportation facilities of the metropolitan transportation authority ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T134209.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294771329006
+}

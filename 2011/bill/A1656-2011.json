@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1656-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A1656-2011-1294722000000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes a smart grid system",
+  "summary" : "Establishes a smart grid system. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Authorities Law",
+  "previousVersions" : [ "A6954-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to smart grid systems ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T134209.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294771329021
+}

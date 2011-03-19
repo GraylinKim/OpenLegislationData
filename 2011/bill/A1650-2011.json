@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1650-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to tourism, arts and sports development",
+    "billEventId" : "A1650-2011-1294722000000-referred+to+tourism%2C+arts+and+sports+development",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "McEneny",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Creates the \"New York state civil war 150th anniversary commemoration commission\"",
+  "summary" : "Creates the \"New York state civil war 150th anniversary commemoration commission\" to plan and execute an organized series of reenactment tourism events. ",
+  "currentCommittee" : null,
+  "sameAs" : "S197",
+  "lawSection" : "Tourism",
+  "previousVersions" : [ "AA8157-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to create a temporary New York state civil war 150th anniversary commemoration commission; and providing for the repeal of such provisions ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T134209.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294771329008
+}
