@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes a new crime for the illegal release of sealed records",
-  "summary" : null,
+  "summary" : "Establishes a new crime for the illegal release of sealed records. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A10980-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the penal law, in relation to establishing a new crime for the illegal release of sealed records ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT", "SOBI.D110114.T113924.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295022563322
+  "luceneModified" : 1295023164622
 }

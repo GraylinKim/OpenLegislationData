@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires all outdoor advertising in N.Y. city to be licensed by the department of transportation",
-  "summary" : null,
+  "summary" : "Requires all outdoor advertising in cities of over 1,000,000 to be licensed by the department of transportation. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Transportation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A11504-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the transportation law, in relation to requiring sign properties, in cities having a population of one million or more, to be licensed by the department of transportation ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT", "SOBI.D110114.T113924.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295022563331
+  "luceneModified" : 1295023164635
 }

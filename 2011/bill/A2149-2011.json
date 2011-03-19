@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides a toll exemption for voluntary ambulance services",
-  "summary" : null,
+  "summary" : "Exempts voluntary ambulance service or rescue squads from tolls on any highway, bridge, tunnel or other toll on the NYS thruway while responding to an emergency or furnishing voluntary ambulance services. ",
   "currentCommittee" : null,
   "sameAs" : "S1212",
   "lawSection" : "Transportation",
-  "previousVersions" : null,
+  "previousVersions" : [ "A6278-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT in relation to exempting voluntary ambulance services from the payment of tolls ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT", "SOBI.D110114.T113924.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295022563327
+  "luceneModified" : 1295023164614
 }
