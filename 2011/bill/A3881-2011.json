@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3881-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296190800000,
+    "eventText" : "referred to health",
+    "billEventId" : "A3881-2011-1296190800000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Englebright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires heating, ventilation and air conditioning systems and potable water systems of building with 50 or more people to be secured from unauthorized access",
+  "summary" : "Requires the owner, or responsible agent thereof, of a building with a capacity of 50 or more people to secure the heating, ventilation and air conditioning system and potable water supply system of such building so as to prevent unauthorized access to such systems. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A1584-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to requiring that access to heating, ventilation and air conditioning systems and potable water supply systems be secure in certain buildings ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110128.T132259.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296238979061
+}
