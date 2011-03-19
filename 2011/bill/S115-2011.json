@@ -3,14 +3,28 @@
   "senateBillNo" : "S115-2011",
   "billEvents" : null,
   "votes" : null,
-  "sponsor" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DIAZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
   "title" : null,
   "summary" : "Prohibits price gouging on kosher for Passover products; authorizes the department of agriculture and markets to investigate instances of price gouging on such products and to conduct an annual Passover price survey to determine instances of price gouging; authorizes the attorney general to bring an action to stop the alleged price gouging and provides for a civil penalty of $10,000 for an instance of price gouging; establishes a defense to the charge. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : null,
   "previousVersions" : [ "S3122-2009" ],
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "SAMPSON",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                          115\n\n                              2011-2012 Regular Sessions\n\n                                   I N  S E N A T E\n\n                                      (PREFILED)\n\n                                    January 5, 2011\n                                      ___________\n\n       Introduced  by  Sen.  DIAZ  --  read twice and ordered printed, and when\n         printed to be committed to the Committee on Agriculture\n\n       AN ACT to amend the agriculture and markets law, in relation  to  kosher\n         for Passover product price gouging\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. The agriculture and markets law is amended by adding a  new\n    2  section 201-i to read as follows:\n    3    S  201-I.  KOSHER  FOR  PASSOVER  PRODUCT PRICE GOUGING. 1. DURING THE\n    4  PASSOVER SEASON, NO PARTY WITHIN THE CHAIN OF DISTRIBUTION OF KOSHER FOR\n    5  PASSOVER PRODUCTS SHALL SELL OR OFFER TO SELL ANY SUCH PRODUCTS  FOR  AN\n    6  AMOUNT  WHICH  REPRESENTS AN UNCONSCIONABLY EXCESSIVE PRICE. THE DEPART-\n    7  MENT IS HEREBY AUTHORIZED TO INVESTIGATE INSTANCES OF KOSHER  FOR  PASS-\n    8  OVER  PRODUCT  PRICE  GOUGING  DURING THE PASSOVER SEASON. SUCH INVESTI-\n    9  GATION SHALL INCLUDE, BUT NOT BE LIMITED TO, AN  ANNUAL  PASSOVER  PRICE\n   10  SURVEY  TO  EXAMINE  THE  PRICES OF KOSHER FOR PASSOVER PRODUCTS BEFORE,\n   11  DURING AND AFTER THE PASSOVER SEASON.\n   12    2. WHETHER A PRICE IS UNCONSCIONABLY EXCESSIVE IS A  QUESTION  OF  LAW\n   13  FOR THE COURT.\n   14    (A)  THE  COURT'S  DETERMINATION  THAT A VIOLATION OF THIS SECTION HAS\n   15  OCCURRED SHALL BE BASED ON ANY OF THE FOLLOWING FACTORS:  (I)  THAT  THE\n   16  AMOUNT  OF  THE  EXCESS IN PRICE IS UNCONSCIONABLY EXTREME; OR (II) THAT\n   17  THERE WAS AN EXERCISE OF UNFAIR LEVERAGE  OR  UNCONSCIONABLE  MEANS;  OR\n   18  (III)  A  COMBINATION  OF  BOTH FACTORS IN SUBPARAGRAPHS (I) AND (II) OF\n   19  THIS PARAGRAPH.\n   20    (B) IN ANY PROCEEDING COMMENCED PURSUANT TO SUBDIVISION THREE OF  THIS\n   21  SECTION, PRIMA FACIE PROOF THAT A VIOLATION OF THIS SECTION HAS OCCURRED\n   22  SHALL INCLUDE EVIDENCE THAT:\n   23    (I)  THE AMOUNT CHARGED REPRESENTS A GROSS DISPARITY BETWEEN THE PRICE\n   24  OF THE GOODS OR SERVICES WHICH WERE THE SUBJECT OF THE  TRANSACTION  AND\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD03095-01-1\n\n       S. 115                              2\n\n    1  THEIR  VALUE  MEASURED  BY  THE  PRICE AT WHICH SUCH KOSHER FOR PASSOVER\n    2  PRODUCTS WERE SOLD OR OFFERED FOR SALE BY THE  DEFENDANT  IN  THE  USUAL\n    3  COURSE OF BUSINESS IMMEDIATELY PRIOR TO THE PASSOVER SEASON; OR\n    4    (II)  THE  AMOUNT CHARGED GROSSLY EXCEEDED THE PRICE AT WHICH THE SAME\n    5  OR SIMILAR KOSHER FOR PASSOVER PRODUCTS WERE READILY OBTAINABLE BY OTHER\n    6  CONSUMERS IN THE TRADE AREA. A DEFENDANT MAY REBUT A  PRIMA  FACIE  CASE\n    7  WITH  EVIDENCE  THAT  ADDITIONAL  COSTS  NOT  WITHIN  THE CONTROL OF THE\n    8  DEFENDANT WERE IMPOSED ON THE DEFENDANT FOR THE PRODUCTS.\n    9    3. WHERE A VIOLATION OF THIS SECTION IS ALLEGED TO HAVE OCCURRED,  THE\n   10  ATTORNEY GENERAL MAY APPLY IN THE NAME OF THE PEOPLE OF THE STATE OF NEW\n   11  YORK  TO  THE SUPREME COURT OF THE STATE OF NEW YORK WITHIN THE JUDICIAL\n   12  DISTRICT IN WHICH SUCH VIOLATIONS  ARE  ALLEGED  TO  HAVE  OCCURRED,  ON\n   13  NOTICE OF FIVE DAYS, FOR AN ORDER ENJOINING OR RESTRAINING COMMISSION OR\n   14  CONTINUANCE  OF  THE  ALLEGED UNLAWFUL ACTS. IN ANY SUCH PROCEEDING, THE\n   15  COURT SHALL IMPOSE A CIVIL PENALTY IN AN AMOUNT NOT TO EXCEED TEN  THOU-\n   16  SAND  DOLLARS  AND,  WHERE  APPROPRIATE,  ORDER RESTITUTION TO AGGRIEVED\n   17  CONSUMERS.\n   18    4. THE COMMISSIONER SHALL PROMULGATE ANY ADDITIONAL  RULES  AND  REGU-\n   19  LATIONS  AS  ARE  NECESSARY TO IMPLEMENT THE PROVISIONS OF THIS SECTION,\n   20  INCLUDING BUT NOT LIMITED TO THE ESTABLISHMENT OF A KOSHER FOR  PASSOVER\n   21  PRODUCTS HOTLINE FOR CONSUMERS TO REPORT PRICE COMPLAINTS.\n   22    S  2.  This  act  shall take effect on the sixtieth day after it shall\n   23  have become a law.\n",
   "memo" : null,
@@ -18,7 +32,7 @@
   "actClause" : "AN ACT to amend the agriculture and markets law, in relation to kosher for Passover product price gouging ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101206.T100857.TXT", "SOBI.D101206.T145937.TXT", "SOBI.D101206.T103358.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101206.T100857.TXT", "SOBI.D110118.T125632.TXT", "SOBI.D101206.T145937.TXT", "SOBI.D101206.T103358.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291665577078
+  "luceneModified" : 1295373392900
 }
