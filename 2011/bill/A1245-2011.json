@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1228-2011",
+  "senateBillNo" : "A1245-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to election law",
-    "billEventId" : "A1228-2011-1294203600000-referred+to+election+law",
+    "eventText" : "referred to higher education",
+    "billEventId" : "A1245-2011-1294203600000-referred+to+higher+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,119 +13,91 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Bing",
+    "fullname" : "Hawley",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the provision of voter registration forms to students by colleges, universities and public high schools",
-  "summary" : "Provides for the provision of voter registration forms to students by colleges, universities and public high schools. ",
+  "title" : "Provides free tuition expenses for dependent family members of N.Y. state military personnel",
+  "summary" : null,
   "currentCommittee" : null,
-  "sameAs" : "S542",
-  "lawSection" : "Election Law",
-  "previousVersions" : [ "AB811-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Education Law",
+  "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Kavanagh",
+    "fullname" : "Kolb",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Crouch",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Millman",
+    "fullname" : "Saladino",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Burling",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Brook-Krasny",
+    "fullname" : "Barclay",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Tobacco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
+    "fullname" : "McKevitt",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Gunther",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Butler",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Perry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cook",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Maisel",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Spano",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Castro",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Camara",
+    "fullname" : "Murray",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -134,10 +106,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the election law, in relation to voter registration and enrollment ",
+  "actClause" : "AN ACT to amend the education law, in relation to providing scholarships for surviving dependent family members of New York state military personnel who have died while performing official military duties ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416531809
+  "luceneModified" : 1294416531815
 }

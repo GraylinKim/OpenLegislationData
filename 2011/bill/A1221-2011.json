@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to deregulation by establishing income and rent thresholds for housing purposes",
-  "summary" : null,
+  "summary" : "Establishes deregulation income thresholds and deregulation rent thresholds for certain housing purposes. ",
   "currentCommittee" : null,
   "sameAs" : "S433",
   "lawSection" : "Emergency Tenant Protection Act of 1974",
-  "previousVersions" : null,
+  "previousVersions" : [ "AA860-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -137,7 +137,7 @@
   "actClause" : "AN ACT to amend the emergency tenant protection act of nineteen seventy-four, the emergency housing rent control law, the administrative code of the city of New York and the tax law, in relation to deregulation thresholds ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T105851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT", "SOBI.D110107.T105851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231610
+  "luceneModified" : 1294416531814
 }

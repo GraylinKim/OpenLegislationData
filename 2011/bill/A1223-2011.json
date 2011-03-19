@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "For the purposes of the disposition of human remains, includes treatment of such remains by the process of alkaline hydrolysis within the definition of \"cremation\"",
-  "summary" : null,
+  "summary" : "Includes treatment of human remains by the process of alkaline hydrolysis within the definition of \"cremation\". ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A785-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to providing for disposition of human remains by the process of alkaline hydrolysis ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231630
+  "luceneModified" : 1294416531849
 }

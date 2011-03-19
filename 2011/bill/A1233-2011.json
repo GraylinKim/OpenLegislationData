@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1228-2011",
+  "senateBillNo" : "A1233-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to election law",
-    "billEventId" : "A1228-2011-1294203600000-referred+to+election+law",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A1233-2011-1294203600000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,58 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the provision of voter registration forms to students by colleges, universities and public high schools",
-  "summary" : "Provides for the provision of voter registration forms to students by colleges, universities and public high schools. ",
+  "title" : "Provides that no person shall because of their sex be subjected to any discrimination in his or her civil rights",
+  "summary" : "Removes from admissibility evidence that proves or tends to prove that a victim has been convicted of a prostitution offense within three years prior to the sex offense which is the subject of the prosecution. ",
   "currentCommittee" : null,
-  "sameAs" : "S542",
-  "lawSection" : "Election Law",
-  "previousVersions" : [ "AB811-2009" ],
+  "sameAs" : null,
+  "lawSection" : "Constitution, Concurrent Resolutions to Amend",
+  "previousVersions" : [ "A6293-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Kavanagh",
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilly",
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Hoyt",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Benedetto",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Lavine",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Paulin",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -48,21 +83,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Brook-Krasny",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Wright",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -76,42 +97,56 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Dinowitz",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Englebright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Gabryszak",
+    "fullname" : "Cusick",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Cook",
+    "fullname" : "Kellner",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Maisel",
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Scarborough",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Titone",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -122,22 +157,15 @@
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Camara",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
   } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the election law, in relation to voter registration and enrollment ",
+  "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to section 11 of article 1 of the constitution, in relation to equal protection of laws ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416531809
+  "luceneModified" : 1294416531811
 }

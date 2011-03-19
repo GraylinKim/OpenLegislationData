@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for ballot pamphlets for general elections and repeals provision for distribution of copies of constitutional amendments",
-  "summary" : null,
+  "summary" : "Provides for the state board of elections to prepare and distribute to each voter a ballot pamphlet for every general election; provides for contents thereof and makes numerous related provisions including the distribution of information relating to each ballot proposal that is submitted to a statewide vote at such general election; provides that candidates may submit a biography to be included in the statewide election pamphlet; permits any person eligible to vote on any ballot proposal to institute a proceeding as to the factual accuracy of statements or constitutional amendments. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1641-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -88,7 +88,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to the preparation, contents and distribution of a paper pamphlet containing information relative to general elections, to repeal certain provisions of the election law, relating to distribution of copies of proposed amendments to the constitution or other propositions or questions; and providing for the repeal of such provisions upon expiration thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231651
+  "luceneModified" : 1294416531825
 }

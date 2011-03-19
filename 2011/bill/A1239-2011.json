@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires contractors to recycle 50% of the waste generated on construction and demolition sites",
-  "summary" : null,
+  "summary" : "Requires contractors to recycle 50% of the waste generated on construction and demolition sites. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1320-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to requiring contractors to recycle construction and demolition site waste ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231649
+  "luceneModified" : 1294416531847
 }

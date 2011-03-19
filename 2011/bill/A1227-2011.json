@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Relates to an electronically submitted absentee ballot application",
-  "summary" : null,
+  "summary" : "Relates to an electronically submitted absentee ballot application. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A7012-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to an electronic absentee ballot ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231655
+  "luceneModified" : 1294416531818
 }

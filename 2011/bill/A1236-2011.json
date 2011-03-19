@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that reduction in auto insurance premium for insured who completes defensive driving course shall not be less than fifteen percent",
-  "summary" : null,
+  "summary" : "Provides that reduction in auto insurance premium for insured who completes defensive driving course shall not be less than fifteen percent. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1261-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to premium reductions for motor vehicle liability, comprehensive and collision insurance ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110107.T110351.TXT", "SOBI.D110107.T110851.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294416231616
+  "luceneModified" : 1294416531833
 }
