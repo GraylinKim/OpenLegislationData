@@ -113,6 +113,13 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1291698004000,
+    "eventText" : "delivered to governor",
+    "billEventId" : "A42008A-2009-1291698004000-delivered+to+governor",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
@@ -137,7 +144,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101207.T152008.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101204.T142147.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101207.T165515.TXT", "SOBI.D101207.T152008.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101204.T142147.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291753208789
+  "luceneModified" : 1291758915046
 }
