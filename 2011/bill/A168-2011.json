@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows third party notification by insurance carriers in regard to long term care policies",
-  "summary" : null,
+  "summary" : "Allows third party notification by insurance carriers in regard to long term care policies; further prohibits the inclusion of certain goods/services in the sale of insurance policies without consent and provides penalty for a violation of this prohibition. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A683-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to third party notification by insurance carriers in certain instances in regard to long term care policies; prohibiting the inclusion of certain goods and services in the sale of certain insurance policies without the insured's informed consent, and providing a specific penalty for violation of such prohibition ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T123921.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T123921.TXT", "SOBI.D101216.T132927.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292521161197
+  "luceneModified" : 1292524167644
 }

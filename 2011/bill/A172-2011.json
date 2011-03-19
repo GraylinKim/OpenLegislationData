@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides that registration lists and title information made available to contracting parties may not be used for various purposes without the registrant's consent",
-  "summary" : null,
+  "summary" : "Provides that registration lists and title information made available to contracting parties by the department of motor vehicles may not be used for purposes other than (i) issuance of manufacturer's warranty, safety recall or similar notices, or (ii) statistical compilations without the registrant's express consent. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Vehicle and Traffic Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A517-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to consent for the use of registration lists and title information ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T123921.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T123921.TXT", "SOBI.D101216.T132927.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292521161207
+  "luceneModified" : 1292524167656
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Allows for prorated refunds of the licensure and registration fee to the spouse of a deceased professional",
-  "summary" : null,
+  "summary" : "Allows for prorated refunds to the spouse of a deceased professional of the licensure and registration fee which reflects the remaining fee from the time of death to the end of the registration period. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Education Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1192-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -46,7 +46,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to allowing for prorated refunds of the licensure and registration fee to the spouse of a deceased professional ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T123921.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T123921.TXT", "SOBI.D101216.T132927.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292521161211
+  "luceneModified" : 1292524167660
 }

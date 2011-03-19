@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires reimbursement for surgical first assistant services",
-  "summary" : null,
+  "summary" : "Requires reimbursement for surgical first assistant services. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AC5720-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -81,7 +81,7 @@
   "actClause" : "AN ACT to amend the insurance law, the social services law and the workers' compensation law, in relation to reimbursement for surgical first assistant services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T124448.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T124448.TXT", "SOBI.D101216.T132927.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292521488295
+  "luceneModified" : 1292524167646
 }
