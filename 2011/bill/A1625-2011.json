@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1625-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A1625-2011-1294722000000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Tedisco",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the office of general services of the state of New York to sell certain land in the county of Schenectady",
+  "summary" : "Authorizes the office of general services to convey certain land to Northeast Parent and Child Society, Inc. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Parks",
+  "previousVersions" : [ "AA10521-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Amedore",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to authorize the office of general services of the state of New York to sell certain land in the county of Schenectady to the Northeast Parent and Child Society, Inc. ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T121157.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294765917441
+}
