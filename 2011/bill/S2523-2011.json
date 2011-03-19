@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2521-2011",
+  "senateBillNo" : "S2523-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
     "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S2521-2011-1295845200000-REFERRED+TO+TRANSPORTATION",
+    "billEventId" : "S2523-2011-1295845200000-REFERRED+TO+TRANSPORTATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a distinctive plate honoring the 100th anniversary of the Boy Scouts of America",
+  "title" : "Establishes a distinctive \"Pink Ribbon\" license plate and provides for the use of the service charge for breast cancer education and support",
   "summary" : null,
   "currentCommittee" : "TRANSPORTATION",
   "sameAs" : null,
@@ -27,28 +27,7 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DEFRANCISCO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
     "fullname" : "LARKIN",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "LAVALLE",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -74,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T165142.TXT", "SOBI.D110124.T164642.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T165142.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295905902136
+  "luceneModified" : 1295905902168
 }
