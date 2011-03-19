@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides restroom access to persons with certain medical conditions",
-  "summary" : null,
+  "summary" : "Provides restroom access to persons with certain medical conditions; defines the term eligible medical condition. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A807-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : "AN ACT to amend the public health law, in relation to enacting the restroom access act ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T110414.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T111915.TXT", "SOBI.D101216.T105913.TXT", "SOBI.D101216.T110414.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515454649
+  "luceneModified" : 1292516355058
 }
