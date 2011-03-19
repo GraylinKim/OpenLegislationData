@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Enacts the \"MTA board member attendance act\"",
-  "summary" : null,
+  "summary" : "Enacts the \"MTA board member attendance act\"; requires members of the Metropolitan transportation authority to attend the majority of public hearings on fare hikes in order to cast a vote. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Authorities Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A1243-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -116,7 +116,7 @@
   "actClause" : "AN ACT to amend the public authorities law, in relation to enacting the \"MTA board member attendance act\" ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T125423.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T134928.TXT", "SOBI.D101216.T125423.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292522063477
+  "luceneModified" : 1292525368893
 }
