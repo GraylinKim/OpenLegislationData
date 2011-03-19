@@ -8,12 +8,19 @@
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
+  }, {
+    "eventDate" : 1291698000000,
+    "eventText" : "ORDERED TO THIRD READING CAL.10",
+    "billEventId" : "S68014-2009-1291698000000-ORDERED+TO+THIRD+READING+CAL.10",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
   } ],
   "votes" : null,
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "RULES COM",
+    "fullname" : "RULES",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the public authorities law, in relation to the powers and duties of the dormitory authority of the state of New York relative to the establishment of subsidiaries for certain purposes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101206.T180928.TXT", "SOBI.D101207.T124956.TXT", "SOBI.D101206.T182428.TXT", "SOBI.D101207.T134003.TXT", "SOBI.D101203.T180010.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101203.T173508.TXT", "SOBI.D101206.T181428.TXT", "SOBI.D101203.T180510.TXT", "SOBI.D101206.T174927.TXT", "SOBI.D101203.T175009.TXT", "SOBI.D101207.T124456.TXT", "SOBI.D101206.T181928.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101206.T180928.TXT", "SOBI.D101207.T124956.TXT", "SOBI.D101206.T182428.TXT", "SOBI.D101207.T134003.TXT", "SOBI.D101203.T180010.TXT", "SOBI.D101203.T174509.TXT", "SOBI.D101207.T150508.TXT", "SOBI.D101203.T173508.TXT", "SOBI.D101206.T181428.TXT", "SOBI.D101203.T180510.TXT", "SOBI.D101206.T174927.TXT", "SOBI.D101203.T175009.TXT", "SOBI.D101207.T124456.TXT", "SOBI.D101206.T181928.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1291747203217
+  "luceneModified" : 1291752308454
 }
