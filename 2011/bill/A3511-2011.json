@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3511-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A3511-2011-1295931600000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Kavanagh",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Removes a certain time period in which an adult receives cash assistance in the safety net program",
+  "summary" : "Provides that the time period in which an adult receives cash assistance in the safety net assistance program that was not funded in whole or in part by the temporary assistance to needy families block grant program shall not be included in certain cumulative periods. ",
+  "currentCommittee" : null,
+  "sameAs" : "S1090",
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "A6812-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Perry",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to certain time periods in the safety net program ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T150924.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295986164688
+}

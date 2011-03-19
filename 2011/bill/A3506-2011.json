@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3506-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to agriculture",
+    "billEventId" : "A3506-2011-1295931600000-referred+to+agriculture",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Glick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Establishes a twelve percent surcharge on the sale of animals by pet dealers",
+  "summary" : "Establishes a twelve percent surcharge on the sale of animals by pet dealers and an account to be administered by an animal protection organization to be chosen by the comptroller and the commissioner of agriculture and markets. ",
+  "currentCommittee" : null,
+  "sameAs" : "S2395",
+  "lawSection" : "Agriculture and Markets Law",
+  "previousVersions" : [ "A10714-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the agriculture and markets law, in relation to establishing a twelve percent surcharge on the sale of animals by pet dealers; and to amend the state finance law, in relation to establishing the \"New York animal shelter and wildlife rehabilitator account\" ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T150924.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295986164669
+}

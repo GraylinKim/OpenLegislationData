@@ -48,6 +48,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "MARTINS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -60,7 +67,7 @@
   "actClause" : "AN ACT to amend the municipal home rule law, in relation to authorizing the electronic transmission of proposed local laws to members of a local legislative body ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T151257.TXT", "SOBI.D110111.T153721.TXT", "SOBI.D101230.T144741.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D110105.T104107.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T125730.TXT", "SOBI.D101230.T151257.TXT", "SOBI.D110111.T153721.TXT", "SOBI.D101230.T144741.TXT", "SOBI.D110125.T150924.TXT", "SOBI.D110125.T135419.TXT", "SOBI.D110105.T104107.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295981659544
+  "luceneModified" : 1295986164681
 }
