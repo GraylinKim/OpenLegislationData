@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3329-2011",
+  "senateBillNo" : "A3343-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to health",
-    "billEventId" : "A3329-2011-1295845200000-referred+to+health",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3343-2011-1295845200000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides for the prohibition of sale of tobacco products at pharmacies",
-  "summary" : "Provides for the prohibition of sale of tobacco products at pharmacies and pharmacy departments. ",
+  "title" : "Authorizes an additional housing court judge for the city of Buffalo",
+  "summary" : "Authorizes an additional part-time housing court judge for the city of Buffalo. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Health Law",
-  "previousVersions" : [ "A5890-2009" ],
+  "lawSection" : "Uniform City Court Act",
+  "previousVersions" : [ "A6024-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T163141.TXT", "SOBI.D110124.T162641.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T163141.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295904701091
+  "luceneModified" : 1295904701127
 }
