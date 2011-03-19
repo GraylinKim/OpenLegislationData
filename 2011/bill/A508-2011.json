@@ -24,7 +24,14 @@
   "sameAs" : "S820",
   "lawSection" : "Tax Law",
   "previousVersions" : [ "A6372-2009" ],
-  "coSponsors" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Canestrari",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -32,7 +39,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to the imposition of sales and compensating use taxes by the county of Albany ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110103.T100850.TXT", "SOBI.D110103.T101350.TXT", "SOBI.D110103.T095348.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110103.T100850.TXT", "SOBI.D110120.T140905.TXT", "SOBI.D110103.T101350.TXT", "SOBI.D110103.T095348.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294067630849
+  "luceneModified" : 1295550545822
 }
