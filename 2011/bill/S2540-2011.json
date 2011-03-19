@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2540-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S2540-2011-1295931600000-REFERRED+TO+JUDICIARY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for the types of damages that may be awarded to the persons for whose benefit an action for wrongful death is brought",
+  "summary" : null,
+  "currentCommittee" : "JUDICIARY",
+  "sameAs" : null,
+  "lawSection" : "Estates, Powers and Trusts Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T110408.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295971448629
+}

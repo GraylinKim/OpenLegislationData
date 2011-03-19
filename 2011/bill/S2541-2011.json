@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S2541-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "REFERRED TO JUDICIARY",
+    "billEventId" : "S2541-2011-1295931600000-REFERRED+TO+JUDICIARY",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "DEFRANCISCO",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Repeals section 474-a of the judiciary law relating to contingent fees for attorneys in claims or actions for medical, dental or podiatric malpractice",
+  "summary" : null,
+  "currentCommittee" : "JUDICIARY",
+  "sameAs" : null,
+  "lawSection" : "Judiciary Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T110408.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295971448632
+}

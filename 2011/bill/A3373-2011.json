@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires voters to provide driver's license or non-driver identification card, or other forms of identification prior to voting on a voting machine; repealer",
-  "summary" : null,
+  "summary" : "Requires voters to provide driver's license or non-driver identification card, a photo identification card issued by any public or private college or university in the United States, or other forms of identification prior to voting on a voting machine; such other forms of identification shall be established in the rules and regulations of the state board of elections, which shall reflect the six points of identification used by the department of motor vehicles. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Election Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A5401-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the election law, in relation to requiring a voter to produce identification prior to casting his or her vote on the voting machine; and to repeal section 8-303 of such law relating to initial voter identification ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T105904.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T105904.TXT", "SOBI.D110125.T110408.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295971144391
+  "luceneModified" : 1295971448626
 }

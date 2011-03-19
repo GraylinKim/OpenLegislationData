@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Requires state agencies to report on greenhouse gas emissions as a result of their operations",
-  "summary" : null,
+  "summary" : "Requires state agencies to report on greenhouse gas emissions as a result of their operations. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A3419-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -74,7 +74,7 @@
   "actClause" : "AN ACT to amend the environmental conservation law, in relation to requiring state agencies to report on greenhouse gas emissions as a result of their operations ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T105904.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T105904.TXT", "SOBI.D110125.T110408.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295971144385
+  "luceneModified" : 1295971448631
 }
