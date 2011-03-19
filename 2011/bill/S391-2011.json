@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S388-2011",
+  "senateBillNo" : "S391-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO JUDICIARY",
-    "billEventId" : "S388-2011-1294203600000-REFERRED+TO+JUDICIARY",
+    "eventText" : "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+    "billEventId" : "S391-2011-1294203600000-REFERRED+TO+INVESTIGATIONS+AND+GOVERNMENT+OPERATIONS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Enacts provisions relating to advanced written consent and directives concerning transfer, use, disposition of cryopreserved embryos or gametes",
+  "title" : "Enacts the \"diplomatic immunity notification act\"",
   "summary" : null,
-  "currentCommittee" : "JUDICIARY",
+  "currentCommittee" : "INVESTIGATIONS AND GOVERNMENT OPERATIONS",
   "sameAs" : null,
-  "lawSection" : "Domestic Relations Law",
+  "lawSection" : "Law Enforcement Officers",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101220.T102817.TXT", "SOBI.D101220.T102317.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101220.T102817.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292858897446
+  "luceneModified" : 1292858897460
 }
