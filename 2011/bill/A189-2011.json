@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Adds interior design services as a type of contract that can be entered into and negotiated by the state",
-  "summary" : null,
+  "summary" : "Adds interior design as a type of contract that can be entered into by the state. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "State Finance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A7764-2009" ],
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the state finance law, in relation to state contracts for interior design services ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T124922.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T132424.TXT", "SOBI.D101216.T124922.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292521762393
+  "luceneModified" : 1292523864593
 }
