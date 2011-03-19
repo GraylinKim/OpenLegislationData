@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S600-2011",
+  "senateBillNo" : "A359-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S600-2011-1294203600000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "referred to ways and means",
+    "billEventId" : "A359-2011-1294203600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,28 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
+    "fullname" : "Magee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Defines the terms \"impaired\" and \"intoxication\" for the purposes of the vehicle and traffic law",
+  "title" : "Authorizes a tax check-off for gifts to food banks",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Vehicle and Traffic Law",
+  "lawSection" : "Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "DIAZ",
+    "fullname" : "Markey",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -43,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the tax law and the state finance law, in relation to authorizing a tax check-off for gifts to food banks ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT", "SOBI.D101222.T153349.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T153349.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293050029062
+  "luceneModified" : 1293050029081
 }

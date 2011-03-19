@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Prohibits payment of bonuses to employees and board members of state authorities",
-  "summary" : null,
+  "summary" : "Prohibits payment of bonuses to employees and board members of state authorities. ",
   "currentCommittee" : null,
   "sameAs" : "S519",
   "lawSection" : "Public Authorities Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "AB7242-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -116,7 +116,7 @@
   "actClause" : "AN ACT to amend the public authorities law, in relation to prohibiting bonuses for employees of public authorities ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101222.T152848.TXT", "SOBI.D101222.T153349.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293049728978
+  "luceneModified" : 1293050029075
 }
