@@ -1,0 +1,59 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1760-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A1760-2011-1294722000000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Morelle",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Eliminates a number of filing fees imposed on businesses by the department of state; repealers",
+  "summary" : "Eliminates a number of filing fees imposed on businesses by the department of state pursuant to the business corporation law, the executive law and the not-for-profit corporation law; eliminates fees related to start up, merger, consolidation or dissolution of a corporation. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Business Corporation Law",
+  "previousVersions" : [ "A1757-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schimminger",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Magee",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to repeal certain provisions of the business corporation law, the executive law and the not-for-profit corporation law, in relation to certain fees collected by the department of state ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T164725.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294782445637
+}

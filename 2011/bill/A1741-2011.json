@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1741-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A1741-2011-1294722000000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Giglio",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes local governments to deliver proposed local laws to members of their legislative bodies by means of e-mail",
+  "summary" : "Authorizes local governments to deliver proposed local laws to members of their legislative bodies by means of e-mail. ",
+  "currentCommittee" : null,
+  "sameAs" : "S800",
+  "lawSection" : "Municipal Home Rule Law",
+  "previousVersions" : [ "A7469-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the municipal home rule law, in relation to authorizing the electronic transmission of proposed local laws to members of a local legislative body ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T164725.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294782445695
+}

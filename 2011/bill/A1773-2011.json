@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1773-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294722000000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A1773-2011-1294722000000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes administrative enforcement of state and local housing maintenance laws",
+  "summary" : "Authorizes localities to establish administrative proceedings for the enforcement of state and local housing maintenance codes; permits administratively imposed penalties to be dockets and enforced in the same manner as a judgement in a civil action without further judicial proceedings. ",
+  "currentCommittee" : null,
+  "sameAs" : "S450",
+  "lawSection" : "Multiple Dwelling Law",
+  "previousVersions" : [ "A5674-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the multiple dwelling law and the multiple residence law, in relation to authorizing administrative imposition of civil penalties in the enforcement of state and local housing maintenance laws ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110111.T164725.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294782445688
+}
