@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3194-2011",
+  "senateBillNo" : "A3196-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to local governments",
-    "billEventId" : "A3194-2011-1295845200000-referred+to+local+governments",
+    "eventText" : "referred to higher education",
+    "billEventId" : "A3196-2011-1295845200000-referred+to+higher+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,44 +18,37 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to permanent total disability benefits received by disabled volunteer firefighters",
+  "title" : "Requires optical stores to be registered with the education department",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Volunteer Firefighters' Benefit Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ortiz",
+    "fullname" : "Clark",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Cymbrowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Schroeder",
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Sweeney",
+    "fullname" : "Mayersohn",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -67,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T130123.TXT", "SOBI.D110124.T130623.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T130623.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892383285
+  "luceneModified" : 1295892383290
 }
