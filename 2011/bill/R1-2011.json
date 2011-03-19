@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "R1-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "ADOPTED",
+    "billEventId" : "R1-2011-1294203600000-ADOPTED",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "LIBOUS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Providing for the election of Dean G. Skelos as Temporary President of the Senate for the years 2011-2012",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Resolutions, Legislative",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : "\nSENATE RESOLUTION providing for the election of Dean G. Skelos as Tempo-\nrary President of the Senate for the years 2011-2012\n\nRESOLVED,  That  Senator  Dean  G.  Skelos  be, and he hereby is elected\nTemporary President of the Senate for the years 2011-2012.\n",
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110105.T122648.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294248408452
+}
