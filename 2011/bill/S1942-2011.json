@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1938-2011",
+  "senateBillNo" : "S1942-2011",
   "billEvents" : [ {
     "eventDate" : 1294981200000,
-    "eventText" : "REFERRED TO HIGHER EDUCATION",
-    "billEventId" : "S1938-2011-1294981200000-REFERRED+TO+HIGHER+EDUCATION",
+    "eventText" : "REFERRED TO AGING",
+    "billEventId" : "S1942-2011-1294981200000-REFERRED+TO+AGING",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,23 +18,30 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes procedures and guidelines for which a test subject may request and obtain information and materials regarding a standardized test",
+  "title" : "Provides that where a senior citizen purchases real property after the taxable status date, such person shall be eligible for the enhanced STAR exemption",
   "summary" : null,
-  "currentCommittee" : "HIGHER EDUCATION",
+  "currentCommittee" : "AGING",
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Real Property Tax Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "JOHNSON",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "ZELDIN",
+    "fullname" : "MAZIARZ",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -46,7 +53,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T112923.TXT", "SOBI.D110114.T113438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T113438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295022878469
+  "luceneModified" : 1295022878481
 }
