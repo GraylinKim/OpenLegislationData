@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A125-2011",
+  "senateBillNo" : "A106-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to housing",
-    "billEventId" : "A125-2011-1294203600000-referred+to+housing",
+    "eventText" : "referred to environmental conservation",
+    "billEventId" : "A106-2011-1294203600000-referred+to+environmental+conservation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,16 +18,23 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Authorizes the use of surplus funds from the greater Catskills flood remediation program by Ulster county",
+  "title" : "Relates to the time for response from a local government to an application for a mining permit",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Budget Bills",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Lopez P",
+    "fullname" : "Ortiz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -36,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend section 3 of part NN of chapter 57 of the laws of 2008 relating to authorizing the New York state mortgage agency to transfer certain moneys, in relation to the use of surplus funds from the greater Catskills flood remediation program ",
+  "actClause" : "AN ACT to amend the environmental conservation law, in relation to mining permits ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T110914.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110914.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515754825
+  "luceneModified" : 1292515754821
 }

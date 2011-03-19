@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S337-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO SOCIAL SERVICES",
+    "billEventId" : "S337-2011-1294203600000-REFERRED+TO+SOCIAL+SERVICES",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MONTGOMERY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides that the social services district from which a recipient moved shall be responsible for his or her alcohol and drug addiction treatment for 180 days",
+  "summary" : null,
+  "currentCommittee" : "SOCIAL SERVICES",
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101216.T110914.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292515754883
+}

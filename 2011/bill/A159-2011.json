@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A112-2011",
+  "senateBillNo" : "A159-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to higher education",
-    "billEventId" : "A112-2011-1294203600000-referred+to+higher+education",
+    "billEventId" : "A159-2011-1294203600000-referred+to+higher+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,12 +13,12 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the public librarian certification fee",
+  "title" : "Creates commissions to interview and recommend trustee candidates to the state university, CUNY and the community colleges",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
@@ -27,28 +27,14 @@
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Perry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Jaffee",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lopez V",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +43,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to public librarian certificate fee ",
+  "actClause" : "AN ACT to amend the education law, in relation to trustees of the state university of New York, city university of New York, and community colleges ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T110914.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110914.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515754874
+  "luceneModified" : 1292515754893
 }

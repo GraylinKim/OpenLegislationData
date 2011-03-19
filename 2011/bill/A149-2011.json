@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A124-2011",
+  "senateBillNo" : "A149-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "referred to local governments",
-    "billEventId" : "A124-2011-1294203600000-referred+to+local+governments",
+    "eventText" : "referred to transportation",
+    "billEventId" : "A149-2011-1294203600000-referred+to+transportation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Cahill",
+    "fullname" : "Sayward",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Includes the county of Ulster within the definition of a designated community",
+  "title" : "Eliminates requirement for consent of an authority having jurisdiction over state land in the Adirondack park when the location of a highway thereon is changed",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "General Municipal Law",
+  "lawSection" : "Highway Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the general municipal law and the tax law, in relation to community preservation funds ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T110914.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110914.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515754827
+  "luceneModified" : 1292515754845
 }

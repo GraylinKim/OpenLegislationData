@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A112-2011",
+  "senateBillNo" : "A162-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
     "eventText" : "referred to higher education",
-    "billEventId" : "A112-2011-1294203600000-referred+to+higher+education",
+    "billEventId" : "A162-2011-1294203600000-referred+to+higher+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,42 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Paulin",
+    "fullname" : "Cahill",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to the public librarian certification fee",
+  "title" : "Authorizes the trustees of the state university of New York to create an academic review board",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Education Law",
+  "lawSection" : "Education",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Ortiz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Galef",
+    "fullname" : "Cymbrowitz",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Jaffee",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Lopez V",
+    "fullname" : "Abbate",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -57,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the education law, in relation to public librarian certificate fee ",
+  "actClause" : "AN ACT to authorize the trustees of the state university of New York to create an academic review board for the review of textbooks sold, purchased or used for academic purposes on all state university of New York campuses ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101216.T105913.TXT", "SOBI.D101216.T110914.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101216.T110914.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292515754874
+  "luceneModified" : 1292515754899
 }
