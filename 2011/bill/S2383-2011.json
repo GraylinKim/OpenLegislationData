@@ -83,6 +83,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LIBOUS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "O'MARA",
     "branch" : null,
     "contactInfo" : null,
@@ -102,7 +109,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to providing a tax credit for the purchase of certain health insurance ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T152324.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110119.T170327.TXT", "SOBI.D110119.T144808.TXT", "SOBI.D110119.T153314.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T114407.TXT", "SOBI.D110119.T152324.TXT", "SOBI.D110119.T151810.TXT", "SOBI.D110119.T170327.TXT", "SOBI.D110119.T144808.TXT", "SOBI.D110119.T153314.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295474607094
+  "luceneModified" : 1295973847015
 }

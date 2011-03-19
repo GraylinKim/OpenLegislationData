@@ -41,6 +41,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "LIBOUS",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "LITTLE",
     "branch" : null,
     "contactInfo" : null,
@@ -81,7 +88,7 @@
   "actClause" : "Concurrent Resolution of the Senate and Assembly proposing an amendment to the constitution, in relation to the right to hunt, trap and fish ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T152324.TXT", "SOBI.D110124.T113115.TXT", "SOBI.D110119.T170327.TXT", "SOBI.D110119.T144808.TXT", "SOBI.D110119.T153314.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T114407.TXT", "SOBI.D110119.T152324.TXT", "SOBI.D110124.T113115.TXT", "SOBI.D110119.T170327.TXT", "SOBI.D110119.T144808.TXT", "SOBI.D110119.T153314.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295886675491
+  "luceneModified" : 1295973847012
 }
