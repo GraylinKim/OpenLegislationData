@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S650-2011",
+  "senateBillNo" : "S651-2011",
   "billEvents" : [ {
     "eventDate" : 1294203600000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S650-2011-1294203600000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO BANKS",
+    "billEventId" : "S651-2011-1294203600000-REFERRED+TO+BANKS",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes procedure for the suspension and revocation of license to carry and possess firearm if carrying while under the influence of alcohol or drugs",
+  "title" : "Prohibits banking organizations from issuing checks for unsolicited loans",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "BANKS",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Banking Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101228.T134829.TXT", "SOBI.D101228.T135329.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101228.T135329.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1293562409726
+  "luceneModified" : 1293562409730
 }
