@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3175-2011",
+  "senateBillNo" : "A3220-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A3175-2011-1295845200000-referred+to+governmental+operations",
+    "eventText" : "referred to codes",
+    "billEventId" : "A3220-2011-1295845200000-referred+to+codes",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Pretlow",
+    "fullname" : "Tedisco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Expands requirements for public notification of public meetings",
+  "title" : "Includes certain residences and private property within the definition of \"school grounds\" for the purposes of a certain controlled substance offense",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Penal Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public officers law, in relation to expanding requirements for public notification of public meetings ",
+  "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT", "SOBI.D110124.T130123.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892684507
+  "luceneModified" : 1295892684527
 }

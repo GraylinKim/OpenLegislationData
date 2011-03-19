@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3155-2011",
+  "senateBillNo" : "A3217-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to environmental conservation",
-    "billEventId" : "A3155-2011-1295845200000-referred+to+environmental+conservation",
+    "eventText" : "referred to health",
+    "billEventId" : "A3217-2011-1295845200000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,49 +13,42 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Crouch",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Creates a cellulosic ethanol task force to prevent and reduce the production and emanation of greenhouse gases",
+  "title" : "Directs commissioner of health and commissioner of mental retardation and developmental disabilities to require pediatric care providers to screen for autism; repealer",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Environmental Conservation",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Tedisco",
+    "fullname" : "Rivera P",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Barclay",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hawley",
+    "fullname" : "Abbate",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Burling",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Butler",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -69,70 +62,112 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Finch",
+    "fullname" : "Lifton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Kolb",
+    "fullname" : "Pheffer",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Lopez P",
+    "fullname" : "Titone",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "McKevitt",
+    "fullname" : "Calhoun",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Miller J",
+    "fullname" : "Raia",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Molinaro",
+    "fullname" : "Tobacco",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Oaks",
+    "fullname" : "McDonough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Reilich",
+    "fullname" : "Arroyo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Sayward",
+    "fullname" : "Benedetto",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Spano",
+    "fullname" : "Peoples-Stokes",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Robinson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gibson",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -141,10 +176,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT creating the cellulosic ethanol task force; and providing for the repeal of such provisions upon the expiration thereof ",
+  "actClause" : "AN ACT to amend the public health law and the mental hygiene law, in relation to directing the commissioner of health and the commissioner of the office for people with developmental disabilities to promulgate rules and regulations requiring every child beginning at the age of eighteen months to be examined for autism spectrum disorders; and to repeal section 2500-j of the public health law relating to screening children for autism spectrum disorders ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T125623.TXT", "SOBI.D110124.T131124.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892684497
+  "luceneModified" : 1295892684482
 }

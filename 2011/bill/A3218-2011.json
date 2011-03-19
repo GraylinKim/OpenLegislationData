@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3218-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295845200000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3218-2011-1295845200000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Sweeney",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Enacts provisions relating to advanced written consent and directives concerning transfer, use, disposition of cryopreserved embryos or gametes",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S388",
+  "lawSection" : "Domestic Relations Law",
+  "previousVersions" : null,
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the domestic relations law, in relation to advanced written consent and directives for the transfer, use, and disposition of gametes or embryos cryopreserved in the course of a program of assisted reproductive technology ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295892684494
+}

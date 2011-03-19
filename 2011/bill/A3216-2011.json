@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3175-2011",
+  "senateBillNo" : "A3216-2011",
   "billEvents" : [ {
     "eventDate" : 1295845200000,
-    "eventText" : "referred to governmental operations",
-    "billEventId" : "A3175-2011-1295845200000-referred+to+governmental+operations",
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3216-2011-1295845200000-referred+to+judiciary",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,26 +13,26 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Pretlow",
+    "fullname" : "Schroeder",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Expands requirements for public notification of public meetings",
+  "title" : "Relates to the salaries of full-time city court judges in certain cities",
   "summary" : null,
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Public Officers Law",
+  "lawSection" : "Judiciary Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public officers law, in relation to expanding requirements for public notification of public meetings ",
+  "actClause" : "AN ACT to amend the judiciary law, in relation to the salary of a full-time city court judge in the cities of Lackawanna, North Tonawanda, and Tonawanda ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT", "SOBI.D110124.T130123.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110124.T131124.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295892684507
+  "luceneModified" : 1295892684444
 }
