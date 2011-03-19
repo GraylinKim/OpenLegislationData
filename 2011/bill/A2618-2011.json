@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2618-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to social services",
+    "billEventId" : "A2618-2011-1295413200000-referred+to+social+services",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Adopts the family violence option in the Social Security Act permitting waiver of federal program requirements or penalty provisions for domestic violence services",
+  "summary" : "Adopts the family violence option (a/k/a the Wellstone/Murray amendment) in the federal Social Security Act permitting waiver of federal program requirements or penalty provisions for domestic violence services in the State of New York to provide full protection from losing public assistance benefits under the new federal welfare reform law; provides for protection for battered immigrants; mandates domestic violence and sexual abuse training programs for employees and contractors who work for the office of children and family services and have contact with applicants and recipients. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Social Services Law",
+  "previousVersions" : [ "AA456-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Weinstein",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the social services law, in relation to adoption of the family violence option of section 402 (a) (7) of the federal social security act by the state of New York ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T150309.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295467389278
+}

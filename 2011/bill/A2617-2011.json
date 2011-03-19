@@ -1,0 +1,52 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A2617-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295413200000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A2617-2011-1295413200000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jacobs",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to the monetary penalties for the crime of aggravated harassment or for discrimination",
+  "summary" : "Increases the monetary penalties for the crimes of aggravated harassment in the first or second degrees or for discrimination; provides that the penalty shall be not less than one thousand dollars nor more than ten thousand dollars for the first violation and not less than twenty-five hundred dollars nor more than twelve thousand five hundred dollars for each subsequent violation. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Civil Rights Law",
+  "previousVersions" : [ "A1886-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Galef",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the civil rights law and the executive law, in relation to increasing the monetary and criminal penalties for aggravated harassment or discrimination ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110119.T150309.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295467389277
+}
