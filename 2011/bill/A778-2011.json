@@ -2,9 +2,9 @@
   "year" : 2011,
   "senateBillNo" : "A778-2011",
   "billEvents" : [ {
-    "eventDate" : 1294117200000,
+    "eventDate" : 1294203600000,
     "eventText" : "referred to education",
-    "billEventId" : "A778-2011-1294117200000-referred+to+education",
+    "billEventId" : "A778-2011-1294203600000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,7 +13,7 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rabbitt",
+    "fullname" : "Rabbitt (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -60,7 +60,7 @@
   "actClause" : "AN ACT to amend the education law, in relation to suspending the pay of any tenured person upon the conviction of a felony for possession of sexual performance by a child ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT", "SOBI.D110104.T122000.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294160097353
+  "luceneModified" : 1294161600627
 }

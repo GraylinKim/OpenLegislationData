@@ -2,9 +2,9 @@
   "year" : 2011,
   "senateBillNo" : "A780-2011",
   "billEvents" : [ {
-    "eventDate" : 1294117200000,
+    "eventDate" : 1294203600000,
     "eventText" : "referred to real property taxation",
-    "billEventId" : "A780-2011-1294117200000-referred+to+real+property+taxation",
+    "billEventId" : "A780-2011-1294203600000-referred+to+real+property+taxation",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,7 +13,7 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rabbitt",
+    "fullname" : "Rabbitt (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -74,7 +74,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to offering seniors the option of either of two preceding income tax years for real property tax exemption eligibility ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT", "SOBI.D110104.T122000.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294160097356
+  "luceneModified" : 1294161600619
 }

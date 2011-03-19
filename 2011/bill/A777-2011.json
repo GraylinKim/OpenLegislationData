@@ -2,9 +2,9 @@
   "year" : 2011,
   "senateBillNo" : "A777-2011",
   "billEvents" : [ {
-    "eventDate" : 1294117200000,
+    "eventDate" : 1294203600000,
     "eventText" : "referred to education",
-    "billEventId" : "A777-2011-1294117200000-referred+to+education",
+    "billEventId" : "A777-2011-1294203600000-referred+to+education",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to authorize approval of certain transportation contracts of the Port Chester-Rye union free school district ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT", "SOBI.D110104.T122000.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294160097352
+  "luceneModified" : 1294161600631
 }

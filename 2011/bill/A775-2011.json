@@ -2,9 +2,9 @@
   "year" : 2011,
   "senateBillNo" : "A775-2011",
   "billEvents" : [ {
-    "eventDate" : 1294117200000,
+    "eventDate" : 1294203600000,
     "eventText" : "referred to ways and means",
-    "billEventId" : "A775-2011-1294117200000-referred+to+ways+and+means",
+    "billEventId" : "A775-2011-1294203600000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,7 +13,7 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Gantt",
+    "fullname" : "Gantt (MS)",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -32,7 +32,7 @@
   "actClause" : "AN ACT to amend the tax law and the state finance law, in relation to gifts to the homeless housing and assistance fund ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110104.T115457.TXT", "SOBI.D110104.T122000.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294160097345
+  "luceneModified" : 1294161600637
 }
