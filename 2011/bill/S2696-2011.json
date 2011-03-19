@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2691-2011",
+  "senateBillNo" : "S2696-2011",
   "billEvents" : [ {
     "eventDate" : 1296190800000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S2691-2011-1296190800000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
+    "billEventId" : "S2696-2011-1296190800000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "GOLDEN",
+    "fullname" : "AVELLA",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Provides that the commissioner of transportation can agree with a private commuter ferry service to provide such service in cities of one million",
+  "title" : "Relates to eligibility for acceptance into the brownfield cleanup program; repealer",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
-  "lawSection" : "Transportation Law",
+  "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110128.T151810.TXT", "SOBI.D110128.T151310.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110128.T151810.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296245890782
+  "luceneModified" : 1296245890797
 }
