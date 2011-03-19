@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3070-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A3070-2011-1295586000000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Provides for a review of rating territory definitions for non-business automobile insurance policies",
+  "summary" : "Establishes as a distinct territory for purposes of rating private passenger nonbusiness automobile insurance policies, a certain city with a population between 19,040 and 25,000 which is geographically contiguous to a city with a population between 292,648 and 350,000; provides that the superintendent may require insurers to adjust existing or establish new territory definitions based on such review. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "A2238-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to providing for a review of certain existing rating territory definitions for non-business automobile insurance policies ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T162539.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295645139422
+}

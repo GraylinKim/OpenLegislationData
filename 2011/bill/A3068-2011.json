@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3068-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3068-2011-1295586000000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires school district representation among the membership of an industrial development agency",
+  "summary" : "Requires school district representation and participation on boards of industrial development agencies. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General Municipal Law",
+  "previousVersions" : [ "A2094-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cook",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general municipal law, in relation to school district representation in industrial development agencies ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T162539.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295645139418
+}

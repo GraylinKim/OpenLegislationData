@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3066-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to governmental operations",
+    "billEventId" : "A3066-2011-1295586000000-referred+to+governmental+operations",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Schroeder",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes police agencies to charge fees for searching, copying, and mailing police agency generated records",
+  "summary" : "Authorizes police agencies to charge fees for searching, copying, and mailing police agency generated records. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Executive Law",
+  "previousVersions" : [ "A6480-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Calhoun",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the executive law, in relation to authorizing police agencies to include administrative costs in fees for copies of police agency records ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T162539.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295645139415
+}

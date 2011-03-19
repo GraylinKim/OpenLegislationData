@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3060-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295586000000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3060-2011-1295586000000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Pretlow",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Extends the expiration date of the personal income tax surcharge imposed in the city of Yonkers",
+  "summary" : "Provides for issuance of annual special hauling permits for trucking companies in certain circumstances on the New York state thruway in the Westchester area. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Tax Law",
+  "previousVersions" : [ "A8953-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public authorities law, in relation to issuance of annual special hauling permits for trucking companies in certain circumstances on the New York state thruway in the Westchester area ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110121.T162539.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295645139405
+}
