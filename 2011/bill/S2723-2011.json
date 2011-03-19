@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2722-2011",
+  "senateBillNo" : "S2723-2011",
   "billEvents" : [ {
     "eventDate" : 1296450000000,
-    "eventText" : "REFERRED TO CIVIL SERVICE AND PENSIONS",
-    "billEventId" : "S2722-2011-1296450000000-REFERRED+TO+CIVIL+SERVICE+AND+PENSIONS",
+    "eventText" : "REFERRED TO HEALTH",
+    "billEventId" : "S2723-2011-1296450000000-REFERRED+TO+HEALTH",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "STEWART-COUSINS",
+    "fullname" : "KLEIN",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a 25 year retirement plan for detention officers employed by the city of Yonkers",
+  "title" : "Requires clinical education in pain management and establishes an advisory committee on pain management education",
   "summary" : null,
-  "currentCommittee" : "CIVIL SERVICE AND PENSIONS",
+  "currentCommittee" : "HEALTH",
   "sameAs" : null,
-  "lawSection" : "Retirement and Social Security Law",
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110131.T093647.TXT", "SOBI.D110131.T094148.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110131.T094148.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296484908475
+  "luceneModified" : 1296484908478
 }
