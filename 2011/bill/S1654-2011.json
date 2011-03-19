@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1653-2011",
+  "senateBillNo" : "S1654-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S1653-2011-1294722000000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S1654-2011-1294722000000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,20 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to alternative project delivery methodologies",
+  "title" : "Establishes the New York state infrastructure development bank; appropriation",
   "summary" : null,
-  "currentCommittee" : "TRANSPORTATION",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "Highway Law",
+  "lawSection" : "Appropriations",
   "previousVersions" : null,
-  "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "DIAZ",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  } ],
+  "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : null,
   "memo" : null,
@@ -39,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T101649.TXT", "SOBI.D110111.T102149.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T102149.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294759309536
+  "luceneModified" : 1294759309539
 }
