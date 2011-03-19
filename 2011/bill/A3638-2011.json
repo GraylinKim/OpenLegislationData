@@ -1,0 +1,66 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3638-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to housing",
+    "billEventId" : "A3638-2011-1296018000000-referred+to+housing",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Gottfried",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Prohibits regulations from permitting an owner to refuse to renew a lease on grounds that the housing is sought for personal use or occupancy; repealer",
+  "summary" : "Prohibits certain regulations of the state division of housing and community renewal, for cities having a population of less than one million and towns and villages, from permitting an owner to refuse to renew a lease on grounds that the housing accommodation is sought for personal use or occupancy (i.e., use or occupancy by the owner or the owner's immediate family); repeals provisions of the administrative code of the city of New York and of the Emergency Housing Rent Control Law which permit evictions for personal use and occupancy. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Emergency Tenant Protection Act of 1974",
+  "previousVersions" : [ "A6018-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Glick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Dinowitz",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Colton",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the emergency tenant protection act of nineteen seventy-four, in relation to protecting the home of a tenant sought by a landlord for personal use; and repealing certain provisions of the administrative code of the city of New York and the emergency housing rent control law relating to evictions for personal use ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T134759.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296067679709
+}

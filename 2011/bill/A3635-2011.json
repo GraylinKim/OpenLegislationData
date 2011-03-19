@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2597-2011",
+  "senateBillNo" : "A3635-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S2597-2011-1296018000000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "referred to housing",
+    "billEventId" : "A3635-2011-1296018000000-referred+to+housing",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,77 +13,77 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to driving while intoxicated",
-  "summary" : "Relates to driving while intoxicated; imposes further penalties upon persons who operate a vehicle while under the influence of alcohol or drugs. ",
-  "currentCommittee" : "TRANSPORTATION",
-  "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "title" : "Relates to payment for police services provided to the New York city housing authority",
+  "summary" : "Provides that the New York city housing authority shall not be required to pay for police services provided to the New York city housing authority by the city of New York. ",
+  "currentCommittee" : null,
+  "sameAs" : "S839",
+  "lawSection" : "Public Housing Law",
+  "previousVersions" : [ "A8659-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "Kavanagh",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Camara",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "Castro",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Colton",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Jeffries",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "NOZZOLIO",
+    "fullname" : "Meng",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "Rosenthal",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +92,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law and the penal law, in relation to driving while intoxicated ",
+  "actClause" : "AN ACT to amend the public housing law, in relation to police services provided to the New York city housing authority ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T120753.TXT", "SOBI.D110126.T130756.TXT", "SOBI.D110126.T121253.TXT", "SOBI.D110126.T130255.TXT", "SOBI.D110126.T134759.TXT", "SOBI.D110126.T124755.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T134759.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296067679691
+  "luceneModified" : 1296067679705
 }

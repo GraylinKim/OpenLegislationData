@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3616-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to local governments",
+    "billEventId" : "A3616-2011-1296018000000-referred+to+local+governments",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Brennan",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires approval of the governing body of a city prior to the approval of payments in lieu of taxes for the repayment of debt",
+  "summary" : "Requires approval of the governing body of a city prior to the approval of payments in lieu of taxes for the repayment of debt. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "General City Law",
+  "previousVersions" : [ "AA1734-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the general city law, in relation to requiring approval of the governing body of a city prior to the approval of payments in lieu of taxes for the repayment of debt ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T134759.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296067679665
+}

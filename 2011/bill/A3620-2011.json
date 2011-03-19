@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3620-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3620-2011-1296018000000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Clark",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires sign on certain vehicles of excessive length",
+  "summary" : "Requires a sign on the rear of every vehicle or combination of vehicles consisting of a tractor and two or more trailers or semi-trailers in letters readable from a distance of five hundred feet a notice indicating that such vehicle combination is of excessive length; excludes vehicles or trailers not exceeding 28.5 feet in length. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Vehicle and Traffic Law",
+  "previousVersions" : [ "A4739-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the vehicle and traffic law, in relation to vehicles or combinations of vehicles exceeding maximum dimension and weight limitations ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T134759.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296067679675
+}

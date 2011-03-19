@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3632-2011",
+  "billEvents" : [ {
+    "eventDate" : 1296018000000,
+    "eventText" : "referred to transportation",
+    "billEventId" : "A3632-2011-1296018000000-referred+to+transportation",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Crouch",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Designates state route 23 as a state arterial highway in the city of Norwich, county of Chenango",
+  "summary" : "Designates state route 23 as a state arterial highway in the city of Norwich, county of Chenango. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Highway Law",
+  "previousVersions" : [ "AA11453-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the highway law, in relation to designating a certain highway in the city of Norwich, county of Chenango, as a state arterial highway ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110126.T134759.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1296067679700
+}

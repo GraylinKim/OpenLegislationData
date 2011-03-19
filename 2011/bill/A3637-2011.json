@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2597-2011",
+  "senateBillNo" : "A3637-2011",
   "billEvents" : [ {
     "eventDate" : 1296018000000,
-    "eventText" : "REFERRED TO TRANSPORTATION",
-    "billEventId" : "S2597-2011-1296018000000-REFERRED+TO+TRANSPORTATION",
+    "eventText" : "referred to health",
+    "billEventId" : "A3637-2011-1296018000000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,77 +13,84 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "FUSCHILLO",
+    "fullname" : "Gottfried",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to driving while intoxicated",
-  "summary" : "Relates to driving while intoxicated; imposes further penalties upon persons who operate a vehicle while under the influence of alcohol or drugs. ",
-  "currentCommittee" : "TRANSPORTATION",
+  "title" : "Relates to medical home multipayor programs",
+  "summary" : "Provides for the establishment of medical home multipayor programs to improve health care outcomes and efficiency through improved access, patient care continuity, and coordination of health services. ",
+  "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Penal Law",
-  "previousVersions" : null,
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A9917-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "BONACIC",
+    "fullname" : "Schimminger",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "DILAN",
+    "fullname" : "Jacobs",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "HUNTLEY",
+    "fullname" : "Galef",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "JOHNSON",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "KLEIN",
+    "fullname" : "Scarborough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "LARKIN",
+    "fullname" : "Hooper",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "NOZZOLIO",
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "SALAND",
+    "fullname" : "Perry",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "STAVISKY",
+    "fullname" : "Castro",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Barron",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -92,10 +99,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the vehicle and traffic law and the penal law, in relation to driving while intoxicated ",
+  "actClause" : "AN ACT to amend the public health law, in relation to medical home multipayor programs; and to amend part OO of chapter 57 of the laws of 2008 amending the public health law relating to medical home demonstration programs, in relation to the effectiveness thereof ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110126.T120753.TXT", "SOBI.D110126.T130756.TXT", "SOBI.D110126.T121253.TXT", "SOBI.D110126.T130255.TXT", "SOBI.D110126.T134759.TXT", "SOBI.D110126.T124755.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T134759.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296067679691
+  "luceneModified" : 1296067679708
 }
