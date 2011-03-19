@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2759-2011",
+  "senateBillNo" : "S2765-2011",
   "billEvents" : [ {
     "eventDate" : 1296536400000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "S2759-2011-1296536400000-REFERRED+TO+FINANCE",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S2765-2011-1296536400000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Establishes a temporary commission to examine and review the degree of segregation in primary and secondary schools",
+  "title" : "Relates to a report on the capacity and staffing of the state prison system",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Commissions",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110201.T134358.TXT", "SOBI.D110201.T133857.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110201.T134358.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296585838615
+  "luceneModified" : 1296585838632
 }
