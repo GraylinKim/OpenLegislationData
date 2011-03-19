@@ -3,8 +3,8 @@
   "senateBillNo" : "J342-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "REFERRED TO FINANCE",
-    "billEventId" : "J342-2011-1295931600000-REFERRED+TO+FINANCE",
+    "eventText" : "ADOPTED",
+    "billEventId" : "J342-2011-1295931600000-ADOPTED",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -20,7 +20,7 @@
   },
   "title" : "Commending Bishop Joseph Mattera upon the occasion of his 30 year Anniversary to be celebrated on January 29, 2011",
   "summary" : null,
-  "currentCommittee" : "FINANCE",
+  "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Resolutions, Legislative",
   "previousVersions" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T153439.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110126.T121253.TXT", "SOBI.D110125.T153439.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987679926
+  "luceneModified" : 1296061973818
 }
