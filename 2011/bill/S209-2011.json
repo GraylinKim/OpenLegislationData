@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Establishes no adverse action shall be taken against an insured who has made inquiries related to his or her insurance policy or had filed certain claims",
-  "summary" : null,
+  "summary" : "Establishes no adverse action shall be taken against an insured based, in whole or in part, on the fact that the insured has made inquiries related to his or her insurance policy or had filed a claim with the insurer for which no payment is made. ",
   "currentCommittee" : "INSURANCE",
   "sameAs" : null,
   "lawSection" : "Insurance Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "S2157-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -53,7 +53,7 @@
   "actClause" : "AN ACT to amend the insurance law, in relation to prohibiting insurers from refusing to renew or condition its renewal of insurance policies in certain cases ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101210.T163708.TXT", "SOBI.D101210.T162207.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101210.T163708.TXT", "SOBI.D101210.T162207.TXT", "SOBI.D101213.T093259.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1292017028723
+  "luceneModified" : 1292250779191
 }
