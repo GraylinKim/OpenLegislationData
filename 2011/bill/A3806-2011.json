@@ -1,24 +1,38 @@
 {
   "year" : 2011,
   "senateBillNo" : "A3806-2011",
-  "billEvents" : null,
+  "billEvents" : [ {
+    "eventDate" : 1296104400000,
+    "eventText" : "referred to health",
+    "billEventId" : "A3806-2011-1296104400000-referred+to+health",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "votes" : null,
-  "sponsor" : null,
-  "title" : null,
-  "summary" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cusick",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Relates to providing pharmacies access to New York's prescription drug monitoring program resources",
+  "summary" : "Relates to providing pharmacies access to New York's prescription drug monitoring program resources. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : null,
+  "lawSection" : "Public Health Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
   "fulltext" : "\n                           S T A T E   O F   N E W   Y O R K\n       ________________________________________________________________________\n\n                                         3806\n\n                              2011-2012 Regular Sessions\n\n                                 I N  A S S E M B L Y\n\n                                   January 27, 2011\n                                      ___________\n\n       Introduced by M. of A. CUSICK -- read once and referred to the Committee\n         on Health\n\n       AN  ACT to amend the public health law, in relation to providing pharma-\n         cies  access  to  New  York's  prescription  drug  monitoring  program\n         resources\n\n         THE  PEOPLE OF THE STATE OF NEW YORK, REPRESENTED IN SENATE AND ASSEM-\n       BLY, DO ENACT AS FOLLOWS:\n\n    1    Section 1. Subdivision 1 of section 3371 of the public health  law  is\n    2  amended by adding a new subdivision (f) to read as follows:\n    3    (F) TO A PHARMACY TO INFORM THE PHARMACY THAT A PERSON WHO PRESENTS OR\n    4  HAS  PRESENTED  A  PRESCRIPTION FOR ONE OR MORE CONTROLLED SUBSTANCES AT\n    5  THE PHARMACY MAY HAVE ALSO OBTAINED ONE OR MORE CONTROLLED SUBSTANCES AT\n    6  ANOTHER PHARMACY WHERE THE CIRCUMSTANCES INDICATE A POSSIBILITY OF  DRUG\n    7  ABUSE  OR  DIVERSION,  POTENTIAL  HARM TO THE PERSON, OR SIMILAR GROUNDS\n    8  UNDER REGULATIONS OF THE COMMISSIONER.\n    9    S 2. This act shall take effect immediately.\n\n\n\n\n\n\n        EXPLANATION--Matter in ITALICS (underscored) is new; matter in brackets\n                             [ ] is old law to be omitted.\n                                                                  LBD08603-01-1\n",
   "memo" : null,
   "law" : null,
-  "actClause" : null,
+  "actClause" : "AN ACT to amend the public health law, in relation to providing pharmacies access to New York's prescription drug monitoring program resources ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110127.T120345.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110127.T120345.TXT", "SOBI.D110127.T145933.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1296147825621
+  "luceneModified" : 1296158373492
 }
