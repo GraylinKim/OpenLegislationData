@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2298-2011",
+  "senateBillNo" : "S2301-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
-    "billEventId" : "S2298-2011-1295326800000-REFERRED+TO+HOUSING%2C+CONSTRUCTION+AND+COMMUNITY+DEVELOPMENT",
+    "eventText" : "REFERRED TO FINANCE",
+    "billEventId" : "S2301-2011-1295326800000-REFERRED+TO+FINANCE",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits fuel pass-along rental adjustment to tenant of New York city rent controlled accommodation",
+  "title" : "Creates a traffic adjudication appeals bureau in executive department for appeals from traffic violations bureau; repealer",
   "summary" : null,
-  "currentCommittee" : "HOUSING, CONSTRUCTION AND COMMUNITY DEVELOPMENT",
+  "currentCommittee" : "FINANCE",
   "sameAs" : null,
-  "lawSection" : "New York City Administrative Code",
+  "lawSection" : "Executive Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T144704.TXT", "SOBI.D110118.T145147.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T145147.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295380307142
+  "luceneModified" : 1295380307187
 }

@@ -19,11 +19,11 @@
     "guid" : null
   },
   "title" : "Provides for a refund of any excess amount of tax paid after reduction of the credit",
-  "summary" : null,
+  "summary" : "Provides for a refund of any excess amount of tax paid after reduction of other credits and the credit for long-term care insurance. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : null,
+  "previousVersions" : [ "A6780-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -39,7 +39,7 @@
   "actClause" : "AN ACT to amend the tax law, in relation to providing a refund for excess tax paid after long-term insurance credit is applied ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T140141.TXT", "SOBI.D110118.T141642.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T140141.TXT", "SOBI.D110118.T141642.TXT", "SOBI.D110118.T145147.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295378202924
+  "luceneModified" : 1295380307166
 }
