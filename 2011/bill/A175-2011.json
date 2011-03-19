@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A175-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "referred to corporations, authorities and commissions",
+    "billEventId" : "A175-2011-1294203600000-referred+to+corporations%2C+authorities+and+commissions",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Cahill",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Directs telecommunication and cable corporations to provide call center service assistance from centers located within the state",
+  "summary" : null,
+  "currentCommittee" : null,
+  "sameAs" : "S75",
+  "lawSection" : "Public Service Law",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the public service law and the general business law, in relation to telecommunications and cable call centers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101216.T123921.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292521161213
+}
