@@ -16,7 +16,20 @@
     "luceneActive" : true,
     "luceneModified" : 0
   } ],
-  "votes" : null,
+  "votes" : [ {
+    "id" : "1295886600000S1942-2011--1--1",
+    "voteType" : 2,
+    "voteDate" : 1295886600000,
+    "ayes" : [ "Golden", "Ball", "Farley", "Grisanti", "LaValle", "Robach", "Zeldin", "Diaz", "Addabbo", "Avella", "Kruger", "Stavisky" ],
+    "nays" : null,
+    "abstains" : null,
+    "excused" : null,
+    "ayeswr" : null,
+    "description" : "Aging",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
   "sponsor" : {
     "id" : null,
     "position" : null,
@@ -67,7 +80,7 @@
   "actClause" : "AN ACT to amend the real property tax law, in relation to eligibility for the enhanced school tax relief exemption for senior citizens for properties purchased after the levy of taxes ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110114.T114925.TXT", "SOBI.D110118.T151149.TXT", "SOBI.D110124.T142130.TXT", "SOBI.D110114.T142447.TXT", "SOBI.D110120.T180923.TXT", "SOBI.D110114.T113438.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110114.T115945.TXT", "SOBI.D110125.T095410.TXT-agenda-1.xml", "SOBI.D110114.T114925.TXT", "SOBI.D110118.T151149.TXT", "SOBI.D110114.T142447.TXT", "SOBI.D110124.T142130.TXT", "SOBI.D110120.T180923.TXT", "SOBI.D110114.T113438.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295896890479
+  "luceneModified" : 1295967250743
 }
