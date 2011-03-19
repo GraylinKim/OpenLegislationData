@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S1669-2011",
+  "senateBillNo" : "S1672-2011",
   "billEvents" : [ {
     "eventDate" : 1294722000000,
-    "eventText" : "REFERRED TO CHILDREN AND FAMILIES",
-    "billEventId" : "S1669-2011-1294722000000-REFERRED+TO+CHILDREN+AND+FAMILIES",
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S1672-2011-1294722000000-REFERRED+TO+LOCAL+GOVERNMENT",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,16 +13,16 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "SAMPSON",
+    "fullname" : "LAVALLE",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Relates to individuals who refuse to participate in an investigation being conducted by child protective services",
+  "title" : "Relates to absentee ballots for fire district elections",
   "summary" : null,
-  "currentCommittee" : "CHILDREN AND FAMILIES",
+  "currentCommittee" : "LOCAL GOVERNMENT",
   "sameAs" : null,
-  "lawSection" : "Social Services Law",
+  "lawSection" : "Town Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110111.T105652.TXT", "SOBI.D110111.T105151.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110111.T105652.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294761412440
+  "luceneModified" : 1294761412459
 }
