@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "S365-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294203600000,
+    "eventText" : "REFERRED TO LOCAL GOVERNMENT",
+    "billEventId" : "S365-2011-1294203600000-REFERRED+TO+LOCAL+GOVERNMENT",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "MONTGOMERY",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the commissioner of general services to sell and convey certain land in the county of Kings, borough of Brooklyn, city of New York",
+  "summary" : null,
+  "currentCommittee" : "LOCAL GOVERNMENT",
+  "sameAs" : null,
+  "lawSection" : "Kings County",
+  "previousVersions" : null,
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : null,
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D101216.T144932.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1292528972191
+}
