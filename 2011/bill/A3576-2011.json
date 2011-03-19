@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3564-2011",
+  "senateBillNo" : "A3576-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
     "eventText" : "referred to health",
-    "billEventId" : "A3564-2011-1295931600000-referred+to+health",
+    "billEventId" : "A3576-2011-1295931600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Molinaro",
+    "fullname" : "Robinson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Mandates the installation of warning labels on ultraviolet radiation devices",
-  "summary" : "Mandates the installation of warning labels on ultraviolet radiation devices; provides that such warning shall include the risk of irreversible damage to the user's eyes and skin, including skin cancer. ",
+  "title" : "Requires residential health care facilities to allow patients and prospective patients to examine financial audits",
+  "summary" : "Requires residential health care facilities to allow patients and prospective patients to examine financial audits; provides for notice to patients when a temporary operator has been appointed. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Public Health Law",
-  "previousVersions" : [ "A5492-2009" ],
+  "previousVersions" : [ "A11126-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Weisenberg",
+    "fullname" : "Boyland",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera N",
+    "fullname" : "Reilly",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Montesano",
+    "fullname" : "Maisel",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -50,10 +50,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the public health law, in relation to warning labels on ultraviolet radiation devices ",
+  "actClause" : "AN ACT to amend the public health law and the social services law, in relation to requiring residential health care facilities and adult homes to advise current and prospective residents of the financial condition of the facility ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T152940.TXT", "SOBI.D110125.T153439.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T153439.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987679888
+  "luceneModified" : 1295987679911
 }

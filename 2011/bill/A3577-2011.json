@@ -1,0 +1,45 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A3577-2011",
+  "billEvents" : [ {
+    "eventDate" : 1295931600000,
+    "eventText" : "referred to judiciary",
+    "billEventId" : "A3577-2011-1295931600000-referred+to+judiciary",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Spano",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Authorizes the city of Yonkers to have 7 city court judges",
+  "summary" : "Authorizes the city of Yonkers to have 7 city court judges. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Uniform City Court Act",
+  "previousVersions" : [ "A8837-2009" ],
+  "coSponsors" : [ {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Abinanti",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  } ],
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the uniform city court act, in relation to providing for the election of an additional full-time city court judge in the city of Yonkers ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110125.T153439.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1295987679914
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3531-2011",
+  "senateBillNo" : "A3578-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A3531-2011-1295931600000-referred+to+insurance",
+    "eventText" : "referred to labor",
+    "billEventId" : "A3578-2011-1295931600000-referred+to+labor",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,21 +13,35 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera P",
+    "fullname" : "Spano",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits imposing homeowners insurance rates based on prior claims by an insured related to a different parcel of real property",
-  "summary" : "Prohibits imposing homeowners insurance rates based on prior claims by an insured related to a different parcel of real property. ",
+  "title" : "Requires proper occupational safety equipment and a safe working environment for employees, subcontractors and employees of subcontractors",
+  "summary" : "Requires proper occupational safety equipment and a safe working environment for employees, subcontractors and employees of subcontractors. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
-  "previousVersions" : [ "A7649-2009" ],
+  "lawSection" : "Public Service Law",
+  "previousVersions" : [ "A5327-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ramos",
+    "fullname" : "Destito",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Millman",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Jaffee",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -41,28 +55,14 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Lancman",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Robinson",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Zebrowski",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Stevenson",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to prohibiting the imposition of residential homeowners insurance premiums based on prior claims made upon another parcel of real property ",
+  "actClause" : "AN ACT to amend the public service law, in relation to requiring proper occupational safety equipment and a safe working environment for employees, subcontractors and employees of subcontractors ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T151934.TXT", "SOBI.D110125.T153439.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T153439.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987679918
+  "luceneModified" : 1295987679916
 }

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3531-2011",
+  "senateBillNo" : "A3573-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A3531-2011-1295931600000-referred+to+insurance",
+    "eventText" : "referred to health",
+    "billEventId" : "A3573-2011-1295931600000-referred+to+health",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,12 +18,12 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits imposing homeowners insurance rates based on prior claims by an insured related to a different parcel of real property",
-  "summary" : "Prohibits imposing homeowners insurance rates based on prior claims by an insured related to a different parcel of real property. ",
+  "title" : "Eliminates prior authorization under the preferred drug program for medications indicated by the Food and Drug Administration for the treatment of asthma",
+  "summary" : "Provides that there shall be no prior authorization required under the preferred drug program for all medications indicated by the federal Food and Drug Administration for the treatment of asthma. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
-  "previousVersions" : [ "A7649-2009" ],
+  "lawSection" : "Public Health Law",
+  "previousVersions" : [ "A7645-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -34,35 +34,28 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Maisel",
+    "fullname" : "Lopez V",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Rivera N",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Robinson",
+    "fullname" : "Arroyo",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Rivera J",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +64,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to prohibiting the imposition of residential homeowners insurance premiums based on prior claims made upon another parcel of real property ",
+  "actClause" : "AN ACT to amend the public health law, in relation to providing that no prior authorization shall be required under the preferred drug program for all medications indicated by the Food and Drug Administration for the treatment of asthma ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T151934.TXT", "SOBI.D110125.T153439.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T153439.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987679918
+  "luceneModified" : 1295987679907
 }

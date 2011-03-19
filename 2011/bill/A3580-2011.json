@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A3531-2011",
+  "senateBillNo" : "A3580-2011",
   "billEvents" : [ {
     "eventDate" : 1295931600000,
-    "eventText" : "referred to insurance",
-    "billEventId" : "A3531-2011-1295931600000-referred+to+insurance",
+    "eventText" : "referred to housing",
+    "billEventId" : "A3580-2011-1295931600000-referred+to+housing",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,35 +13,28 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "Rivera P",
+    "fullname" : "Titus",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Prohibits imposing homeowners insurance rates based on prior claims by an insured related to a different parcel of real property",
-  "summary" : "Prohibits imposing homeowners insurance rates based on prior claims by an insured related to a different parcel of real property. ",
+  "title" : "Requires certain public housing authorities to establish an innocent tenant protection act applicable to tenants of public and federally assisted housing",
+  "summary" : "Establishes an innocent tenant protection act applicable to tenants of public and federally assisted housing; prevents honest, hardworking family members from being evicted when other family members are involved in illegal acts. ",
   "currentCommittee" : null,
   "sameAs" : null,
-  "lawSection" : "Insurance Law",
-  "previousVersions" : [ "A7649-2009" ],
+  "lawSection" : "Real Property Actions and Proceedings Law",
+  "previousVersions" : [ "A5539-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
-    "fullname" : "Ramos",
+    "fullname" : "Scarborough",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Maisel",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "Colton",
+    "fullname" : "Cook",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -55,14 +48,21 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Zebrowski",
+    "fullname" : "Jeffries",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "Hooper",
+    "fullname" : "Boyland",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Wright",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -71,10 +71,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the insurance law, in relation to prohibiting the imposition of residential homeowners insurance premiums based on prior claims made upon another parcel of real property ",
+  "actClause" : "AN ACT to amend the real property actions and proceedings law, in relation to requiring that certain public housing authorities establish an innocent tenant protection act applicable to tenants of public and federally assisted housing ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110125.T151934.TXT", "SOBI.D110125.T153439.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110125.T153439.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987679918
+  "luceneModified" : 1295987679922
 }
