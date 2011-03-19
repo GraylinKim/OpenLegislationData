@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2043-2011",
+  "senateBillNo" : "S2050-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
     "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2043-2011-1295326800000-REFERRED+TO+CODES",
+    "billEventId" : "S2050-2011-1295326800000-REFERRED+TO+CODES",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,7 +18,7 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the degree of the crime of fraudulent accosting",
+  "title" : "Criminalizes public distribution of offensive sexual material",
   "summary" : null,
   "currentCommittee" : "CODES",
   "sameAs" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT", "SOBI.D110118.T093106.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T093106.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295361066871
+  "luceneModified" : 1295361066891
 }

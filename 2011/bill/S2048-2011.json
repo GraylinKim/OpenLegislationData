@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2043-2011",
+  "senateBillNo" : "S2048-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2043-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+    "billEventId" : "S2048-2011-1295326800000-REFERRED+TO+CRIME+VICTIMS%2C+CRIME+AND+CORRECTION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the degree of the crime of fraudulent accosting",
+  "title" : "Makes inmates convicted of bail jumping ineligible for participation in temporary work release programs",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "CRIME VICTIMS, CRIME AND CORRECTION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Correction Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT", "SOBI.D110118.T093106.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T093106.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295361066871
+  "luceneModified" : 1295361066887
 }

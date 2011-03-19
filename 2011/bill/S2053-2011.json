@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2043-2011",
+  "senateBillNo" : "S2053-2011",
   "billEvents" : [ {
     "eventDate" : 1295326800000,
-    "eventText" : "REFERRED TO CODES",
-    "billEventId" : "S2043-2011-1295326800000-REFERRED+TO+CODES",
+    "eventText" : "REFERRED TO HIGHER EDUCATION",
+    "billEventId" : "S2053-2011-1295326800000-REFERRED+TO+HIGHER+EDUCATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,11 +18,11 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Increases the degree of the crime of fraudulent accosting",
+  "title" : "Requires colleges to provide students and employees information on security policies and incidents of crime and negligence on campus",
   "summary" : null,
-  "currentCommittee" : "CODES",
+  "currentCommittee" : "HIGHER EDUCATION",
   "sameAs" : null,
-  "lawSection" : "Penal Law",
+  "lawSection" : "Education Law",
   "previousVersions" : null,
   "coSponsors" : null,
   "pastCommittees" : null,
@@ -32,7 +32,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110118.T092606.TXT", "SOBI.D110118.T093106.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110118.T093106.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295361066871
+  "luceneModified" : 1295361066896
 }
