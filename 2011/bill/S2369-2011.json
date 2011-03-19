@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "S2367-2011",
+  "senateBillNo" : "S2369-2011",
   "billEvents" : [ {
     "eventDate" : 1295413200000,
     "eventText" : "REFERRED TO ENVIRONMENTAL CONSERVATION",
-    "billEventId" : "S2367-2011-1295413200000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
+    "billEventId" : "S2369-2011-1295413200000-REFERRED+TO+ENVIRONMENTAL+CONSERVATION",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -18,34 +18,13 @@
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Directs department of environmental conservation to establish a program to permit purchase of fishing licenses through the internet",
+  "title" : "Relates to the use of ultra low sulfur diesel fuel and the best available technology by the state",
   "summary" : null,
   "currentCommittee" : "ENVIRONMENTAL CONSERVATION",
   "sameAs" : null,
   "lawSection" : "Environmental Conservation Law",
   "previousVersions" : null,
   "coSponsors" : [ {
-    "id" : null,
-    "position" : null,
-    "fullname" : "BONACIC",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "DEFRANCISCO",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
-    "id" : null,
-    "position" : null,
-    "fullname" : "HANNON",
-    "branch" : null,
-    "contactInfo" : null,
-    "guid" : null
-  }, {
     "id" : null,
     "position" : null,
     "fullname" : "LARKIN",
@@ -55,7 +34,7 @@
   }, {
     "id" : null,
     "position" : null,
-    "fullname" : "O'MARA",
+    "fullname" : "MAZIARZ",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
@@ -81,7 +60,7 @@
   "actClause" : null,
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T142840.TXT", "SOBI.D110119.T143307.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110119.T143307.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295465587346
+  "luceneModified" : 1295465587356
 }
