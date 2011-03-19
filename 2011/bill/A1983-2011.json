@@ -1,0 +1,38 @@
+{
+  "year" : 2011,
+  "senateBillNo" : "A1983-2011",
+  "billEvents" : [ {
+    "eventDate" : 1294808400000,
+    "eventText" : "referred to insurance",
+    "billEventId" : "A1983-2011-1294808400000-referred+to+insurance",
+    "sobiReferenceList" : [ ],
+    "luceneActive" : true,
+    "luceneModified" : 0
+  } ],
+  "votes" : null,
+  "sponsor" : {
+    "id" : null,
+    "position" : null,
+    "fullname" : "Rosenthal",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  },
+  "title" : "Requires all insurance policies to provide a certain amount of coverage for hearing aids",
+  "summary" : "Requires all health insurance policies to provide insurance coverage for the cost of hearing aids; provides that such coverage shall include coverage of at least $3,000 over a four year period; provides that children under the age of sixteen are allowed reimbursement for additional expenses if needed. ",
+  "currentCommittee" : null,
+  "sameAs" : null,
+  "lawSection" : "Insurance Law",
+  "previousVersions" : [ "AA8242-2009" ],
+  "coSponsors" : null,
+  "pastCommittees" : null,
+  "fulltext" : null,
+  "memo" : null,
+  "law" : null,
+  "actClause" : "AN ACT to amend the insurance law, in relation to providing coverage for hearing aids ",
+  "sortIndex" : -1,
+  "latestAmendment" : null,
+  "sobiReferenceList" : [ "SOBI.D110112.T160022.TXT" ],
+  "luceneActive" : true,
+  "luceneModified" : 1294866022774
+}

@@ -1,10 +1,10 @@
 {
   "year" : 2011,
-  "senateBillNo" : "A1975-2011",
+  "senateBillNo" : "A1980-2011",
   "billEvents" : [ {
     "eventDate" : 1294808400000,
     "eventText" : "referred to ways and means",
-    "billEventId" : "A1975-2011-1294808400000-referred+to+ways+and+means",
+    "billEventId" : "A1980-2011-1294808400000-referred+to+ways+and+means",
     "sobiReferenceList" : [ ],
     "luceneActive" : true,
     "luceneModified" : 0
@@ -13,17 +13,17 @@
   "sponsor" : {
     "id" : null,
     "position" : null,
-    "fullname" : "McEneny",
+    "fullname" : "Morelle",
     "branch" : null,
     "contactInfo" : null,
     "guid" : null
   },
-  "title" : "Exempts bicycle, motorcycle, snowmobile and equestrian helmets from sales and use tax",
-  "summary" : "Exempts bicycle, motorcycle, snowmobile and equestrian helmets from sales and use tax. ",
+  "title" : "Relates to the employment credit for qualified emerging technology companies",
+  "summary" : "Relates to the employment credit for qualified emerging technology companies. ",
   "currentCommittee" : null,
   "sameAs" : null,
   "lawSection" : "Tax Law",
-  "previousVersions" : [ "A2178-2009" ],
+  "previousVersions" : [ "AA1889-2009" ],
   "coSponsors" : [ {
     "id" : null,
     "position" : null,
@@ -36,10 +36,10 @@
   "fulltext" : null,
   "memo" : null,
   "law" : null,
-  "actClause" : "AN ACT to amend the tax law, in relation to exemptions from sales and use taxes ",
+  "actClause" : "AN ACT to amend the tax law, in relation to the employment credit for qualified emerging technology companies ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110112.T160022.TXT", "SOBI.D110112.T155522.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D110112.T160022.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1294866022743
+  "luceneModified" : 1294866022769
 }
