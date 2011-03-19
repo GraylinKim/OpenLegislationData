@@ -62,6 +62,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "O'MARA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -81,7 +88,7 @@
   "actClause" : "AN ACT to amend the criminal procedure law, in relation to authorizing the use of closed-circuit television for vulnerable domestic violence victim witnesses ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D101230.T142740.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D110125.T111405.TXT", "SOBI.D101230.T122228.TXT", "SOBI.D110105.T104107.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T142740.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D110126.T131256.TXT", "SOBI.D110125.T111405.TXT", "SOBI.D110105.T104107.TXT", "SOBI.D101230.T122228.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295972045996
+  "luceneModified" : 1296065576685
 }

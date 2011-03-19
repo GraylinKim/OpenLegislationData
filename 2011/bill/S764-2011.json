@@ -96,6 +96,13 @@
   }, {
     "id" : null,
     "position" : null,
+    "fullname" : "O'MARA",
+    "branch" : null,
+    "contactInfo" : null,
+    "guid" : null
+  }, {
+    "id" : null,
+    "position" : null,
     "fullname" : "RANZENHOFER",
     "branch" : null,
     "contactInfo" : null,
@@ -115,7 +122,7 @@
   "actClause" : "AN ACT to amend the highway law, in relation to permitting two or more towns to jointly purchase highway equipment ",
   "sortIndex" : -1,
   "latestAmendment" : null,
-  "sobiReferenceList" : [ "SOBI.D110119.T121752.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D101230.T131731.TXT", "SOBI.D101230.T145243.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml-agenda-1.xml", "SOBI.D110125.T152439.TXT", "SOBI.D110124.T151135.TXT", "SOBI.D110105.T103608.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D101230.T123228.TXT" ],
+  "sobiReferenceList" : [ "SOBI.D101230.T131731.TXT", "SOBI.D110103.T110922.TXT", "SOBI.D110119.T121752.TXT", "SOBI.D101230.T145243.TXT", "SOBI.D110126.T131256.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml-agenda-1.xml", "SOBI.D110125.T152439.TXT", "SOBI.D110124.T151135.TXT", "SOBI.D110105.T103608.TXT", "SOBI.D110119.T152814.TXT-agenda-1.xml", "SOBI.D101230.T123228.TXT" ],
   "luceneActive" : true,
-  "luceneModified" : 1295987079281
+  "luceneModified" : 1296065576692
 }
